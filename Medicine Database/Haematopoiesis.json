@@ -1,0 +1,94 @@
+{"_id":{"$oid":"5b584985d51d2960ea1cd9c3"},"name":"ALPHARED 2000IU Injection 1ml","composition":"Epoetin Alfa 2000IU","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.809.52"}
+{"_id":{"$oid":"5b584988d51d2960ea1cd9c4"},"name":"ALPHARED 4000IU Injection 0.4ml","composition":"Epoetin Alfa ","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.1,500.00"}
+{"_id":{"$oid":"5b584989d51d2960ea1cd9c5"},"name":"ANFOE 6000iu Injection 0.6ml","composition":"ERYTHROPOIETIN 6000IU","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.2,000.00"}
+{"_id":{"$oid":"5b58498bd51d2960ea1cd9c6"},"name":"ANFOE 2000 IU Injection 1ml","composition":"Erythropoietin 2000IU","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.590.00"}
+{"_id":{"$oid":"5b58498dd51d2960ea1cd9c7"},"name":"BIONESP 40mg Injection 1's","composition":"Darbepoetin Alfa 40mg","manufacturer":"Biocon Ltd","price":"Rs.1,919.60"}
+{"_id":{"$oid":"5b58498fd51d2960ea1cd9c8"},"name":"BIONESP 25mcg Injection(Pfs) 1's","composition":"Darbepoetin Alfa 25mcg","manufacturer":"Biocon Ltd","price":"Rs.1,427.20"}
+{"_id":{"$oid":"5b584990d51d2960ea1cd9c9"},"name":"COLSTIM PENFILL 300mcg Injection 1's","composition":"FILGRASTIM 300MCG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.1,099.25"}
+{"_id":{"$oid":"5b584992d51d2960ea1cd9ca"},"name":"CRESP 40mcg Injection(Pfs) 0.4ml","composition":"DARBEPOETIN ALFA 40MCG","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.2,276.50"}
+{"_id":{"$oid":"5b584993d51d2960ea1cd9cb"},"name":"CRESP 25mcg Injection 1ml","composition":"Darbepoetin Alfa 25mcg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,599.00"}
+{"_id":{"$oid":"5b584996d51d2960ea1cd9cc"},"name":"CRESP 25mcg Injection(PFS) 0.42ml","composition":"DARBEPOETIN ALFA 25MCG","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,599.00"}
+{"_id":{"$oid":"5b584998d51d2960ea1cd9cd"},"name":"DARBA 40mcg Injection(Pfs) 0.40ml","composition":"DARBEPOETIN 40MCG","manufacturer":" NA ","price":"Rs.2,200.00"}
+{"_id":{"$oid":"5b584999d51d2960ea1cd9ce"},"name":"DARBA 25mcg Injection(Pfs) 0.42ml","composition":"DARBEPOETIN 25MCG","manufacturer":" NA ","price":"Rs.1,550.00"}
+{"_id":{"$oid":"5b58499bd51d2960ea1cd9cf"},"name":"DARBATITOR 40mcg Injection(Pfs) 1","composition":"Darbepoetin 40mcg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.2,270.00"}
+{"_id":{"$oid":"5b58499dd51d2960ea1cd9d0"},"name":"DARBATITOR 60mcg Injection(Pfs) ","composition":"Darbepoetin 60mcg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.3,945.00"}
+{"_id":{"$oid":"5b58499fd51d2960ea1cd9d1"},"name":"DARBATITOR 25mcg Injection(Pfs) 1","composition":"Darbepoetin 25mcg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.1,585.00"}
+{"_id":{"$oid":"5b5849a1d51d2960ea1cd9d2"},"name":"DARBECURE 40mcg Injection(Pfs)","composition":"Darbepoetin 40mcg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.2,168.00"}
+{"_id":{"$oid":"5b5849a3d51d2960ea1cd9d3"},"name":"DARBELIFE 25mcg Injectionpfs 1's","composition":"Darbepoetin Alfa 25mcg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.1,433.00"}
+{"_id":{"$oid":"5b5849a4d51d2960ea1cd9d4"},"name":"DARBELIFE 40mcg Injectionpfs 1's","composition":"Darbepoetin Alfa 40mcg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.2,150.00"}
+{"_id":{"$oid":"5b5849a6d51d2960ea1cd9d5"},"name":"DARBEX 25mcg Injection","composition":"Darbepoetin Alfa 25mcg","manufacturer":"UTH HEALTHCARE LTD","price":"Rs.1,600.00"}
+{"_id":{"$oid":"5b5849a9d51d2960ea1cd9d6"},"name":"DARBEX 40mcg Injection","composition":"Darbepoetin Alfa 40mcg","manufacturer":"UTH HEALTHCARE LTD","price":"Rs.2,600.00"}
+{"_id":{"$oid":"5b5849abd51d2960ea1cd9d7"},"name":"DARBOSIS 25mcg Injection 1's","composition":"Darbepoetin Alfa 25mcg","manufacturer":"Micro Labs Ltd","price":"Rs.193.20"}
+{"_id":{"$oid":"5b5849add51d2960ea1cd9d8"},"name":"DARBOTIN 40mcg Injectionpfs 1's","composition":"Darbepoetin 40mcg","manufacturer":"Wockhardt Ltd","price":"Rs.2,450.00"}
+{"_id":{"$oid":"5b5849aed51d2960ea1cd9d9"},"name":"DARGEN 40mcg Injection(PFS) 0.4ml","composition":"Darbepoetin Alfa 40mcg","manufacturer":"Lupin Ltd","price":"Rs.2,280.00"}
+{"_id":{"$oid":"5b5849b0d51d2960ea1cd9da"},"name":"DARGEN 25mcg Injection(PFS) 0.42ml","composition":"Darbepoetin Alfa 25mcg","manufacturer":"Lupin Ltd","price":"Rs.1,523.00"}
+{"_id":{"$oid":"5b5849b2d51d2960ea1cd9db"},"name":"ELTOCIN 250MG TABLET 10'S","composition":"ERYTHROMYCIN 250MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.49.50"}
+{"_id":{"$oid":"5b5849b5d51d2960ea1cd9dc"},"name":"ELTOCIN DS Tablet 10's","composition":"ERYTHROMYCIN 500MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.96.40"}
+{"_id":{"$oid":"5b5849b6d51d2960ea1cd9dd"},"name":"EMGRAST M 500mcg Injection ","composition":"Sargramostim 500mcg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.3,077.00"}
+{"_id":{"$oid":"5b5849b8d51d2960ea1cd9de"},"name":"ENCOURAGE 2000IU Injection 1ml","composition":"Epoetin Alfa 2000IU","manufacturer":"Rpg Life Science Ltd","price":"Rs.148.80"}
+{"_id":{"$oid":"5b5849bad51d2960ea1cd9df"},"name":"ENCOURAGE 4000IU Injection 1ml","composition":"Epoetin Alfa 4000IU","manufacturer":"Rpg Life Science Ltd","price":"Rs.625.00"}
+{"_id":{"$oid":"5b5849bcd51d2960ea1cd9e0"},"name":"EPOCEPT 4000IU Injection","composition":"Erythropoietin 4000IU","manufacturer":"Lupin Ltd","price":"Rs.1,689.50"}
+{"_id":{"$oid":"5b5849bed51d2960ea1cd9e1"},"name":"EPOCEPT 10000IU Injection","composition":"Erythropoietin 10000IU","manufacturer":"Lupin Ltd","price":"Rs.2,467.00"}
+{"_id":{"$oid":"5b5849c0d51d2960ea1cd9e2"},"name":"EPOFIT 3000IU Injection(PFS) 0.3ml","composition":"Erythropoietin 3000IU","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.1,099.00"}
+{"_id":{"$oid":"5b5849c2d51d2960ea1cd9e3"},"name":"EPOFIT 6000IU Injection(PFS) 0.6ml","composition":"Erythropoietin 6000IU","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.2,099.00"}
+{"_id":{"$oid":"5b5849c4d51d2960ea1cd9e4"},"name":"EPOFIT 4000IU Injection(PFS) 1ml","composition":"Erythropoietin 4000IU","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.1,480.00"}
+{"_id":{"$oid":"5b5849c6d51d2960ea1cd9e5"},"name":"EPOFIT 2000iu Injection(Pfs) 1ml","composition":"ERYTHROPOIETIN","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.590.61"}
+{"_id":{"$oid":"5b5849cad51d2960ea1cd9e6"},"name":"EPORISE 2000IU Injection","composition":"Erythropoietin 2000IU","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.845.00"}
+{"_id":{"$oid":"5b5849ccd51d2960ea1cd9e7"},"name":"EPORISE 40000IU Injection","composition":"Erythropoetin 40000IU","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.9,000.00"}
+{"_id":{"$oid":"5b5849cdd51d2960ea1cd9e8"},"name":"EPORISE 4000IU Injection","composition":"Erythropoietin 4000IU","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.1,543.00"}
+{"_id":{"$oid":"5b5849cfd51d2960ea1cd9e9"},"name":"EPOSIS 4000IU Injectionpfs 1's","composition":"Recombinant Human Erythropoietin Alfa 4000IU","manufacturer":"Micro Labs Ltd","price":"Rs.933.00"}
+{"_id":{"$oid":"5b5849d1d51d2960ea1cd9ea"},"name":"EPOTRUST 6000IU Injection 1ml","composition":"Erythropoietin 6000IU","manufacturer":"Panacea Biotec Ltd","price":"Rs.2,125.00"}
+{"_id":{"$oid":"5b5849d3d51d2960ea1cd9eb"},"name":"EPREX 3000IU Injection(PFS) 0.3ml","composition":"Erythropoietin 3000IU","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.1,390.00"}
+{"_id":{"$oid":"5b5849d4d51d2960ea1cd9ec"},"name":"EPREX 2000iu Injection(Pfs) 0.5ml","composition":"ERYTHROPOIETIN 2000IU","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.590.00"}
+{"_id":{"$oid":"5b5849d6d51d2960ea1cd9ed"},"name":"EPREX 4000IU Injection(PFS) 0.4ml","composition":"Erythropoietin 4000IU","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.1,820.00"}
+{"_id":{"$oid":"5b5849d8d51d2960ea1cd9ee"},"name":"EPREX 6000IU Injection(PFS) 0.6ml","composition":"Erythropoietin 6000IU","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.2,325.00"}
+{"_id":{"$oid":"5b5849dad51d2960ea1cd9ef"},"name":"ERYPEG 50mcg Injection(Pfs) 0.3ml","composition":"Recombinant Human Erythropioetin Alfa 50mcg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.4,080.00"}
+{"_id":{"$oid":"5b5849dcd51d2960ea1cd9f0"},"name":"ERYPRO SAFE 2000IU Injection(PFS) 1ml","composition":"Erythropoietin 2000IU","manufacturer":"Biocon Ltd","price":"Rs.985.60"}
+{"_id":{"$oid":"5b5849ded51d2960ea1cd9f1"},"name":"ERYPRO 10000IU Injection 1ml","composition":"Erythropoietin 10000IU","manufacturer":"Biocon Ltd","price":"Rs.2,832.70"}
+{"_id":{"$oid":"5b5849e0d51d2960ea1cd9f2"},"name":"ERYPRO 4000IU Injection 1ml","composition":"Erythropoietin 4000IU","manufacturer":"Biocon Ltd","price":"Rs.1,484.70"}
+{"_id":{"$oid":"5b5849e2d51d2960ea1cd9f3"},"name":"ERYPRO PREFIL 4000IU Injection(PFS) 1ml","composition":"Erythropoietin 4000IU","manufacturer":"Biocon Ltd","price":"Rs.700.00"}
+{"_id":{"$oid":"5b5849e4d51d2960ea1cd9f4"},"name":"ERYPRO 2000IU Injection 1ml","composition":"Erythropoietin 2000IU","manufacturer":"Biocon Ltd","price":"Rs.562.50"}
+{"_id":{"$oid":"5b5849e6d51d2960ea1cd9f5"},"name":"ERYPRO PREFIL 2000IU Injection(PFS) 1ml","composition":"Erythropoietin 2000IU","manufacturer":"Biocon Ltd","price":"Rs.406.00"}
+{"_id":{"$oid":"5b5849e8d51d2960ea1cd9f6"},"name":"ERYPRO SAFE 5000IU Injection(Pfs) 1ml","composition":"Recombinant Human Erythropioetin Alfa 5000IU","manufacturer":"Biocon Ltd","price":"Rs.870.00"}
+{"_id":{"$oid":"5b5849ebd51d2960ea1cd9f7"},"name":"ERYPRO SAFE 10000IU Injection(Pfs) 1ml","composition":"Recombinant Human Erythropoietin Alfa ","manufacturer":"Biocon Ltd","price":"Rs.1,488.00"}
+{"_id":{"$oid":"5b5849ecd51d2960ea1cd9f8"},"name":"ERYPRO SAFE 4000IU Injection(PFS) 1ml","composition":"ERYTHROPOIETIN 4000IU","manufacturer":"Biocon Ltd","price":"Rs.800.00"}
+{"_id":{"$oid":"5b5849eed51d2960ea1cd9f9"},"name":"ERYPRO SAFE 3000IU Injection(Pfs) 1ml","composition":"Recombinant Human Erythropioetin Alfa 3000IU","manufacturer":"Biocon Ltd","price":"Rs.458.28"}
+{"_id":{"$oid":"5b5849f0d51d2960ea1cd9fa"},"name":"FILLIF 300mcg Prefilled Syringe 1ml","composition":"Filgrastim 300mcg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.1,162.50"}
+{"_id":{"$oid":"5b5849f2d51d2960ea1cd9fb"},"name":"FILNIM 300mg Injection 1's","composition":"Filgrastim 300mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.2,490.00"}
+{"_id":{"$oid":"5b5849f4d51d2960ea1cd9fc"},"name":"FILTERO 300mcg Prefilled Syringe 1's","composition":"Filgrastim 300mcg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.2,400.00"}
+{"_id":{"$oid":"5b5849f5d51d2960ea1cd9fd"},"name":"FRASTIM 300mcg Injection(Pfs) 0.2ml","composition":"Filgrastim 300mcg","manufacturer":"Rpg Life Science Ltd","price":"Rs.2,812.50"}
+{"_id":{"$oid":"5b5849f7d51d2960ea1cd9fe"},"name":"GRANFILL 300mg Injection 1ml","composition":"Filgrastim 300mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.400.00"}
+{"_id":{"$oid":"5b5849fad51d2960ea1cd9ff"},"name":"IMUMAX 300mg Injectionpfs 1's","composition":"Filgrastim 300mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.1,393.90"}
+{"_id":{"$oid":"5b5849fbd51d2960ea1cda00"},"name":"IMUPEG 6mg Injectionpfs 1's","composition":"Pegfilgrastim 6mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.10,940.00"}
+{"_id":{"$oid":"5b5849fdd51d2960ea1cda01"},"name":"JUVOBIN 40mg Injection(Pfs) 1's","composition":"Darbepoetin Alfa 40mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.2,052.67"}
+{"_id":{"$oid":"5b5849ffd51d2960ea1cda02"},"name":"KABIDARBA 25mg Injection 1ml","composition":"Darbepoetin Alfa 25mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.1,513.32"}
+{"_id":{"$oid":"5b584a01d51d2960ea1cda03"},"name":"KABIDARBA 40mg Injection 1ml","composition":"Darbepoetin 40mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.2,279.00"}
+{"_id":{"$oid":"5b584a03d51d2960ea1cda04"},"name":"MIRCERA 75mcg Injection(PFS) 0.3ml","composition":"Epoetin Beta+Methoxy Polyethelene Glycol","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.7,207.00"}
+{"_id":{"$oid":"5b584a05d51d2960ea1cda05"},"name":"MIRCERA 50mcg Injection(PFS) 0.3ml","composition":"Epoetin Beta+Methoxy Polyethelene Glycol","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.5,285.00"}
+{"_id":{"$oid":"5b584a07d51d2960ea1cda06"},"name":"NEO RECORMON 4000IU Injection 5ml","composition":"Recombinant Human Erythropioetin Alfa 4000IU","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.1,640.00"}
+{"_id":{"$oid":"5b584a09d51d2960ea1cda07"},"name":"NEULASTIM 6mg Injection 1's","composition":"Pegfilgrastim 6mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.10,906.00"}
+{"_id":{"$oid":"5b584a0bd51d2960ea1cda08"},"name":"NEUPOGEN 30MIU Injection 1's","composition":"Filgrastim 30MIU","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.2,660.00"}
+{"_id":{"$oid":"5b584a0dd51d2960ea1cda09"},"name":"PEGGTRUST 6mg Injectionpfs 0.6ml","composition":"Pegfilgrastim 6mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.12,030.00"}
+{"_id":{"$oid":"5b584a0ed51d2960ea1cda0a"},"name":"RECORMON 5000IU Injection 1ml","composition":"Recombinant Human Erythropioetin Alfa 5000IU","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.1,338.70"}
+{"_id":{"$oid":"5b584a10d51d2960ea1cda0b"},"name":"RECORMON 2000IU Injection 3ml","composition":"Recombinant Human Erythropioetin Alfa 2000IU","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.763.63"}
+{"_id":{"$oid":"5b584a12d51d2960ea1cda0c"},"name":"RENOCEL 4000iu Injection(Pfs) 1ml","composition":"ERYTHROPOIETIN 4000IU","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.1,480.00"}
+{"_id":{"$oid":"5b584a14d51d2960ea1cda0d"},"name":"REPOITIN 5000IU Injection 1ml","composition":"Erythromycin 5000IU","manufacturer":"SERUM INSTITUTE OF INDIA LTD","price":"Rs.1,299.30"}
+{"_id":{"$oid":"5b584a17d51d2960ea1cda0e"},"name":"REPOITIN 1000IU Injection 1's","composition":"Erythropoietin 1000IU","manufacturer":"SERUM INSTITUTE OF INDIA LTD","price":"Rs.1,435.00"}
+{"_id":{"$oid":"5b584a19d51d2960ea1cda0f"},"name":"REPOITIN 4000IU Injection 1ml","composition":"Erythropoietin 4000IU","manufacturer":"SERUM INSTITUTE OF INDIA LTD","price":"Rs.900.00"}
+{"_id":{"$oid":"5b584a1bd51d2960ea1cda10"},"name":"REPOITIN 2000IU Injection 1ml","composition":"Erythropoetin 2000IU","manufacturer":"SERUM INSTITUTE OF INDIA LTD","price":"Rs.366.88"}
+{"_id":{"$oid":"5b584a1dd51d2960ea1cda11"},"name":"RPO 3000IU Injection(Pfs) 1ml","composition":"Epoetin Alfa 3000IU","manufacturer":"Rpg Life Science Ltd","price":"Rs.809.52"}
+{"_id":{"$oid":"5b584a1fd51d2960ea1cda12"},"name":"RPO 10000IU Injection(Pfs) 1's","composition":"Epoetin Alfa 10000IU","manufacturer":"Rpg Life Science Ltd","price":"Rs.1,875.00"}
+{"_id":{"$oid":"5b584a21d51d2960ea1cda13"},"name":"RPO 4000IU Injection(Pfs) 1ml","composition":"Epoetin Alfa 4000IU","manufacturer":"Rpg Life Science Ltd","price":"Rs.1,480.00"}
+{"_id":{"$oid":"5b584a23d51d2960ea1cda14"},"name":"RPO 2000IU Injection(Pfs) 1ml","composition":"Epoetin Alfa 2000IU","manufacturer":"Rpg Life Science Ltd","price":"Rs.298.61"}
+{"_id":{"$oid":"5b584a25d51d2960ea1cda15"},"name":"RPO 5000IU Injection(Pfs) 1ml","composition":"Epoetin Alfa 5000IU","manufacturer":"Rpg Life Science Ltd","price":"Rs.1,571.40"}
+{"_id":{"$oid":"5b584a27d51d2960ea1cda16"},"name":"RPO 6000IU Injection(Pfs) 1's","composition":"Epoetin Alfa 6000IU","manufacturer":"Rpg Life Science Ltd","price":"Rs.2,099.00"}
+{"_id":{"$oid":"5b584a29d51d2960ea1cda17"},"name":"TRANSFER 2000IU Injection(PFS)","composition":"Erythropoietin 2000IU","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.562.00"}
+{"_id":{"$oid":"5b584a2bd51d2960ea1cda18"},"name":"TRANSFER 4000IU Injection(PFS)","composition":"Erythropoietin 4000IU","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.1,250.00"}
+{"_id":{"$oid":"5b584a2dd51d2960ea1cda19"},"name":"WEPOX 4000IU Injection(PFS) 0.4ml","composition":"Erythropoietin 4000IU","manufacturer":"Wockhardt Ltd","price":"Rs.1,726.00"}
+{"_id":{"$oid":"5b584a2ed51d2960ea1cda1a"},"name":"WEPOX 2000IU Injection(PFS) 0.5ml","composition":"Erythropoietin 2000IU","manufacturer":"Wockhardt Ltd","price":"Rs.626.20"}
+{"_id":{"$oid":"5b584a30d51d2960ea1cda1b"},"name":"WEPOX 3000IU Injection(PFS) 0.3ml","composition":"Erythropoietin 3000IU","manufacturer":"Wockhardt Ltd","price":"Rs.1,343.00"}
+{"_id":{"$oid":"5b584a32d51d2960ea1cda1c"},"name":"WEPOX SAFE 4000 Injection 1's","composition":"ERYTHROPOIETIN 4000IU","manufacturer":"Wockhardt Ltd","price":"Rs.1,730.50"}
+{"_id":{"$oid":"5b584a34d51d2960ea1cda1d"},"name":"ZYROP 10000IU Injection","composition":"Erythropoietin","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.2,314.63"}
+{"_id":{"$oid":"5b584a36d51d2960ea1cda1e"},"name":"ZYROP 4000IU Injection","composition":"Erythropoietin","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.1,150.00"}
+{"_id":{"$oid":"5b584a38d51d2960ea1cda1f"},"name":"ZYROP 3000IU Injection","composition":"Erythropoietin","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.1,116.00"}
+{"_id":{"$oid":"5b584a3ad51d2960ea1cda20"},"name":"ZYSTIM 300mcg Injection(Pfs) 1ml","composition":"Filgrastim 300mcg","manufacturer":"Others","price":"Rs.1,334.40"}

@@ -1,0 +1,45 @@
+{"_id":{"$oid":"5b58378cd51d295ef6e77665"},"name":"ANEKET 100mg Injection 2ml","composition":"KETAMINE HYDROCHLORIDE 100MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.22.50"}
+{"_id":{"$oid":"5b58378ed51d295ef6e77666"},"name":"ANEKET 250mg Injection 5ml","composition":"KETAMINE HYDROCHLORIDE 50MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b583790d51d295ef6e77667"},"name":"ANTHACAINE Gel 30gm","composition":"Lidocaine 2%","manufacturer":"Swati Spentose Pvt Ltd","price":"Rs.29.10"}
+{"_id":{"$oid":"5b583791d51d295ef6e77668"},"name":"ASTHESIA Cream 15gm","composition":"Prilocaine 2.5mg+Lidocaine 2.5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.360.00"}
+{"_id":{"$oid":"5b583793d51d295ef6e77669"},"name":"CRITIFOL 1% Injection 12ml","composition":"Propofol 1%","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.125.93"}
+{"_id":{"$oid":"5b583795d51d295ef6e7766a"},"name":"CRITIFOL 1% Injection 20ml","composition":"Propofol 1%","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b583797d51d295ef6e7766b"},"name":"CRITIFOL 1% Infusion 50ml","composition":"Propofol 1%","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.400.00"}
+{"_id":{"$oid":"5b583799d51d295ef6e7766c"},"name":"DESOL Ear Drops 10ml","composition":"Benzocaine 2.5%+Chlorbutol 5%+Para Dichlorobenzene 2%+Turpentine Oil 15%","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.53.50"}
+{"_id":{"$oid":"5b58379bd51d295ef6e7766d"},"name":"DEXMEDINE Injection 0.5ml","composition":"Dexmedetomidine 100mcg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b58379dd51d295ef6e7766e"},"name":"DEXTOMID 50mcg Injection 0.5ml","composition":"DEXMEDETOMIDINE HYDROCHLORIDE ","manufacturer":"Neon Laboratories Ltd","price":"Rs.194.00"}
+{"_id":{"$oid":"5b58379fd51d295ef6e7766f"},"name":"ISORANE 15mg Liquid 100ml","composition":"Isoflurane 15mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.3,200.00"}
+{"_id":{"$oid":"5b5837a0d51d295ef6e77670"},"name":"ISORANE 15mg Liquid 250ml","composition":"Isoflurane 15mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.2,800.00"}
+{"_id":{"$oid":"5b5837a3d51d295ef6e77671"},"name":"KETA 500mg Injection 10ml","composition":"Ketamine 500mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.39.62"}
+{"_id":{"$oid":"5b5837a4d51d295ef6e77672"},"name":"LIDFAST 2% Injection 30ml","composition":"Lidocaine 30ml","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.31.85"}
+{"_id":{"$oid":"5b5837a6d51d295ef6e77673"},"name":"LIGNOCAD 2% Gel 30gm","composition":"Lignocaine 2%","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.39.38"}
+{"_id":{"$oid":"5b5837a8d51d295ef6e77674"},"name":"LIGNOX 2% ADR Injection 30ml","composition":"Adrenaline+Lignocaine","manufacturer":"Indoco Remedies Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b5837aad51d295ef6e77675"},"name":"LIGNOX 5% Ointment 35gm","composition":"Lidocaine 5%","manufacturer":"Indoco Remedies Ltd","price":"Rs.20.01"}
+{"_id":{"$oid":"5b5837acd51d295ef6e77676"},"name":"LIGNOX 2% Injection 30ml","composition":"Lignocaine 2%","manufacturer":"Indoco Remedies Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b5837aed51d295ef6e77677"},"name":"LIGNOX F Gel 30gm","composition":"Lignocaine 2%","manufacturer":"Indoco Remedies Ltd","price":"Rs.31.92"}
+{"_id":{"$oid":"5b5837b0d51d295ef6e77678"},"name":"LOX 4% TOPICAL Solution 30ml","composition":"Lignocaine 4%","manufacturer":"Neon Laboratories Ltd","price":"Rs.31.80"}
+{"_id":{"$oid":"5b5837b1d51d295ef6e77679"},"name":"LOX 2% Jelly 30gm","composition":"Lignocaine 2%","manufacturer":"Neon Laboratories Ltd","price":"Rs.31.10"}
+{"_id":{"$oid":"5b5837b3d51d295ef6e7767a"},"name":"MANFORCE STAYLONG Gel 5gm","composition":"Prilocaine 2.5mg+Lidocaine 2.5%","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b5837b5d51d295ef6e7767b"},"name":"NAROPIN 7.5mg Injection 20ml","composition":"Ropivacaine 7.5mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5837b7d51d295ef6e7767c"},"name":"NAROPIN 2mg Injection 30ml","composition":"Ropivacaine 2mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5837b9d51d295ef6e7767d"},"name":"NEOROF 1% Injection 20ml","composition":"Propofol 1%","manufacturer":"Neon Laboratories Ltd","price":"Rs.146.25"}
+{"_id":{"$oid":"5b5837bad51d295ef6e7767e"},"name":"NUMBCAINE 20mg Injection 4ml","composition":"Bupivacaine 20mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.25.24"}
+{"_id":{"$oid":"5b5837bcd51d295ef6e7767f"},"name":"OCULAN 1% Injection 10X2ml","composition":"Lignocaine 1%","manufacturer":"Sunways India Pvt Ltd","price":"Rs.147.00"}
+{"_id":{"$oid":"5b5837bed51d295ef6e77680"},"name":"ORABLISS Gel 10gm","composition":"Lignocaine+Zinc Carnosine","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.61.00"}
+{"_id":{"$oid":"5b5837bfd51d295ef6e77681"},"name":"PRILOX Cream 5gm","composition":"Lignocaine+Prilocaine","manufacturer":"Neon Laboratories Ltd","price":"Rs.103.20"}
+{"_id":{"$oid":"5b5837c1d51d295ef6e77682"},"name":"PRILOX Cream 30gm","composition":"Lignocaine+Prilocaine","manufacturer":"Neon Laboratories Ltd","price":"Rs.625.65"}
+{"_id":{"$oid":"5b5837c3d51d295ef6e77683"},"name":"PROPOVAN 1% Injection 20ml","composition":"Propofol 1%","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b5837c5d51d295ef6e77684"},"name":"ROPIFAST 2mg Injection 20ml","composition":"Ropivacaine 2mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.71.42"}
+{"_id":{"$oid":"5b5837c7d51d295ef6e77685"},"name":"ROPIZUVA 2mg Injection 1ml","composition":"Ropivacaine 2mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b5837c9d51d295ef6e77686"},"name":"ROPIZUVA 7.5MG INJECTION 1'S","composition":" ROPIVACAINE 7.5MG ","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.171.50"}
+{"_id":{"$oid":"5b5837cbd51d295ef6e77687"},"name":"SENSORCAINE 0.25% Injection 20ml","composition":"Bupivacaine 0.25%","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.53.40"}
+{"_id":{"$oid":"5b5837ccd51d295ef6e77688"},"name":"SENSORCAINE ASTRAZENECA) 0.50% Injection 4ml","composition":"Bupivacaine 0.5%","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.25.28"}
+{"_id":{"$oid":"5b5837ced51d295ef6e77689"},"name":"SENSORCAINE ASTRAZENECA) 0.50% Injection 20ml","composition":"Bupivacaine 0.5%","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.80.80"}
+{"_id":{"$oid":"5b5837d0d51d295ef6e7768a"},"name":"SENSORCAINE ASTRAZENECA) 0.50% Injection 2ml","composition":"Bupivacaine 0.5%","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.252.76"}
+{"_id":{"$oid":"5b5837d2d51d295ef6e7768b"},"name":"SHOTMAX Spray 90MDI","composition":"Prilocaine 2.5mg+Lidocaine 7.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.298.35"}
+{"_id":{"$oid":"5b5837d3d51d295ef6e7768c"},"name":"THIPEN 500mg Injection 1's","composition":"Thiopental Sodium 500mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.39.05"}
+{"_id":{"$oid":"5b5837d6d51d295ef6e7768d"},"name":"THIPEN 1gm Injection 1's","composition":"Thiopental Sodium 1gm","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.51.58"}
+{"_id":{"$oid":"5b5837d7d51d295ef6e7768e"},"name":"TOPLAP Gel 30gm","composition":"Lidocaine Topical 2.5%W/W+Prilocaine Topical 2.5%W/W","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.597.00"}
+{"_id":{"$oid":"5b5837d9d51d295ef6e7768f"},"name":"TOPLAP Gel 10gm","composition":"Lidocaine Topical 2.5%W/W+Prilocaine Topical 2.5%W/W","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.214.93"}
+{"_id":{"$oid":"5b5837dbd51d295ef6e77690"},"name":"VIVETA Cream 5gm","composition":"Lignocaine 70mg+Tetracaine 70mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b5837ddd51d295ef6e77691"},"name":"XICAINE Injection","composition":"Adrenaline+Lignocaine","manufacturer":"Icpa Laboratories Ltd","price":"Rs.26.00"}

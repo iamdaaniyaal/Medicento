@@ -1,0 +1,108 @@
+{"_id":{"$oid":"5b586074d51d296277fea4a3"},"name":"ACTIBILE Tablet 10's","composition":"Ursodeoxycholic Acid 600mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.270.00"}
+{"_id":{"$oid":"5b586076d51d296277fea4a4"},"name":"ADDYZOA Capsule 20's","composition":"Ayurvedic Medicine","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.154.00"}
+{"_id":{"$oid":"5b586078d51d296277fea4a5"},"name":"ADLIV FORTE Capsule 10's","composition":"Ayurvedic Medicine","manufacturer":"Albert David Ltd","price":"Rs.53.50"}
+{"_id":{"$oid":"5b58607ad51d296277fea4a6"},"name":"ADLIV Drops 60ml","composition":"Ayurvedic Medicine","manufacturer":"Albert David Ltd","price":"Rs.62.50"}
+{"_id":{"$oid":"5b58607cd51d296277fea4a7"},"name":"ADLIV Syrup 200ml","composition":"Ayurvedic Medicine","manufacturer":"Albert David Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b58607ed51d296277fea4a8"},"name":"AmlYCURE Syrup 100ml","composition":"Ayurvedic Medicine","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b586080d51d296277fea4a9"},"name":"AmlYCURE DS Capsule 10's","composition":"Ayurvedic Medicine","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b586082d51d296277fea4aa"},"name":"AmlYCURE DS Syrup 200ml","composition":"Ayurvedic Medicine","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.227.00"}
+{"_id":{"$oid":"5b586086d51d296277fea4ab"},"name":"ANALIV Injection 10ml","composition":"L-Ornithine L-Aspartate 5mg","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.229.00"}
+{"_id":{"$oid":"5b586088d51d296277fea4ac"},"name":"ANALIV 500mg Tablet 10's","composition":"L Ornithine L Aspartate 500mg","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b58608ad51d296277fea4ad"},"name":"AYURLIVE Syrup 200ml","composition":"Ayurvedic ","manufacturer":" NA ","price":"Rs.78.00"}
+{"_id":{"$oid":"5b58608cd51d296277fea4ae"},"name":"BONLIV Tablet 10's","composition":"Ayurvedic 0","manufacturer":"Pharm Products Pvt Ltd","price":"Rs.17.50"}
+{"_id":{"$oid":"5b58608dd51d296277fea4af"},"name":"CYTOZEN Capsule 20's","composition":"Ayurvedic Medicine","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.116.00"}
+{"_id":{"$oid":"5b58608fd51d296277fea4b0"},"name":"DIGESTAL Capsule 10's","composition":"Digestive Enzymes","manufacturer":"Nouveau Medicament Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b586091d51d296277fea4b1"},"name":"ESSENTIALE L Capsule 10's","composition":"Lecithin 350mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.143.00"}
+{"_id":{"$oid":"5b586094d51d296277fea4b2"},"name":"HEPACOR Injection 10ml","composition":"L Ornithine L Aspartate 5gm/10ml","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.232.00"}
+{"_id":{"$oid":"5b586096d51d296277fea4b3"},"name":"HEPAMERZ Granules 5gm","composition":"L Ornithine L Aspartate","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.212.60"}
+{"_id":{"$oid":"5b586098d51d296277fea4b4"},"name":"HEPAMERZ CHEWABLE Tablet 4's","composition":"L-Ornithine-L-Aspartate+Pancreatin","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.122.00"}
+{"_id":{"$oid":"5b586099d51d296277fea4b5"},"name":"HEPAMERZ Tablet 10's","composition":"L-Ornithine-L-Aspartate+Pancreatin","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.158.90"}
+{"_id":{"$oid":"5b58609bd51d296277fea4b6"},"name":"HEPAMERZ Injection 10ml","composition":"L Ornithine L Aspartate 5gm/10ml","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.297.00"}
+{"_id":{"$oid":"5b58609cd51d296277fea4b7"},"name":"HEPASULFOL AA Tablet 30's","composition":"Chlorpheniramine+Trithioparamethoxyphenylpropene","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.79.50"}
+{"_id":{"$oid":"5b5860a0d51d296277fea4b8"},"name":"HEPATINIC Tablet 10's","composition":"Ayurvedic","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.16.56"}
+{"_id":{"$oid":"5b5860a2d51d296277fea4b9"},"name":"HEPATINIC Syrup 200ml","composition":"Ayurvedic","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.59.46"}
+{"_id":{"$oid":"5b5860a4d51d296277fea4ba"},"name":"HEPATOGARD Tablet 30's","composition":"Ayurvedic Medicine","manufacturer":"Themis Pharmaceutical Ltd","price":"Rs.66.50"}
+{"_id":{"$oid":"5b5860a6d51d296277fea4bb"},"name":"HEPATOGARD FORTE Tablet 30's","composition":"Ayurvedic Medicine","manufacturer":"Themis Pharmaceutical Ltd","price":"Rs.116.60"}
+{"_id":{"$oid":"5b5860a8d51d296277fea4bc"},"name":"HEPCINAT 400mg Tablet 28's","composition":"SOFOSBUVIR 400MG","manufacturer":"Natco Pharma Ltd","price":"Rs.15,000.00"}
+{"_id":{"$oid":"5b5860a9d51d296277fea4bd"},"name":"HEPCINAT LP Tablet 28's","composition":"Ledipasvir 90mg+Sofosbuvir 400mg","manufacturer":"Natco Pharma Ltd","price":"Rs.23,437.50"}
+{"_id":{"$oid":"5b5860abd51d296277fea4be"},"name":"HEPNAR Liquid 200ml","composition":"Ayurvedic ","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5860add51d296277fea4bf"},"name":"HEPOX 140mg Tablet 10's","composition":"Silymarin 140mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.57.20"}
+{"_id":{"$oid":"5b5860aed51d296277fea4c0"},"name":"LIMARIN 140mg Capsule 10's","composition":"Silymarin 140mg","manufacturer":"Serum Institute Of India Ltd","price":"Rs.97.85"}
+{"_id":{"$oid":"5b5860afd51d296277fea4c1"},"name":"LIMARIN 70mg Capsule 10's","composition":"Silymarin 70mg","manufacturer":"Serum Institute Of India Ltd","price":"Rs.70.35"}
+{"_id":{"$oid":"5b5860b3d51d296277fea4c2"},"name":"LIV 52 DS Syrup 200ml","composition":"AYURVEDIC MEDICINE ","manufacturer":"Himalaya Drug Company","price":"Rs.180.00"}
+{"_id":{"$oid":"5b5860b5d51d296277fea4c3"},"name":"LIVERAID Capsule 15's","composition":"Silymarin","manufacturer":"Pharmed Limited","price":"Rs.263.00"}
+{"_id":{"$oid":"5b5860b7d51d296277fea4c4"},"name":"LIVERIL FORTE Tablet 15's","composition":"Antioxidant+Silymarin","manufacturer":"Meyer Organics Ltd","price":"Rs.330.00"}
+{"_id":{"$oid":"5b5860b8d51d296277fea4c5"},"name":"LIVERIL Tablet 15's","composition":"Antioxidant+Silymarin","manufacturer":"Meyer Organics Ltd","price":"Rs.285.00"}
+{"_id":{"$oid":"5b5860bbd51d296277fea4c6"},"name":"LIVERUBIN 70mg Tablet 10's","composition":"Silymarin 70mg","manufacturer":"Alchem Phytoceuticals Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5860bdd51d296277fea4c7"},"name":"LIVERUBIN 140mg Tablet 10's","composition":"Silymarin 140mg","manufacturer":"Alchem Phytoceuticals Ltd","price":"Rs.132.00"}
+{"_id":{"$oid":"5b5860bfd51d296277fea4c8"},"name":"LIVETONE Syrup 100ml","composition":"Liver Extract+Vitamin B12 ","manufacturer":"Cipla Ltd","price":"Rs.48.50"}
+{"_id":{"$oid":"5b5860c0d51d296277fea4c9"},"name":"LIVETONE Syrup 200ml","composition":"Liver Extract+Vitamin B12 ","manufacturer":"Cipla Ltd","price":"Rs.83.00"}
+{"_id":{"$oid":"5b5860c2d51d296277fea4ca"},"name":"NEW LIVFIT Drops 60ml","composition":"Ayurvedic Medicine","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.48.40"}
+{"_id":{"$oid":"5b5860c4d51d296277fea4cb"},"name":"NEW LIVFIT Tablet 10's","composition":"Ayurvedic Medicine","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.47.00"}
+{"_id":{"$oid":"5b5860c5d51d296277fea4cc"},"name":"NEW LIVFIT Syrup 200ml","composition":"Ayurvedic Medicine","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.122.50"}
+{"_id":{"$oid":"5b5860c7d51d296277fea4cd"},"name":"LIVLIV Syrup 200ml","composition":"Ayurvedic Medicine","manufacturer":"Medispan Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5860c9d51d296277fea4ce"},"name":"LIVOCIP Syrup 200ml","composition":"Ayurvedic ","manufacturer":"Cipla Ltd","price":"Rs.71.42"}
+{"_id":{"$oid":"5b5860cbd51d296277fea4cf"},"name":"LIVODOX PLUS Tablet 10's","composition":"Folic Acid+L Ornithine L Aspartate+Metadoxil+Pyridoxine+Silymarin","manufacturer":"ICON LIFE SCIENCES","price":"Rs.195.00"}
+{"_id":{"$oid":"5b5860cdd51d296277fea4d0"},"name":"LIVOERB Syrup 200ml","composition":"Silymarin+Multivitamins","manufacturer":"Alkem Laboratories Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5860ced51d296277fea4d1"},"name":"LIVOKIND 150mg Tablet 10's","composition":"Ursodeoxycholic Acid 150mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b5860d0d51d296277fea4d2"},"name":"LIVOKIND 300mg Tablet 10's","composition":"Ursodeoxycholic Acid 300mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5860d2d51d296277fea4d3"},"name":"LIVOMYN Drops 60ml","composition":"Phyllanthus Amarus 150mg+Amoora Rohituka 115mg+Cichorium Intybus 112mg+Boerhaavia Diffusa 112mg+Eclipta Alba 75mg+Adhatoda Vasica 75mg+ Zingiber Officinale 55mg+Berberis Aristata 38mg+Tephrosia Purpurea 22mg+Fumaria Parviflora 22mg+Embelia Ribes 22mg+Cori","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b5860d4d51d296277fea4d4"},"name":"LIVOMYN Tablet 30's","composition":"Ayurvedic Medicine","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5860d6d51d296277fea4d5"},"name":"LIVOMYN Tablet 500's","composition":"AYURVEDIC ","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.617.00"}
+{"_id":{"$oid":"5b5860d7d51d296277fea4d6"},"name":"LIVOMYN Syrup 100ml","composition":"Phyllanthus Amarus 100mg+Amoora Rohituka 75mg+Cichorium Intybus 75mg+Boerhaavia Diffusa 75mg+Eclipta Alba 50mg+Adhatoda Vasica 50mg+ Zingiber Officinale 35mg+Berberis Aristata 25mg+Tinospora Cordifolia 15mg+Tephrosia Purpurea 15mg+Fumaria Officinalis 15mg","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.84.00"}
+{"_id":{"$oid":"5b5860d9d51d296277fea4d7"},"name":"LIVOMYN Syrup 200ml","composition":"Phyllanthus Amarus 100mg+Amoora Rohituka 75mg+Cichorium Intybus 75mg+Boerhaavia Diffusa 75mg+Eclipta Alba 50mg+Adhatoda Vasica 50mg+ Zingiber Officinale 35mg+Berberis Aristata 25mg+Tinospora Cordifolia 15mg+Tephrosia Purpurea 15mg+Fumaria Officinalis 15mg","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.104.00"}
+{"_id":{"$oid":"5b5860dbd51d296277fea4d8"},"name":"LIVOPILL DS Tablet 10's","composition":"Folic Acid+L Ornithine L Aspartate+Metadoxil+Pyridoxine+Silymarin","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.406.85"}
+{"_id":{"$oid":"5b5860ddd51d296277fea4d9"},"name":"LIVOPILL Tablet 10's","composition":"Folic Acid+L Ornithine L Aspartate+Metadoxil+Pyridoxine+Silymarin","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.253.20"}
+{"_id":{"$oid":"5b5860dfd51d296277fea4da"},"name":"LIVORUS Tablet 10's","composition":"Folic Acid+L-Ornithine-L-Aspartate+Metadoxil+Pyridoxine+Silymarin","manufacturer":"Icarus Health Care Pvt Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b5860e1d51d296277fea4db"},"name":"LIVOSIL 140mg Tablet 10's","composition":"Silymarin 140mg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.73.05"}
+{"_id":{"$oid":"5b5860e2d51d296277fea4dc"},"name":"LIVOSIL 35mg Syrup 100ml","composition":"Silymarin 25mg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.96.51"}
+{"_id":{"$oid":"5b5860e4d51d296277fea4dd"},"name":"LIVOSIL B 70mg Capsule 10's","composition":"Silymarin 70mg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.49.77"}
+{"_id":{"$oid":"5b5860e7d51d296277fea4de"},"name":"LIVOTONE Capsule 10's","composition":"Ayurvedic Medicine","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b5860e8d51d296277fea4df"},"name":"LIVSURE Syrup 200ml","composition":"Ayurvedic ","manufacturer":"Biological Evans Ltd","price":"Rs.95.15"}
+{"_id":{"$oid":"5b5860ead51d296277fea4e0"},"name":"LONGLIV Tablet 10's","composition":"L Ornithine L Aspartate 150mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b5860ecd51d296277fea4e1"},"name":"LORNIT 150mg Tablet 10's","composition":"L Ornithine L Aspartate 150mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.99.60"}
+{"_id":{"$oid":"5b5860edd51d296277fea4e2"},"name":"LORNIT 500mg Tablet 10's","composition":"L Ornithine L Aspartate 500mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.158.20"}
+{"_id":{"$oid":"5b5860efd51d296277fea4e3"},"name":"METADOXIL 60mg Injection 5ml","composition":"Metadoxine 60mg","manufacturer":"Micro Labs Ltd","price":"Rs.32.40"}
+{"_id":{"$oid":"5b5860f1d51d296277fea4e4"},"name":"NATDAC 60mg Tablet 28's","composition":"Daclatasvir 60mg","manufacturer":"Natco Pharma Ltd","price":"Rs.3,500.00"}
+{"_id":{"$oid":"5b5860f3d51d296277fea4e5"},"name":"NATRISE 30mg Tablet 4's","composition":"Tolvaptan 30mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.840.00"}
+{"_id":{"$oid":"5b5860f5d51d296277fea4e6"},"name":"NATRISE 15mg Tablet 4's","composition":"Tolvaptan 15mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.472.00"}
+{"_id":{"$oid":"5b5860f7d51d296277fea4e7"},"name":"NEOSURF Injection 3ml","composition":"Phospholipids 27mg","manufacturer":"Cipla Ltd","price":"Rs.5,509.00"}
+{"_id":{"$oid":"5b5860f9d51d296277fea4e8"},"name":"NEOSURF Injection 5ml","composition":"Phospholipids 27mg","manufacturer":"Cipla Ltd","price":"Rs.9,176.32"}
+{"_id":{"$oid":"5b5860fbd51d296277fea4e9"},"name":"ORNILIV Injection 10ml","composition":"L Ornithine L Aspartate","manufacturer":"Life Medicare \u0026 Biotech Pvt Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b5860fdd51d296277fea4ea"},"name":"PHYTOMEGA Capsule 15's","composition":"Docosahexaenoic Acid(Dha)+Eicosapentaenoic(Epa)+Phytosterol Complex","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5860fed51d296277fea4eb"},"name":"PROHEP Tablet 10's","composition":"Ayurvedic","manufacturer":"Anatocare Specialities","price":"Rs.80.00"}
+{"_id":{"$oid":"5b586100d51d296277fea4ec"},"name":"RESODIM 30mg Tablet 4's","composition":"Tolvaptan 30mg","manufacturer":"Lupin Ltd","price":"Rs.912.60"}
+{"_id":{"$oid":"5b586102d51d296277fea4ed"},"name":"RESODIM 15mg Tablet 4's","composition":"Tolvaptan 15mg","manufacturer":"Lupin Ltd","price":"Rs.575.55"}
+{"_id":{"$oid":"5b586104d51d296277fea4ee"},"name":"SILBOSTIN Capsule 10's","composition":"Silymarin 120mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.112.50"}
+{"_id":{"$oid":"5b586106d51d296277fea4ef"},"name":"SILMALIV 140mg Tablet 10's","composition":"Silymarin 140mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.122.00"}
+{"_id":{"$oid":"5b586108d51d296277fea4f0"},"name":"SILYBON 140mg Tablet 10's","composition":"Silymarin 140mg","manufacturer":"Micro Labs Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b58610ad51d296277fea4f1"},"name":"SILYBON Suspension 60ml","composition":"Silymarin 35mg","manufacturer":"Micro Labs Ltd","price":"Rs.39.67"}
+{"_id":{"$oid":"5b58610cd51d296277fea4f2"},"name":"SILYBON Suspension 100ml","composition":"Silymarin 35mg/5ml","manufacturer":"Micro Labs Ltd","price":"Rs.153.00"}
+{"_id":{"$oid":"5b58610dd51d296277fea4f3"},"name":"SILYBON 70mg Tablet 10's","composition":"Silymarin 70mg","manufacturer":"Micro Labs Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b58610fd51d296277fea4f4"},"name":"SILYBON Suspension 200ml","composition":"Silymarin 35mg/5ml","manufacturer":"Micro Labs Ltd","price":"Rs.269.00"}
+{"_id":{"$oid":"5b586110d51d296277fea4f5"},"name":"SORBILINE Syrup 200ml","composition":"Sorbitol+Tricholine","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.105.30"}
+{"_id":{"$oid":"5b586112d51d296277fea4f6"},"name":"SORBILINE Syrup 100ml","composition":"Sorbitol+Tricholine","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.69.87"}
+{"_id":{"$oid":"5b586114d51d296277fea4f7"},"name":"SORLIV SOLUTION 200ml","composition":"Sorbitol+Tricholine","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.89.10"}
+{"_id":{"$oid":"5b586116d51d296277fea4f8"},"name":"STIMULIV Syrup 100ml","composition":"Ayurvedic Medicine","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.73.87"}
+{"_id":{"$oid":"5b586117d51d296277fea4f9"},"name":"STIMULIV Syrup 200ml","composition":"Ayurvedic Medicine","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.108.68"}
+{"_id":{"$oid":"5b586119d51d296277fea4fa"},"name":"STIMULIV Tablet 60's","composition":"Ayurvedic Medicine","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.111.80"}
+{"_id":{"$oid":"5b58611bd51d296277fea4fb"},"name":"TEFROLIV FORTE Syrup 200ml","composition":"Ayurvedic Medicine","manufacturer":"Ttk Healthcare Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b58611dd51d296277fea4fc"},"name":"TEFROLIV FORTE Tablet 20's","composition":"Ayurvedic Medicine","manufacturer":"Ttk Healthcare Ltd","price":"Rs.75.57"}
+{"_id":{"$oid":"5b58611fd51d296277fea4fd"},"name":"TOLSAMA 15mg Tablet 4's","composition":"Tolvaptan 15mg","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.430.00"}
+{"_id":{"$oid":"5b586121d51d296277fea4fe"},"name":"TOLVASCA 30mg Tablet 4's","composition":"Tolvaptan 30mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.959.00"}
+{"_id":{"$oid":"5b586123d51d296277fea4ff"},"name":"TOLVASCA 15mg Tablet 4's","composition":"Tolvaptan 15mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.524.50"}
+{"_id":{"$oid":"5b586125d51d296277fea500"},"name":"TOLVAT 15mg Tablet 4's","composition":"Tolvaptan 15mg","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.430.00"}
+{"_id":{"$oid":"5b586127d51d296277fea501"},"name":"TOXIFITE Tablet 10's","composition":"Silymarin 70mg+Lecithin 500mg","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b586129d51d296277fea502"},"name":"TRISOLIV Tablet 10's","composition":"L-Ornithine-L-Aspartate+Pancreatin","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b58612ad51d296277fea503"},"name":"TRISOLIV Syrup 200ml","composition":"L Ornithine L Aspartate","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.93.00"}
+{"_id":{"$oid":"5b58612cd51d296277fea504"},"name":"TVAPTAN 15mg Tablet 4's","composition":"Tolvaptan 15mg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.477.58"}
+{"_id":{"$oid":"5b58612ed51d296277fea505"},"name":"UDIBON Tablet 10's","composition":"Silymarin 140mg+Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Micro Labs Ltd","price":"Rs.430.00"}
+{"_id":{"$oid":"5b586130d51d296277fea506"},"name":"ULYSES 75mg Tablet 10's","composition":"Ursodeoxycholic Acid 75mg","manufacturer":"Lupin Ltd","price":"Rs.117.50"}
+{"_id":{"$oid":"5b586131d51d296277fea507"},"name":"UNIENZYME Tablet 10's","composition":"Digestive Enzymes ","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.30.30"}
+{"_id":{"$oid":"5b586133d51d296277fea508"},"name":"URDOX Tablet 10's","composition":"Ursodeoxycholic Acid ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.142.43"}
+{"_id":{"$oid":"5b586135d51d296277fea509"},"name":"URSODIL 250mg Tablet 10's","composition":"Ursodeoxycholic Acid 250mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.187.62"}
+{"_id":{"$oid":"5b586137d51d296277fea50a"},"name":"USIBON 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Micro Labs Ltd","price":"Rs.238.00"}
+{"_id":{"$oid":"5b586139d51d296277fea50b"},"name":"USIBON 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Micro Labs Ltd","price":"Rs.136.00"}
+{"_id":{"$oid":"5b58613bd51d296277fea50c"},"name":"VIBOLIV 300mg Injection 5ml","composition":"Metadoxine 300mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.25.98"}
+{"_id":{"$oid":"5b58613dd51d296277fea50d"},"name":"VIBOLIV 500mg Tablet 10's","composition":"Metadoxine 500mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.158.00"}
+{"_id":{"$oid":"5b58613ed51d296277fea50e"},"name":"VIBOLIV MG INJECTION Injection 5","composition":"METADOXINE 300MG","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.27.00"}

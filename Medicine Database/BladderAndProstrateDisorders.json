@@ -1,0 +1,335 @@
+{"_id":{"$oid":"5b583ca8d51d295f6bd5a91e"},"name":"AFDURA Tablet 10's","composition":"Alfuzosin 10mg+Dutasteride 0.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.239.00"}
+{"_id":{"$oid":"5b583caad51d295f6bd5a91f"},"name":"AIVO 0.4mg Capsule 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Pfizer Limited","price":"Rs.72.00"}
+{"_id":{"$oid":"5b583cacd51d295f6bd5a920"},"name":"ALFATAM 0.4mg Capsule 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.103.90"}
+{"_id":{"$oid":"5b583caed51d295f6bd5a921"},"name":"ALFATAM D Tablet 10's","composition":"Dutasteride 0.5mg+Tamsulosin 0.4mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.235.50"}
+{"_id":{"$oid":"5b583cb0d51d295f6bd5a922"},"name":"ALFMAN 10mg Tablet 10's","composition":"Alfuzosin 10mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.111.00"}
+{"_id":{"$oid":"5b583cb2d51d295f6bd5a923"},"name":"ALFOO 10mg Tablet 30's","composition":"Alfuzosin 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.428.00"}
+{"_id":{"$oid":"5b583cb4d51d295f6bd5a924"},"name":"ALFUGRESS 10mg Tablet 10's","composition":"Alfuzosin 10mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b583cb6d51d295f6bd5a925"},"name":"ALFUGRESS D Tablet 10's","composition":"Alfuzosin 10mg+Dutasteride 0.5mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b583cb8d51d295f6bd5a926"},"name":"ALFUSIN 10mg Tablet 15's","composition":"Alfuzosin 10mg","manufacturer":"Cipla Ltd","price":"Rs.204.00"}
+{"_id":{"$oid":"5b583cbad51d295f6bd5a927"},"name":"ALFUSIN Tablet 10's","composition":"ALFUZOSIN+DUTASTERIDE","manufacturer":"Cipla Ltd","price":"Rs.225.00"}
+{"_id":{"$oid":"5b583cbcd51d295f6bd5a928"},"name":"ALFUSIN D Tablet 15's","composition":"ALFUZOSIN 10MG+DUTASTERIDE 0.5MG","manufacturer":"Cipla Ltd","price":"Rs.408.00"}
+{"_id":{"$oid":"5b583cbed51d295f6bd5a929"},"name":"ALFUTROL 10mg Tablet 1's","composition":"Alfuzosin 10mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.72.80"}
+{"_id":{"$oid":"5b583cc0d51d295f6bd5a92a"},"name":"ALFUTROL D Tablet 1's","composition":"Alfuzosin 10mg+Dutasteride 0.5mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.136.50"}
+{"_id":{"$oid":"5b583cc2d51d295f6bd5a92b"},"name":"ALKACARE Syrup 100ml","composition":"Citric Acid 1.53gm","manufacturer":"Cipla Ltd","price":"Rs.42.00"}
+{"_id":{"$oid":"5b583cc4d51d295f6bd5a92c"},"name":"ALKAWOCK Syrup 100ml","composition":"Disodium Hydrogen Citrate ","manufacturer":"Wockhardt Ltd","price":"Rs.78.78"}
+{"_id":{"$oid":"5b583cc6d51d295f6bd5a92d"},"name":"ALKOMNI Syrup 120ml","composition":"Citric Acid 1.53gm","manufacturer":"Cipla Ltd","price":"Rs.36.35"}
+{"_id":{"$oid":"5b583cc8d51d295f6bd5a92e"},"name":"ALPHACEPT 8mg Capsule 10's","composition":"Silodosin 8mg","manufacturer":"Lupin Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b583cc9d51d295f6bd5a92f"},"name":"ALPHACEPT 4MG CAPSULE 10'S","composition":"Silodosin 4mg","manufacturer":"Lupin Ltd","price":"Rs.148.45"}
+{"_id":{"$oid":"5b583cccd51d295f6bd5a930"},"name":"ALPHACEPT 8mg Tablet 10's","composition":"Silodosin 8mg","manufacturer":"Lupin Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b583cced51d295f6bd5a931"},"name":"ALPHACEPT D 8/0.5mg Capsule 10's","composition":"SILODOSIN 8MG+DUTASTERIDE 0.5MG","manufacturer":"Lupin Ltd","price":"Rs.310.00"}
+{"_id":{"$oid":"5b583ccfd51d295f6bd5a932"},"name":"ALPHACEPT D 4/0.5mg Capsule 10's","composition":"Dutasteride 0.5mg+Silodosin 4mg","manufacturer":"Lupin Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b583cd1d51d295f6bd5a933"},"name":"ANTAB 5mg Tablet 10's","composition":"SOLIFENACIN SUCCINATE 5MG","manufacturer":"Sanzyme Pvt Ltd","price":"Rs.219.00"}
+{"_id":{"$oid":"5b583cd3d51d295f6bd5a934"},"name":"APPETENT Syrup 200ml","composition":"AYURVEDIC MEDICINE","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.109.00"}
+{"_id":{"$oid":"5b583cd5d51d295f6bd5a935"},"name":"BERRYCRAN Capsule 10's","composition":"Cranberry Extract ","manufacturer":"Sanofi India Ltd","price":"Rs.252.00"}
+{"_id":{"$oid":"5b583cd6d51d295f6bd5a936"},"name":"BEZIP 0.2mg Capsule 10's","composition":"Tamsulosin 0.2mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b583cd7d51d295f6bd5a937"},"name":"BEZIP 0.4mg Capsule 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.84.86"}
+{"_id":{"$oid":"5b583cd9d51d295f6bd5a938"},"name":"BEZIP D Tablet 10's","composition":"Dutasteride 0.5mg+Tamsulosin 0.4mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.111.42"}
+{"_id":{"$oid":"5b583cdbd51d295f6bd5a939"},"name":"BISPEC 5mg Tablet 15's","composition":"Solifenacin Succinate","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.402.00"}
+{"_id":{"$oid":"5b583cded51d295f6bd5a93a"},"name":"BISPEC 10mg Tablet 10's","composition":"Solifenacin 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.284.95"}
+{"_id":{"$oid":"5b583ce0d51d295f6bd5a93b"},"name":"BISPEC 10mg Tablet 30's","composition":"Solifenacin Succinate 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,064.00"}
+{"_id":{"$oid":"5b583ce3d51d295f6bd5a93c"},"name":"BISPEC 10mg Tablet 15's","composition":"Solifenacin Succinate 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.585.00"}
+{"_id":{"$oid":"5b583ce4d51d295f6bd5a93d"},"name":"BLADMIR 25mg Tablet 10's","composition":"Mirabegron 25mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.192.00"}
+{"_id":{"$oid":"5b583ce6d51d295f6bd5a93e"},"name":"BLADMIR 50mg Tablet 10's","composition":"Mirabegron 50mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b583ce8d51d295f6bd5a93f"},"name":"BLADOSPAS Tablet 10's","composition":"FLAVOXATE 200MG","manufacturer":"Theia Healthcare","price":"Rs.105.00"}
+{"_id":{"$oid":"5b583cead51d295f6bd5a940"},"name":"BTN PLUS 5/1mg Tablet 10's","composition":"Biotin 5mg+Finasteride 1mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.13.19"}
+{"_id":{"$oid":"5b583cebd51d295f6bd5a941"},"name":"BTN PLUS Tablet 2's","composition":"Biotin 5mg+Finasteride 2%","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.13.16"}
+{"_id":{"$oid":"5b583cedd51d295f6bd5a942"},"name":"CARMICIDE Drops 30ml","composition":"Enzymes+ Digestive Supplements","manufacturer":"Indoco Remedies Ltd","price":"Rs.72.60"}
+{"_id":{"$oid":"5b583ceed51d295f6bd5a943"},"name":"CARMICIDE Drops 15ml","composition":"Enzymes+ Digestive Supplements","manufacturer":"Indoco Remedies Ltd","price":"Rs.59.93"}
+{"_id":{"$oid":"5b583cefd51d295f6bd5a944"},"name":"COMFORA 100mg Capsule 10's","composition":"Pentosan Polysulphate 100mg","manufacturer":"Swati Spentose Pvt Ltd","price":"Rs.650.00"}
+{"_id":{"$oid":"5b583cf2d51d295f6bd5a945"},"name":"COMFORA 100mg Capsule 90's","composition":"Pentosan Polysulphate 100mg","manufacturer":"Swati Spentose Pvt Ltd","price":"Rs.5,500.00"}
+{"_id":{"$oid":"5b583cf4d51d295f6bd5a946"},"name":"CONCYST 2mg Tablet 10's","composition":"Tolterodine 2mg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.65.04"}
+{"_id":{"$oid":"5b583cf5d51d295f6bd5a947"},"name":"CONCYST 1mg Tablet 10's","composition":"Tolterodine 1mg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.35.03"}
+{"_id":{"$oid":"5b583cf7d51d295f6bd5a948"},"name":"CONSISTAM 0.2mg Tablet 10's","composition":"Tamsulosin 0.2mg","manufacturer":"SALUD CARE PVT LTD","price":"Rs.40.00"}
+{"_id":{"$oid":"5b583cf9d51d295f6bd5a949"},"name":"CONSISTAM 0.4mg Tablet 10's","composition":"Tamsulosin 0.4mg","manufacturer":"SALUD CARE PVT LTD","price":"Rs.64.00"}
+{"_id":{"$oid":"5b583cfad51d295f6bd5a94a"},"name":"CONSISTAM D Capsule 10's","composition":"Dutasteride 0.5mg+Tamsulosin 0.4mg","manufacturer":"Alvio Pharmaceuticals Pvt Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b583cfcd51d295f6bd5a94b"},"name":"CONTIFLO OD F Capsule 10's","composition":"Finasteride+Tamsulosin","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.156.00"}
+{"_id":{"$oid":"5b583cfed51d295f6bd5a94c"},"name":"CONTIFLO ICON 0.4mg Tablet 10's","composition":"Tamsulosin","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.99.50"}
+{"_id":{"$oid":"5b583d00d51d295f6bd5a94d"},"name":"CONTIFLO D Kit 1's","composition":"TAMSULOSIN 0.4MG+DUTASTERIDE 0.5MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.218.00"}
+{"_id":{"$oid":"5b583d02d51d295f6bd5a94e"},"name":"CONTIFLO OD 0.4mg Capsule 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.88.83"}
+{"_id":{"$oid":"5b583d04d51d295f6bd5a94f"},"name":"CONTIFLO OD 0.4mg Capsule 30's","composition":"TAMSULOSIN 0.4MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.218.00"}
+{"_id":{"$oid":"5b583d06d51d295f6bd5a950"},"name":"CONTIFLO OD 0.2mg Capsule 10's","composition":"Tamsulosin 0.2mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.93.52"}
+{"_id":{"$oid":"5b583d08d51d295f6bd5a951"},"name":"CONTIFLO OD F Tablet 10's","composition":"Finasteride+Tamsulosin","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b583d0bd51d295f6bd5a952"},"name":"CURLZFIN 1mg Tablet 10's","composition":"Finasteride 1mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b583d0dd51d295f6bd5a953"},"name":"CURLZFIN 1mg Tablet 15's","composition":"Finasteride 1mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b583d0fd51d295f6bd5a954"},"name":"CYSTRAN 2.5mg Tablet 10's","composition":"Oxybutynin Chloride 2.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b583d10d51d295f6bd5a955"},"name":"CYSTRAN 5mg Tablet 10's","composition":"Oxybutynin Chloride 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.148.00"}
+{"_id":{"$oid":"5b583d13d51d295f6bd5a956"},"name":"DARIF 7.5mg Tablet 10's","composition":"Darifenacin 7.5mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.226.75"}
+{"_id":{"$oid":"5b583d15d51d295f6bd5a957"},"name":"DARILONG 15mg Tablet 10's","composition":"Darifenacin 15mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.325.00"}
+{"_id":{"$oid":"5b583d17d51d295f6bd5a958"},"name":"DARILONG 7.5mg Tablet 10's","composition":"Darifenacin 7.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.232.00"}
+{"_id":{"$oid":"5b583d19d51d295f6bd5a959"},"name":"DARITEN OD 7.5mg Tablet 10's","composition":"Darifenacin","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.232.00"}
+{"_id":{"$oid":"5b583d1bd51d295f6bd5a95a"},"name":"DARITEN OD 15mg Tablet 10's","composition":"Darifenacin","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.347.00"}
+{"_id":{"$oid":"5b583d1dd51d295f6bd5a95b"},"name":"DEMATOR 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.18.40"}
+{"_id":{"$oid":"5b583d1fd51d295f6bd5a95c"},"name":"DEMATOR 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b583d21d51d295f6bd5a95d"},"name":"DEMATOR 10mg Injection 2ml","composition":"Torsemide 10mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.10.00"}
+{"_id":{"$oid":"5b583d24d51d295f6bd5a95e"},"name":"DEMATOR 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.36.00"}
+{"_id":{"$oid":"5b583d26d51d295f6bd5a95f"},"name":"DETRUSITOL SR 4mg Capsule 7's","composition":"Tolterodine Tartrate 4mg (SR)","manufacturer":"Pfizer Limited","price":"Rs.677.33"}
+{"_id":{"$oid":"5b583d28d51d295f6bd5a960"},"name":"DETRUSITOL SR 4mg Tablet 7's","composition":"TOLTERODINE TARTRATE 4MG","manufacturer":"Pfizer Limited","price":"Rs.677.33"}
+{"_id":{"$oid":"5b583d2ad51d295f6bd5a961"},"name":"DUO CYTRA Oral Solution 200ml","composition":"POTASSIUM CITRATE 1100MG+MAGNESIUM CITRATE 375MG+VITAMIN B6(PYRIDOXINE) 20MG","manufacturer":" NA ","price":"Rs.130.00"}
+{"_id":{"$oid":"5b583d2cd51d295f6bd5a962"},"name":"DUPROST 0.5mg Capsule 10's","composition":"Dutasteride 0.5mg","manufacturer":"Cipla Ltd","price":"Rs.222.20"}
+{"_id":{"$oid":"5b583d2ed51d295f6bd5a963"},"name":"DUTAGEN Capsule 10's","composition":"Dutasteride","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.229.00"}
+{"_id":{"$oid":"5b583d30d51d295f6bd5a964"},"name":"DUTAID 0.5mg Tablet 10's","composition":"Dutasteride 0.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.95.60"}
+{"_id":{"$oid":"5b583d32d51d295f6bd5a965"},"name":"DUTALFA Capsule COMBIPACK 10's","composition":"Alfuzosin 10mg+Dutasteride 0.5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.223.00"}
+{"_id":{"$oid":"5b583d34d51d295f6bd5a966"},"name":"DUTALFA Capsule 10's","composition":"Alfuzosin 10mg+Dutasteride 0.5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.204.00"}
+{"_id":{"$oid":"5b583d35d51d295f6bd5a967"},"name":"DUTALOSIN Tablet 10's","composition":"Dutasteride 0.5mg+Tamsulosin 0.4mg","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.144.98"}
+{"_id":{"$oid":"5b583d37d51d295f6bd5a968"},"name":"DUTAMAX Tablet 10's","composition":"DUTASTERIDE 0.5MG","manufacturer":" NA ","price":"Rs.91.00"}
+{"_id":{"$oid":"5b583d39d51d295f6bd5a969"},"name":"DUTAS Capsule 30's","composition":"Dutasteride 0.5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.718.00"}
+{"_id":{"$oid":"5b583d3bd51d295f6bd5a96a"},"name":"DUTAS 0.5mg Capsule 15's","composition":"Dutasteride 0.5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.272.50"}
+{"_id":{"$oid":"5b583d3cd51d295f6bd5a96b"},"name":"DUTAS Capsule 15's","composition":"DUTASTERIDE 0.5MG","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.545.00"}
+{"_id":{"$oid":"5b583d3ed51d295f6bd5a96c"},"name":"DUTAS T Capsule CombiPack 10's","composition":"Dutasteride 0.5mg+Tamsulosin 0.4mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.237.00"}
+{"_id":{"$oid":"5b583d40d51d295f6bd5a96d"},"name":"DUTRIDE T Capsule 10's","composition":"Dutasteride 0.5mg+Tamsulosin 0.4mg","manufacturer":"Swati Spentose Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b583d42d51d295f6bd5a96e"},"name":"DYNAPRES 0.2mg Capsule 15's","composition":"Tamsulosin 0.2mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.54.28"}
+{"_id":{"$oid":"5b583d45d51d295f6bd5a96f"},"name":"DYNAPRES 0.4mg Capsule 15's","composition":"TAMSULOSIN","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.266.00"}
+{"_id":{"$oid":"5b583d47d51d295f6bd5a970"},"name":"DYNAPRES 0.4mg Capsule 30's","composition":"Tamsulosin 0.4mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.266.00"}
+{"_id":{"$oid":"5b583d49d51d295f6bd5a971"},"name":"DYNAPRES 0.2mg Capsule 10's","composition":"Tamsulosin 0.2mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.57.00"}
+{"_id":{"$oid":"5b583d4bd51d295f6bd5a972"},"name":"DYNURO 0.4mg Capsule 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Cachet Pharmaceuticals Pvt Ltd","price":"Rs.71.93"}
+{"_id":{"$oid":"5b583d4dd51d295f6bd5a973"},"name":"DYNURO D Capsule 10's","composition":"Dutasteride 0.5mg+Tamsulosin 0.4mg","manufacturer":"Cachet Pharmaceuticals Pvt Ltd","price":"Rs.159.43"}
+{"_id":{"$oid":"5b583d4fd51d295f6bd5a974"},"name":"EFZU 10mg Tablet 10's","composition":"ALFUZOSIN 10MG","manufacturer":"Overseas Healthcare Pvt Ltd","price":"Rs.94.00"}
+{"_id":{"$oid":"5b583d52d51d295f6bd5a975"},"name":"EMZOSIN 10mg Tablet 10's","composition":"ALFUZOSIN 10MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b583d55d51d295f6bd5a976"},"name":"EMZOSIN D Tablet 10","composition":"ALFUZOSIN 10MG+DUTASTERIDE 0.5MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b583d57d51d295f6bd5a977"},"name":"F1 Tablet 10's","composition":"Finasteride","manufacturer":"Newtrimed","price":"Rs.55.00"}
+{"_id":{"$oid":"5b583d59d51d295f6bd5a978"},"name":"FAVATE 200mg Tablet 10's","composition":"Flavoxate 200mg","manufacturer":"Acekinetic Healthcare Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b583d5dd51d295f6bd5a979"},"name":"FINABALD 5mg Tablet 10's","composition":"Finasteride 5mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.131.00"}
+{"_id":{"$oid":"5b583d5fd51d295f6bd5a97a"},"name":"FINABALD 2.5mg Tablet 10's","composition":"Finasteride 2.5mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.71.00"}
+{"_id":{"$oid":"5b583d60d51d295f6bd5a97b"},"name":"FINABALD 1mg Tablet 10's","composition":"Finasteride 1mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b583d62d51d295f6bd5a97c"},"name":"FINABALD T Tablet 10's","composition":"Finasteride 5mg+Tamsulosin 0.4mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b583d64d51d295f6bd5a97d"},"name":"FINACET 5mg Tablet 10's","composition":"Finasteride 5mg","manufacturer":"Kivi Labs Ltd","price":"Rs.89.50"}
+{"_id":{"$oid":"5b583d66d51d295f6bd5a97e"},"name":"FINACET 1mg Tablet 10's","composition":"Finasteride 1mg","manufacturer":"Kivi Labs Ltd","price":"Rs.38.50"}
+{"_id":{"$oid":"5b583d68d51d295f6bd5a97f"},"name":"FINALO 1mg Tablet 10's","composition":"Finasteride 1mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b583d6ad51d295f6bd5a980"},"name":"FINAP 1mg Tablet 10's","composition":"Finasteride 1mg","manufacturer":"Salve Pharmaceuticals Pvt Ltd","price":"Rs.53.00"}
+{"_id":{"$oid":"5b583d6cd51d295f6bd5a981"},"name":"FINAST 5mg Tablet 30's","composition":"Finasteride 5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.580.00"}
+{"_id":{"$oid":"5b583d6ed51d295f6bd5a982"},"name":"FINAST T Capsule 30's","composition":"Finasteride 5mg+Tamsulosin 0.4mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.535.00"}
+{"_id":{"$oid":"5b583d70d51d295f6bd5a983"},"name":"FINAST T 0.4/5mg Capsule 15's","composition":"Tamsulosin 0.4mg+Finasteride 5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.204.00"}
+{"_id":{"$oid":"5b583d71d51d295f6bd5a984"},"name":"FINAX 1mg Tablet 30's","composition":"Finasteride 1mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.195.00"}
+{"_id":{"$oid":"5b583d71d51d295f6bd5a985"},"name":"FINCAR 5mg Tablet 10's","composition":"Finasteride 5mg","manufacturer":"Cipla Ltd","price":"Rs.147.00"}
+{"_id":{"$oid":"5b583d73d51d295f6bd5a986"},"name":"FINCEPT 5MG TABLET 10'S","composition":"FINASTERIDE 5MG","manufacturer":"Lupin Ltd","price":"Rs.105.50"}
+{"_id":{"$oid":"5b583d75d51d295f6bd5a987"},"name":"FINCOVER 1MG TABLET 10'S","composition":"FINASTERIDE 1MG","manufacturer":"Micro Labs Ltd","price":"Rs.40.42"}
+{"_id":{"$oid":"5b583d77d51d295f6bd5a988"},"name":"FINE 2mg Tablet 10's","composition":"Finasteride 2mg","manufacturer":"Swiss Pharma Pvt Ltd","price":"Rs.128.80"}
+{"_id":{"$oid":"5b583d79d51d295f6bd5a989"},"name":"FINE 1mg Tablet 10's","composition":"Finasteride 1mg","manufacturer":"Swiss Pharma Pvt Ltd","price":"Rs.95.50"}
+{"_id":{"$oid":"5b583d7cd51d295f6bd5a98a"},"name":"FINESTOP 5mg Tablet 10's","composition":"Finasteride 5mg","manufacturer":"Kaizen Pharmaceuticals Pvt Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b583d7dd51d295f6bd5a98b"},"name":"FINFLOW 5mg Tablet 10's","composition":"Finasteride 5mg","manufacturer":"Swati Spentose Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b583d84d51d295f6bd5a98c"},"name":"FINPECIA 1mg Tablet 15's","composition":"Finasteride 1mg","manufacturer":"Cipla Ltd","price":"Rs.91.00"}
+{"_id":{"$oid":"5b583d86d51d295f6bd5a98d"},"name":"FISTIDE 5mg Tablet 10's","composition":"Finasteride 5mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.70.72"}
+{"_id":{"$oid":"5b583d87d51d295f6bd5a98e"},"name":"FLAMCOR Syrup 30ml","composition":"Deflazacort 6mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.58.30"}
+{"_id":{"$oid":"5b583d89d51d295f6bd5a98f"},"name":"FLAVATE 200mg Tablet 10's","composition":"Flavoxate 200mg","manufacturer":"Overseas Healthcare Pvt Ltd","price":"Rs.170.20"}
+{"_id":{"$oid":"5b583d8bd51d295f6bd5a990"},"name":"FLAVOCIP 200mg Tablet 10's","composition":"Flavoxate 200mg","manufacturer":"Cipla Ltd","price":"Rs.137.50"}
+{"_id":{"$oid":"5b583d8ed51d295f6bd5a991"},"name":"FLAVOMED 200mg Tablet 10's","composition":"Flavoxate 200mg","manufacturer":"Medlab Pharmaceuticals Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b583d92d51d295f6bd5a992"},"name":"FLAVOSPAS 200mg Tablet 10's","composition":"Flavoxate 200mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.142.30"}
+{"_id":{"$oid":"5b583d94d51d295f6bd5a993"},"name":"FLAVOSPAS O Tablet 10's","composition":"Flavoxate 200mg+Ofloxacin 200mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.164.80"}
+{"_id":{"$oid":"5b583d95d51d295f6bd5a994"},"name":"FLODART Tablet 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b583d96d51d295f6bd5a995"},"name":"FLODART PLUS Capsule 10's","composition":"Dutasteride 0.5mg+Tamsulosin 0.4mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.129.00"}
+{"_id":{"$oid":"5b583d98d51d295f6bd5a996"},"name":"FLOKIND F Tablet 10's","composition":"Finasteride 5mg+Tamsulosin 0.4mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.144.10"}
+{"_id":{"$oid":"5b583d99d51d295f6bd5a997"},"name":"FLOKIND D 0.40/0.5mg Tablet 10's","composition":"TAMSULOSIN 0.4MG+DUTASTERIDE 0.5MG","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.99.90"}
+{"_id":{"$oid":"5b583d9bd51d295f6bd5a998"},"name":"FLOLITE 0.4mg Tablet 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.79.74"}
+{"_id":{"$oid":"5b583d9dd51d295f6bd5a999"},"name":"FLOLITE D 0.4mg Tablet 10's","composition":"Tamsulosin 0.4mg+Dutasteride 0.5mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.129.41"}
+{"_id":{"$oid":"5b583d9ed51d295f6bd5a99a"},"name":"FLOLITE SR 400mcg Capsule 10's","composition":"Tamsulosin 400mcg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.79.74"}
+{"_id":{"$oid":"5b583da2d51d295f6bd5a99b"},"name":"FLOLITE SR 200mcg Capsule 10's","composition":"Tamsulosin 200mcg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.39.42"}
+{"_id":{"$oid":"5b583da3d51d295f6bd5a99c"},"name":"FLOSLO 5mg Tablet 10's","composition":"SOLIFENACIN SUCCINATE 5MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.218.00"}
+{"_id":{"$oid":"5b583da5d51d295f6bd5a99d"},"name":"FLOSPURT 8mg Capsule 10's","composition":"Silodosin 8mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.185.00"}
+{"_id":{"$oid":"5b583da7d51d295f6bd5a99e"},"name":"FLOSPURT 4mg Capsule 10's","composition":"Silodosin 4mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.99.00"}
+{"_id":{"$oid":"5b583da9d51d295f6bd5a99f"},"name":"FLOSPURT D Capsule 10's","composition":"Dutasteride 0.5mg+Silodosin 8mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.324.20"}
+{"_id":{"$oid":"5b583dabd51d295f6bd5a9a0"},"name":"FLOTRAL 10mg Tablet 30's","composition":"Alfuzosin","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.375.00"}
+{"_id":{"$oid":"5b583dadd51d295f6bd5a9a1"},"name":"FLOTRAL D Tablet 10's","composition":"ALFUZOSIN 10MG+DUTASTERIDE 0.5MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b583dafd51d295f6bd5a9a2"},"name":"FLOTRAL D Kit","composition":"Alfuzosin+Dutasteride","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b583db1d51d295f6bd5a9a3"},"name":"FLOTROS 60mg Tablet 10's","composition":"Trospium 60mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.202.13"}
+{"_id":{"$oid":"5b583db3d51d295f6bd5a9a4"},"name":"FLOTROS SR 60mg Capsule 10's","composition":"Trospium 60mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.202.13"}
+{"_id":{"$oid":"5b583db5d51d295f6bd5a9a5"},"name":"FULFLO 10mg Tablet 10's","composition":"Alfuzosin 10mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b583db7d51d295f6bd5a9a6"},"name":"GERIFLO Tablet 10's","composition":"Finasteride+Tamsulosin","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.169.30"}
+{"_id":{"$oid":"5b583db9d51d295f6bd5a9a7"},"name":"GERIFLO D Tablet 30's","composition":"Dutasteride+Tamsulosin","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.635.90"}
+{"_id":{"$oid":"5b583dbcd51d295f6bd5a9a8"},"name":"GERIPOD D Capsule 10's","composition":"Dutasteride+Silodosin","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.356.00"}
+{"_id":{"$oid":"5b583dbdd51d295f6bd5a9a9"},"name":"GERISTART Tablet 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.127.60"}
+{"_id":{"$oid":"5b583dc0d51d295f6bd5a9aa"},"name":"HERFLAV 200mg Tablet 10's","composition":"Flavoxate 200mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.86.66"}
+{"_id":{"$oid":"5b583dc2d51d295f6bd5a9ab"},"name":"KABANAT 60mg Injection 1.5ml","composition":"Cabazitaxel 60mg","manufacturer":"Natco Pharma Ltd","price":"Rs.19,990.00"}
+{"_id":{"$oid":"5b583dc4d51d295f6bd5a9ac"},"name":"KmgCIT Sachet 4gm","composition":"Potassium Magnesium Citrate 4.262gm","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.10.23"}
+{"_id":{"$oid":"5b583dc5d51d295f6bd5a9ad"},"name":"KONFLAV 200mg Tablet 10's","composition":"Flavoxate Hcl 200mg","manufacturer":"Konverge Healthcare Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b583dc6d51d295f6bd5a9ae"},"name":"KONFLAV O 200mg Tablet 10's","composition":"Flavoxate Hcl 200mg+Ofloxacin 200mg","manufacturer":"Konverge Healthcare Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b583dc9d51d295f6bd5a9af"},"name":"LVATE Capsule 10's","composition":"Ayurvedic Medicine","manufacturer":"Sanzyme Pvt Ltd","price":"Rs.350.00"}
+{"_id":{"$oid":"5b583dcbd51d295f6bd5a9b0"},"name":"MAXVOID PLUS 4 Tablet 10's","composition":"SILODOSIN 4MG+DUTASTERIDE 0.5MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b583dcdd51d295f6bd5a9b1"},"name":"MINILACTONE FORTE 40/25mg Tablet 10's","composition":"Frusemide 40mg+Spironolactone 25mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.23.00"}
+{"_id":{"$oid":"5b583dced51d295f6bd5a9b2"},"name":"MIRAKEM 25mg Tablet 10's","composition":"Mirabegron 25mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b583dd0d51d295f6bd5a9b3"},"name":"MIRAKEM 50mg Tablet 10's","composition":"Mirabegron 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b583dd4d51d295f6bd5a9b4"},"name":"MIRANIX 25mg Tablet 10's","composition":"Mirabegron 25mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.235.00"}
+{"_id":{"$oid":"5b583dd6d51d295f6bd5a9b5"},"name":"MONOLOSIN 0.4mg Capsule 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.60.39"}
+{"_id":{"$oid":"5b583dd8d51d295f6bd5a9b6"},"name":"NAFODIL 50mg Tablet 10's","composition":"Naftopidil 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b583ddad51d295f6bd5a9b7"},"name":"NAFODIL 75mg Tablet 10's","composition":"Naftopidil 75mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b583ddcd51d295f6bd5a9b8"},"name":"NAFTOMAX 50mg Tablet 10's","composition":"Naftopidil 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b583dded51d295f6bd5a9b9"},"name":"NOCTURIN 5mg Tablet 10's","composition":"Oxybutynin Chloride 5mg","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.82.95"}
+{"_id":{"$oid":"5b583de0d51d295f6bd5a9ba"},"name":"NU BPH (VEG) Capsule 10's","composition":"Ayurvedic","manufacturer":"Sanzyme Pvt Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b583de2d51d295f6bd5a9bb"},"name":"OXYSPAS 2.5mg Tablet 10's","composition":"Oxybutynin Chloride 2.5mg","manufacturer":"Cipla Ltd","price":"Rs.80.85"}
+{"_id":{"$oid":"5b583de4d51d295f6bd5a9bc"},"name":"OXYSPAS 5mg Tablet 10's","composition":"Oxybutynin Chloride 5mg","manufacturer":"Cipla Ltd","price":"Rs.136.00"}
+{"_id":{"$oid":"5b583de6d51d295f6bd5a9bd"},"name":"PORTEL Solution 200ml","composition":"Citric Acid 334mg+Potassium Citrate 1100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.47.25"}
+{"_id":{"$oid":"5b583de8d51d295f6bd5a9be"},"name":"PROHAIR Tablet 10's","composition":"Finasteride 1mg","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.64.00"}
+{"_id":{"$oid":"5b583dead51d295f6bd5a9bf"},"name":"PROLOSIN 0.4mg Tablet 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.93.43"}
+{"_id":{"$oid":"5b583debd51d295f6bd5a9c0"},"name":"PROLOSIN D Tablet 10's","composition":"Dutasteride 0.5mg+Tamsulosin 0.4mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.179.15"}
+{"_id":{"$oid":"5b583dedd51d295f6bd5a9c1"},"name":"PROSTAGARD 8mg Capsule 10's","composition":"Silodosin 8mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b583defd51d295f6bd5a9c2"},"name":"PROSTAGARD 4mg Capsule 10's","composition":"Silodosin 4mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b583df1d51d295f6bd5a9c3"},"name":"PROSTAGARD D 4/0.5mg Capsule 10's","composition":"Silodosin 4mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b583df2d51d295f6bd5a9c4"},"name":"PROSTAGARD D 8mg Capsule 10's","composition":"Silodosin 8mg+Dutasteride 0.5mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b583df3d51d295f6bd5a9c5"},"name":"PROSTALYN Capsule 6's","composition":"Ayurvedic Medicine","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b583df5d51d295f6bd5a9c6"},"name":"PROSTAQUIL Capsule 10's","composition":"Pygeum Africanum","manufacturer":"Alchem Phytoceuticals Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b583df9d51d295f6bd5a9c7"},"name":"PROSTINA Capsule 10's","composition":"Ayurvedic Medicine","manufacturer":"Deys Medical Stores Mfg Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b583dfbd51d295f6bd5a9c8"},"name":"PYGINAL Capsule 10's","composition":"Pygeum Africanum 50mg","manufacturer":"Serum Institute Of India Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b583dfdd51d295f6bd5a9c9"},"name":"RAPILIF 4mg Capsule 10's","composition":"Silodosin 4mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.163.30"}
+{"_id":{"$oid":"5b583dffd51d295f6bd5a9ca"},"name":"RAPILIF 8mg Capsule 10's","composition":"Silodosin 8mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.236.40"}
+{"_id":{"$oid":"5b583e01d51d295f6bd5a9cb"},"name":"RAPILIF D 4/0.5 COMBIPACK Capsule 10's","composition":"Dutasteride 0.5mg+Silodosin 4mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.218.90"}
+{"_id":{"$oid":"5b583e02d51d295f6bd5a9cc"},"name":"RAPILIF D 8/0.5mg Combipack Capsule 10's","composition":"Silodosin 8mg+Dutasteride 0.5mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.346.50"}
+{"_id":{"$oid":"5b583e04d51d295f6bd5a9cd"},"name":"REFLOW 0.4mg Tablet 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.80.00"}
+{"_id":{"$oid":"5b583e06d51d295f6bd5a9ce"},"name":"REFLOW 0.2mg Capsule 10's","composition":"Tamsulosin 0.2mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.49.00"}
+{"_id":{"$oid":"5b583e08d51d295f6bd5a9cf"},"name":"REFLOW D Tablet 10's","composition":"DUTASTERIDE 0.5MG+TAMSULOSIN 0.4MG","manufacturer":"Tasmed India (P) Limited","price":"Rs.175.00"}
+{"_id":{"$oid":"5b583e0ad51d295f6bd5a9d0"},"name":"REGUSOL 10mg Tablet 10's","composition":"SOLIFENACIN SUCCINATE 10MG","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.327.00"}
+{"_id":{"$oid":"5b583e0cd51d295f6bd5a9d1"},"name":"RESTREAM 5mg Tablet 10's","composition":"SOLIFENACIN SUCCINATE 5MG","manufacturer":"Tasmed India (P) Limited","price":"Rs.160.00"}
+{"_id":{"$oid":"5b583e0dd51d295f6bd5a9d2"},"name":"ROLIFLO OD 2mg Capsule 10's","composition":"Tamsulosin 0.4mg+Tolterodine 2mg (OD)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b583e0fd51d295f6bd5a9d3"},"name":"ROLIFLO OD 4mg Capsule 10's","composition":"Tamsulosin 0.4mg+Tolterodine 4mg (OD)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b583e11d51d295f6bd5a9d4"},"name":"ROLITEN 1mg Tablet 10's","composition":"Tolterodine Tartrate 1mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.92.00"}
+{"_id":{"$oid":"5b583e13d51d295f6bd5a9d5"},"name":"ROLITEN 2mg Tablet 10's","composition":"Tolterodine Tartrate 2mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b583e14d51d295f6bd5a9d6"},"name":"ROLITEN OD 2mg Capsule 10's","composition":"Tolterodine Tartrate 2mg (OD)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.122.00"}
+{"_id":{"$oid":"5b583e16d51d295f6bd5a9d7"},"name":"ROLITEN OD 4mg Capsule 10's","composition":"Tolterodine Tartrate 4mg (OD)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.239.50"}
+{"_id":{"$oid":"5b583e17d51d295f6bd5a9d8"},"name":"ROSPIUM XR 60mg Capsule 10's","composition":"Trospium 60mg","manufacturer":"Cipla Ltd","price":"Rs.211.72"}
+{"_id":{"$oid":"5b583e1ad51d295f6bd5a9d9"},"name":"RPDOSIS Powder 1.2gm","composition":"SODIUM BICARBONATE 1000MG","manufacturer":" NA ","price":"Rs.6.00"}
+{"_id":{"$oid":"5b583e1bd51d295f6bd5a9da"},"name":"RPMEL 5mg Tablet 10's","composition":"Metolazone 5mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.182.00"}
+{"_id":{"$oid":"5b583e1dd51d295f6bd5a9db"},"name":"RPMEL 2.5mg Tablet 10's","composition":"Metolazone 2.5mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.112.00"}
+{"_id":{"$oid":"5b583e20d51d295f6bd5a9dc"},"name":"SILDOO 8mg Capsule 10's","composition":"Silodosin 8mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.251.00"}
+{"_id":{"$oid":"5b583e21d51d295f6bd5a9dd"},"name":"SILDOO 4mg Capsule 10's","composition":"Silodosin 4mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.144.00"}
+{"_id":{"$oid":"5b583e24d51d295f6bd5a9de"},"name":"SILDURA 8mg Capsule 20's","composition":"Dutasteride 0.5mg+Silodosin 8mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.320.00"}
+{"_id":{"$oid":"5b583e25d51d295f6bd5a9df"},"name":"SILDURA 4/0.5mg Combi Kit 10's","composition":"Silodosin 4mg+Dutasteride0.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.195.00"}
+{"_id":{"$oid":"5b583e26d51d295f6bd5a9e0"},"name":"SILDURA 4mg COMBIPACK Capsule 10+10's","composition":"DUTASTERIDE 0.5MG+SILODOSIN 4MG","manufacturer":"Rpg Life Science Ltd","price":"Rs.214.30"}
+{"_id":{"$oid":"5b583e28d51d295f6bd5a9e1"},"name":"SILDURA 8/0.5mg Combi Kit 10's","composition":"SILODOSIN 8MG+DUTASTERIDE 0.5MG","manufacturer":" NA ","price":"Rs.295.00"}
+{"_id":{"$oid":"5b583e29d51d295f6bd5a9e2"},"name":"SILOCAP 8mg Capsule 10's","composition":"Silodosin 8mg","manufacturer":"Overseas Healthcare Pvt Ltd","price":"Rs.203.40"}
+{"_id":{"$oid":"5b583e2bd51d295f6bd5a9e3"},"name":"SILOCAP D 8/0.5mg Tablet 10's","composition":"Silodosin 8mg+Dutasteride 0.5mg","manufacturer":"Overseas Healthcare Pvt Ltd","price":"Rs.324.00"}
+{"_id":{"$oid":"5b583e2dd51d295f6bd5a9e4"},"name":"SILODAL D 4mg Capsule COMBI PACK 10's","composition":"Dutasteride 0.5mg+Silodosin 4mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.229.00"}
+{"_id":{"$oid":"5b583e2fd51d295f6bd5a9e5"},"name":"SILODAL 8mg Capsule 10's","composition":"Silodosin 8mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.213.00"}
+{"_id":{"$oid":"5b583e33d51d295f6bd5a9e6"},"name":"SILODAL 4mg Capsule 10's","composition":"Silodosin 4mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.144.00"}
+{"_id":{"$oid":"5b583e35d51d295f6bd5a9e7"},"name":"SILOFAST D 4mg Capsule 10's","composition":"Dutasteride 0.5mg+Silodosin 4mg","manufacturer":"Cipla Ltd","price":"Rs.290.00"}
+{"_id":{"$oid":"5b583e37d51d295f6bd5a9e8"},"name":"SILOFAST 8mg Capsule 15's","composition":"Silodosin 8mg","manufacturer":"Cipla Ltd","price":"Rs.390.00"}
+{"_id":{"$oid":"5b583e39d51d295f6bd5a9e9"},"name":"SILOFAST D 8mg Capsule 10's","composition":"Dutasteride 0.5mg+Silodosin 8mg","manufacturer":"Cipla Ltd","price":"Rs.381.45"}
+{"_id":{"$oid":"5b583e3cd51d295f6bd5a9ea"},"name":"SILOFAST 4mg Capsule 15's","composition":"Silodosin 4mg","manufacturer":"Cipla Ltd","price":"Rs.237.60"}
+{"_id":{"$oid":"5b583e3ed51d295f6bd5a9eb"},"name":"SILORAP 8mg Tablet 10's","composition":"Silodosin 8mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.195.00"}
+{"_id":{"$oid":"5b583e40d51d295f6bd5a9ec"},"name":"SILORAP 4mg Tablet 10's","composition":"Silodosin 4mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b583e42d51d295f6bd5a9ed"},"name":"SILORAP D 8/0.5mg Capsule 10's","composition":"SILODOSIN 8MG+DUTASTERIDE 0.5MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.300.00"}
+{"_id":{"$oid":"5b583e44d51d295f6bd5a9ee"},"name":"SILOSMART 8mg Capsule 10's","composition":"SILODOSIN 8MG","manufacturer":"Others","price":"Rs.195.00"}
+{"_id":{"$oid":"5b583e46d51d295f6bd5a9ef"},"name":"SILOSMART 4mg Capsule 10's","composition":"SILODOSIN 4MG","manufacturer":"Others","price":"Rs.135.00"}
+{"_id":{"$oid":"5b583e48d51d295f6bd5a9f0"},"name":"SILOTIME 8mg Capsule 10's","composition":"Silodosin 8mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.226.00"}
+{"_id":{"$oid":"5b583e4ad51d295f6bd5a9f1"},"name":"SILOTIME 4mg Capsule 10's","composition":"Silodosin 4mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.124.00"}
+{"_id":{"$oid":"5b583e4cd51d295f6bd5a9f2"},"name":"SILOTIME D 8/0.5 Capsule 10's","composition":"Silodosin 8mg+Dutasteride 0.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.295.00"}
+{"_id":{"$oid":"5b583e4ed51d295f6bd5a9f3"},"name":"SILOTRIF 8mg Tablet 10'S","composition":"SILODOSIN 8MG","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.195.00"}
+{"_id":{"$oid":"5b583e50d51d295f6bd5a9f4"},"name":"SILOTRIF 4mg Tablet 10's","composition":"Silodosin 4mg","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b583e52d51d295f6bd5a9f5"},"name":"SILURI 8MG CAPSULE 10'S","composition":"SILODOSIN 8MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.195.00"}
+{"_id":{"$oid":"5b583e54d51d295f6bd5a9f6"},"name":"SILURI 4mg Capsule 10's","composition":"Silodosin 4mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b583e56d51d295f6bd5a9f7"},"name":"SILURI D 4/0.5mg Capsule 10's","composition":"Silodosin 4mg+Dutasteride 0.5mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.195.00"}
+{"_id":{"$oid":"5b583e58d51d295f6bd5a9f8"},"name":"SODALOG 1000mg Tablet 10's","composition":"SODIUM BICARBONATE 1000MG","manufacturer":"Calren Care Lifesciences Pvt Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b583e5ad51d295f6bd5a9f9"},"name":"SOLIACT 5mg Tablet 15's","composition":"Solifenacin Succinate 5mg","manufacturer":"Cipla Ltd","price":"Rs.444.00"}
+{"_id":{"$oid":"5b583e5cd51d295f6bd5a9fa"},"name":"SOLIACT 10mg Tablet 15's","composition":"Solifenacin Succinate 10mg","manufacturer":"Cipla Ltd","price":"Rs.625.50"}
+{"_id":{"$oid":"5b583e5ed51d295f6bd5a9fb"},"name":"SOLICEPT 10mg Tablet 10's","composition":"Solifenacin Succinate 10mg","manufacturer":"Lupin Ltd","price":"Rs.322.50"}
+{"_id":{"$oid":"5b583e60d51d295f6bd5a9fc"},"name":"SOLICEPT 5mg Tablet 15's","composition":"Solifenacin Succinate 5gm","manufacturer":"Lupin Ltd","price":"Rs.410.66"}
+{"_id":{"$oid":"5b583e62d51d295f6bd5a9fd"},"name":"SOLIGUARD 5mg Tablet 10's","composition":"SOLIFENACIN SUCCINATE 5MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b583e64d51d295f6bd5a9fe"},"name":"SOLITEN 10mg Tablet 10's","composition":"Solifenacin Succinate 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.370.00"}
+{"_id":{"$oid":"5b583e66d51d295f6bd5a9ff"},"name":"SOLITEN 5mg Tablet 10's","composition":"Solifenacin Succinate 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.268.00"}
+{"_id":{"$oid":"5b583e67d51d295f6bd5aa00"},"name":"SOLITRAL Capsule 10's","composition":"Alfuzosin+Solifenacin","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.282.00"}
+{"_id":{"$oid":"5b583e68d51d295f6bd5aa01"},"name":"SPEROXATE Tablet 10's","composition":"Flavoxate 200mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b583e6ad51d295f6bd5aa02"},"name":"STERDU 0.5mg Capsule 10's","composition":"Dutasteride 0.5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.165.90"}
+{"_id":{"$oid":"5b583e6cd51d295f6bd5aa03"},"name":"STERDU L Tablet 10's","composition":"Alfuzosin 10mg+Dutasteride 0.5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.159.00"}
+{"_id":{"$oid":"5b583e6ed51d295f6bd5aa04"},"name":"TAM DART Tablet 10's","composition":"Dutasteride+Tamsulosin","manufacturer":"Theia Healthcare","price":"Rs.165.00"}
+{"_id":{"$oid":"5b583e70d51d295f6bd5aa05"},"name":"TAMCONTIN 0.4mg Tablet 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b583e72d51d295f6bd5aa06"},"name":"TAMCONTIN 0.2mg Tablet 10's","composition":"Tamsulosin 0.2mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.107.20"}
+{"_id":{"$oid":"5b583e74d51d295f6bd5aa07"},"name":"TAMCONTIN D Tablet 10's","composition":"Dutasteride+Tamsulosin","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.301.00"}
+{"_id":{"$oid":"5b583e76d51d295f6bd5aa08"},"name":"TAMCUF 0.4mg Tablet 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b583e78d51d295f6bd5aa09"},"name":"TAMCUF D Tablet 10's","composition":"Tamsulosin 0.4mg+Dutasteride 0.5mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b583e79d51d295f6bd5aa0a"},"name":"TAMDURA F Capsule 10's","composition":"Finasteride+Tamsulosin","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.189.00"}
+{"_id":{"$oid":"5b583e7ad51d295f6bd5aa0b"},"name":"TAMDURA Capsule 10's","composition":"Dutasteride+Tamsulosin","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.239.00"}
+{"_id":{"$oid":"5b583e7cd51d295f6bd5aa0c"},"name":"TAMFIL Capsule 15's","composition":"TAMSULOSIN HYDROCHLORIDE 0.4MG","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b583e7fd51d295f6bd5aa0d"},"name":"TAMFLO 0.2mg Capsule 10's","composition":"Tamsulosin 0.2mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.91.00"}
+{"_id":{"$oid":"5b583e81d51d295f6bd5aa0e"},"name":"TAMFLO 0.8mg Capsule 10's","composition":"Tamsulosin 0.8mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.134.18"}
+{"_id":{"$oid":"5b583e83d51d295f6bd5aa0f"},"name":"TAMFLO 0.4mg Capsule 10's","composition":"TAMSULOSIN 0.4MG","manufacturer":" NA ","price":"Rs.99.50"}
+{"_id":{"$oid":"5b583e86d51d295f6bd5aa10"},"name":"TAMFLO D Capsule 10's","composition":"TAMSULOSIN HYDROCHLORIDE 0.4MG+DUTASTERIDE 0.5MG","manufacturer":" NA ","price":"Rs.210.00"}
+{"_id":{"$oid":"5b583e87d51d295f6bd5aa11"},"name":"TAMGRESS 0.4mg Tablet 10's","composition":"Tamsulosin 0.4mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b583e89d51d295f6bd5aa12"},"name":"TAMGRESS D Capsule 10's","composition":"Tamsulosin 0.4mg+Dutasteride 0.5mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b583e8bd51d295f6bd5aa13"},"name":"TAMLAGO 0.4mg Tablet 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Aprica Pharmaceuticals Pvt Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b583e8dd51d295f6bd5aa14"},"name":"TAmlAGO D Tablet 10's","composition":"Dutasteride 0.5mg+Tamsulosin 0.4mg","manufacturer":"Aprica Pharmaceuticals Pvt Ltd","price":"Rs.169.00"}
+{"_id":{"$oid":"5b583e8fd51d295f6bd5aa15"},"name":"TAMLOCEPT 0.2mg Capsule 10's","composition":"Tamsulosin 0.2mg","manufacturer":"Lupin Ltd","price":"Rs.47.62"}
+{"_id":{"$oid":"5b583e91d51d295f6bd5aa16"},"name":"TAMLOCEPT 0.4mg Capsule 15's","composition":"Tamsulosin 0.4mg","manufacturer":"Lupin Ltd","price":"Rs.157.50"}
+{"_id":{"$oid":"5b583e93d51d295f6bd5aa17"},"name":"TAMLOCEPT D Capsule 15's","composition":"Dutasteride+Tamsulosin","manufacturer":"Lupin Ltd","price":"Rs.238.50"}
+{"_id":{"$oid":"5b583e95d51d295f6bd5aa18"},"name":"TAMPROS MR 0.4mg Tablet 10's","composition":"Tamsulosin 0.4mg (MR)","manufacturer":"Colgen Pharma","price":"Rs.29.50"}
+{"_id":{"$oid":"5b583e97d51d295f6bd5aa19"},"name":"TAMSIN D Tablet 15's","composition":"Dutasteride+Tamsulosin","manufacturer":"Walter Bushnell Pvt Ltd","price":"Rs.404.83"}
+{"_id":{"$oid":"5b583e99d51d295f6bd5aa1a"},"name":"TAMSIN Tablet 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Walter Bushnell Pvt Ltd","price":"Rs.76.96"}
+{"_id":{"$oid":"5b583e9ad51d295f6bd5aa1b"},"name":"TAMSIN Tablet 15's","composition":"Tamsulosin 0.4mg","manufacturer":"Walter Bushnell Pvt Ltd","price":"Rs.139.51"}
+{"_id":{"$oid":"5b583e9cd51d295f6bd5aa1c"},"name":"TAMSTREAM D Tablet 10's","composition":"Dutasteride 0.5mg+Tamsulosin 0.4mg","manufacturer":"Akesiss Pharma Pvt Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b583e9ed51d295f6bd5aa1d"},"name":"TAMSULIN 0.2mg Tablet 10's","composition":"Tamsulosin 0.2mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.41.00"}
+{"_id":{"$oid":"5b583ea0d51d295f6bd5aa1e"},"name":"TAMSULIN 0.4mg Tablet 10's","composition":"Tamsulosin 0.4mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.117.15"}
+{"_id":{"$oid":"5b583ea2d51d295f6bd5aa1f"},"name":"TAMSULIN D Tablet 15's","composition":"Dutasteride 0.5mg+Tamsulosin 0.4mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.265.57"}
+{"_id":{"$oid":"5b583ea4d51d295f6bd5aa20"},"name":"TAMSULIN D 0.4/0.5mg Tablet 10's","composition":"Tamsulosin 0.4mg+Dutasteride 0.5mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.185.90"}
+{"_id":{"$oid":"5b583ea6d51d295f6bd5aa21"},"name":"TAMSULIN T 0.4/4mg Capsule 10's","composition":"Tamsulosin 0.4mg+Tolterodine 4mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.180.00"}
+{"_id":{"$oid":"5b583ea9d51d295f6bd5aa22"},"name":"TAMYSIN 0.4mg Tablet 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Swati Spentose Pvt Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b583eabd51d295f6bd5aa23"},"name":"TASULIN D Capsule 15's","composition":"Tamsulosin","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.356.00"}
+{"_id":{"$oid":"5b583eacd51d295f6bd5aa24"},"name":"TASULIN 0.2mg Tablet 10's","composition":"Tamsulosin 0.2mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.39.05"}
+{"_id":{"$oid":"5b583eaed51d295f6bd5aa25"},"name":"TASULIN 0.4mg Tablet 14's","composition":"Tamsulosin 0.4mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.135.30"}
+{"_id":{"$oid":"5b583eb2d51d295f6bd5aa26"},"name":"TEMSUNOL F Tablet 10's","composition":"Finasteride+Tamsulosin","manufacturer":"Knoll Pharmaceuticals Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b583eb4d51d295f6bd5aa27"},"name":"TEROD 4mg Tablet 10's","composition":"Tolterodine 4mg","manufacturer":"Swati Spentose Pvt Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b583eb6d51d295f6bd5aa28"},"name":"TEROL LA ER 2mg CAPSULE 10's","composition":"Tolterodine Tartarate 2mg (ER)","manufacturer":"Cipla Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b583eb8d51d295f6bd5aa29"},"name":"TEROL 1mg Tablet 10's","composition":"Tolterodine 1mg","manufacturer":"Cipla Ltd","price":"Rs.55.25"}
+{"_id":{"$oid":"5b583ebad51d295f6bd5aa2a"},"name":"TEROL LA 2mg Capsule 10's","composition":"Tolterodine Tartrate 2mg","manufacturer":"Cipla Ltd","price":"Rs.133.00"}
+{"_id":{"$oid":"5b583ebcd51d295f6bd5aa2b"},"name":"TEROL 2mg Tablet 10's","composition":"Tolterodine 2mg","manufacturer":"Cipla Ltd","price":"Rs.82.21"}
+{"_id":{"$oid":"5b583ebdd51d295f6bd5aa2c"},"name":"TEROL LA 4mg Capsule 10's","composition":"Tolterodine Tartrate 4mg","manufacturer":"Cipla Ltd","price":"Rs.234.50"}
+{"_id":{"$oid":"5b583ec0d51d295f6bd5aa2d"},"name":"TEROL LA ER 4mg Capsule 10's","composition":"Tolterodine Tartarate 4mg (ER)","manufacturer":"Cipla Ltd","price":"Rs.257.95"}
+{"_id":{"$oid":"5b583ec1d51d295f6bd5aa2e"},"name":"TOLCONTIN 2mg Tablet 10's","composition":"Tolterodine Tartrate 2mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b583ec3d51d295f6bd5aa2f"},"name":"TOLCONTIN 4mg Tablet 10's","composition":"Tolterodine Tartrate 4mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b583ec5d51d295f6bd5aa30"},"name":"TOLGRESS 4mg Capsule 10's","composition":"Tolterodine Tartrate 4mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.159.00"}
+{"_id":{"$oid":"5b583ec7d51d295f6bd5aa31"},"name":"TOLTER 4mg Tablet 2's","composition":"Tolterodine 4mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.181.90"}
+{"_id":{"$oid":"5b583ec9d51d295f6bd5aa32"},"name":"TOLTER OD 2mg Tablet 10's","composition":"Tolterodine Tartarate 2mg (OD)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.117.60"}
+{"_id":{"$oid":"5b583ecbd51d295f6bd5aa33"},"name":"TOLU XR 2mg Tablet 10's","composition":"Tolterodine Tartarate 2mg (XR)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.115.00"}
+{"_id":{"$oid":"5b583ecdd51d295f6bd5aa34"},"name":"TOLU XR 4mg Tablet 10's","composition":"Tolterodine Tartrate 4mg (XR)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.203.50"}
+{"_id":{"$oid":"5b583ecfd51d295f6bd5aa35"},"name":"TORQ 1mg Tablet 10's","composition":"Tolterodine 1mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.55.44"}
+{"_id":{"$oid":"5b583ed1d51d295f6bd5aa36"},"name":"TORQ SR 2mg Capsule 30's","composition":"Tolterodine Tartrate 2mg (SR)","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.319.00"}
+{"_id":{"$oid":"5b583ed3d51d295f6bd5aa37"},"name":"TORQ SR 4mg Capsule 30's","composition":"Tolterodine Tartrate 4mg (SR)","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.687.00"}
+{"_id":{"$oid":"5b583ed4d51d295f6bd5aa38"},"name":"TORQUE 4mg Tablet 10's","composition":"Tolterodine 4mg","manufacturer":"Cipla Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b583ed6d51d295f6bd5aa39"},"name":"TRICOFIN Tablet 10's","composition":"Finasteride 1mg","manufacturer":"Zyris Derma Care Pvt Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b583edad51d295f6bd5aa3a"},"name":"TROPAN 2.5mg Tablet 10's","composition":"Oxybutynin Chloride 2.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b583edcd51d295f6bd5aa3b"},"name":"TROPAN 5mg Tablet 10's","composition":"Oxybutynin Chloride 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b583eddd51d295f6bd5aa3c"},"name":"TROPAN XL 5mg Tablet 10's","composition":"Oxybutynin Chloride 5mg (XL)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.144.00"}
+{"_id":{"$oid":"5b583edfd51d295f6bd5aa3d"},"name":"URIFINET 0.4/5mg Tablet 10's","composition":"FINASTERIDE 5MG+TAMSULOSIN HYDROCHLORIDE 0.4MG","manufacturer":"Invision Medi Sciences Pvt Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b583ee1d51d295f6bd5aa3e"},"name":"URIFREE Tablet 10's","composition":"Flavoxate","manufacturer":"Ttk Healthcare Ltd","price":"Rs.186.00"}
+{"_id":{"$oid":"5b583ee4d51d295f6bd5aa3f"},"name":"URIFREE O Tablet 10's","composition":"Flavoxate+Ofloxacin","manufacturer":"Ttk Healthcare Ltd","price":"Rs.202.50"}
+{"_id":{"$oid":"5b583ee5d51d295f6bd5aa40"},"name":"URIKIND K Solution 100ml","composition":"Citric Acid+Potassium Citrate","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.49.50"}
+{"_id":{"$oid":"5b583ee8d51d295f6bd5aa41"},"name":"URIKIND Tablet 10's","composition":"Flavoxate 200mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.119.79"}
+{"_id":{"$oid":"5b583eead51d295f6bd5aa42"},"name":"URIKIND KM 6 Solution 100ml","composition":"MAGNESIUM CITRATE 375MG+POTASSIUM CITRATE 1100MG+PYRIDOXINE(VIT B6) 20MG","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.79.86"}
+{"_id":{"$oid":"5b583eecd51d295f6bd5aa43"},"name":"URILOSIN 2mg Tablet 10's","composition":"Tamsulosin 2mg","manufacturer":"Cipla Ltd","price":"Rs.45.21"}
+{"_id":{"$oid":"5b583eecd51d295f6bd5aa44"},"name":"URILOSIN 0.4mg Capsule 15's","composition":"Tamsulosin 0.4mg","manufacturer":"Cipla Ltd","price":"Rs.93.65"}
+{"_id":{"$oid":"5b583eefd51d295f6bd5aa45"},"name":"URILOSIN 0.2mg Tablet 10's","composition":"Tamsulosin 0.2mg","manufacturer":"Cipla Ltd","price":"Rs.43.47"}
+{"_id":{"$oid":"5b583ef1d51d295f6bd5aa46"},"name":"URILOSIN 0.4mg Capsule 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Cipla Ltd","price":"Rs.93.65"}
+{"_id":{"$oid":"5b583ef2d51d295f6bd5aa47"},"name":"URILOSIN D Tablet 10's","composition":"Tamsulosin 0.4mg+Dutasteride 0.5mg","manufacturer":"Cipla Ltd","price":"Rs.149.17"}
+{"_id":{"$oid":"5b583ef4d51d295f6bd5aa48"},"name":"URILOSIN F 0.4/5mg Capsule 10's","composition":"Tamsulosin 0.4mg+Finasteride 5mg","manufacturer":"Cipla Ltd","price":"Rs.127.30"}
+{"_id":{"$oid":"5b583ef5d51d295f6bd5aa49"},"name":"URIMAX F Capsule 15's","composition":"Finasteride+Tamsulosin","manufacturer":"Cipla Ltd","price":"Rs.336.50"}
+{"_id":{"$oid":"5b583ef7d51d295f6bd5aa4a"},"name":"URIMAX 0.4mg Capsule 15's","composition":"Tamsulosin 0.4mg","manufacturer":"Cipla Ltd","price":"Rs.165.50"}
+{"_id":{"$oid":"5b583ef8d51d295f6bd5aa4b"},"name":"URIMAX 0.4mg Capsule 30's","composition":"TAMSULOSIN 0.4MG","manufacturer":"Cipla Ltd","price":"Rs.262.50"}
+{"_id":{"$oid":"5b583efad51d295f6bd5aa4c"},"name":"URIMAX 0.2mg Capsule 10's","composition":"Tamsulosin 0.2mg","manufacturer":"Cipla Ltd","price":"Rs.77.50"}
+{"_id":{"$oid":"5b583efdd51d295f6bd5aa4d"},"name":"URIMAX D Tablet 15's","composition":"Dutasteride+Tamsulosin","manufacturer":"Cipla Ltd","price":"Rs.395.00"}
+{"_id":{"$oid":"5b583effd51d295f6bd5aa4e"},"name":"URIPRO 0.4mg Capsule 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Fdc Ltd","price":"Rs.51.40"}
+{"_id":{"$oid":"5b583f01d51d295f6bd5aa4f"},"name":"URIPRO 0.2mg Capsule 10's","composition":"Tamsulosin 0.2mg","manufacturer":"Fdc Ltd","price":"Rs.34.28"}
+{"_id":{"$oid":"5b583f03d51d295f6bd5aa50"},"name":"URISPAS Tablet 15's","composition":"Flavoxate 200mg","manufacturer":"Walter Bushnell Pvt Ltd","price":"Rs.283.96"}
+{"_id":{"$oid":"5b583f05d51d295f6bd5aa51"},"name":"URISURGE 0.4mg Tablet 10's","composition":"Tamsulosin 0.4mg","manufacturer":"Obsurge Biotech Ltd","price":"Rs.60.50"}
+{"_id":{"$oid":"5b583f07d51d295f6bd5aa52"},"name":"URISURGE D Capsule 10's","composition":"Dutasteride 0.5mg+Tamsulosin 0.4mg","manufacturer":"Obsurge Biotech Ltd","price":"Rs.126.50"}
+{"_id":{"$oid":"5b583f08d51d295f6bd5aa53"},"name":"URITIN 0.4mg Tablet 10's","composition":"TAMSULOSIN 0.4MG","manufacturer":"Overseas Healthcare Pvt Ltd","price":"Rs.77.40"}
+{"_id":{"$oid":"5b583f0ad51d295f6bd5aa54"},"name":"URITIN D Tablet 10's","composition":"DUTASTERIDE 0.5MG+TAMSULOSIN 0.4MG","manufacturer":"Overseas Healthcare Pvt Ltd","price":"Rs.202.00"}
+{"_id":{"$oid":"5b583f0cd51d295f6bd5aa55"},"name":"URODINE 2mg Tablet 10's","composition":"Tolterodine 2mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b583f0ed51d295f6bd5aa56"},"name":"URODINE 4mg Tablet 10's","composition":"Tolterodine 4mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b583f10d51d295f6bd5aa57"},"name":"UROTEL XL 2mg Capsule 10's","composition":"Tolterodine 2mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.102.00"}
+{"_id":{"$oid":"5b583f12d51d295f6bd5aa58"},"name":"UROTEL XL 4mg Tablet 10's","composition":"Tolterodine Tartrate 4mg (XL)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b583f14d51d295f6bd5aa59"},"name":"UROTEL XL 4mg Capsule 10's","composition":"Tolterodine 4mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b583f15d51d295f6bd5aa5a"},"name":"UROTEL XL 5mg Tablet 10's","composition":"Tolterodine 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.93.40"}
+{"_id":{"$oid":"5b583f19d51d295f6bd5aa5b"},"name":"UROZA Tablet 10's","composition":"Flavoxate","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b583f1bd51d295f6bd5aa5c"},"name":"UTICEPT Tablet 10's","composition":"Flavoxate","manufacturer":"Lupin Ltd","price":"Rs.134.15"}
+{"_id":{"$oid":"5b583f1dd51d295f6bd5aa5d"},"name":"VELFU Tablet 7's","composition":"Alfuzosin 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b583f1fd51d295f6bd5aa5e"},"name":"VELFU D Tablet 7's","composition":"Alfuzosin+Dutasteride","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b583f21d51d295f6bd5aa5f"},"name":"VELTAM F Tablet 15's","composition":"Finasteride+Tamsulosin","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.284.00"}
+{"_id":{"$oid":"5b583f23d51d295f6bd5aa60"},"name":"VELTAM 0.2mg Tablet 10's","composition":"Tamsulosin 0.2mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.47.00"}
+{"_id":{"$oid":"5b583f24d51d295f6bd5aa61"},"name":"VELTAM PLUS Tablet 15's","composition":"Dutasteride+Tamsulosin","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.335.00"}
+{"_id":{"$oid":"5b583f26d51d295f6bd5aa62"},"name":"VELTAM 0.4mg Tablet 15's","composition":"Tamsulosin 0.4mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.121.00"}
+{"_id":{"$oid":"5b583f29d51d295f6bd5aa63"},"name":"VELTRIDE 0.5MG TABLET 10'S","composition":"DUTASTERIDE 0.5MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.174.00"}
+{"_id":{"$oid":"5b583f2bd51d295f6bd5aa64"},"name":"VERIN UTI 200mg Tablet 10's","composition":"Flavoxate 200mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.85.71"}
+{"_id":{"$oid":"5b583f2dd51d295f6bd5aa65"},"name":"VESIACT Tablet 10's","composition":"Solifenacin Succinate 5mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.255.00"}
+{"_id":{"$oid":"5b583f2ed51d295f6bd5aa66"},"name":"VESIFA 5mg Tablet 10's","composition":"SOLIFENACIN SUCCINATE 5MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b583f30d51d295f6bd5aa67"},"name":"VESIFA 10mg Balm 10's","composition":"SOLIFENACIN SUCCINATE 10MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.300.00"}
+{"_id":{"$oid":"5b583f32d51d295f6bd5aa68"},"name":"VESIGARD 7.5mg Tablet 10's","composition":"Darifenacin 7.5mg","manufacturer":"Cipla Ltd","price":"Rs.224.00"}
+{"_id":{"$oid":"5b583f34d51d295f6bd5aa69"},"name":"VOXATE Tablet 10's","composition":"Flavoxate 200mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b583f36d51d295f6bd5aa6a"},"name":"ZOVATAM D Tablet 10's","composition":"Dutasteride 0.5mg+Tamsulosin 0.4mg","manufacturer":"Others","price":"Rs.115.00"}
+{"_id":{"$oid":"5b583f38d51d295f6bd5aa6b"},"name":"ZYALFA Tablet 10's","composition":"Alfuzosin","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.116.90"}
+{"_id":{"$oid":"5b583f3ad51d295f6bd5aa6c"},"name":"ZYALFA D Tablet 10's","composition":"Alfuzosin+Dutasteride","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.236.60"}

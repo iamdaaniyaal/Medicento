@@ -1,0 +1,437 @@
+{"_id":{"$oid":"5b564867d51d2945f4b7348e"},"name":"A CN Soap 75gm","composition":"AYURVEDIC ","manufacturer":"Aakash Pharmaceuticals","price":"Rs.150.00"}
+{"_id":{"$oid":"5b564867d51d2945f4b7348f"},"name":"A CN Gel(Topical) 20gm","composition":"CLINDAMYCIN 1%+NICOTINAMIDE 4%","manufacturer":"Eskon Pharma","price":"Rs.120.00"}
+{"_id":{"$oid":"5b564868d51d2945f4b73490"},"name":"A RET 0.025% Gel 20gm","composition":"Tretinoin 0.025%","manufacturer":"Menarini India Pvt Ltd","price":"Rs.71.00"}
+{"_id":{"$oid":"5b564868d51d2945f4b73491"},"name":"A RET 0.05% Gel 20gm","composition":"Tretinoin 0.05%","manufacturer":"Menarini India Pvt Ltd","price":"Rs.92.00"}
+{"_id":{"$oid":"5b564869d51d2945f4b73492"},"name":"A RET 0.1% Gel 20gm","composition":"Tretinoin 0.1%","manufacturer":"Menarini India Pvt Ltd","price":"Rs.116.00"}
+{"_id":{"$oid":"5b564869d51d2945f4b73493"},"name":"ACCARE GEL 15GM","composition":"ADAPALENE 0.1%+CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Surecare Pharma Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b56486bd51d2945f4b73494"},"name":"ACLEEN 1% LOTION 25ML","composition":"CLINDAMYCIN 1%","manufacturer":"Talent India","price":"Rs.76.00"}
+{"_id":{"$oid":"5b56486cd51d2945f4b73495"},"name":"ACLENE 0.10% Gel 15gm","composition":"Adapalene 0.10%","manufacturer":"Cipla Ltd","price":"Rs.86.25"}
+{"_id":{"$oid":"5b56486cd51d2945f4b73496"},"name":"ACNAY Gel 10gm","composition":"Clindamycin 1%W/W+Nicotinamide 4%W/W","manufacturer":"Medlab Pharmaceuticals Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b56486dd51d2945f4b73497"},"name":"ACNE UV Gel 60gm","composition":"Sunscreen","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.764.00"}
+{"_id":{"$oid":"5b564870d51d2945f4b73498"},"name":"ACNECLIN Gel 10gm","composition":"Clindamycin 1%W/W","manufacturer":"Themis Pharmaceutical Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b564872d51d2945f4b73499"},"name":"ACNEDAP Gel 15gm","composition":"Dapsone 5%W/W","manufacturer":"Cipla Ltd","price":"Rs.299.20"}
+{"_id":{"$oid":"5b564872d51d2945f4b7349a"},"name":"ACNEHIT Gel 15gm","composition":"ADAPALENE 0.1%+BENZOYL PEROXIDE 2.5%","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.390.00"}
+{"_id":{"$oid":"5b564873d51d2945f4b7349b"},"name":"ACNELAK Z Lotion 15gm","composition":"Erythromycin 4%+Zinc 0.02","manufacturer":"Menarini India Pvt Ltd","price":"Rs.61.00"}
+{"_id":{"$oid":"5b564873d51d2945f4b7349c"},"name":"ACNELAK Soap 75gm","composition":"Aloe Vera 0.2%+Tea Tree Oil 0.002+Triclosan 0.005+Zinc 0.001","manufacturer":"Menarini India Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b564875d51d2945f4b7349d"},"name":"ACNELAK CLZ Cream 15gm","composition":"Clindamycin 1%+Zinc 0.01","manufacturer":"Menarini India Pvt Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b564877d51d2945f4b7349e"},"name":"ACNEMOIST Cream 60gm","composition":"Moisturising","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.275.00"}
+{"_id":{"$oid":"5b564879d51d2945f4b7349f"},"name":"ACNEREX Soap 75gm","composition":"Allantoin 3%+Aloe Vera 0.01+Titanium Dioxide 0.05","manufacturer":"Medlab Pharmaceuticals Pvt Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b56487ad51d2945f4b734a0"},"name":"ACNESOL 1% Solution 25ml","composition":"Clindamycin 1%W/V","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b56487bd51d2945f4b734a1"},"name":"ACNESOL Gel 20gm","composition":"Clindamycin 1%W/W","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.73.00"}
+{"_id":{"$oid":"5b56487bd51d2945f4b734a2"},"name":"ACNESOL Solution 45ml","composition":"Clindamycin 1%W/V","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b56487cd51d2945f4b734a3"},"name":"ACNESOL A NANO Gel 15gm","composition":"Adapalene+Clindamycin","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.189.00"}
+{"_id":{"$oid":"5b56487dd51d2945f4b734a4"},"name":"ACNESOL CL Gel 15gm","composition":"Clarithromycin 1%W/W","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b56487fd51d2945f4b734a5"},"name":"ACNESTAL Soap 75gm","composition":"Allantoin","manufacturer":"Biomedica Life Science","price":"Rs.88.00"}
+{"_id":{"$oid":"5b564881d51d2945f4b734a6"},"name":"ACNESTAR 2.5% Soap 75gm","composition":"Benzoyl Peroxide 2.5%W/W","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b564881d51d2945f4b734a7"},"name":"ACNESTAR 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b564882d51d2945f4b734a8"},"name":"ACNESTAR S SOAP 75gm","composition":"Sulphonated Surfactant Blend","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b564882d51d2945f4b734a9"},"name":"ACNESTAR 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.87.89"}
+{"_id":{"$oid":"5b564884d51d2945f4b734aa"},"name":"ACNESTAR Gel 22gm","composition":"Clindamycin 1%+Nicotinamide 4%","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b564887d51d2945f4b734ab"},"name":"ACNETOIN SG 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.52.50"}
+{"_id":{"$oid":"5b56488ad51d2945f4b734ac"},"name":"ACNETOR AD 1% Ointment 15gm","composition":"Clindamycin+Adapalene","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b56488ad51d2945f4b734ad"},"name":"ACNETOR AD Cream 15","composition":"ADAPALENE 0.1%+CLINDAMYCIN 0.01%","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.218.70"}
+{"_id":{"$oid":"5b56488bd51d2945f4b734ae"},"name":"ACNEVON Soap 75gm","composition":"Sulphonated Surfactant Blend","manufacturer":"Zee Laboratories Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b56488dd51d2945f4b734af"},"name":"ACNEWAR Gel 15gm","composition":"Dapsone","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.218.00"}
+{"_id":{"$oid":"5b56488dd51d2945f4b734b0"},"name":"ACNEWAR PLUS Gel 15gm","composition":"Adapalene+Dapsone","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.274.00"}
+{"_id":{"$oid":"5b56488ed51d2945f4b734b1"},"name":"ACNEX 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.119.90"}
+{"_id":{"$oid":"5b56488ed51d2945f4b734b2"},"name":"ACNEX 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.145.15"}
+{"_id":{"$oid":"5b564891d51d2945f4b734b3"},"name":"ACNEX BAR 75gm","composition":"Sulphonated Surfactant 6.38%","manufacturer":"Unichem Laboratories Ltd","price":"Rs.114.35"}
+{"_id":{"$oid":"5b564894d51d2945f4b734b4"},"name":"ACNEZYL Gel(Topical) 10gm","composition":"Ayurvedic Medicine ","manufacturer":"Wings Biotech Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b564895d51d2945f4b734b5"},"name":"ACNICIN 1/1% Solution 25ml","composition":"Adapalene 1%+Clindamycin 1%","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.27.86"}
+{"_id":{"$oid":"5b564895d51d2945f4b734b6"},"name":"ACNICIN Gel 15gm","composition":"Adapalene 0.1%W/W+Clindamycin 1%W/W","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.147.65"}
+{"_id":{"$oid":"5b564896d51d2945f4b734b7"},"name":"ACNIL Soap 75gm","composition":"Salicylic Acid ","manufacturer":"Mark India Cosmed Pvt Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b564896d51d2945f4b734b8"},"name":"ACNIN Cream 50gm","composition":"GLYCERIN 0","manufacturer":"Apple Therapeutics Pvt Ltd","price":"Rs.224.00"}
+{"_id":{"$oid":"5b564897d51d2945f4b734b9"},"name":"ACNIN PIMPLE CARE Face Pack 50gm","composition":"Face Pack ","manufacturer":"Apple Therapeutics Pvt Ltd","price":"Rs.224.00"}
+{"_id":{"$oid":"5b56489ad51d2945f4b734ba"},"name":"ACNO 0.05% Gel 15gm","composition":"Isotretinoin 0.05%","manufacturer":"Ajanta Pharma Ltd","price":"Rs.95.88"}
+{"_id":{"$oid":"5b56489ad51d2945f4b734bb"},"name":"ACNO 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.151.10"}
+{"_id":{"$oid":"5b56489bd51d2945f4b734bc"},"name":"ACNOFF ANTI ACNE BAR 100gm","composition":"Allantoin 0.2%+Tea Tree Oil 0.0025+Titanium Dioxide 0.005+Tocopheryl(Vit E) 0.0025","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b56489dd51d2945f4b734bd"},"name":"ACNORM Lotion 180ml","composition":"Calamine 6%+Glycerin 0.04+Sulphur 0.03+Zinc 4%W/V","manufacturer":"Newtrimed","price":"Rs.285.00"}
+{"_id":{"$oid":"5b56489dd51d2945f4b734be"},"name":"ACNOVATE Gel 15gm","composition":"Adapalene 0.1%W/W+Clindamycin 1%W/W","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.198.00"}
+{"_id":{"$oid":"5b5648a0d51d2945f4b734bf"},"name":"ACRUB ANTI ACNE 1% GEL 20GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Psychotropics India Limited","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5648a1d51d2945f4b734c0"},"name":"ACUTRET 30mg Capsule 10's","composition":"Isotretinoin 30mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.253.00"}
+{"_id":{"$oid":"5b5648a3d51d2945f4b734c1"},"name":"ACUTRET 5mg Capsule 10's","composition":"Isotretinoin 5mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.84.70"}
+{"_id":{"$oid":"5b5648a3d51d2945f4b734c2"},"name":"ACUTRET 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.217.50"}
+{"_id":{"$oid":"5b5648a6d51d2945f4b734c3"},"name":"ACUTRET 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.145.20"}
+{"_id":{"$oid":"5b5648a8d51d2945f4b734c4"},"name":"ACZIT 10mg Softgel 10's","composition":"Isotretinoin 10mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5648a8d51d2945f4b734c5"},"name":"ADABOR Gel 15gm","composition":"Adapalene 0.1%W/W+Benzoyl Peroxide 0.25%W/W","manufacturer":"Hetero Healthcare Ltd","price":"Rs.370.00"}
+{"_id":{"$oid":"5b5648aad51d2945f4b734c6"},"name":"ADACLENE Gel 15gm","composition":"Adapalene 0.1%","manufacturer":"Cipla Ltd","price":"Rs.116.50"}
+{"_id":{"$oid":"5b5648abd51d2945f4b734c7"},"name":"ADACLIN Gel 20gm","composition":"Clindamycin 1%W/W","manufacturer":"Ethinext Pharma","price":"Rs.110.00"}
+{"_id":{"$oid":"5b5648abd51d2945f4b734c8"},"name":"ADAFERIN Gel 15gm","composition":"Adapalene 0.1%W/W","manufacturer":"Galderma India Pvt Ltd","price":"Rs.218.00"}
+{"_id":{"$oid":"5b5648acd51d2945f4b734c9"},"name":"ADALENE NANO Gel 15mg","composition":"ADAPALENE 0.1%W/W+CLINDAMYCIN 1%W/W","manufacturer":"Zydus Liva Healthcare Pvt Ltd","price":"Rs.235.50"}
+{"_id":{"$oid":"5b5648acd51d2945f4b734ca"},"name":"ADAPEN Gel 15gm","composition":"Adapalene 0.1%W/W","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.122.00"}
+{"_id":{"$oid":"5b5648add51d2945f4b734cb"},"name":"ADAPLE Gel 15gm","composition":"Adapalene 0.1%W/W","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.156.00"}
+{"_id":{"$oid":"5b5648afd51d2945f4b734cc"},"name":"ADAPLE C Gel 15gm","composition":"Adapalene 0.1%W/W+Clindamycin 1%W/W","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.187.60"}
+{"_id":{"$oid":"5b5648afd51d2945f4b734cd"},"name":"ADAPNIL Gel 15gm","composition":"ADAPALENE","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.85.55"}
+{"_id":{"$oid":"5b5648b1d51d2945f4b734ce"},"name":"ADIFF AQUEOUS Gel 15gm","composition":"Adapalene","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.154.00"}
+{"_id":{"$oid":"5b5648b2d51d2945f4b734cf"},"name":"ADISTAR Gel 15gm","composition":"Adapalene 0.1%","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.69.90"}
+{"_id":{"$oid":"5b5648b5d51d2945f4b734d0"},"name":"ADISTARC Gel 10gm","composition":"Adapalene 0.1mg+Clindamycin 1%","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.79.90"}
+{"_id":{"$oid":"5b5648b5d51d2945f4b734d1"},"name":"ADITOP C GEL 15GM","composition":"ADAPALENE 0.1%+CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Dermocare Laboratories Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5648b5d51d2945f4b734d2"},"name":"AIRET 0.10% Cream 15gm","composition":"Isotretinoin 0.10%","manufacturer":"Menarini India Pvt Ltd","price":"Rs.89.10"}
+{"_id":{"$oid":"5b5648b6d51d2945f4b734d3"},"name":"AIRET 0.50% Cream 15gm","composition":"Isotretinoin 0.50%","manufacturer":"Menarini India Pvt Ltd","price":"Rs.61.13"}
+{"_id":{"$oid":"5b5648b8d51d2945f4b734d4"},"name":"AIROL 0.05% Cream 20gm","composition":"Retinoic Acid 0.05%","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.101.06"}
+{"_id":{"$oid":"5b5648b8d51d2945f4b734d5"},"name":"AIROL Cream 20gm","composition":"Retinoic Acid 0.05%W/W","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b5648b9d51d2945f4b734d6"},"name":"AIROL 0.03% Cream 20gm","composition":"Retinoic Acid 0.025%","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b5648bcd51d2945f4b734d7"},"name":"AKNAYBar BATHING Bar 100gm","composition":"OTC","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.210.00"}
+{"_id":{"$oid":"5b5648bed51d2945f4b734d8"},"name":"AKNEROXID 10% Gel 20gm","composition":"Benzoyl Peroxide 10%","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b5648bed51d2945f4b734d9"},"name":"ALIGHT Gel 15gm","composition":"Adapalene 0.1%W/W+Clindamycin 1%W/W","manufacturer":"Leeford Healthcare Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b5648bed51d2945f4b734da"},"name":"ALIGHT PLUS Gel 15gm","composition":"ADAPALENE 0.1%W/W+CLINDAMYCIN PHOSPHATE 1%W/W","manufacturer":"Leeford Healthcare Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b5648bfd51d2945f4b734db"},"name":"ALLYTE 1% GEL 20GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b5648bfd51d2945f4b734dc"},"name":"AMYPURE Tablet 90's","composition":"Ayurvedic ","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.293.00"}
+{"_id":{"$oid":"5b5648c0d51d2945f4b734dd"},"name":"AMYPURE Tablet 100's","composition":"Ayurvedic ","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.31.33"}
+{"_id":{"$oid":"5b5648c2d51d2945f4b734de"},"name":"AP Gel 10gm","composition":"Adapalene 0.1%W/W","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5648c4d51d2945f4b734df"},"name":"APALENE C GEL 15GM","composition":"ADAPALENE 0.1%+CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.113.56"}
+{"_id":{"$oid":"5b5648c4d51d2945f4b734e0"},"name":"ATHODERM 1% GEL 15GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":" NA ","price":"Rs.60.00"}
+{"_id":{"$oid":"5b5648c6d51d2945f4b734e1"},"name":"ATRANZA 10mg Capsule 100's","composition":"Tretinoin 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.8,900.00"}
+{"_id":{"$oid":"5b5648c7d51d2945f4b734e2"},"name":"ATRET 0.5% Cream 30gm","composition":"Tretinoin 0.5%W/W","manufacturer":"Brinton Pharmaceuticals Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5648cad51d2945f4b734e3"},"name":"ATRET 0.025% Cream 30gm","composition":"Tretinoin 0.025%","manufacturer":"Brinton Pharmaceuticals Ltd","price":"Rs.132.00"}
+{"_id":{"$oid":"5b5648cdd51d2945f4b734e4"},"name":"AZAC Soap 75gm","composition":"Azelaic Acid+Wheat Germ Oil","manufacturer":"Mark Pharmaceutical Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5648cfd51d2945f4b734e5"},"name":"AZAC Cream 15gm","composition":"Azelaic Acid 20%W/W","manufacturer":"Mark Pharmaceutical Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5648d2d51d2945f4b734e6"},"name":"AZAC 20% Cream 20gm","composition":"Azelaic Acid 20%W/W","manufacturer":"Mark Pharmaceutical Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5648d5d51d2945f4b734e7"},"name":"AZIDERM 10% Gel 15gm","composition":"Azelaic Acid 10%W/W","manufacturer":"Micro Labs Ltd","price":"Rs.179.50"}
+{"_id":{"$oid":"5b5648d5d51d2945f4b734e8"},"name":"AZIDERM 20% Cream 15gm","composition":"Azelaic Acid 0.2%W/W","manufacturer":"Micro Labs Ltd","price":"Rs.238.50"}
+{"_id":{"$oid":"5b5648d8d51d2945f4b734e9"},"name":"AZIDERM 10% Cream 15gm","composition":"Azelaic Acid 10%W/W","manufacturer":"Micro Labs Ltd","price":"Rs.208.50"}
+{"_id":{"$oid":"5b5648dbd51d2945f4b734ea"},"name":"AZIDERM 20% Gel 15gm","composition":"Azelaic Acid 20%W/W","manufacturer":"Micro Labs Ltd","price":"Rs.227.00"}
+{"_id":{"$oid":"5b5648dbd51d2945f4b734eb"},"name":"AZIDERM 15% Gel 15gm","composition":"Azelaic Acid 15%","manufacturer":"Micro Labs Ltd","price":"Rs.223.00"}
+{"_id":{"$oid":"5b5648ddd51d2945f4b734ec"},"name":"BACLYTIC GEL 15GM","composition":"ADAPALENE 0.1%+CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Menarini India Pvt Ltd","price":"Rs.114.28"}
+{"_id":{"$oid":"5b5648ded51d2945f4b734ed"},"name":"BDIFF A Gel 15gm","composition":"Adapalene 0.1%W/V+Benzoyl Peroxide 2.5%W/V","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.321.00"}
+{"_id":{"$oid":"5b5648dfd51d2945f4b734ee"},"name":"BENDE Gel 20gm","composition":"Benzoyl Peroxide","manufacturer":"Zyris Derma Care Pvt Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b5648e1d51d2945f4b734ef"},"name":"BENDE Gel 30gm","composition":"Benzoyl Peroxide","manufacturer":"Zyris Derma Care Pvt Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b5648e2d51d2945f4b734f0"},"name":"BENGel AC 5% Gel 30gm","composition":"Benzoyl Peroxide 5%W/W","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.129.00"}
+{"_id":{"$oid":"5b5648e4d51d2945f4b734f1"},"name":"BENGel AC 2.5% Gel 30gm","composition":"Benzoyl Peroxide 2.5%W/W","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.114.20"}
+{"_id":{"$oid":"5b5648e6d51d2945f4b734f2"},"name":"BENGEL ACRA 2.5% Gel 30gm","composition":"Benzoyl Peroxide","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.109.00"}
+{"_id":{"$oid":"5b5648e6d51d2945f4b734f3"},"name":"BENZAC AC 2.5% Gel 20gm","composition":"Benzoyl Peroxide 2.5%W/W","manufacturer":"Galderma India Pvt Ltd","price":"Rs.76.16"}
+{"_id":{"$oid":"5b5648e8d51d2945f4b734f4"},"name":"BENZAC AC 5% Gel 20gm","composition":"Benzoyl Peroxide 5%W/W","manufacturer":"Galderma India Pvt Ltd","price":"Rs.138.20"}
+{"_id":{"$oid":"5b5648ebd51d2945f4b734f5"},"name":"BENZONIX 1.25% Soap 75gm","composition":"Benzoyl Peroxide","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5648ecd51d2945f4b734f6"},"name":"BENZONIX Gel 20gm","composition":"Benzoyl Peroxide","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5648eed51d2945f4b734f7"},"name":"BENZONIX 2.5% Soap 75gm","composition":"BENZOYL PEROXIDE 2.5%","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5648f0d51d2945f4b734f8"},"name":"BENZOX AC 5% Gel 20gm","composition":"BENZOYL PEROXIDE 5%W/W","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.71.33"}
+{"_id":{"$oid":"5b5648f2d51d2945f4b734f9"},"name":"BREVOXYL Cream 20gm","composition":"Benzoyl Peroxide 40%W/W","manufacturer":"Stiefel Laboratories Inc","price":"Rs.102.75"}
+{"_id":{"$oid":"5b5648f8d51d2945f4b734fa"},"name":"BREVOXYL CREAMY WASH Lotion 50gm","composition":"BENZOYL PEROXIDE 4%","manufacturer":"Stiefel Laboratories Inc","price":"Rs.126.90"}
+{"_id":{"$oid":"5b5648fbd51d2945f4b734fb"},"name":"BRITE OPTI Cream 10gm","composition":"HYDROQUINONE 0+MOMETASONE FUROATE 0+TRETINOIN 0","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5648fdd51d2945f4b734fc"},"name":"CAMYDA 1% GEL 10GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5648ffd51d2945f4b734fd"},"name":"CAMYDA 300mg Capsule 10's","composition":"Clindamycin 300mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.225.00"}
+{"_id":{"$oid":"5b564901d51d2945f4b734fe"},"name":"CANVAZ Gel(Topical) 15gm","composition":"Skin Care Preparation","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.552.00"}
+{"_id":{"$oid":"5b564903d51d2945f4b734ff"},"name":"CDIFF A Gel 15gm","composition":"Adapalene 0.1%W/W+Clindamycin 1%W/W","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.205.00"}
+{"_id":{"$oid":"5b564903d51d2945f4b73500"},"name":"CLEAR WIN PLUS Gel 15gm","composition":"Adapalene+Clindamycin","manufacturer":"Zee Laboratories Ltd","price":"Rs.116.00"}
+{"_id":{"$oid":"5b564904d51d2945f4b73501"},"name":"CLEARGEL Gel 20gm","composition":"Clindamycin 1%W/W","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.140.00"}
+{"_id":{"$oid":"5b564905d51d2945f4b73502"},"name":"CLEARGel AP Gel 15gm","composition":"Adapalene 0.1%+Clindamycin 1%","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.275.00"}
+{"_id":{"$oid":"5b564905d51d2945f4b73503"},"name":"CLEARLIV Capsule 60's","composition":"Ayurvedic ","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b564906d51d2945f4b73504"},"name":"CLENCIN Gel 20gm","composition":"Clindamycin 1%W/W","manufacturer":"Gary Pharmaceuticals Pvt Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b564909d51d2945f4b73505"},"name":"CLIAC Gel 15gm","composition":"Clindamycin","manufacturer":"Kaizen Pharmaceuticals Pvt Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b564909d51d2945f4b73506"},"name":"CLICK Gel 20gm","composition":"Clindamycin","manufacturer":"Dermarex Healthcare India Pvt Ltd","price":"Rs.135.50"}
+{"_id":{"$oid":"5b56490ad51d2945f4b73507"},"name":"CLID 1% GEL 20GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Bennet Pharmaceuticals Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b56490ad51d2945f4b73508"},"name":"CLIGel N Gel 20gm","composition":"Clindamycin+Nicotinamide","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.117.50"}
+{"_id":{"$oid":"5b56490cd51d2945f4b73509"},"name":"CLIGEL Gel 15gm","composition":"Clindamycin 1%W/W","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.91.40"}
+{"_id":{"$oid":"5b56490fd51d2945f4b7350a"},"name":"CLIMPLE 1% GEL 15GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.87.10"}
+{"_id":{"$oid":"5b564910d51d2945f4b7350b"},"name":"CLIMPLE A CREAM 15GM","composition":"ADAPALENE 0.1%+CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.130.70"}
+{"_id":{"$oid":"5b564912d51d2945f4b7350c"},"name":"CLIN AD GEL 15GM","composition":"ADAPALENE 0.1%+CLINDAMYCIN PHOSPHATE 1%","manufacturer":" NA ","price":"Rs.179.00"}
+{"_id":{"$oid":"5b564914d51d2945f4b7350d"},"name":"CLINAGEL 1% Gel 15gm","composition":"Clindamycin 1%W/W","manufacturer":"Stiefel Laboratories Inc","price":"Rs.91.90"}
+{"_id":{"$oid":"5b564915d51d2945f4b7350e"},"name":"CLINAPIL 1% GEL 10GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Psychotropics India Limited","price":"Rs.50.00"}
+{"_id":{"$oid":"5b564917d51d2945f4b7350f"},"name":"CLINCENT 1% GEL 20GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.106.03"}
+{"_id":{"$oid":"5b564917d51d2945f4b73510"},"name":"CLINCIN N Gel 10gm","composition":"Clindamycin 1%W/W+Nicotinamide 4%W/W","manufacturer":"Indi Pharma Pvt Ltd","price":"Rs.63.09"}
+{"_id":{"$oid":"5b564918d51d2945f4b73511"},"name":"CLINCIN Gel 20gm","composition":"Clindamycin 1%W/W","manufacturer":"Indi Pharma Pvt Ltd","price":"Rs.98.50"}
+{"_id":{"$oid":"5b56491bd51d2945f4b73512"},"name":"CLINCIN N GE Gel 20gm","composition":"CLINDAMYCIN 1%+NIACINAMIDE 0.04%","manufacturer":"Indi Pharma Pvt Ltd","price":"Rs.89.65"}
+{"_id":{"$oid":"5b564922d51d2945f4b73513"},"name":"CLINCITOP Gel 20gm","composition":"Clindamycin 1%W/W","manufacturer":"Universal Medicare Pvt Ltd","price":"Rs.54.60"}
+{"_id":{"$oid":"5b564922d51d2945f4b73514"},"name":"CLINCITOP Gel(Topical) 15gm","composition":"Clindamycin 1%W/W","manufacturer":"Universal Medicare Pvt Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b564925d51d2945f4b73515"},"name":"CLINDA 1% Gel 10gm","composition":"Clindamycin 1%","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.101.05"}
+{"_id":{"$oid":"5b564927d51d2945f4b73516"},"name":"CLINDAC A FOAMING FACEWASH 50ml","composition":"Salicylic Acid+Glycolic Acid+Aloe Vera","manufacturer":"Alkem Laboratories Ltd","price":"Rs.304.00"}
+{"_id":{"$oid":"5b564929d51d2945f4b73517"},"name":"CLINDAC A Solution 25ml","composition":"CLINDAMYCIN 1%","manufacturer":"Galderma India Pvt Ltd","price":"Rs.187.00"}
+{"_id":{"$oid":"5b564929d51d2945f4b73518"},"name":"CLINDAKEM A GEL 20GM","composition":"ADAPALENE 0.1%+CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Alkem Laboratories Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b56492ad51d2945f4b73519"},"name":"CLINDAP GEL 20GM","composition":"ADAPALENE 0.1%+CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Merck Ltd","price":"Rs.210.00"}
+{"_id":{"$oid":"5b56492cd51d2945f4b7351a"},"name":"CLINDAPENE Gel 15gm","composition":"Adapalene 0.1%W/W+Clindamycin 1%W/W","manufacturer":"Unichem Laboratories Ltd","price":"Rs.184.00"}
+{"_id":{"$oid":"5b56492cd51d2945f4b7351b"},"name":"CLINDARIS Gel 30gm","composition":"Clindamycin Phosphate","manufacturer":"Zyris Derma Care Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b56492ed51d2945f4b7351c"},"name":"CLINDARIS Gel 20gm","composition":"Clindamycin Phosphate","manufacturer":"Zyris Derma Care Pvt Ltd","price":"Rs.123.00"}
+{"_id":{"$oid":"5b564931d51d2945f4b7351d"},"name":"CLINDASURE 150mg Capsule 10's","composition":"Clindamycin 150mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.135.20"}
+{"_id":{"$oid":"5b564933d51d2945f4b7351e"},"name":"CLINDASURE 300mg Capsule 10's","composition":"Clindamycin 300mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.220.70"}
+{"_id":{"$oid":"5b564935d51d2945f4b7351f"},"name":"CLINDERM 1% GEL 10GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":" NA ","price":"Rs.42.86"}
+{"_id":{"$oid":"5b564938d51d2945f4b73520"},"name":"CLINDOT A Gel Gel(Topical) 20gm","composition":"Adapalene+Clindamycin","manufacturer":"Brinton Pharmaceuticals Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b56493ad51d2945f4b73521"},"name":"CLINGARD Gel 15gm","composition":"Clindamycin 1%W/W","manufacturer":"Fulford India Ltd","price":"Rs.84.00"}
+{"_id":{"$oid":"5b56493ad51d2945f4b73522"},"name":"CLINKA Gel 20gm","composition":"Clindamycin","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b56493cd51d2945f4b73523"},"name":"CLINKA N Gel 10gm","composition":"Clindamycin 1%W/W+Nicotinamide 4%W/W","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.83.00"}
+{"_id":{"$oid":"5b56493ed51d2945f4b73524"},"name":"CLINLUP 1% GEL 10GM","composition":"CLINDAMYCIN 1%","manufacturer":"Lupin Ltd","price":"Rs.15.87"}
+{"_id":{"$oid":"5b564940d51d2945f4b73525"},"name":"CLINMAX A Gel 30gm","composition":"Adapalene 0.1%+Clindamycin 0.01","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.105.60"}
+{"_id":{"$oid":"5b564941d51d2945f4b73526"},"name":"CLINMAX Gel 20gm","composition":"Clindamycin 1%W/W","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.105.60"}
+{"_id":{"$oid":"5b564942d51d2945f4b73527"},"name":"CLINMI SKIN A GEL 15GM","composition":"ADAPALENE 0.1%+CLINDAMYCIN PHOSPHATE 1%","manufacturer":" NA ","price":"Rs.189.00"}
+{"_id":{"$oid":"5b564943d51d2945f4b73528"},"name":"CLINMIFACE 1% GEL 15GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":" NA ","price":"Rs.110.00"}
+{"_id":{"$oid":"5b564943d51d2945f4b73529"},"name":"CLINMIFACE A GEL 15GM","composition":"ADAPALENE 0.1%+CLINDAMYCIN PHOSPHATE 1%","manufacturer":" NA ","price":"Rs.150.00"}
+{"_id":{"$oid":"5b564946d51d2945f4b7352a"},"name":"CLINOF 1% GEL 20GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":" NA ","price":"Rs.53.32"}
+{"_id":{"$oid":"5b564949d51d2945f4b7352b"},"name":"CLINOXID 1% Gel 15gm","composition":"Clindamycin 1%","manufacturer":"Ajanta Pharma Ltd","price":"Rs.312.78"}
+{"_id":{"$oid":"5b56494bd51d2945f4b7352c"},"name":"CLINOXID 1/2.5 Cream 15gm","composition":"Clindamycin 1%+Benzoyl Peroxide 2.5%","manufacturer":"Ajanta Pharma Ltd","price":"Rs.238.67"}
+{"_id":{"$oid":"5b56494dd51d2945f4b7352d"},"name":"CLINOXID 15% Gel 15gm","composition":"Clindamycin 15%","manufacturer":"Ajanta Pharma Ltd","price":"Rs.312.78"}
+{"_id":{"$oid":"5b56494fd51d2945f4b7352e"},"name":"CLINXA Gel 20gm","composition":"Clindamycin Phosphate 1%","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b564951d51d2945f4b7352f"},"name":"CLINXA A Gel 20gm","composition":"Adapalene+Clindamycin","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b564953d51d2945f4b73530"},"name":"CLINZER 1% LOTION 25ML","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Panzer Pharmaceuticals Pvt Ltd","price":"Rs.71.42"}
+{"_id":{"$oid":"5b564956d51d2945f4b73531"},"name":"CLINZIT 1% GEL 10GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Mercury Laboratories Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b564958d51d2945f4b73532"},"name":"CORTINA H Cream 15gm","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 0.1%+TRETINOIN 0.025%","manufacturer":"Lupin Ltd","price":"Rs.122.00"}
+{"_id":{"$oid":"5b56495bd51d2945f4b73533"},"name":"COSMODERM Kit 1's","composition":"Glycolic Acid ","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.9,000.00"}
+{"_id":{"$oid":"5b56495dd51d2945f4b73534"},"name":"COSPEEL Shampoo 50ml","composition":"Glycolic Acid ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.4,000.00"}
+{"_id":{"$oid":"5b56495dd51d2945f4b73535"},"name":"CRIXAN Gel 15gm","composition":"Clarithromycin","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.104.00"}
+{"_id":{"$oid":"5b564961d51d2945f4b73536"},"name":"D ACNE Soap 75gm","composition":"Salicylic Acid","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b564961d51d2945f4b73537"},"name":"D ACNE Gel 10gm","composition":"Clindamycin 1%W/W","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b564965d51d2945f4b73538"},"name":"D ACNE I 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.217.50"}
+{"_id":{"$oid":"5b564965d51d2945f4b73539"},"name":"D ACNE I 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.128.00"}
+{"_id":{"$oid":"5b564966d51d2945f4b7353a"},"name":"D ACNE PLUS Gel 15gm","composition":"Allantoin 0.5%W/W+Clindamycin 1%W/W+Nicotinamide 4%W/W","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b564968d51d2945f4b7353b"},"name":"DECDAN LITE Cream 20gm","composition":"Hydroquinone 2%+Mometasone 10%+Tretinoin 0.025%","manufacturer":"Wockhardt Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b564968d51d2945f4b7353c"},"name":"DECROMA 6% Cream 30gm","composition":"Glycolic Acid 6%W/W","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.138.00"}
+{"_id":{"$oid":"5b56496ad51d2945f4b7353d"},"name":"DEPIGLARE Cream 15gm","composition":"Hydroquinone +Tretinoin +Fluocinolone ","manufacturer":"Wockhardt Ltd","price":"Rs.142.43"}
+{"_id":{"$oid":"5b56496cd51d2945f4b7353e"},"name":"DERIVA BPO Gel 15gm","composition":"Adapalene 0.1%W/W+Benzoyl Peroxide 2.5%W/W","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.322.00"}
+{"_id":{"$oid":"5b56496ed51d2945f4b7353f"},"name":"DERIVA CMS Gel 15gm","composition":"Adapalene 0.1%W/W+Clindamycin 1%W/W","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.275.00"}
+{"_id":{"$oid":"5b564970d51d2945f4b73540"},"name":"DERIVA MS Gel 15gm","composition":"Adapalene 0.1%W/W","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.225.00"}
+{"_id":{"$oid":"5b564972d51d2945f4b73541"},"name":"DOXT SL 100mg/5B Tablet 8's","composition":"Doxycycline 100mg+Lactobacillus 5Billion Spores","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b564973d51d2945f4b73542"},"name":"ELOSONE HT Cream 15gm","composition":"Hydroquinone 2%W/W+Mometasone 0.1%W/W+Tretinoin 0.025%W/W","manufacturer":"Leeford Healthcare Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b564975d51d2945f4b73543"},"name":"EMOLENE Cream 100gm","composition":"Propylene Glycol 15mg","manufacturer":"Fulford India Ltd","price":"Rs.229.00"}
+{"_id":{"$oid":"5b564977d51d2945f4b73544"},"name":"EPIDUO Gel 15gm","composition":"Adapalene 0.1%W/W+Benzoyl Peroxide 2.5%W/W","manufacturer":"Galderma India Pvt Ltd","price":"Rs.418.00"}
+{"_id":{"$oid":"5b564979d51d2945f4b73545"},"name":"EPIDUO Gel 30gm","composition":"ADAPALENE 0.1%+BENZOYL PEROXIDE 2.5%","manufacturer":"Galderma India Pvt Ltd","price":"Rs.950.00"}
+{"_id":{"$oid":"5b56497bd51d2945f4b73546"},"name":"EPIFEM 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"KEPLER HEALTHCARE PVT LTD","price":"Rs.150.00"}
+{"_id":{"$oid":"5b564982d51d2945f4b73547"},"name":"ERYTOP Gel 20gm","composition":"Clindamycin 1%W/W","manufacturer":"Usv Private Ltd","price":"Rs.121.00"}
+{"_id":{"$oid":"5b564984d51d2945f4b73548"},"name":"ERYTOP Lotion 25ml","composition":"Clindamycin 3%W/V","manufacturer":"Usv Private Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b564986d51d2945f4b73549"},"name":"ERYTOP A Gel 15gm","composition":"Adapalene 0.1%W/W+Clindamycin 1%W/W","manufacturer":"Usv Private Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b564988d51d2945f4b7354a"},"name":"ETHITRET 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Ethinext Pharma","price":"Rs.99.00"}
+{"_id":{"$oid":"5b56498ad51d2945f4b7354b"},"name":"ETHITRET 20mg Capsule 10's","composition":"ISOTRETINOIN 20MG","manufacturer":"Ethinext Pharma","price":"Rs.160.00"}
+{"_id":{"$oid":"5b56498cd51d2945f4b7354c"},"name":"EUDYNA 0.05% Cream 20gm","composition":"Tretinoin 0.05%","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.49.20"}
+{"_id":{"$oid":"5b56498fd51d2945f4b7354d"},"name":"EUNOZIT 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b56498fd51d2945f4b7354e"},"name":"EXAZEL 10% Cream 15gm","composition":"AZELAIC ACID 10%","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.134.60"}
+{"_id":{"$oid":"5b564992d51d2945f4b7354f"},"name":"EXAZEL Cream 10gm","composition":"AZELAIC ACID 10%","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.134.60"}
+{"_id":{"$oid":"5b564993d51d2945f4b73550"},"name":"EXAZEL 20% Cream 15gm","composition":"Azelaic Acid 20% W/W","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.169.70"}
+{"_id":{"$oid":"5b564995d51d2945f4b73551"},"name":"EXAZEL N Cream 15gm","composition":"Allantoin+Azelaic Acid+Glycerine+Niacinamide","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.194.00"}
+{"_id":{"$oid":"5b564995d51d2945f4b73552"},"name":"EXEL Cream 16gm","composition":"Clobetasol Propionate 0.05%","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.46.00"}
+{"_id":{"$oid":"5b564996d51d2945f4b73553"},"name":"EZANIC 20% Gel 15gm","composition":"Azelaic Acid 20%W/W","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.207.00"}
+{"_id":{"$oid":"5b564998d51d2945f4b73554"},"name":"EZANIC 10% Gel 15gm","composition":"Azelaic Acid 10%W/W","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.179.00"}
+{"_id":{"$oid":"5b56499ad51d2945f4b73555"},"name":"EZANIC 10% Cream 15gm","composition":"Azelaic Acid 10%W/W","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.142.00"}
+{"_id":{"$oid":"5b56499bd51d2945f4b73556"},"name":"EZANIC 20% Cream 15gm","composition":"Azelaic Acid 20%W/W","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.197.00"}
+{"_id":{"$oid":"5b56499ed51d2945f4b73557"},"name":"FABEAU Soap 1's","composition":"Triclosan ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5649a0d51d2945f4b73558"},"name":"FACEBENZ A Gel 15gm","composition":"Adapalene 1mg+Benzoyl Peroxide 25mg","manufacturer":"Others","price":"Rs.304.00"}
+{"_id":{"$oid":"5b5649a6d51d2945f4b73559"},"name":"FACECLIN Gel 20gm","composition":"Clindamycin 1%W/W+Nicotinamide 4%W/W","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.143.33"}
+{"_id":{"$oid":"5b5649a9d51d2945f4b7355a"},"name":"FACECLIN A Gel 15gm","composition":"ADAPALENE 0.1%+CLINDAMYCIN 1%","manufacturer":"Abbott India Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b5649abd51d2945f4b7355b"},"name":"FACECLIN AT Gel 15gm","composition":"Adapalene 0.1%W/W+Clindamycin 1%W/W","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.199.50"}
+{"_id":{"$oid":"5b5649b2d51d2945f4b7355c"},"name":"FEMCINOL A Gel 20gm","composition":"Clindamycin 1%W/W+Niacinamide 4%W/W","manufacturer":"Fem Care Pharma Ltd","price":"Rs.129.00"}
+{"_id":{"$oid":"5b5649b3d51d2945f4b7355d"},"name":"FEMCINOL ADP Gel 15gm","composition":"Adapalene 0.1%W/W+Clindamycin 1%W/W","manufacturer":"Fem Care Pharma Ltd","price":"Rs.174.00"}
+{"_id":{"$oid":"5b5649b5d51d2945f4b7355e"},"name":"FEMOLINK Cream 20gm","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 1%+TRETINOIN 0.025","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.122.76"}
+{"_id":{"$oid":"5b5649b7d51d2945f4b7355f"},"name":"FLEXON Cream 15gm","composition":"Salicylic Acid ","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b5649b9d51d2945f4b73560"},"name":"FORACNE PLUS Gel 15gm","composition":"Adapalene 0.1%+Clindamycin 1%","manufacturer":"Cipla Ltd","price":"Rs.84.00"}
+{"_id":{"$oid":"5b5649b9d51d2945f4b73561"},"name":"GLINTRA Soap 75gm","composition":"Benzoyl Peroxide","manufacturer":"Alkem Laboratories Ltd","price":"Rs.82.00"}
+{"_id":{"$oid":"5b5649bbd51d2945f4b73562"},"name":"GLINTRA A Gel 15gm","composition":"Adapalene+Clindamycin","manufacturer":"Alkem Laboratories Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b5649bed51d2945f4b73563"},"name":"GLOCIN Gel Gel(Topical) 20gm","composition":"Clindamycin 1%+Nicotinamide 4%W/W","manufacturer":"Glowderma Labs Pvt Ltd","price":"Rs.123.00"}
+{"_id":{"$oid":"5b5649c0d51d2945f4b73564"},"name":"GLOW LITE Cream 20gm","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 0.1%+TRETINOIN 0.025%","manufacturer":"Brinton Pharmaceuticals Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b5649c2d51d2945f4b73565"},"name":"GLOWCOR Cream 20gm","composition":"Hydroquinone 2%+Tretinoin 0.025%+Mometasone 0.1%","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.107.50"}
+{"_id":{"$oid":"5b5649c4d51d2945f4b73566"},"name":"GLOWTAN Cream 15gm","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 0.1%+TRETINOIN 0.025%","manufacturer":"Kivi Labs Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b5649c5d51d2945f4b73567"},"name":"GLYAHA Lotion 50gm","composition":"Glycolic Acid","manufacturer":"Menarini India Pvt Ltd","price":"Rs.176.08"}
+{"_id":{"$oid":"5b5649c7d51d2945f4b73568"},"name":"GLYAHA KOJ Lotion 30gm","composition":"Glycolic Acid","manufacturer":"Menarini India Pvt Ltd","price":"Rs.244.00"}
+{"_id":{"$oid":"5b5649c9d51d2945f4b73569"},"name":"GLYBEST 12% Lotion 50ml","composition":"GLYCOLIC ACID 12%","manufacturer":" NA ","price":"Rs.155.85"}
+{"_id":{"$oid":"5b5649ccd51d2945f4b7356a"},"name":"GLYBEST 6% Lotion 50ml","composition":"GLYCOLIC ACID 6%","manufacturer":" NA ","price":"Rs.118.90"}
+{"_id":{"$oid":"5b5649ced51d2945f4b7356b"},"name":"GLYLAK 70% Solution 100ml","composition":"GLYCOLIC ACID ","manufacturer":"Menarini India Pvt Ltd","price":"Rs.1,292.00"}
+{"_id":{"$oid":"5b5649d0d51d2945f4b7356c"},"name":"HOSTACYCLINE 500mg Capsule 4's","composition":"Tetracycline 500mg","manufacturer":"Sanofi India Ltd","price":"Rs.9.33"}
+{"_id":{"$oid":"5b5649d3d51d2945f4b7356d"},"name":"HTM Cream 15gm","composition":"HYDROQUINONE 2%W/W+MOMETASONE 0.1%W/W+TRETINOIN 0.025%W/W","manufacturer":"Eskon Pharma","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5649d3d51d2945f4b7356e"},"name":"I 10 10MG CAPSULE 10'S","composition":"ISOTRETINOIN 10MG","manufacturer":" NA ","price":"Rs.118.00"}
+{"_id":{"$oid":"5b5649d4d51d2945f4b7356f"},"name":"I 20 20MG CAPSULE 10'S","composition":"ISOTRETINOIN 20MG","manufacturer":" NA ","price":"Rs.180.00"}
+{"_id":{"$oid":"5b5649d7d51d2945f4b73570"},"name":"I DERIVA 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b5649d8d51d2945f4b73571"},"name":"I DERIVA 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b5649dbd51d2945f4b73572"},"name":"IBITRET 20mg Softgel 10's","composition":"Isotretinoin 20mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.205.00"}
+{"_id":{"$oid":"5b5649dbd51d2945f4b73573"},"name":"IBITRET 10mg Softgel 10's","composition":"Isotretinoin 10mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5649ded51d2945f4b73574"},"name":"IRET 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Oaknet Healthcare Pvt Ltd","price":"Rs.179.11"}
+{"_id":{"$oid":"5b5649e1d51d2945f4b73575"},"name":"ISAC 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b5649e3d51d2945f4b73576"},"name":"ISAC 10mg Capsule 10's","composition":"ISOTRETINOIN 10MG","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5649e3d51d2945f4b73577"},"name":"ISINA 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Yaher Pharma","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5649e6d51d2945f4b73578"},"name":"ISO ARET 20mg Softgel 10's","composition":"Isotretinoin 20mg","manufacturer":"Menarini India Pvt Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b5649e8d51d2945f4b73579"},"name":"ISO T 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Bio Swiss Pharmaceuticals Pvt Ltd","price":"Rs.149.50"}
+{"_id":{"$oid":"5b5649e8d51d2945f4b7357a"},"name":"ISOACE 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.154.25"}
+{"_id":{"$oid":"5b5649ead51d2945f4b7357b"},"name":"ISOACE 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.154.95"}
+{"_id":{"$oid":"5b5649edd51d2945f4b7357c"},"name":"ISOBEST 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.94.31"}
+{"_id":{"$oid":"5b5649efd51d2945f4b7357d"},"name":"ISOBEST 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.153.02"}
+{"_id":{"$oid":"5b5649f1d51d2945f4b7357e"},"name":"ISOIN 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.139.20"}
+{"_id":{"$oid":"5b5649f2d51d2945f4b7357f"},"name":"ISOIN 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.224.70"}
+{"_id":{"$oid":"5b5649f4d51d2945f4b73580"},"name":"ISONION 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.133.23"}
+{"_id":{"$oid":"5b5649f4d51d2945f4b73581"},"name":"ISOPEX 10mg Tablet 10's","composition":"Isotretinoin 10mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5649f8d51d2945f4b73582"},"name":"ISOPEX 20mg Tablet 10's","composition":"ISOTRETINOIN 20MG","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.176.00"}
+{"_id":{"$oid":"5b5649fad51d2945f4b73583"},"name":"ISOPIL 20mg Tablet 10's","composition":"ISOTRETINOIN 20MG","manufacturer":"Glowderma Labs Pvt Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b5649fdd51d2945f4b73584"},"name":"ISOPIL 5mg Tablet 10's","composition":"Isotretinoin 5mg","manufacturer":"Glowderma Labs Pvt Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b5649fed51d2945f4b73585"},"name":"ISOPIL 30mg Tablet 10's","composition":"Isotretinoin 30mg","manufacturer":"Glowderma Labs Pvt Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b5649fed51d2945f4b73586"},"name":"ISOPIL 10mg Tablet 10's","composition":"ISOTRETINOIN 10MG","manufacturer":"Glowderma Labs Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b564a01d51d2945f4b73587"},"name":"ISOTANE 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Micro Labs Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b564a01d51d2945f4b73588"},"name":"ISOTANE 20MG CAPSULE 30'S","composition":"ISOTRETINOIN 20MG","manufacturer":"Micro Labs Ltd","price":"Rs.184.00"}
+{"_id":{"$oid":"5b564a04d51d2945f4b73589"},"name":"ISOTANE 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Micro Labs Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b564a04d51d2945f4b7358a"},"name":"ISOTINO 5mg Capsule 10's","composition":"Isotretinoin 5mg","manufacturer":"Kivi Labs Ltd","price":"Rs.62.25"}
+{"_id":{"$oid":"5b564a06d51d2945f4b7358b"},"name":"ISOTINO 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Kivi Labs Ltd","price":"Rs.161.00"}
+{"_id":{"$oid":"5b564a09d51d2945f4b7358c"},"name":"ISOTINO 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Kivi Labs Ltd","price":"Rs.102.00"}
+{"_id":{"$oid":"5b564a0bd51d2945f4b7358d"},"name":"ISOTRET 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.172.65"}
+{"_id":{"$oid":"5b564a0ed51d2945f4b7358e"},"name":"ISOTROIN 10MG CAPSULE 10'S","composition":"ISOTRETINOIN 10MG","manufacturer":"Cipla Ltd","price":"Rs.143.00"}
+{"_id":{"$oid":"5b564a10d51d2945f4b7358f"},"name":"ISOTROIN 30MG CAPSULE 10'S","composition":"Isotretinoin 30mg","manufacturer":"Cipla Ltd","price":"Rs.261.50"}
+{"_id":{"$oid":"5b564a11d51d2945f4b73590"},"name":"ISOTROIN 5mg Capsule 10's","composition":"Isotretinoin 5mg","manufacturer":"Cipla Ltd","price":"Rs.90.50"}
+{"_id":{"$oid":"5b564a18d51d2945f4b73591"},"name":"ISOTROIN 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Cipla Ltd","price":"Rs.237.00"}
+{"_id":{"$oid":"5b564a1bd51d2945f4b73592"},"name":"ISOTROIN 0.05% Gel 15gm","composition":"Isotretinoin 0.05%","manufacturer":"Cipla Ltd","price":"Rs.94.92"}
+{"_id":{"$oid":"5b564a1dd51d2945f4b73593"},"name":"ISOZER 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Panzer Pharmaceuticals Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b564a1fd51d2945f4b73594"},"name":"KLIgmEL Cream 15gm","composition":"Hydroquinone 2%+Mometasone 10%+Tretinoin 0.025%","manufacturer":"Wockhardt Ltd","price":"Rs.478.28"}
+{"_id":{"$oid":"5b564a20d51d2945f4b73595"},"name":"KLINCIN A Gel 15gm","composition":"CLINDAMYCIN PHOSPHATE 10MG+ADAPALENE 1MG","manufacturer":"Floris Skin Care","price":"Rs.150.00"}
+{"_id":{"$oid":"5b564a22d51d2945f4b73596"},"name":"KLINFACEA GEL 15GM","composition":"ADAPALENE 0.1%+CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Kivi Labs Ltd","price":"Rs.139.00"}
+{"_id":{"$oid":"5b564a24d51d2945f4b73597"},"name":"KLINSPEC 1% CREAM 15GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Novartis India Ltd","price":"Rs.56.35"}
+{"_id":{"$oid":"5b564a24d51d2945f4b73598"},"name":"KLYNX Gel 10gm","composition":"Clindamycin","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b564a26d51d2945f4b73599"},"name":"LACNE 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"La Pristine Bioceuticals Pvt Ltd","price":"Rs.198.00"}
+{"_id":{"$oid":"5b564a28d51d2945f4b7359a"},"name":"LACNE Gel 15gm","composition":"ADAPALENE 0.1%+CLINDAMYCIN 1%","manufacturer":"La Pristine Bioceuticals Pvt Ltd","price":"Rs.178.00"}
+{"_id":{"$oid":"5b564a29d51d2945f4b7359b"},"name":"LACNE 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"La Pristine Bioceuticals Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b564a2bd51d2945f4b7359c"},"name":"LACNE FOAMING FACE WASH Lotion 60ml","composition":"Face Wash ","manufacturer":"La Pristine Bioceuticals Pvt Ltd","price":"Rs.379.00"}
+{"_id":{"$oid":"5b564a2cd51d2945f4b7359d"},"name":"LEE NEEM Face Wash 70gm","composition":"Face Wash ","manufacturer":"Leeford Healthcare Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b564a2dd51d2945f4b7359e"},"name":"LUMINOSA M CREAM 20GM","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 0.1%+TRETINOIN 0.025%","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.119.05"}
+{"_id":{"$oid":"5b564a2fd51d2945f4b7359f"},"name":"MEDAPINE 1% Gel 15gm","composition":"Adapalene 0.1%W/W","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.93.00"}
+{"_id":{"$oid":"5b564a32d51d2945f4b735a0"},"name":"MEDAPINE AC Gel 15gm","composition":"Adapalene 0.1%+Clindamycin 1%W/W","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b564a32d51d2945f4b735a1"},"name":"MEDERMA PLUS INTENSE Gel 10gm","composition":"Peg(Polyethylene Glycol) 0+Allantoin 0+Lecithin 0+Methyl Paraben 0+Sorbic Acid 0+Sodium Hyaluronate 0+Allium Ceba Bulp Extract ","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.575.00"}
+{"_id":{"$oid":"5b564a34d51d2945f4b735a2"},"name":"MEDSOP Soap 75gm","composition":"Triclosan 0.03%","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.112.00"}
+{"_id":{"$oid":"5b564a35d51d2945f4b735a3"},"name":"MEDSOP ACNE Soap 75gm","composition":"Triclosan","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b564a37d51d2945f4b735a4"},"name":"MELACARE HC Cream 15gm","composition":"Hydroquinone 4%+Tretinoin 0.025%+Hydrocortisone 1%","manufacturer":"Ajanta Pharma Ltd","price":"Rs.96.23"}
+{"_id":{"$oid":"5b564a39d51d2945f4b735a5"},"name":"MELAGARD Lotion 100ml","composition":"Sunscreen ","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.300.12"}
+{"_id":{"$oid":"5b564a3cd51d2945f4b735a6"},"name":"MELAGARD Tube 1's","composition":"Sunscreen ","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.146.95"}
+{"_id":{"$oid":"5b564a3cd51d2945f4b735a7"},"name":"MELALITE PLUS Cream 15gm","composition":"Hydrocortisone 1%W/W+Hydroquinone 2%W/W+Tretinoin 0.05%W/W","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.123.05"}
+{"_id":{"$oid":"5b564a3cd51d2945f4b735a8"},"name":"MELASOL CREAM 15GM","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 0.1%+TRETINOIN 0.025%","manufacturer":"Med Manor Organics Pvt Ltd","price":"Rs.111.13"}
+{"_id":{"$oid":"5b564a3ed51d2945f4b735a9"},"name":"MELNOR CREAM 20GM","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 0.1%+TRETINOIN 0.025%","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.35.72"}
+{"_id":{"$oid":"5b564a41d51d2945f4b735aa"},"name":"METASONE PLUS Cream 15gm","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 0.1%+TRETINOIN 0.025%","manufacturer":"Talent India","price":"Rs.129.80"}
+{"_id":{"$oid":"5b564a45d51d2945f4b735ab"},"name":"MICROBENZ 3.5% AQUEOUS Gel 15gm","composition":"Benzoyl Peroxide 3.5%W/W","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.131.00"}
+{"_id":{"$oid":"5b564a45d51d2945f4b735ac"},"name":"MIMOSEE Gel 20gm","composition":"Clindamycin Phosphate","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b564a47d51d2945f4b735ad"},"name":"MINOVA 100mg Tablet 4's","composition":"Minocycline 100mg","manufacturer":"Cipla Ltd","price":"Rs.47.85"}
+{"_id":{"$oid":"5b564a49d51d2945f4b735ae"},"name":"MINOZ BPO Gel 15gm","composition":"Adapalene 0.1%W/W+Benzoyl Peroxide 2.5%W/W","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.318.00"}
+{"_id":{"$oid":"5b564a4bd51d2945f4b735af"},"name":"MOMIKEM HT Cream 15gm","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 0.1%+TRETINOIN 0.025","manufacturer":"Alkem Laboratories Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b564a4dd51d2945f4b735b0"},"name":"MONOSONE HT Cream 20gm","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 0.1%+TRETINOIN 0.025%","manufacturer":"Monichem Healthcare Pvt Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b564a4ed51d2945f4b735b1"},"name":"NAYZIT GEL 15GM","composition":"ADAPALENE 0.1%+CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b564a4ed51d2945f4b735b2"},"name":"NAYZIT 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b564a51d51d2945f4b735b3"},"name":"NAYZIT 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b564a53d51d2945f4b735b4"},"name":"NEXRET 0.10% Gel 15gm","composition":"Tretinoin 0.1%","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.196.66"}
+{"_id":{"$oid":"5b564a55d51d2945f4b735b5"},"name":"NILAC A Gel 20gm","composition":"Adapalene 0.1%W/W+Clindamycin 1%W/W","manufacturer":"Micro Labs Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b564a58d51d2945f4b735b6"},"name":"NILAC Gel 20gm","composition":"Clindamycin 1%W/W+Nicotinamide 4%W/W","manufacturer":"Micro Labs Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b564a5ad51d2945f4b735b7"},"name":"NIOCLEAN Gel 20gm","composition":"Clindamycin 1%W/W+Nicotinamide 4%W/W","manufacturer":"Klm Laboratories Pvt Ltd","price":"Rs.122.00"}
+{"_id":{"$oid":"5b564a5ad51d2945f4b735b8"},"name":"NIOCLEAN AD Gel 15gm","composition":"Adapalene 0.1%+Allantoin 0.01+Clindamycin 1%W/W","manufacturer":"Klm Laboratories Pvt Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b564a5bd51d2945f4b735b9"},"name":"NIORET NANO Gel 15gm","composition":"TRETINOIN ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.199.80"}
+{"_id":{"$oid":"5b564a5dd51d2945f4b735ba"},"name":"NO SCARS 1% FACEWASH 60ML","composition":"SALICYLIC ACID 1%","manufacturer":"Torque Pharmaceuticals Pvt Ltd","price":"Rs.99.90"}
+{"_id":{"$oid":"5b564a5fd51d2945f4b735bb"},"name":"OCOTRET 20mg Tablet 10's","composition":"Isotretinoin 20mg","manufacturer":"Ochoa Laboratories Pvt Ltd","price":"Rs.168.75"}
+{"_id":{"$oid":"5b564a62d51d2945f4b735bc"},"name":"OCOTRET 10mg Tablet 10's","composition":"Isotretinoin 10mg","manufacturer":"Ochoa Laboratories Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b564a64d51d2945f4b735bd"},"name":"ORARET 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.193.00"}
+{"_id":{"$oid":"5b564a67d51d2945f4b735be"},"name":"OXIDOBEN Gel(Topical) 15gm","composition":"Adapalene 0.1%W/V+Benzoyl Peroxide 2.5%W/V","manufacturer":"Cipla Ltd","price":"Rs.341.00"}
+{"_id":{"$oid":"5b564a67d51d2945f4b735bf"},"name":"PAPULEX CLEANSING Gel 100ml","composition":"Glycerol+Nicotinamide+Sorbitol","manufacturer":"Menarini India Pvt Ltd","price":"Rs.341.10"}
+{"_id":{"$oid":"5b564a68d51d2945f4b735c0"},"name":"PAPULEX Cream 15gm","composition":"Nicotinamide+Zinc Oxide","manufacturer":"Menarini India Pvt Ltd","price":"Rs.210.00"}
+{"_id":{"$oid":"5b564a6ad51d2945f4b735c1"},"name":"PERCUNA 2.5% Gel 20gm","composition":"Benzoyl Peroxide 2.5%W/W","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.45.38"}
+{"_id":{"$oid":"5b564a6dd51d2945f4b735c2"},"name":"PERCUNA 5% Gel 20gm","composition":"Benzoyl Peroxide","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.66.00"}
+{"_id":{"$oid":"5b564a6dd51d2945f4b735c3"},"name":"PERNEX AC 2.5% Gel 20gm","composition":"Benzoyl Peroxide 2.5%W/W","manufacturer":"Cosme Farma Laboratories Ltd","price":"Rs.47.74"}
+{"_id":{"$oid":"5b564a6fd51d2945f4b735c4"},"name":"PERNEX AC 5% Gel 20gm","composition":"Benzoyl Peroxide 5%W/W","manufacturer":"Cosme Farma Laboratories Ltd","price":"Rs.111.85"}
+{"_id":{"$oid":"5b564a71d51d2945f4b735c5"},"name":"PEROBAR 5% BAR 75gm","composition":"Benzoyl Peroxide","manufacturer":"Ajanta Pharma Ltd","price":"Rs.124.00"}
+{"_id":{"$oid":"5b564a73d51d2945f4b735c6"},"name":"PEROBAR 2.5% BAR 75gm","composition":"Benzoyl Peroxide","manufacturer":"Ajanta Pharma Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b564a74d51d2945f4b735c7"},"name":"PEROCLIN 5% Gel 15gm","composition":"Benzoyl Peroxide+Clindamycin","manufacturer":"Ajanta Pharma Ltd","price":"Rs.380.00"}
+{"_id":{"$oid":"5b564a74d51d2945f4b735c8"},"name":"PEROCLIN 2.5% Gel 15gm","composition":"Benzoyl Peroxide+Clindamycin","manufacturer":"Ajanta Pharma Ltd","price":"Rs.339.00"}
+{"_id":{"$oid":"5b564a75d51d2945f4b735c9"},"name":"PERODUO Gel 15gm","composition":"Adapalene+Benzoyl Peroxide","manufacturer":"Ajanta Pharma Ltd","price":"Rs.287.00"}
+{"_id":{"$oid":"5b564a78d51d2945f4b735ca"},"name":"PEROWASH 2.50% Facewash 50gm","composition":"Benzoyl Peroxide 2.5%","manufacturer":"Ajanta Pharma Ltd","price":"Rs.100.70"}
+{"_id":{"$oid":"5b564a7ad51d2945f4b735cb"},"name":"PERSOL FORTE Cream 30gm","composition":"Benzoyl Peroxide","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.142.35"}
+{"_id":{"$oid":"5b564a7cd51d2945f4b735cc"},"name":"PERSOL AC 5mg Gel 20gm","composition":"Benzoyl Peroxide","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.97.55"}
+{"_id":{"$oid":"5b564a7ed51d2945f4b735cd"},"name":"PERSOL 2.5% Gel 20gm","composition":"Benzoyl Peroxide","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.52.45"}
+{"_id":{"$oid":"5b564a81d51d2945f4b735ce"},"name":"PERSOL AC 2.5% Gel 30gm","composition":"Benzoyl Peroxide 2.5%W/W","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.110.02"}
+{"_id":{"$oid":"5b564a83d51d2945f4b735cf"},"name":"PERSOL AC 5 Gel 30gm","composition":"BENZOYL PEROXIDE 5%W/W","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.146.32"}
+{"_id":{"$oid":"5b564a85d51d2945f4b735d0"},"name":"PIGMASON CREAM 20GM","composition":"HYDROQUINONE 2%+MOMETASONE 0.1%+TRETINOIN 0.025%","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.71.00"}
+{"_id":{"$oid":"5b564a87d51d2945f4b735d1"},"name":"PIMOFF 1% GEL 20GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Lupin Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b564a8ad51d2945f4b735d2"},"name":"PIMPLE CURE Cream 20gm","composition":"Herbal Preparations","manufacturer":"Pharm Products Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b564a8dd51d2945f4b735d3"},"name":"PINOIN 0.05% Cream 20gm","composition":"Tretinoin","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.77.90"}
+{"_id":{"$oid":"5b564a8dd51d2945f4b735d4"},"name":"PINOIN 5MG TABLET 10'S","composition":"ISOTRETINOIN 5MG","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.84.50"}
+{"_id":{"$oid":"5b564a8fd51d2945f4b735d5"},"name":"PINOIN 0.025% Cream 20gm","composition":"Tretinoin","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b564a91d51d2945f4b735d6"},"name":"POSTAC Cream 30gm","composition":"Pine Bark Extract+Coriander Seed Oil","manufacturer":"Newtrimed","price":"Rs.330.00"}
+{"_id":{"$oid":"5b564a93d51d2945f4b735d7"},"name":"PURODIL Gel 20gm","composition":"Ayurvedic Medicine ","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b564a95d51d2945f4b735d8"},"name":"PURODIL Tablet 30's","composition":"Ayurvedic Medicine ","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b564a97d51d2945f4b735d9"},"name":"RAKCEN 1% LOTION 40ML","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":" NA ","price":"Rs.81.00"}
+{"_id":{"$oid":"5b564a99d51d2945f4b735da"},"name":"REFINITY 70% Kit 1's","composition":"Glycolic Acid 70%","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.12,585.00"}
+{"_id":{"$oid":"5b564a9bd51d2945f4b735db"},"name":"RESOTEN 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Klm Laboratories Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b564a9ed51d2945f4b735dc"},"name":"RESOTEN 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Klm Laboratories Pvt Ltd","price":"Rs.182.00"}
+{"_id":{"$oid":"5b564aa1d51d2945f4b735dd"},"name":"RETINO A MICRO 0.04% Gel 15gm","composition":"Tretinoin","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.352.00"}
+{"_id":{"$oid":"5b564aa1d51d2945f4b735de"},"name":"RETINO A 0.025% Cream 20gm","composition":"Tretinoin 0.025%","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b564aa2d51d2945f4b735df"},"name":"RETINO A 0.05% Cream 20gm","composition":"Tretinoin 0.05%","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.169.00"}
+{"_id":{"$oid":"5b564aa2d51d2945f4b735e0"},"name":"RETINO A MICRO 0.1% Gel 15gm","composition":"Tretinoin 0.1%","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.415.00"}
+{"_id":{"$oid":"5b564aa4d51d2945f4b735e1"},"name":"RETINO AC Gel 15gm","composition":"Clindamycin 1%W/W+Tretinoin 0.025%W/W","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.285.00"}
+{"_id":{"$oid":"5b564aa7d51d2945f4b735e2"},"name":"REVIZE Cream 15gm","composition":"Tretinoin 0.02%W/W","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.389.00"}
+{"_id":{"$oid":"5b564aa8d51d2945f4b735e3"},"name":"RIVELA 70mg Kit 60ml","composition":"Glycolic Acid 70mg","manufacturer":"Cipla Ltd","price":"Rs.4,942.51"}
+{"_id":{"$oid":"5b564aaad51d2945f4b735e4"},"name":"SAFERET 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b564aaad51d2945f4b735e5"},"name":"SAFERET 10mg Tablet 30's","composition":"Isotretinoin 10mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b564aabd51d2945f4b735e6"},"name":"SAFERET 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b564aadd51d2945f4b735e7"},"name":"SAFERET 30mg Tablet 10's","composition":"Isotretinoin 30mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b564aafd51d2945f4b735e8"},"name":"SAFERET 20mg Tablet 30's","composition":"Isotretinoin 20mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.360.00"}
+{"_id":{"$oid":"5b564ab0d51d2945f4b735e9"},"name":"SAFERET 5mg Capsule 10's","composition":"Isotretinoin 5mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b564ab2d51d2945f4b735ea"},"name":"SAFERET 5mg Tablet 30's","composition":"Isotretinoin 5mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b564ab2d51d2945f4b735eb"},"name":"SALIAC BAR 75gm","composition":"Salicylic Acid 2%W/W","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.131.70"}
+{"_id":{"$oid":"5b564ab3d51d2945f4b735ec"},"name":"SALICYLIX SF 12% Cream 30gm","composition":"Salicylic Acid 12%","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b564ab3d51d2945f4b735ed"},"name":"SALICYLIX SF 6% Cream 30gm","composition":"Salicylic Acid 6%","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b564ab6d51d2945f4b735ee"},"name":"SALILAC 2% FACEWASH 30GM","composition":"SALICYLIC ACID 2%","manufacturer":"Psyco Remedies Ltd","price":"Rs.66.35"}
+{"_id":{"$oid":"5b564ab8d51d2945f4b735ef"},"name":"SALISIA KT Soap 75gm","composition":"Ketoconazole","manufacturer":"Ajanta Pharma Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b564abbd51d2945f4b735f0"},"name":"SALIX 12 Cream 40gm","composition":"Salicylic Acid+Urea","manufacturer":"Lyra Laboratories Pvt Ltd","price":"Rs.153.00"}
+{"_id":{"$oid":"5b564abed51d2945f4b735f1"},"name":"SASLIC Capsule 10's","composition":"Salicylic Acid ","manufacturer":"Cipla Ltd","price":"Rs.145.23"}
+{"_id":{"$oid":"5b564ac0d51d2945f4b735f2"},"name":"SCREENE ULTRA Lotion 100ml","composition":"Sunscreen ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.179.76"}
+{"_id":{"$oid":"5b564ac0d51d2945f4b735f3"},"name":"SEBONAC 1% Gel(Topical) 15gm","composition":"Salicylic Acid","manufacturer":"Tricos Dermatologicals Pvt Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b564ac3d51d2945f4b735f4"},"name":"SHADOWZ Gel 100ml","composition":"Sunscreen ","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.219.08"}
+{"_id":{"$oid":"5b564ac5d51d2945f4b735f5"},"name":"SKIN FAIR CREAM 15GM","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 1%+TRETINOIN 0.025%","manufacturer":"Wockhardt Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b564ac7d51d2945f4b735f6"},"name":"SKINELLE Capsule 20's","composition":"Ayurvedic ","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.28.71"}
+{"_id":{"$oid":"5b564ac9d51d2945f4b735f7"},"name":"SKINLITE Cream 10gm","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 0.1%+TRETINOIN 0.025%","manufacturer":"Others","price":"Rs.95.00"}
+{"_id":{"$oid":"5b564acad51d2945f4b735f8"},"name":"SLC 2% FACEWASH 50GM","composition":"SALICYLIC ACID 2%","manufacturer":"Nemus Pharmaceuticals Pvt Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b564acbd51d2945f4b735f9"},"name":"SOAPEX CLASSIC Soap 75gm","composition":"Triclosan 0.05%","manufacturer":"Galderma India Pvt Ltd","price":"Rs.113.20"}
+{"_id":{"$oid":"5b564acdd51d2945f4b735fa"},"name":"SOTRET 0.05% Gel 15gm","composition":"Isotretinoin 0.05%","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.92.76"}
+{"_id":{"$oid":"5b564acfd51d2945f4b735fb"},"name":"SOTRET 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b564acfd51d2945f4b735fc"},"name":"SOTRET 30mg Capsule 10's","composition":"Isotretinoin 30mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b564ad3d51d2945f4b735fd"},"name":"SOTRET 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.224.00"}
+{"_id":{"$oid":"5b564ad6d51d2945f4b735fe"},"name":"SOTRET Soap 75gm","composition":"Skin Care Soap","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b564ad9d51d2945f4b735ff"},"name":"SOTRET Gel 30gm","composition":"Isotretinoin 0.05%","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.238.00"}
+{"_id":{"$oid":"5b564adbd51d2945f4b73600"},"name":"SOTRET 5MG CAPSULE 10'S","composition":"ISOTRETINOIN 5MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.78.10"}
+{"_id":{"$oid":"5b564addd51d2945f4b73601"},"name":"SPECTRABAN Lotion 100ml","composition":"Sunscreen ","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.286.76"}
+{"_id":{"$oid":"5b564adfd51d2945f4b73602"},"name":"SPECTRABAN Lotion 60ml","composition":"Sunscreen ","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.286.76"}
+{"_id":{"$oid":"5b564ae1d51d2945f4b73603"},"name":"SUNCROS Gel 50gm","composition":"Sunscreen ","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.311.42"}
+{"_id":{"$oid":"5b564ae1d51d2945f4b73604"},"name":"SUNPROTECT 50mg Lotion 60ml","composition":"Sunscreen 50mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.304.61"}
+{"_id":{"$oid":"5b564ae3d51d2945f4b73605"},"name":"SUNSTOP 30 Cream 50gm","composition":"Sunscreen ","manufacturer":"Ajanta Pharma Ltd","price":"Rs.260.00"}
+{"_id":{"$oid":"5b564ae5d51d2945f4b73606"},"name":"SUPATRET 0.04% AQUEOUS Gel 20gm","composition":"Tretinoin","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.186.00"}
+{"_id":{"$oid":"5b564ae8d51d2945f4b73607"},"name":"SUPATRET 0.10% Gel 20gm","composition":"Tretinoin 0.1%","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.215.00"}
+{"_id":{"$oid":"5b564aebd51d2945f4b73608"},"name":"SUPATRET C Gel 15gm","composition":"Clindamycin 1%+Tretinoin .04%W/W","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.266.00"}
+{"_id":{"$oid":"5b564aeed51d2945f4b73609"},"name":"SUPER GLOW Cream 15gm","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 0.1%+TRETINOIN 0.025%","manufacturer":"Cipla Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b564af0d51d2945f4b7360a"},"name":"SYSRET 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Kaizen Pharmaceuticals Pvt Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b564af2d51d2945f4b7360b"},"name":"T M 250mg Capsule 4's","composition":"Oxytetracycline 250mg","manufacturer":"Pfizer Limited","price":"Rs.8.37"}
+{"_id":{"$oid":"5b564af4d51d2945f4b7360c"},"name":"TAZOTENE 0.05% Gel 15gm","composition":"Tazarotene 0.05%","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.90.60"}
+{"_id":{"$oid":"5b564af5d51d2945f4b7360d"},"name":"TAZOTENE 0.10% Gel 15gm","composition":"Tazarotene 0.1%","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.111.73"}
+{"_id":{"$oid":"5b564af7d51d2945f4b7360e"},"name":"TAZRET Gel 15gm","composition":"Tazarotene","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b564afad51d2945f4b7360f"},"name":"TERRAMYCIN 50mg Injection 10ml","composition":"Oxytetracycline 50mg","manufacturer":"Pfizer Limited","price":"Rs.10.18"}
+{"_id":{"$oid":"5b564afbd51d2945f4b73610"},"name":"TERRAMYCIN 10mg Eye Ointment 3gm","composition":"Oxytetracycline 10mg","manufacturer":"Pfizer Limited","price":"Rs.3.42"}
+{"_id":{"$oid":"5b564afbd51d2945f4b73611"},"name":"TERRAMYCIN Injection 10ml","composition":"Oxytetracycline ","manufacturer":"Pfizer Limited","price":"Rs.9.21"}
+{"_id":{"$oid":"5b564afcd51d2945f4b73612"},"name":"TERRAMYCIN 30mg Injection 30ml","composition":"Oxytetracycline 30mg","manufacturer":"Pfizer Limited","price":"Rs.22.25"}
+{"_id":{"$oid":"5b564afed51d2945f4b73613"},"name":"TERRAMYCIN 500mg Capsule 4's","composition":"Oxytetracycline 500mg","manufacturer":"Pfizer Limited","price":"Rs.10.50"}
+{"_id":{"$oid":"5b564b00d51d2945f4b73614"},"name":"TERRAMYCIN S F 500mg Capsule 8's","composition":"Oxytetracycline 500mg","manufacturer":"Pfizer Limited","price":"Rs.6.55"}
+{"_id":{"$oid":"5b564b01d51d2945f4b73615"},"name":"TIGILYN 50mg Injection 1's","composition":"Tigecycline 50mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.2,940.00"}
+{"_id":{"$oid":"5b564b03d51d2945f4b73616"},"name":"TIVENCA Gel 30gm","composition":"Acne Care ","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.280.00"}
+{"_id":{"$oid":"5b564b04d51d2945f4b73617"},"name":"TIVENCA Gel 50gm","composition":"Skin Care Preparation ","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.350.00"}
+{"_id":{"$oid":"5b564b06d51d2945f4b73618"},"name":"TOCODERM Cream 15gm","composition":"Tretinoin ","manufacturer":"Cipla Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b564b09d51d2945f4b73619"},"name":"TREBOR 0.05% Cream 20gm","composition":"Tretinoin 0.05%","manufacturer":"Hetero Healthcare Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b564b09d51d2945f4b7361a"},"name":"TREBOR Cream 20gm","composition":"Tretinoin 0.025mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b564b0cd51d2945f4b7361b"},"name":"TRET 0.25% Gel 30gm","composition":"Isotretinoin 0.25%","manufacturer":"West Coast Pharmaceutical Works Ltd","price":"Rs.100.41"}
+{"_id":{"$oid":"5b564b0fd51d2945f4b7361c"},"name":"TRET 0.12% Gel 15gm","composition":"Isotretinoin 0.12%","manufacturer":"West Coast Pharmaceutical Works Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b564b10d51d2945f4b7361d"},"name":"TRET 0.25% Gel 15gm","composition":"Isotretinoin 0.25%","manufacturer":"West Coast Pharmaceutical Works Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b564b12d51d2945f4b7361e"},"name":"TRET 0.12% Gel 30gm","composition":"Isotretinoin 0.12%","manufacturer":"West Coast Pharmaceutical Works Ltd","price":"Rs.92.22"}
+{"_id":{"$oid":"5b564b14d51d2945f4b7361f"},"name":"TRETIMAX 20MG TABLET 10'S","composition":"ISOTRETINOIN 20MG","manufacturer":"Invision Medi Sciences Pvt Ltd","price":"Rs.124.60"}
+{"_id":{"$oid":"5b564b16d51d2945f4b73620"},"name":"TRETIN 0.05% Cream 30gm","composition":"Tretinoin 0.05%","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.150.00"}
+{"_id":{"$oid":"5b564b18d51d2945f4b73621"},"name":"TRETIN 0.025% Cream 30gm","composition":"Tretinoin 0.025%","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.145.00"}
+{"_id":{"$oid":"5b564b1bd51d2945f4b73622"},"name":"TRETIN ISO 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.205.00"}
+{"_id":{"$oid":"5b564b1ed51d2945f4b73623"},"name":"TRETIN ISO 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.132.00"}
+{"_id":{"$oid":"5b564b20d51d2945f4b73624"},"name":"TRETIVA 25mg Capsule 10's","composition":"Isotretinoin 25mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.225.00"}
+{"_id":{"$oid":"5b564b22d51d2945f4b73625"},"name":"TRETIVA 5mg Capsule 10's","composition":"Isotretinoin 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b564b22d51d2945f4b73626"},"name":"TRETIVA 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b564b25d51d2945f4b73627"},"name":"TRETIVA 30mg Capsule 10's","composition":"Isotretinoin 30mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.271.00"}
+{"_id":{"$oid":"5b564b28d51d2945f4b73628"},"name":"TRETIVA 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.195.00"}
+{"_id":{"$oid":"5b564b2ad51d2945f4b73629"},"name":"TRICLIN CREAM 15GM","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 0.1%+TRETINOIN 0.025%","manufacturer":"Wockhardt Ltd","price":"Rs.86.53"}
+{"_id":{"$oid":"5b564b2bd51d2945f4b7362a"},"name":"TRI LUMA Cream 15gm","composition":"Fluocinolone 0.01%+Hydroquinone 4%+Tretinoin 0.05%","manufacturer":"Galderma India Pvt Ltd","price":"Rs.495.00"}
+{"_id":{"$oid":"5b564b2cd51d2945f4b7362b"},"name":"TRIOCLIN Gel 15gm","composition":"Allantoin+Clindamycin+Nicotinamide","manufacturer":"Cardeon Formulations Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b564b2fd51d2945f4b7362c"},"name":"TUFACNE 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.138.00"}
+{"_id":{"$oid":"5b564b31d51d2945f4b7362d"},"name":"TUFACNE 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.228.00"}
+{"_id":{"$oid":"5b564b33d51d2945f4b7362e"},"name":"U.V. DERM Lotion 100ml","composition":"Sunscreen ","manufacturer":"Cipla Ltd","price":"Rs.198.00"}
+{"_id":{"$oid":"5b564b34d51d2945f4b7362f"},"name":"UCECLIN 1% CREAM 10GM","composition":"CLINDAMYCIN PHOSPHATE 1%","manufacturer":"Ucb Pharma Ltd","price":"Rs.55.52"}
+{"_id":{"$oid":"5b564b36d51d2945f4b73630"},"name":"ULTRA GUARD SPF 40 Cream 30gm","composition":"Octinoxate(Octyl Methoxycinnamate)+Oxybenzone+Zinc","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.333.00"}
+{"_id":{"$oid":"5b564b38d51d2945f4b73631"},"name":"ULTRABRITE Cream 25gm","composition":"Hydroquinone 2%W/W+Mometasone Furoate 0.1%W/W+Tretinoin 0.025%W/W","manufacturer":"Leeford Healthcare Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b564b3cd51d2945f4b73632"},"name":"ULTRABRITE OINTMENT 15GM","composition":"HYDROQUINONE 2%+MOMETASONE FUROATE 0.1%+TRETINOIN 0.025%","manufacturer":"Leeford Healthcare Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b564b3ed51d2945f4b73633"},"name":"UVAB SF Cream 30gm","composition":"Sunscreen ","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b564b41d51d2945f4b73634"},"name":"VEDASOL 20% Gel 30gm","composition":"Salicylic Acid 20%","manufacturer":"Cipla Ltd","price":"Rs.3,855.28"}
+{"_id":{"$oid":"5b564b43d51d2945f4b73635"},"name":"VEDASOL 30% Gel 60gm","composition":"Salicylic Acid 30%","manufacturer":"Cipla Ltd","price":"Rs.7,000.00"}
+{"_id":{"$oid":"5b564b47d51d2945f4b73636"},"name":"VEDASOL 20% Gel 60gm","composition":"Salicylic Acid 20%","manufacturer":"Cipla Ltd","price":"Rs.5,714.28"}
+{"_id":{"$oid":"5b564b49d51d2945f4b73637"},"name":"VEDASOL SM Gel 60gm","composition":"Salicylic Acid 20%+Mandelic Acid 10%","manufacturer":"Cipla Ltd","price":"Rs.8,250.00"}
+{"_id":{"$oid":"5b564b4bd51d2945f4b73638"},"name":"VEDASOL SM Gel 30gm","composition":"Salicylic Acid 20%+Mandelic Acid 10%","manufacturer":"Cipla Ltd","price":"Rs.4,200.00"}
+{"_id":{"$oid":"5b564b4fd51d2945f4b73639"},"name":"VESANOID 10mg Capsule 100's","composition":"Isotretinoin 10mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.9,200.00"}
+{"_id":{"$oid":"5b564b52d51d2945f4b7363a"},"name":"WHITFIELD SF 3% Ointment 30gm","composition":"Salicylic Acid 3%","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.22.86"}
+{"_id":{"$oid":"5b564b55d51d2945f4b7363b"},"name":"ZATHRIN 0.1/1% Gel 15gm","composition":"Adapalene 0.1mg+Clindamycin 1%","manufacturer":"Fdc Ltd","price":"Rs.84.55"}
+{"_id":{"$oid":"5b564b58d51d2945f4b7363c"},"name":"ZEBOR Cream 15gm","composition":"Azelaic Acid 0.1%","manufacturer":"Hetero Healthcare Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b564b5bd51d2945f4b7363d"},"name":"ZEROCARY 0.30% Oral Solution 100ml","composition":"Triclosan 0.3%","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.42.00"}
+{"_id":{"$oid":"5b564b5dd51d2945f4b7363e"},"name":"ZINDERM BPO Gel 15gm","composition":"Adapalene+Benzoyl Peroxide","manufacturer":"Wockhardt Ltd","price":"Rs.249.00"}
+{"_id":{"$oid":"5b564b5fd51d2945f4b7363f"},"name":"ZINDERM ISO 10mg Capsule 10's","composition":"Isotretinoin 10mg","manufacturer":"Wockhardt Ltd","price":"Rs.131.50"}
+{"_id":{"$oid":"5b564b62d51d2945f4b73640"},"name":"ZINDERM ISO 20mg Capsule 10's","composition":"Isotretinoin 20mg","manufacturer":"Wockhardt Ltd","price":"Rs.197.50"}
+{"_id":{"$oid":"5b564b65d51d2945f4b73641"},"name":"ZITCLIN Foam Wash Gel 100ml","composition":"Salicylic Acid 2%W/W","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.260.00"}
+{"_id":{"$oid":"5b564b68d51d2945f4b73642"},"name":"ZYCLIN NANO Gel 15gm","composition":"Clindamycin 1%W/W","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.158.00"}

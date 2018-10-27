@@ -1,0 +1,863 @@
+{"_id":{"$oid":"5b57368cd51d2953d2572c5a"},"name":"1 AL 10mg Tablet 10's","composition":"Levocetirizine 10mg","manufacturer":"Fdc Ltd","price":"Rs.42.20"}
+{"_id":{"$oid":"5b57368fd51d2953d2572c5b"},"name":"1 AL 10mg Tablet 15's","composition":"LEVOCETIRIZINE 10MG","manufacturer":"Fdc Ltd","price":"Rs.69.60"}
+{"_id":{"$oid":"5b573691d51d2953d2572c5c"},"name":"1 AL Syrup 30ml","composition":"Levocetirizine 2.5mg","manufacturer":"Fdc Ltd","price":"Rs.31.65"}
+{"_id":{"$oid":"5b573691d51d2953d2572c5d"},"name":"1 AL 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Fdc Ltd","price":"Rs.23.85"}
+{"_id":{"$oid":"5b573693d51d2953d2572c5e"},"name":"1 AL M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Fdc Ltd","price":"Rs.78.65"}
+{"_id":{"$oid":"5b573695d51d2953d2572c5f"},"name":"ACOLATE M 4/2.5mg Syrup 30ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Others","price":"Rs.35.00"}
+{"_id":{"$oid":"5b573697d51d2953d2572c60"},"name":"ACOLATE M KID 4/2.5mg Tablet 10's","composition":"LEVOCETIRIZINE 2.5MG+MONTELUKAST 4MG","manufacturer":"Others","price":"Rs.60.00"}
+{"_id":{"$oid":"5b573699d51d2953d2572c61"},"name":"ADLIZ M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Others","price":"Rs.99.00"}
+{"_id":{"$oid":"5b57369bd51d2953d2572c62"},"name":"ADRIL Lotion 100ml","composition":"CAMPHOR +MENTHOL ","manufacturer":"Apple Therapeutics Pvt Ltd","price":"Rs.171.00"}
+{"_id":{"$oid":"5b57369dd51d2953d2572c63"},"name":"AFEXDINE 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"Adley Formulation","price":"Rs.20.40"}
+{"_id":{"$oid":"5b57369fd51d2953d2572c64"},"name":"AFINEDAY Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.146.00"}
+{"_id":{"$oid":"5b5736a1d51d2953d2572c65"},"name":"AH PLUS Tablet 10's","composition":"Levocetirizine","manufacturer":"Shield Health Care Pvt Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b5736a3d51d2953d2572c66"},"name":"AIRITIS 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.49.45"}
+{"_id":{"$oid":"5b5736a7d51d2953d2572c67"},"name":"AIRITIS Syrup 30ml","composition":"Levocetirizine 2.5mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.23.00"}
+{"_id":{"$oid":"5b5736a9d51d2953d2572c68"},"name":"AIRLUNG Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.86.00"}
+{"_id":{"$oid":"5b5736acd51d2953d2572c69"},"name":"AIRLUNG FX 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.92.00"}
+{"_id":{"$oid":"5b5736b0d51d2953d2572c6a"},"name":"AIRMONT L Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Intra Labs India Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5736b2d51d2953d2572c6b"},"name":"AIRTEK 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.89.10"}
+{"_id":{"$oid":"5b5736b5d51d2953d2572c6c"},"name":"AIRWAY L KID DT Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Intra Labs India Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5736b7d51d2953d2572c6d"},"name":"AKAIR LC 10/5mg Tablet 10's","composition":"Montelukast 10mg+Levocetirizine 5mg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5736bbd51d2953d2572c6e"},"name":"AKUMINIC Syrup 60ml","composition":"Chlorpheniramine Maleate+Phenylephrine","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b5736bdd51d2953d2572c6f"},"name":"ALASPAN 10mg Tablet 10's","composition":"Loratadine 10mg","manufacturer":"Fulford India Ltd","price":"Rs.93.00"}
+{"_id":{"$oid":"5b5736bed51d2953d2572c70"},"name":"ALASPAN AM Tablet 10's","composition":"Loratadine 5mg+Ambroxol 50mg","manufacturer":"Fulford India Ltd","price":"Rs.71.10"}
+{"_id":{"$oid":"5b5736c0d51d2953d2572c71"},"name":"ALASPAN Oral Solution 60ml","composition":"Loratadine 5mg","manufacturer":"Fulford India Ltd","price":"Rs.67.75"}
+{"_id":{"$oid":"5b5736c2d51d2953d2572c72"},"name":"ALCET 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":" NA ","price":"Rs.47.00"}
+{"_id":{"$oid":"5b5736c6d51d2953d2572c73"},"name":"ALDAY 10mg Tablet 10's","composition":"Cetirizine","manufacturer":" NA ","price":"Rs.16.05"}
+{"_id":{"$oid":"5b5736c8d51d2953d2572c74"},"name":"ALDAY DUO 4/2.5mg Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Others","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5736cad51d2953d2572c75"},"name":"ALDINE 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.28.85"}
+{"_id":{"$oid":"5b5736ccd51d2953d2572c76"},"name":"ALECLOZ 180MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5736ced51d2953d2572c77"},"name":"ALECLOZ 120MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 120MG","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.114.28"}
+{"_id":{"$oid":"5b5736cfd51d2953d2572c78"},"name":"ALERCY 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Bennet Pharmaceuticals Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5736d2d51d2953d2572c79"},"name":"ALERDAIN M KID Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.58.30"}
+{"_id":{"$oid":"5b5736d4d51d2953d2572c7a"},"name":"ALERDAIN M Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.118.30"}
+{"_id":{"$oid":"5b5736d6d51d2953d2572c7b"},"name":"ALERFEX 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Cipla Ltd","price":"Rs.82.00"}
+{"_id":{"$oid":"5b5736d9d51d2953d2572c7c"},"name":"ALERFIX 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Others","price":"Rs.35.75"}
+{"_id":{"$oid":"5b5736dcd51d2953d2572c7d"},"name":"ALERFIX M Tablet 15's","composition":"Levocetirizine+Montelukast","manufacturer":"Others","price":"Rs.172.42"}
+{"_id":{"$oid":"5b5736ded51d2953d2572c7e"},"name":"ALERGARD M 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Biomax Biotechnics Pvt Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b5736e1d51d2953d2572c7f"},"name":"ALERGIN LX Syrup 30ml","composition":"Levocetirizine 5mg+Ambroxol 15mg","manufacturer":"Cipla Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b5736e3d51d2953d2572c80"},"name":"ALERGO 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.30.00"}
+{"_id":{"$oid":"5b5736e5d51d2953d2572c81"},"name":"ALERID Syrup 30ml","composition":"Cetirizine 5mg","manufacturer":"Cipla Ltd","price":"Rs.18.05"}
+{"_id":{"$oid":"5b5736e9d51d2953d2572c82"},"name":"ALERID Syrup 60ml","composition":"Cetirizine 5mg","manufacturer":"Cipla Ltd","price":"Rs.36.09"}
+{"_id":{"$oid":"5b5736ebd51d2953d2572c83"},"name":"ALERID 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Cipla Ltd","price":"Rs.17.33"}
+{"_id":{"$oid":"5b5736edd51d2953d2572c84"},"name":"ALERID D Tablet 10's","composition":"Cetirizine 5mg+Phenylephrine 10mg","manufacturer":"Cipla Ltd","price":"Rs.36.00"}
+{"_id":{"$oid":"5b5736f1d51d2953d2572c85"},"name":"ALERIZ Tablet 500's","composition":"Cetirizine 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.37.42"}
+{"_id":{"$oid":"5b5736f3d51d2953d2572c86"},"name":"ALERLIFE M 10mg Tablet 10's","composition":"Montelukast 10mg+Levocetirizine 5mg","manufacturer":"Life Gain Pharma Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5736f5d51d2953d2572c87"},"name":"ALERMED 180mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.67.50"}
+{"_id":{"$oid":"5b5736f7d51d2953d2572c88"},"name":"ALERMED Tablet 10's","composition":"Cetirizine ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.81.00"}
+{"_id":{"$oid":"5b5736f9d51d2953d2572c89"},"name":"ALERNEX 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.52.52"}
+{"_id":{"$oid":"5b5736fbd51d2953d2572c8a"},"name":"ALERT 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.28.50"}
+{"_id":{"$oid":"5b5736fdd51d2953d2572c8b"},"name":"ALERT 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b5736ffd51d2953d2572c8c"},"name":"ALERT L 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.33.33"}
+{"_id":{"$oid":"5b573701d51d2953d2572c8d"},"name":"ALERTRIZ 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b573703d51d2953d2572c8e"},"name":"ALEXO 120MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 120MG","manufacturer":"SALUD CARE PVT LTD","price":"Rs.96.00"}
+{"_id":{"$oid":"5b573705d51d2953d2572c8f"},"name":"ALEXO M 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"SALUD CARE PVT LTD","price":"Rs.123.81"}
+{"_id":{"$oid":"5b573707d51d2953d2572c90"},"name":"ALGROT 120MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 120MG","manufacturer":"Khandelwal Laboratories Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b573707d51d2953d2572c91"},"name":"ALGROT 30MG SUSPENSION 60ML","composition":"FEXOFENADINE HYDROCHLORIDE 30MG","manufacturer":"Khandelwal Laboratories Ltd","price":"Rs.96.00"}
+{"_id":{"$oid":"5b573709d51d2953d2572c92"},"name":"ALIDES 5mg Tablet 10's","composition":"DESLORATADINE 5MG","manufacturer":"Leeford Healthcare Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b57370dd51d2953d2572c93"},"name":"ALIDIL 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":" NA ","price":"Rs.20.00"}
+{"_id":{"$oid":"5b573710d51d2953d2572c94"},"name":"ALIDIL M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Psychotropics India Limited","price":"Rs.72.50"}
+{"_id":{"$oid":"5b573713d51d2953d2572c95"},"name":"ALLEGIX 120mg Tablet 6's","composition":"Fexofenadine 120mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b573714d51d2953d2572c96"},"name":"ALLEGIX 180mg Tablet 6's","composition":"Fexofenadine 180mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.126.07"}
+{"_id":{"$oid":"5b573716d51d2953d2572c97"},"name":"ALLEGONE 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Agron Remedies Pvt Ltd","price":"Rs.3.57"}
+{"_id":{"$oid":"5b573718d51d2953d2572c98"},"name":"ALLEGRA Suspension 100ml","composition":"Fexofenadine 30mg","manufacturer":"Sanofi India Ltd","price":"Rs.128.97"}
+{"_id":{"$oid":"5b57371ad51d2953d2572c99"},"name":"ALLEGRA Suspension 60ml","composition":"Fexofenadine 30mg","manufacturer":"Sanofi India Ltd","price":"Rs.117.25"}
+{"_id":{"$oid":"5b57371cd51d2953d2572c9a"},"name":"ALLEGRA 30mg Tablet 10's","composition":"Fexofenadine 30mg","manufacturer":"Sanofi India Ltd","price":"Rs.45.85"}
+{"_id":{"$oid":"5b573723d51d2953d2572c9b"},"name":"ALLEGRA 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Sanofi India Ltd","price":"Rs.152.89"}
+{"_id":{"$oid":"5b573725d51d2953d2572c9c"},"name":"ALLEGRA Syrup 60ml","composition":"Fexofenadine 30mg","manufacturer":"Sanofi India Ltd","price":"Rs.71.57"}
+{"_id":{"$oid":"5b573727d51d2953d2572c9d"},"name":"ALLEGRA 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"Sanofi India Ltd","price":"Rs.174.89"}
+{"_id":{"$oid":"5b573728d51d2953d2572c9e"},"name":"ALLEGRA M Tablet 10's","composition":"Fexofenadine 120mg+Montelukast 10mg","manufacturer":"Sanofi India Ltd","price":"Rs.156.07"}
+{"_id":{"$oid":"5b57372ad51d2953d2572c9f"},"name":"ALLELIN 10mg Tablet 10's","composition":"Levocetirizine 10mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b57372bd51d2953d2572ca0"},"name":"ALLERCET PEDTABS Tablet 10's","composition":"Cetirizine","manufacturer":"Micro Labs Ltd","price":"Rs.24.00"}
+{"_id":{"$oid":"5b57372dd51d2953d2572ca1"},"name":"ALLERCET 5mg Tablet 10's","composition":"Cetirizine 5mg","manufacturer":"Micro Labs Ltd","price":"Rs.36.50"}
+{"_id":{"$oid":"5b57372fd51d2953d2572ca2"},"name":"ALLERCET M KID Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Micro Labs Ltd","price":"Rs.61.50"}
+{"_id":{"$oid":"5b573732d51d2953d2572ca3"},"name":"ALLERCET L Tablet 10's","composition":"Levocetirizine","manufacturer":"Micro Labs Ltd","price":"Rs.43.50"}
+{"_id":{"$oid":"5b573734d51d2953d2572ca4"},"name":"ALLERCET 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Micro Labs Ltd","price":"Rs.16.80"}
+{"_id":{"$oid":"5b573736d51d2953d2572ca5"},"name":"ALLERCET M Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Micro Labs Ltd","price":"Rs.107.50"}
+{"_id":{"$oid":"5b573737d51d2953d2572ca6"},"name":"ALLERDE 5mg Tablet 10's","composition":"Desloratadine 5mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b573739d51d2953d2572ca7"},"name":"ALLERDE M Tablet 10's","composition":"Desloratadine 5+Montelukast 10","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.138.60"}
+{"_id":{"$oid":"5b57373bd51d2953d2572ca8"},"name":"ALLERDEST M Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.72.50"}
+{"_id":{"$oid":"5b57373bd51d2953d2572ca9"},"name":"ALLERDEST 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.15.94"}
+{"_id":{"$oid":"5b57373dd51d2953d2572caa"},"name":"ALLERFEX M Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Unichem Laboratories Ltd","price":"Rs.112.70"}
+{"_id":{"$oid":"5b57373fd51d2953d2572cab"},"name":"ALLERFEX 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.106.50"}
+{"_id":{"$oid":"5b573741d51d2953d2572cac"},"name":"ALLERFEX 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.128.50"}
+{"_id":{"$oid":"5b573743d51d2953d2572cad"},"name":"ALLERFEX (EMB) 120mg Tablet 6's","composition":"Fexofenadine 120mg","manufacturer":"Embiotic Laboratories Pvt Ltd","price":"Rs.88.50"}
+{"_id":{"$oid":"5b573746d51d2953d2572cae"},"name":"ALLERGO 180mg Tablet 10's","composition":"Fexofenadine","manufacturer":"Agio Pharmaceuticals Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b573748d51d2953d2572caf"},"name":"ALLERGO 120mg Tablet 10's","composition":"Fexofenadine","manufacturer":"Agio Pharmaceuticals Ltd","price":"Rs.102.00"}
+{"_id":{"$oid":"5b57374ad51d2953d2572cb0"},"name":"ALLERHIN D PLUS Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Embiotic Laboratories Pvt Ltd","price":"Rs.31.41"}
+{"_id":{"$oid":"5b57374cd51d2953d2572cb1"},"name":"ALLERHIN L 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Embiotic Laboratories Pvt Ltd","price":"Rs.19.80"}
+{"_id":{"$oid":"5b57374ed51d2953d2572cb2"},"name":"ALLERHIN L SYRUP 60ML","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 2.5MG","manufacturer":"Embiotic Laboratories Pvt Ltd","price":"Rs.39.60"}
+{"_id":{"$oid":"5b573750d51d2953d2572cb3"},"name":"ALLERKAST 10/5mg Syrup 30ml","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Lupin Ltd","price":"Rs.20.58"}
+{"_id":{"$oid":"5b573752d51d2953d2572cb4"},"name":"ALLERKAST 10/5mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG+MONTELUKAST 10MG","manufacturer":"Fdc Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b573753d51d2953d2572cb5"},"name":"ALLERKAST LC 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Lupin Ltd","price":"Rs.29.25"}
+{"_id":{"$oid":"5b573755d51d2953d2572cb6"},"name":"ALLERMAX PLUS Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Fdc Ltd","price":"Rs.101.00"}
+{"_id":{"$oid":"5b573757d51d2953d2572cb7"},"name":"ALLERMAX Tablet 10's","composition":"Levocetirizine 10mg+Montelukast 120mg","manufacturer":"Fdc Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b573759d51d2953d2572cb8"},"name":"ALLERMIN M Tablet 10's","composition":"Montelukast+Levocetirizine","manufacturer":"Minol Pharmaceuticals","price":"Rs.85.00"}
+{"_id":{"$oid":"5b57375ad51d2953d2572cb9"},"name":"ALLERONE 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Gladstone Pharma India Pvt Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b57375cd51d2953d2572cba"},"name":"ALLERZINE 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Jenburkt Pharmaceuticals Ltd","price":"Rs.41.00"}
+{"_id":{"$oid":"5b57375ed51d2953d2572cbb"},"name":"ALLERZINE L 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Jenburkt Pharmaceuticals Ltd","price":"Rs.27.90"}
+{"_id":{"$oid":"5b573760d51d2953d2572cbc"},"name":"ALLRITE Capsule 10's","composition":"Levocetirizine 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.34.90"}
+{"_id":{"$oid":"5b573762d51d2953d2572cbd"},"name":"ALLRITE M Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.138.60"}
+{"_id":{"$oid":"5b573764d51d2953d2572cbe"},"name":"ALLRITE 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.68.10"}
+{"_id":{"$oid":"5b573766d51d2953d2572cbf"},"name":"ALLSET Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Others","price":"Rs.84.76"}
+{"_id":{"$oid":"5b573768d51d2953d2572cc0"},"name":"ALOCET M Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Vilberry Healthcare Pvt Ltd","price":"Rs.87.00"}
+{"_id":{"$oid":"5b57376ad51d2953d2572cc1"},"name":"ALOVENT 5mg Tablet 10's","composition":"Olopatadine 5mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.68.50"}
+{"_id":{"$oid":"5b57376bd51d2953d2572cc2"},"name":"ALSIUM Tablet 15's","composition":"Clobazam 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.117.97"}
+{"_id":{"$oid":"5b57376dd51d2953d2572cc3"},"name":"ALT FM 10/120MG TABLET 10'S","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.132.00"}
+{"_id":{"$oid":"5b57376fd51d2953d2572cc4"},"name":"ALTIVA 180MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.135.41"}
+{"_id":{"$oid":"5b573771d51d2953d2572cc5"},"name":"ALTIVA 30MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 30MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.8.75"}
+{"_id":{"$oid":"5b573773d51d2953d2572cc6"},"name":"ALVIZINE M Tablet 10's","composition":"Montelukast 10mg+Levocetirizine 5mg","manufacturer":"Wockhardt Ltd","price":"Rs.81.00"}
+{"_id":{"$oid":"5b573775d51d2953d2572cc7"},"name":"ALZENE 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.18.00"}
+{"_id":{"$oid":"5b573777d51d2953d2572cc8"},"name":"ALZERO 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b573779d51d2953d2572cc9"},"name":"ALZERO M 4/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b57377cd51d2953d2572cca"},"name":"AMICET Tablet 10's","composition":"Levocetirizine 5mg+Ambroxol 60mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.33.00"}
+{"_id":{"$oid":"5b57377ed51d2953d2572ccb"},"name":"ANCER LM Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Biovitamins Pvt Ltd","price":"Rs.79.20"}
+{"_id":{"$oid":"5b573781d51d2953d2572ccc"},"name":"ANCER LM Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Biovitamins Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b573783d51d2953d2572ccd"},"name":"ANTICET 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Senses Pharmaceuticals Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b573785d51d2953d2572cce"},"name":"ASTHAMON L Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.119.70"}
+{"_id":{"$oid":"5b573787d51d2953d2572ccf"},"name":"AVIL 25mg Tablet 1200's","composition":"Pheniramine 25mg","manufacturer":"Sanofi India Ltd","price":"Rs.362.65"}
+{"_id":{"$oid":"5b573789d51d2953d2572cd0"},"name":"AVIL 25mg Tablet 15's","composition":"Pheniramine Maleate 25mg","manufacturer":"Sanofi India Ltd","price":"Rs.6.82"}
+{"_id":{"$oid":"5b57378bd51d2953d2572cd1"},"name":"AVIL 25mg Injection 2ml","composition":"Pheniramine 25mg","manufacturer":"Sanofi India Ltd","price":"Rs.11.10"}
+{"_id":{"$oid":"5b57378cd51d2953d2572cd2"},"name":"AVIL 50mg Tablet 10's","composition":"Pheniramine 50mg","manufacturer":"Sanofi India Ltd","price":"Rs.10.25"}
+{"_id":{"$oid":"5b57378ed51d2953d2572cd3"},"name":"AVIL 22.5MG INJECTION 10x2ML","composition":"pheniramine","manufacturer":"Sanofi India Ltd","price":"Rs.29.50"}
+{"_id":{"$oid":"5b573790d51d2953d2572cd4"},"name":"AVIL INJECTION 10x2ML","composition":"Pheniramine Maleate 22.75mg","manufacturer":"Sanofi India Ltd","price":"Rs.22.00"}
+{"_id":{"$oid":"5b573793d51d2953d2572cd5"},"name":"AVIL 25mg Expectorant 100ml","composition":"Pheniramine 25mg","manufacturer":"Sanofi India Ltd","price":"Rs.29.52"}
+{"_id":{"$oid":"5b573794d51d2953d2572cd6"},"name":"AVIL 50mg Tablet 15's","composition":"Pheniramine Maleate 50mg","manufacturer":"Sanofi India Ltd","price":"Rs.8.28"}
+{"_id":{"$oid":"5b573796d51d2953d2572cd7"},"name":"AVIL NU Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Sanofi India Ltd","price":"Rs.17.36"}
+{"_id":{"$oid":"5b573798d51d2953d2572cd8"},"name":"AWAYKE 10mg Tablet 10's","composition":"Loratadine 10mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.48.46"}
+{"_id":{"$oid":"5b57379bd51d2953d2572cd9"},"name":"AXCET 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Aurz Pharmaceutical Pvt Ltd","price":"Rs.29.00"}
+{"_id":{"$oid":"5b57379dd51d2953d2572cda"},"name":"AZAL 5mg Tablet 10's","composition":"LEVOCETIRIZINE","manufacturer":" NA ","price":"Rs.52.00"}
+{"_id":{"$oid":"5b57379dd51d2953d2572cdb"},"name":"AZFEX M Tablet 10's","composition":"Fexofenadine 120mg+Montelukast 10mg","manufacturer":"Azkka Pharmaceuticals Pvt Ltd","price":"Rs.119.90"}
+{"_id":{"$oid":"5b57379fd51d2953d2572cdc"},"name":"BEPOMAC 10mg Tablet 10's","composition":"Bepotastine Besilate 10mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b5737a1d51d2953d2572cdd"},"name":"BETAWIN LC 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.7.75"}
+{"_id":{"$oid":"5b5737a3d51d2953d2572cde"},"name":"BETONIX 10mg Tablet 10's","composition":"Bepotastine Besilate 10mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b5737a5d51d2953d2572cdf"},"name":"BOROX M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Biomax Biotechnics Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b5737a7d51d2953d2572ce0"},"name":"BREATHEZY L Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.76.50"}
+{"_id":{"$oid":"5b5737a9d51d2953d2572ce1"},"name":"BREAZE L Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Albert David Ltd","price":"Rs.96.50"}
+{"_id":{"$oid":"5b5737abd51d2953d2572ce2"},"name":"BREAZE L KID Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Albert David Ltd","price":"Rs.71.00"}
+{"_id":{"$oid":"5b5737add51d2953d2572ce3"},"name":"BRIOCOLD 4/2.5mg Suspension 30ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Brio Bliss Life Science Pvt Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b5737afd51d2953d2572ce4"},"name":"BRONKOLAST L 4/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Kontest Chemicals Ltd","price":"Rs.64.28"}
+{"_id":{"$oid":"5b5737b1d51d2953d2572ce5"},"name":"BRUNDA M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Veritaz Health Care Ltd","price":"Rs.79.90"}
+{"_id":{"$oid":"5b5737b3d51d2953d2572ce6"},"name":"BYELLERGY 10mg Tablet 10's","composition":"Bepotastine Besilate 10mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b5737b5d51d2953d2572ce7"},"name":"CADISTIN 4mg Tablet 1000's","composition":"Chlorpheniramine 4mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.50.00"}
+{"_id":{"$oid":"5b5737b7d51d2953d2572ce8"},"name":"CALAMINE Lotion 100ml","composition":"CALAMINE ","manufacturer":"Medisynth Chemicals Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5737b9d51d2953d2572ce9"},"name":"CALCILUVIN Syrup 100ml","composition":"Calcium Lactate 200mg+Luvistin 20mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.23.31"}
+{"_id":{"$oid":"5b5737bbd51d2953d2572cea"},"name":"CCGESIC M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Others","price":"Rs.65.00"}
+{"_id":{"$oid":"5b5737bdd51d2953d2572ceb"},"name":"CENTILUK 4/2.5mg Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"KEPLER HEALTHCARE PVT LTD","price":"Rs.79.00"}
+{"_id":{"$oid":"5b5737bfd51d2953d2572cec"},"name":"CENTILUK 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"KEPLER HEALTHCARE PVT LTD","price":"Rs.104.06"}
+{"_id":{"$oid":"5b5737c1d51d2953d2572ced"},"name":"CERIZ L MONT 10/5mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG+MONTELUKAST 10MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.41.00"}
+{"_id":{"$oid":"5b5737c3d51d2953d2572cee"},"name":"CERZIN L 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.33.50"}
+{"_id":{"$oid":"5b5737c5d51d2953d2572cef"},"name":"CERZIN L SYRUP 30ML","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 2.5MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.31.00"}
+{"_id":{"$oid":"5b5737c7d51d2953d2572cf0"},"name":"CETCIP Syrup 30ml","composition":"Cetirizine 5mg","manufacturer":"Cipla Ltd","price":"Rs.17.64"}
+{"_id":{"$oid":"5b5737c9d51d2953d2572cf1"},"name":"CETCIP COLD Tablet 10's","composition":"CETIRIZINE 5MG","manufacturer":"Cipla Ltd","price":"Rs.9.46"}
+{"_id":{"$oid":"5b5737cbd51d2953d2572cf2"},"name":"CETEMED Tablet 10's","composition":"Cetirizine ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.2.18"}
+{"_id":{"$oid":"5b5737cdd51d2953d2572cf3"},"name":"CETFAST L 5mg Tablet 10's","composition":"Levocetirizine","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b5737cfd51d2953d2572cf4"},"name":"CETGEL Capsule 10's","composition":"Cetirizine 10mg","manufacturer":"Sanofi India Ltd","price":"Rs.24.20"}
+{"_id":{"$oid":"5b5737d1d51d2953d2572cf5"},"name":"CETICAD 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.2.12"}
+{"_id":{"$oid":"5b5737d3d51d2953d2572cf6"},"name":"CETICAD 1mg Syrup 60ml","composition":"Cetirizine 1mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.15.57"}
+{"_id":{"$oid":"5b5737d5d51d2953d2572cf7"},"name":"CETICAD 10mg Tablet 100's","composition":"Cetirizine 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.11.25"}
+{"_id":{"$oid":"5b5737d7d51d2953d2572cf8"},"name":"CETICAD 5mg Suspension 30ml","composition":"Cetirizine 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.10.00"}
+{"_id":{"$oid":"5b5737d9d51d2953d2572cf9"},"name":"CETICAD D 10mg Tablet 10's","composition":"Cetirizine 10mg+Pseudoephedrine 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.31.25"}
+{"_id":{"$oid":"5b5737dbd51d2953d2572cfa"},"name":"CETIMAX 10mg Tablet 10's","composition":"Levocetirizine 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.25.00"}
+{"_id":{"$oid":"5b5737ddd51d2953d2572cfb"},"name":"CETIMON 4/2.5mg Tablet 10's","composition":"LEVOCETIRIZINE 2.5MG+MONTELUKAST 4MG","manufacturer":"Sunways India Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b5737e1d51d2953d2572cfc"},"name":"CETIN PLUS Syrup 60ml","composition":"Cetirizine 2mg+Paracetamol 125mg+Phenylephrine 15mg","manufacturer":"Ind Swift Ltd","price":"Rs.22.04"}
+{"_id":{"$oid":"5b5737e3d51d2953d2572cfd"},"name":"CETINAM 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.36.00"}
+{"_id":{"$oid":"5b5737e5d51d2953d2572cfe"},"name":"CETINAM Syrup 60ml","composition":"Cetirizine ","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.63.81"}
+{"_id":{"$oid":"5b5737e7d51d2953d2572cff"},"name":"CETIRIZ 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.16.76"}
+{"_id":{"$oid":"5b5737e9d51d2953d2572d00"},"name":"CETIRIZ Syrup 60ml","composition":"Cetirizine 5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.36.09"}
+{"_id":{"$oid":"5b5737ecd51d2953d2572d01"},"name":"CETIRIZ 5mg Syrup 30ml","composition":"Cetirizine 5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.17.96"}
+{"_id":{"$oid":"5b5737efd51d2953d2572d02"},"name":"CETIRIZ Syrup 30ml","composition":"Cetirizine 5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.17.96"}
+{"_id":{"$oid":"5b5737f1d51d2953d2572d03"},"name":"CETIRIZ D Tablet 10's","composition":"Cetirizine 5mg+Pseudoephedrine 120mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.19.62"}
+{"_id":{"$oid":"5b5737f2d51d2953d2572d04"},"name":"CETIRIZ L 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.41.00"}
+{"_id":{"$oid":"5b5737f4d51d2953d2572d05"},"name":"CETLONG L 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":" NA ","price":"Rs.26.25"}
+{"_id":{"$oid":"5b5737f6d51d2953d2572d06"},"name":"CETPIL Tablet 10's","composition":"Cetirizine","manufacturer":"Apple Therapeutics Pvt Ltd","price":"Rs.19.00"}
+{"_id":{"$oid":"5b5737f8d51d2953d2572d07"},"name":"CETRAL 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.20.85"}
+{"_id":{"$oid":"5b5737fad51d2953d2572d08"},"name":"CETRAL Syrup 30ml","composition":"Cetirizine 5mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.20.50"}
+{"_id":{"$oid":"5b5737fcd51d2953d2572d09"},"name":"CETRAL O 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.2.62"}
+{"_id":{"$oid":"5b5737fed51d2953d2572d0a"},"name":"CETREZOL Syrup 60ml","composition":"Cetirizine 5mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.28.50"}
+{"_id":{"$oid":"5b573800d51d2953d2572d0b"},"name":"CETREZOL 5mg Tablet 10's","composition":"Cetirizine 5mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.19.10"}
+{"_id":{"$oid":"5b573802d51d2953d2572d0c"},"name":"CETREZOL L Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.82.00"}
+{"_id":{"$oid":"5b573803d51d2953d2572d0d"},"name":"CETREZOL 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.16.07"}
+{"_id":{"$oid":"5b573805d51d2953d2572d0e"},"name":"CETRID OD 10mg Tablet 10's","composition":"Cetirizine 10mg (OD)","manufacturer":"Biomiicron Pharma India Pvt Ltd","price":"Rs.16.38"}
+{"_id":{"$oid":"5b573807d51d2953d2572d0f"},"name":"CETRILIV 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE DIHYDROCHLORIDE 5MG","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.47.00"}
+{"_id":{"$oid":"5b573809d51d2953d2572d10"},"name":"CETRILIV Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.43.15"}
+{"_id":{"$oid":"5b57380bd51d2953d2572d11"},"name":"CETRILIV M 5/10mg Tablet 10's","composition":"Levocetirizine 10mg+Montelukast 5mg","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b57380cd51d2953d2572d12"},"name":"CETRINAT Syrup 60ml","composition":"Cetirizine ","manufacturer":"Natco Pharma Ltd","price":"Rs.21.55"}
+{"_id":{"$oid":"5b57380dd51d2953d2572d13"},"name":"CETRINE Syrup 60ml","composition":"Cetirizine 5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.21.00"}
+{"_id":{"$oid":"5b57380fd51d2953d2572d14"},"name":"CETRINE Tablet 10's","composition":"Cetirizine ","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.29.24"}
+{"_id":{"$oid":"5b573811d51d2953d2572d15"},"name":"CETRITE PLUS Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Medopharm Pvt Ltd","price":"Rs.106.00"}
+{"_id":{"$oid":"5b573811d51d2953d2572d16"},"name":"CETRITE 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Medopharm Pvt Ltd","price":"Rs.38.50"}
+{"_id":{"$oid":"5b573813d51d2953d2572d17"},"name":"CETRIVER 10mg Tablet 10's","composition":"Cetrizine 10mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.19.00"}
+{"_id":{"$oid":"5b573815d51d2953d2572d18"},"name":"CETRIWAL 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.25.33"}
+{"_id":{"$oid":"5b573817d51d2953d2572d19"},"name":"CETRIZET 5mg Tablet 10's","composition":"Cetirizine 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.34.00"}
+{"_id":{"$oid":"5b57381ad51d2953d2572d1a"},"name":"CETRIZET 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.20.21"}
+{"_id":{"$oid":"5b57381cd51d2953d2572d1b"},"name":"CETRIZINE 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.16.80"}
+{"_id":{"$oid":"5b57381dd51d2953d2572d1c"},"name":"CETRIZINE 1mg Syrup 30ml","composition":"Cetirizine 1mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.17.95"}
+{"_id":{"$oid":"5b57381fd51d2953d2572d1d"},"name":"CETRIZINE (ZYDUS CADILA) 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.43.18"}
+{"_id":{"$oid":"5b573820d51d2953d2572d1e"},"name":"CETZE Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Inex Medicaments Pvt Ltd","price":"Rs.16.50"}
+{"_id":{"$oid":"5b573822d51d2953d2572d1f"},"name":"CETZINE Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.16.74"}
+{"_id":{"$oid":"5b573824d51d2953d2572d20"},"name":"CEZIN Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Menarini India Pvt Ltd","price":"Rs.349.00"}
+{"_id":{"$oid":"5b573826d51d2953d2572d21"},"name":"CILZINE Tablet 10's","composition":"Cetirizine","manufacturer":"Aretaeus Pharmaceuticals Pvt Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b573829d51d2953d2572d22"},"name":"CISTIN L 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.64.90"}
+{"_id":{"$oid":"5b57382bd51d2953d2572d23"},"name":"CITICAD 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.23.96"}
+{"_id":{"$oid":"5b57382cd51d2953d2572d24"},"name":"CITIMED CD Tablet 10's","composition":"Cetirizine 10mg+Pseudoephedrine 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.6.93"}
+{"_id":{"$oid":"5b57382fd51d2953d2572d25"},"name":"CLAMIST Syrup 60ml","composition":"CLEMASTINE 0.5MG","manufacturer":"Wander Pvt Ltd","price":"Rs.67.00"}
+{"_id":{"$oid":"5b573830d51d2953d2572d26"},"name":"CLAMIST 1mg Tablet 10's","composition":"Clemastine 1mg","manufacturer":"Wander Pvt Ltd","price":"Rs.89.50"}
+{"_id":{"$oid":"5b573832d51d2953d2572d27"},"name":"CODYLEX PLUS Tablet 10's","composition":"Chlorpheniramine 2mg+Paracetamol 325mg","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.24.76"}
+{"_id":{"$oid":"5b573834d51d2953d2572d28"},"name":"COEKASTLE Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Koye Pharmaceuticals Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b573838d51d2953d2572d29"},"name":"COFRYL Syrup 60ml","composition":"Diphenhydramine 25mg","manufacturer":"Cipla Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b57383ad51d2953d2572d2a"},"name":"COFRYL Syrup 100ml","composition":"Diphenhydramine 25mg","manufacturer":"Cipla Ltd","price":"Rs.68.50"}
+{"_id":{"$oid":"5b57383cd51d2953d2572d2b"},"name":"COFRYL Syrup 150ml","composition":"Diphenhydramine ","manufacturer":"Cipla Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b57383ed51d2953d2572d2c"},"name":"COFRYL OG Syrup 100ml","composition":"Diphenhydramine ","manufacturer":"Cipla Ltd","price":"Rs.28.75"}
+{"_id":{"$oid":"5b573840d51d2953d2572d2d"},"name":"COFRYL SF Syrup 100ml","composition":"Diphenhydramine ","manufacturer":"Cipla Ltd","price":"Rs.20.00"}
+{"_id":{"$oid":"5b573842d51d2953d2572d2e"},"name":"CONEE 10mg Tablet 10's","composition":"Hydroxyzine Hydrochloride 10mg","manufacturer":"Affy Pharma Pvt Ltd","price":"Rs.15.50"}
+{"_id":{"$oid":"5b573845d51d2953d2572d2f"},"name":"COVEL 5mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG","manufacturer":"Glowderma Labs Pvt Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b573848d51d2953d2572d30"},"name":"COVEL 10MG TABLET 10'S","composition":"LEVOCETIRIZINE 10MG","manufacturer":"Glowderma Labs Pvt Ltd","price":"Rs.87.00"}
+{"_id":{"$oid":"5b57384ad51d2953d2572d31"},"name":"CPM 4mg Tablet 1000's","composition":"Chlorpheniramine 4mg","manufacturer":"Sanofi India Ltd","price":"Rs.72.50"}
+{"_id":{"$oid":"5b57384cd51d2953d2572d32"},"name":"CROMAL Eye Drop 5ml","composition":"SODIUM CROMOGLYCATE 2%","manufacturer":"Cipla Ltd","price":"Rs.46.00"}
+{"_id":{"$oid":"5b573850d51d2953d2572d33"},"name":"CROMAL FORTE Eye Drops 5ml","composition":"SODIUM CROMOGLYCATE 4%","manufacturer":"Cipla Ltd","price":"Rs.69.50"}
+{"_id":{"$oid":"5b573852d51d2953d2572d34"},"name":"CTZ PLUS Tablet 10's","composition":"Cetirizine 10mg+Pseudoephedrine 60mg","manufacturer":"Psychotropics India Limited","price":"Rs.32.50"}
+{"_id":{"$oid":"5b573854d51d2953d2572d35"},"name":"CZ 3 Syrup 60ml","composition":"Cetirizine 5mg","manufacturer":"Lupin Ltd","price":"Rs.34.50"}
+{"_id":{"$oid":"5b573856d51d2953d2572d36"},"name":"CZ 3 Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Lupin Ltd","price":"Rs.16.68"}
+{"_id":{"$oid":"5b573858d51d2953d2572d37"},"name":"CZ COLD Syrup 30ml","composition":"Cetirizine 10mg+Pseudoephedrine 10mg","manufacturer":"Lupin Ltd","price":"Rs.37.07"}
+{"_id":{"$oid":"5b573859d51d2953d2572d38"},"name":"D LOR Tablet 10's","composition":"Desloratadine","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b57385bd51d2953d2572d39"},"name":"D LORATIN 5mg Tablet 10's","composition":"Desloratidine 5mg","manufacturer":"Cipla Ltd","price":"Rs.29.78"}
+{"_id":{"$oid":"5b57385dd51d2953d2572d3a"},"name":"DAZIT M Tablet 10's","composition":"Desloratadine 5mg+Montelukast 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b57385fd51d2953d2572d3b"},"name":"DAZIT 5mg Tablet 10's","composition":"Desloratadine 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b573861d51d2953d2572d3c"},"name":"DELORTA 5mg Tablet 10's","composition":"Desloratidine 5mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.59.50"}
+{"_id":{"$oid":"5b573862d51d2953d2572d3d"},"name":"DELPODINE 30mg Tablet 10's","composition":"Fexofenadine","manufacturer":"Delcure Lifesciences Ltd","price":"Rs.32.50"}
+{"_id":{"$oid":"5b573864d51d2953d2572d3e"},"name":"DELPODINE 120MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 120MG","manufacturer":" NA ","price":"Rs.87.00"}
+{"_id":{"$oid":"5b573866d51d2953d2572d3f"},"name":"DELPODINE Syrup 60ml","composition":"Fexofenadine","manufacturer":"Delcure Lifesciences Ltd","price":"Rs.86.50"}
+{"_id":{"$oid":"5b573868d51d2953d2572d40"},"name":"DELPODINE 180MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":" NA ","price":"Rs.106.00"}
+{"_id":{"$oid":"5b57386ad51d2953d2572d41"},"name":"DELPODINE M 10/120mg Tablet 10's","composition":"FEXOFENADINE HYDROCHLORIDE 120MG+MONTELUKAST SODIUM 10MG","manufacturer":"Delcure Lifesciences Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b57386cd51d2953d2572d42"},"name":"DELPODINE M 4/60mg Suspension 50ml","composition":"FEXOFENADINE HYDROCHLORIDE 60MG+MONTELUKAST SODIUM 4MG","manufacturer":"Delcure Lifesciences Ltd","price":"Rs.94.00"}
+{"_id":{"$oid":"5b57386fd51d2953d2572d43"},"name":"DELPOMONT L 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Delcure Lifesciences Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b573872d51d2953d2572d44"},"name":"DES OD 10mg Tablet 10's","composition":"DESLORATADINE 10MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.54.10"}
+{"_id":{"$oid":"5b573874d51d2953d2572d45"},"name":"DES OD 5mg Tablet 10's","composition":"DESLORATADINE 5MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b573876d51d2953d2572d46"},"name":"DESENT 5mg Tablet 10's","composition":"Desloratidine 5mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.27.50"}
+{"_id":{"$oid":"5b573878d51d2953d2572d47"},"name":"DESLOR 5mg Tablet 10's","composition":"Desloratadine 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b57387ad51d2953d2572d48"},"name":"DEZLORID 5mg Tablet 10's","composition":"Desloratadine 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b57387cd51d2953d2572d49"},"name":"DEZLORID M Tablet 10's","composition":"Desloratadine 5mg+Montelukast 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.152.00"}
+{"_id":{"$oid":"5b57387ed51d2953d2572d4a"},"name":"DIAVOBET Ointment 15gm","composition":"Betamethasone 0.5mg","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.67.00"}
+{"_id":{"$oid":"5b573880d51d2953d2572d4b"},"name":"DILOSYN Tablet 10's","composition":"Methdilazine 8mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.19.35"}
+{"_id":{"$oid":"5b573882d51d2953d2572d4c"},"name":"DILOSYN 4mg Expectorant 100ml","composition":"Methdilazine 4mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b573884d51d2953d2572d4d"},"name":"DILOSYN Syrup 100ml","composition":"Methdilazine 4mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.54.15"}
+{"_id":{"$oid":"5b573886d51d2953d2572d4e"},"name":"DILOVENT M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Obsurge Biotech Ltd","price":"Rs.86.79"}
+{"_id":{"$oid":"5b573888d51d2953d2572d4f"},"name":"DIO 1 TABLET 10'S","composition":"CETIRIZINE 10MG","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.8.87"}
+{"_id":{"$oid":"5b57388ad51d2953d2572d50"},"name":"DIOMINIC TABLET 10'S","composition":"DEXCHLORPHENIRAMINE 2MG","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.12.60"}
+{"_id":{"$oid":"5b57388cd51d2953d2572d51"},"name":"DIOMINIC SR TABLET 10'S","composition":"DEXCHLORPHENIRAMINE 6MG","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.25.90"}
+{"_id":{"$oid":"5b57388dd51d2953d2572d52"},"name":"DOXURE Cream 30gm","composition":"Doxepin 5%+Menthol 2%","manufacturer":"Unichem Laboratories Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b57388fd51d2953d2572d53"},"name":"DRUSA 180MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":" NA ","price":"Rs.105.00"}
+{"_id":{"$oid":"5b573891d51d2953d2572d54"},"name":"DRUSA 120MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 120MG","manufacturer":" NA ","price":"Rs.70.00"}
+{"_id":{"$oid":"5b573891d51d2953d2572d55"},"name":"EBAHIST 20mg Tablet 10's","composition":"Ebastine 20mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.104.00"}
+{"_id":{"$oid":"5b573893d51d2953d2572d56"},"name":"EBAHIST 10mg Tablet 10's","composition":"Ebastine 10mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.76.40"}
+{"_id":{"$oid":"5b573895d51d2953d2572d57"},"name":"EBAL 20mg Tablet 10's","composition":"Ebastine 20mg","manufacturer":"Bal Pharma Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b573898d51d2953d2572d58"},"name":"EBAL 10mg Tablet 10's","composition":"EBASTINE 10MG","manufacturer":"Bal Pharma Ltd","price":"Rs.53.00"}
+{"_id":{"$oid":"5b57389ad51d2953d2572d59"},"name":"EBASIL 20mg Tablet 10's","composition":"Ebastine 20mg","manufacturer":"Abbott India Ltd","price":"Rs.99.50"}
+{"_id":{"$oid":"5b57389dd51d2953d2572d5a"},"name":"EBASIL 10mg Tablet 10's","composition":"Ebastine 10mg","manufacturer":"Abbott India Ltd","price":"Rs.80.81"}
+{"_id":{"$oid":"5b5738a1d51d2953d2572d5b"},"name":"EBAST 10mg Tablet 10's","composition":"Ebastine 10mg","manufacturer":"Micro Labs Ltd","price":"Rs.83.50"}
+{"_id":{"$oid":"5b5738a3d51d2953d2572d5c"},"name":"EBAST M KID Tablet 10's","composition":"Ebastine 5mg+Montelukast 4mg","manufacturer":"Micro Labs Ltd","price":"Rs.117.86"}
+{"_id":{"$oid":"5b5738a5d51d2953d2572d5d"},"name":"EBAST M Tablet 10's","composition":"Ebastine 10mg+Montelukast 10mg","manufacturer":"Micro Labs Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b5738a7d51d2953d2572d5e"},"name":"EBAST 20mg Tablet 10's","composition":"Ebastine 20mg","manufacturer":"Micro Labs Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b5738a9d51d2953d2572d5f"},"name":"EBAY 20mg Tablet 10's","composition":"Ebastine 20mg","manufacturer":"Bal Pharma Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b5738aad51d2953d2572d60"},"name":"EBAY 10mg Tablet 10's","composition":"Ebastine 10mg","manufacturer":"Bal Pharma Ltd","price":"Rs.49.00"}
+{"_id":{"$oid":"5b5738add51d2953d2572d61"},"name":"EBAY MD 10mg Tablet 10's","composition":"Ebastine 10mg","manufacturer":"Bal Pharma Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b5738afd51d2953d2572d62"},"name":"EBMONT L Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Mmc Health Care Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b5738afd51d2953d2572d63"},"name":"EBMONT FX 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Mmc Health Care Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5738b1d51d2953d2572d64"},"name":"EBTIN 20mg Tablet 10's","composition":"Ebastine 20mg","manufacturer":"Zee Laboratories Ltd","price":"Rs.72.50"}
+{"_id":{"$oid":"5b5738b2d51d2953d2572d65"},"name":"EKON 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.18.28"}
+{"_id":{"$oid":"5b5738b3d51d2953d2572d66"},"name":"ELCET 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Elfin Pharma","price":"Rs.27.96"}
+{"_id":{"$oid":"5b5738b5d51d2953d2572d67"},"name":"ELCICAST 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Kivi Labs Ltd","price":"Rs.86.90"}
+{"_id":{"$oid":"5b5738b8d51d2953d2572d68"},"name":"ELERVIN Tablet 10's","composition":"Ebastine 20mg","manufacturer":"Zee Laboratories Ltd","price":"Rs.72.50"}
+{"_id":{"$oid":"5b5738b9d51d2953d2572d69"},"name":"ELINA 10mg Tablet 15's","composition":"Mizolastine 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.127.00"}
+{"_id":{"$oid":"5b5738bcd51d2953d2572d6a"},"name":"ELINA 10MG TABLET 10'S","composition":"Mizolastine","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.116.00"}
+{"_id":{"$oid":"5b5738bed51d2953d2572d6b"},"name":"ELOCON Lotion 5ml","composition":"MOMETASONE","manufacturer":"Fulford India Ltd","price":"Rs.106.87"}
+{"_id":{"$oid":"5b5738bfd51d2953d2572d6c"},"name":"ELOCON Ointment 5gm","composition":"MOMETASONE 0.1%W/W","manufacturer":"Fulford India Ltd","price":"Rs.106.87"}
+{"_id":{"$oid":"5b5738c1d51d2953d2572d6d"},"name":"ELOCON Cream 5gm","composition":"Mometasone Furoate","manufacturer":"Fulford India Ltd","price":"Rs.106.87"}
+{"_id":{"$oid":"5b5738c3d51d2953d2572d6e"},"name":"ELOSALIC Ointment 15gm","composition":"MOMETASONE 0.1%+SALICYLIC ACID 5%W/W","manufacturer":"Fulford India Ltd","price":"Rs.259.70"}
+{"_id":{"$oid":"5b5738c5d51d2953d2572d6f"},"name":"ELRIZ Syrup 30ml","composition":"Levocetirizine 2.5mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.39.60"}
+{"_id":{"$oid":"5b5738c7d51d2953d2572d70"},"name":"ELRIZ 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.56.60"}
+{"_id":{"$oid":"5b5738c9d51d2953d2572d71"},"name":"ELU 5mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.9.35"}
+{"_id":{"$oid":"5b5738cbd51d2953d2572d72"},"name":"ELU Syrup 30ml","composition":"Levocetirizine 2.5mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.25.90"}
+{"_id":{"$oid":"5b5738ccd51d2953d2572d73"},"name":"ELU LC Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b5738ced51d2953d2572d74"},"name":"ELZIN 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"SALUD CARE PVT LTD","price":"Rs.19.05"}
+{"_id":{"$oid":"5b5738d0d51d2953d2572d75"},"name":"EMLUCAST 4mg Tablet 10's","composition":"Montelukast 4mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.91.40"}
+{"_id":{"$oid":"5b5738d2d51d2953d2572d76"},"name":"EMLUCAST 5mg Tablet 10's","composition":"Montelukast 5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.98.10"}
+{"_id":{"$oid":"5b5738d4d51d2953d2572d77"},"name":"EMLUCAST 10mg Tablet 10's","composition":"Montelukast 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.178.20"}
+{"_id":{"$oid":"5b5738d6d51d2953d2572d78"},"name":"EMLUKAST FX Tablet 10's","composition":"Fexofenadine 120mg+Montelukast 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.144.00"}
+{"_id":{"$oid":"5b5738d7d51d2953d2572d79"},"name":"ETHIZINE 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Ethinext Pharma","price":"Rs.35.00"}
+{"_id":{"$oid":"5b5738dad51d2953d2572d7a"},"name":"ETOFEX 120MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 120MG","manufacturer":"Leeford Healthcare Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b5738dcd51d2953d2572d7b"},"name":"FAXODAS 120mg Tablet 6's","composition":"Fexofenadine 120mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.19.80"}
+{"_id":{"$oid":"5b5738ded51d2953d2572d7c"},"name":"FEBREX LP Syrup 30ml","composition":"Levocetirizine 2.5mg+Phenylephrine 10mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.50.80"}
+{"_id":{"$oid":"5b5738e0d51d2953d2572d7d"},"name":"FEBREX LP Tablet 10's","composition":"Levocetirizine 5mg+Phenylephrine 30mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b5738e2d51d2953d2572d7e"},"name":"FEBREX PLUS AF Drops 15ml","composition":"Chlorpheniramine 2mg+Phenylephrine 5mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b5738e4d51d2953d2572d7f"},"name":"FEBREX PLUS AF Syrup 60ml","composition":"Chlorpheniramine 2mg+Phenylephrine 5mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.55.40"}
+{"_id":{"$oid":"5b5738e4d51d2953d2572d80"},"name":"FEGRA 120mg Tablet 10's","composition":"Fexofenadine 150mg","manufacturer":"Comed Chemicals Pvt Ltd","price":"Rs.78.50"}
+{"_id":{"$oid":"5b5738e6d51d2953d2572d81"},"name":"FEGRA 120mg Tablet 6's","composition":"FEXOFENADINE 120MG","manufacturer":"Comed Chemicals Pvt Ltd","price":"Rs.47.00"}
+{"_id":{"$oid":"5b5738e8d51d2953d2572d82"},"name":"FEGRA 180mg Tablet 6's","composition":"Fexofenadine 180mg","manufacturer":"Comed Chemicals Pvt Ltd","price":"Rs.60.50"}
+{"_id":{"$oid":"5b5738ead51d2953d2572d83"},"name":"FEGRA 180mg Tablet 10's","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Comed Chemicals Pvt Ltd","price":"Rs.100.83"}
+{"_id":{"$oid":"5b5738ecd51d2953d2572d84"},"name":"FEGRA M Tablet 10's","composition":"Montelukast 10mg+Fexofenadine 120mg","manufacturer":"Comed Chemicals Pvt Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b5738eed51d2953d2572d85"},"name":"FENIXA M Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5738f0d51d2953d2572d86"},"name":"FENIXA Suspension 100ml","composition":"Fexofenadine 30mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b5738f1d51d2953d2572d87"},"name":"FENIXA Suspension 60ml","composition":"Fexofenadine 30mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.67.00"}
+{"_id":{"$oid":"5b5738f3d51d2953d2572d88"},"name":"FENIXA 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b5738f5d51d2953d2572d89"},"name":"FENIXA 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5738f7d51d2953d2572d8a"},"name":"FEX 180mg Tablet 10's","composition":"Fexofenadine","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b5738f9d51d2953d2572d8b"},"name":"FEX 120mg Tablet 10's","composition":"Fexofenadine","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.114.50"}
+{"_id":{"$oid":"5b5738fbd51d2953d2572d8c"},"name":"FEXERT 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"La Pristine Bioceuticals Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b5738fdd51d2953d2572d8d"},"name":"FEXERT 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"La Pristine Bioceuticals Pvt Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b5738ffd51d2953d2572d8e"},"name":"FEXIDINE Syrup 60ml","composition":"Fexofenadine","manufacturer":"Ind Swift Ltd","price":"Rs.67.00"}
+{"_id":{"$oid":"5b573902d51d2953d2572d8f"},"name":"FEXIGRA 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"Cipla Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b573905d51d2953d2572d90"},"name":"FEXIGRA 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Cipla Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b573907d51d2953d2572d91"},"name":"FEXOBIT 180MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Brinton Pharmaceuticals Ltd","price":"Rs.148.00"}
+{"_id":{"$oid":"5b573909d51d2953d2572d92"},"name":"FEXOCET 30MG SUSPENSION 60ML","composition":"FEXOFENADINE HYDROCHLORIDE 30MG","manufacturer":"Kivi Labs Ltd","price":"Rs.71.00"}
+{"_id":{"$oid":"5b57390bd51d2953d2572d93"},"name":"FEXODAY 120MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 120MG","manufacturer":"Parenteral Drugs India Ltd","price":"Rs.62.50"}
+{"_id":{"$oid":"5b57390dd51d2953d2572d94"},"name":"FEXODINE 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Cipla Ltd","price":"Rs.79.90"}
+{"_id":{"$oid":"5b57390fd51d2953d2572d95"},"name":"FEXOFAST 180MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Micro Labs Ltd","price":"Rs.86.00"}
+{"_id":{"$oid":"5b573911d51d2953d2572d96"},"name":"FEXOFAST 120MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 120MG","manufacturer":"Micro Labs Ltd","price":"Rs.59.41"}
+{"_id":{"$oid":"5b573913d51d2953d2572d97"},"name":"FEXOFEN 120mg Tablet 6's","composition":"Fexofenadine 120mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.43.00"}
+{"_id":{"$oid":"5b573914d51d2953d2572d98"},"name":"FEXOFEN 180mg Tablet 6's","composition":"Fexofenadine 180mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.53.75"}
+{"_id":{"$oid":"5b573916d51d2953d2572d99"},"name":"FEXOLIFE 120mg Tablet 10's","composition":"Fexofenadine","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.115.50"}
+{"_id":{"$oid":"5b573918d51d2953d2572d9a"},"name":"FEXOLUP 120MG TABLET 6'S","composition":"FEXOFENADINE HYDROCHLORIDE 120MG","manufacturer":"Lupin Ltd","price":"Rs.44.45"}
+{"_id":{"$oid":"5b57391ad51d2953d2572d9b"},"name":"FEXOMIK 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"Dermarex Healthcare India Pvt Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b57391cd51d2953d2572d9c"},"name":"FEXOMIK 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Dermarex Healthcare India Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b57391ed51d2953d2572d9d"},"name":"FEXONA 10/150mg Tablet 10's","composition":"Fexofenadine Hydrochloride 150mg+Montelukast Sodium 10mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.96.00"}
+{"_id":{"$oid":"5b573920d51d2953d2572d9e"},"name":"FEXORYL M 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Skymax Laboratories Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b573922d51d2953d2572d9f"},"name":"FEXOTWIN 10/120mg Tablet 10's","composition":"FEXOFENADINE HYDROCHLORIDE 120MG+MONTELUKAST SODIUM 10MG","manufacturer":"Kivi Labs Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b573924d51d2953d2572da0"},"name":"FEXOVA 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.162.00"}
+{"_id":{"$oid":"5b573926d51d2953d2572da1"},"name":"FEXOVA 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.122.00"}
+{"_id":{"$oid":"5b573928d51d2953d2572da2"},"name":"FEXTIM 120MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 120MG","manufacturer":" NA ","price":"Rs.107.13"}
+{"_id":{"$oid":"5b57392ad51d2953d2572da3"},"name":"FEXTRAL 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.65.40"}
+{"_id":{"$oid":"5b57392bd51d2953d2572da4"},"name":"FEXTRAL 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.84.76"}
+{"_id":{"$oid":"5b57392dd51d2953d2572da5"},"name":"FEXTRIC Suspension 60ml","composition":"Fexofenadine 30mg","manufacturer":"Rytus Therapeutics Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b57392fd51d2953d2572da6"},"name":"FEXTRIC 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Rytus Therapeutics Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b573931d51d2953d2572da7"},"name":"FEXTRIC 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"Rytus Therapeutics Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b573933d51d2953d2572da8"},"name":"FEXY 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Lupin Ltd","price":"Rs.124.00"}
+{"_id":{"$oid":"5b573935d51d2953d2572da9"},"name":"FEXY 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"Lupin Ltd","price":"Rs.164.40"}
+{"_id":{"$oid":"5b573937d51d2953d2572daa"},"name":"FEXY Suspension 60ml","composition":"Fexofenadine 30mg","manufacturer":"Lupin Ltd","price":"Rs.94.00"}
+{"_id":{"$oid":"5b573939d51d2953d2572dab"},"name":"FINADINE 180mg Tablet 10's","composition":"FEXOFENADINE 180MG","manufacturer":"Race Pharmaceuticals Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b57393ad51d2953d2572dac"},"name":"FIXAR 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.79.90"}
+{"_id":{"$oid":"5b57393cd51d2953d2572dad"},"name":"FLORAMIN 10mg Tablet 10's","composition":"Cetrizine 10mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.12.00"}
+{"_id":{"$oid":"5b57393ed51d2953d2572dae"},"name":"FLUCOLD CLEAR 4/2.5mg Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b573941d51d2953d2572daf"},"name":"FLUCOLD CLEAR 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b573942d51d2953d2572db0"},"name":"FLUENCIA L Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Wanbury Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b573944d51d2953d2572db1"},"name":"FM 24 Tablet 10's","composition":"Fexofenadine 120mg+Montelukast 10mg","manufacturer":"Wockhardt Ltd","price":"Rs.164.00"}
+{"_id":{"$oid":"5b573946d51d2953d2572db2"},"name":"FULLCOVER Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b573948d51d2953d2572db3"},"name":"FULLCOVER Suspension 60ml","composition":"Fexofenadine+Montelukast","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b57394ad51d2953d2572db4"},"name":"FX 24 180MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b57394cd51d2953d2572db5"},"name":"FX 24 120MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 120MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b57394ed51d2953d2572db6"},"name":"GEMFEX 180MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Saffron Therapeutics Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b573950d51d2953d2572db7"},"name":"GEMFEX 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Saffron Therapeutics Pvt Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b573952d51d2953d2572db8"},"name":"GENLEVO 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Khandelwal Laboratories Ltd","price":"Rs.7.50"}
+{"_id":{"$oid":"5b573954d51d2953d2572db9"},"name":"GLEMONT F Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b573954d51d2953d2572dba"},"name":"GLENCET 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.22.50"}
+{"_id":{"$oid":"5b573956d51d2953d2572dbb"},"name":"GLENFINE 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b573958d51d2953d2572dbc"},"name":"GLENFINE 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.28.60"}
+{"_id":{"$oid":"5b57395ad51d2953d2572dbd"},"name":"GLENZAL 2.5mg Syrup 30ml","composition":"Levocetirizine 2.5mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b57395cd51d2953d2572dbe"},"name":"GLENZAL 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.4.50"}
+{"_id":{"$oid":"5b57395ed51d2953d2572dbf"},"name":"HALOMESH 0.05%W/W Cream 15gm","composition":"Halobetasol 0.5%W/W","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.164.00"}
+{"_id":{"$oid":"5b573960d51d2953d2572dc0"},"name":"HATRIC 3 Suspension 60ml","composition":"Chlorpheniramine+Paracetamol+Pseudoephedrine","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.19.10"}
+{"_id":{"$oid":"5b573962d51d2953d2572dc1"},"name":"HATRIC Syrup 30ml","composition":"Levocetirizine 2.5mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.29.50"}
+{"_id":{"$oid":"5b573964d51d2953d2572dc2"},"name":"HATRIC 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.29.50"}
+{"_id":{"$oid":"5b573966d51d2953d2572dc3"},"name":"HEALCET Syrup 60ml","composition":"Cetirizine","manufacturer":"Heal India Laboratories Pvt Ltd","price":"Rs.34.02"}
+{"_id":{"$oid":"5b573967d51d2953d2572dc4"},"name":"HHLEVO M KID Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.74.00"}
+{"_id":{"$oid":"5b573969d51d2953d2572dc5"},"name":"HHLEVO M Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.95.00"}
+{"_id":{"$oid":"5b57396bd51d2953d2572dc6"},"name":"HHLEVO 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.58.00"}
+{"_id":{"$oid":"5b57396dd51d2953d2572dc7"},"name":"HICET 5mg Syrup 30ml","composition":"Cetirizine 5mg","manufacturer":"Micro Labs Ltd","price":"Rs.16.80"}
+{"_id":{"$oid":"5b57396fd51d2953d2572dc8"},"name":"HICET Syrup 30ml","composition":"CETIRIZINE 5MG","manufacturer":"Micro Labs Ltd","price":"Rs.34.00"}
+{"_id":{"$oid":"5b573971d51d2953d2572dc9"},"name":"HICET 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Micro Labs Ltd","price":"Rs.16.80"}
+{"_id":{"$oid":"5b573972d51d2953d2572dca"},"name":"HICET L Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Micro Labs Ltd","price":"Rs.47.50"}
+{"_id":{"$oid":"5b573975d51d2953d2572dcb"},"name":"HICET L SYRUP 30ML","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 2.5MG","manufacturer":"Micro Labs Ltd","price":"Rs.34.00"}
+{"_id":{"$oid":"5b573977d51d2953d2572dcc"},"name":"HILERIN 10mg Tablet 10's","composition":"Hydroxyzine Hydrochloride 10mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.20.30"}
+{"_id":{"$oid":"5b573979d51d2953d2572dcd"},"name":"HISBLOCK 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":" NA ","price":"Rs.55.00"}
+{"_id":{"$oid":"5b57397bd51d2953d2572dce"},"name":"HISNOFIL 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.36.92"}
+{"_id":{"$oid":"5b57397dd51d2953d2572dcf"},"name":"HISTA 3G 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Obsurge Biotech Ltd","price":"Rs.129.50"}
+{"_id":{"$oid":"5b57397fd51d2953d2572dd0"},"name":"HISTABAN 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":" NA ","price":"Rs.50.00"}
+{"_id":{"$oid":"5b573981d51d2953d2572dd1"},"name":"HISTABAN 10MG TABLET 10'S","composition":"LEVOCETIRIZINE 10MG","manufacturer":" NA ","price":"Rs.85.00"}
+{"_id":{"$oid":"5b573983d51d2953d2572dd2"},"name":"HISTABAN M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Others","price":"Rs.95.00"}
+{"_id":{"$oid":"5b573985d51d2953d2572dd3"},"name":"HISTAFREE Suspension 60ml","composition":"Fexofenadine","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.65.21"}
+{"_id":{"$oid":"5b573985d51d2953d2572dd4"},"name":"HISTAFREE M Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.119.79"}
+{"_id":{"$oid":"5b573987d51d2953d2572dd5"},"name":"HISTAFREE 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.79.71"}
+{"_id":{"$oid":"5b573989d51d2953d2572dd6"},"name":"HISTAFREE 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.126.44"}
+{"_id":{"$oid":"5b57398bd51d2953d2572dd7"},"name":"HISTAGRA 120MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 120MG","manufacturer":"Khandelwal Laboratories Ltd","price":"Rs.63.33"}
+{"_id":{"$oid":"5b57398dd51d2953d2572dd8"},"name":"HISTAKEM 120mg Tablet 10's","composition":"FEXOFENADINE 120MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.26.60"}
+{"_id":{"$oid":"5b57398ed51d2953d2572dd9"},"name":"HISTAKIND 30MG SUSPENSION 60ML","composition":"FEXOFENADINE HYDROCHLORIDE 30MG","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.64.90"}
+{"_id":{"$oid":"5b573991d51d2953d2572dda"},"name":"HISTAKIND 180MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.93.00"}
+{"_id":{"$oid":"5b573993d51d2953d2572ddb"},"name":"HISTAKIND M 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b573994d51d2953d2572ddc"},"name":"IBIALERT 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"INDIABULLS PHARMACEUTICALS LTD","price":"Rs.10.00"}
+{"_id":{"$oid":"5b573995d51d2953d2572ddd"},"name":"IBIALERT SYRUP 60ML","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 2.5MG","manufacturer":"INDIABULLS PHARMACEUTICALS LTD","price":"Rs.45.00"}
+{"_id":{"$oid":"5b573997d51d2953d2572dde"},"name":"IF 2 5mg Tablet 10's","composition":"Olopatadine 5mg","manufacturer":"Cipla Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b573999d51d2953d2572ddf"},"name":"IMMUNOREL 5% Injection 50ml","composition":"IMMUNOGLOBULIN 5%","manufacturer":"Reliance Pharmaceuticals India Pvt Ltd","price":"Rs.8,250.00"}
+{"_id":{"$oid":"5b57399bd51d2953d2572de0"},"name":"INCID L Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Bayer India Ltd","price":"Rs.16.73"}
+{"_id":{"$oid":"5b57399dd51d2953d2572de1"},"name":"INCID L Syrup 60ml","composition":"Cetirizine 5mg","manufacturer":"Bayer India Ltd","price":"Rs.34.35"}
+{"_id":{"$oid":"5b57399fd51d2953d2572de2"},"name":"INCID MD Tablet 10's","composition":"LEVOCETIRIZINE 5MG","manufacturer":"Bayer India Ltd","price":"Rs.61.00"}
+{"_id":{"$oid":"5b5739a2d51d2953d2572de3"},"name":"INFINAIR 5/10mg Tablet 10's","composition":"Levocetirizine 5+Montelukast 10mg","manufacturer":"Pfizer Limited","price":"Rs.99.69"}
+{"_id":{"$oid":"5b5739a5d51d2953d2572de4"},"name":"INFINAIR LD 4/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Pfizer Limited","price":"Rs.54.00"}
+{"_id":{"$oid":"5b5739a7d51d2953d2572de5"},"name":"INFUNOR 2mg Injection 2ml","composition":"Epinephrine 2mg","manufacturer":"Cipla Ltd","price":"Rs.134.91"}
+{"_id":{"$oid":"5b5739a9d51d2953d2572de6"},"name":"INTEX L Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Zee Laboratories Ltd","price":"Rs.89.90"}
+{"_id":{"$oid":"5b5739aad51d2953d2572de7"},"name":"IZI 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Synokem Pharmaceuticals Ltd","price":"Rs.14.43"}
+{"_id":{"$oid":"5b5739acd51d2953d2572de8"},"name":"IZI MD 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Synokem Pharmaceuticals Ltd","price":"Rs.39.90"}
+{"_id":{"$oid":"5b5739aed51d2953d2572de9"},"name":"JOTAIR L 4/2.5mg Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.71.50"}
+{"_id":{"$oid":"5b5739b0d51d2953d2572dea"},"name":"KLM FX 180MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":" NA ","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5739b2d51d2953d2572deb"},"name":"KLOCET 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Kivi Labs Ltd","price":"Rs.37.00"}
+{"_id":{"$oid":"5b5739b4d51d2953d2572dec"},"name":"L ALERID 2.5mg Syrup 30ml","composition":"Levocetirizine 2.5mg","manufacturer":"Cipla Ltd","price":"Rs.27.12"}
+{"_id":{"$oid":"5b5739b6d51d2953d2572ded"},"name":"L ALERID 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Cipla Ltd","price":"Rs.32.76"}
+{"_id":{"$oid":"5b5739b8d51d2953d2572dee"},"name":"L ALERID AX 5/75mg Capsule 10's","composition":"Levocetirizine 5mg+Ambroxol 75mg","manufacturer":"Cipla Ltd","price":"Rs.52.87"}
+{"_id":{"$oid":"5b5739bad51d2953d2572def"},"name":"L CET 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":" NA ","price":"Rs.36.00"}
+{"_id":{"$oid":"5b5739bcd51d2953d2572df0"},"name":"L CETRAMAC 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Torque Pharmaceuticals Pvt Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b5739bed51d2953d2572df1"},"name":"L CETRIVER 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.36.00"}
+{"_id":{"$oid":"5b5739c0d51d2953d2572df2"},"name":"L CETRIZET 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.52.75"}
+{"_id":{"$oid":"5b5739c2d51d2953d2572df3"},"name":"L CETRON Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Cosme Farma Laboratories Ltd","price":"Rs.52.30"}
+{"_id":{"$oid":"5b5739c5d51d2953d2572df4"},"name":"L CETRON 10mg Tablet 10's","composition":"LEVOCETIRIZINE 10MG","manufacturer":"Oaknet Healthcare Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5739c7d51d2953d2572df5"},"name":"L CETRON Syrup 30ml","composition":"Levocetirizine 2.5mg","manufacturer":"Cosme Farma Laboratories Ltd","price":"Rs.25.84"}
+{"_id":{"$oid":"5b5739c9d51d2953d2572df6"},"name":"L CIT 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Laborate Pharmaceuticals India Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b5739cbd51d2953d2572df7"},"name":"L DIO 1 TABLET 10'S","composition":"LEVOCETIRIZINE 5MG","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.10.00"}
+{"_id":{"$oid":"5b5739ccd51d2953d2572df8"},"name":"L HIST 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b5739ced51d2953d2572df9"},"name":"L HIST SYRUP 30ML","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b5739d0d51d2953d2572dfa"},"name":"L HIST MONT 4/2.5mg Syrup 30ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.57.00"}
+{"_id":{"$oid":"5b5739d3d51d2953d2572dfb"},"name":"L HIST MONT 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5739d4d51d2953d2572dfc"},"name":"L HIST MONT 4/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b5739d6d51d2953d2572dfd"},"name":"L HIST MONT FX 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5739d8d51d2953d2572dfe"},"name":"L LODIZIN 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Novartis India Ltd","price":"Rs.51.32"}
+{"_id":{"$oid":"5b5739dad51d2953d2572dff"},"name":"L MONTUS Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b5739dcd51d2953d2572e00"},"name":"L MONTUS FX 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5739ded51d2953d2572e01"},"name":"L ZINE 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b5739e0d51d2953d2572e02"},"name":"LASMA LC KID Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.50.90"}
+{"_id":{"$oid":"5b5739e2d51d2953d2572e03"},"name":"LASMA LC Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.93.40"}
+{"_id":{"$oid":"5b5739e4d51d2953d2572e04"},"name":"LASTAIR 5mg Tablet 10's","composition":"Montelukast 5mg","manufacturer":"Cipla Ltd","price":"Rs.74.10"}
+{"_id":{"$oid":"5b5739e6d51d2953d2572e05"},"name":"LASTAIR 10mg Tablet 10's","composition":"Montelukast 10mg","manufacturer":"Cipla Ltd","price":"Rs.112.35"}
+{"_id":{"$oid":"5b5739e8d51d2953d2572e06"},"name":"LAVETA Syrup 30ml","composition":"Levocetirizine 2.5mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.32.90"}
+{"_id":{"$oid":"5b5739ead51d2953d2572e07"},"name":"LAVETA Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.61.65"}
+{"_id":{"$oid":"5b5739ecd51d2953d2572e08"},"name":"LAVETA 5mg Syrup 30ml","composition":"Levocetirizine 5mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.32.90"}
+{"_id":{"$oid":"5b5739eed51d2953d2572e09"},"name":"LAVETA 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.56.30"}
+{"_id":{"$oid":"5b5739f0d51d2953d2572e0a"},"name":"LAVETA 10mg Tablet 15's","composition":"Levocetirizine 5mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.175.20"}
+{"_id":{"$oid":"5b5739f2d51d2953d2572e0b"},"name":"LAVETA M Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.70.35"}
+{"_id":{"$oid":"5b5739f4d51d2953d2572e0c"},"name":"LAVETA M Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.128.40"}
+{"_id":{"$oid":"5b5739f6d51d2953d2572e0d"},"name":"LAZINE M DRY Syrup 30ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Genix Pharma Pvt Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b5739fad51d2953d2572e0e"},"name":"LAZINE 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Genix Pharma Pvt Ltd","price":"Rs.43.00"}
+{"_id":{"$oid":"5b5739fcd51d2953d2572e0f"},"name":"LAZINE M KID Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Genix Pharma Pvt Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b5739fdd51d2953d2572e10"},"name":"LCET M 10/5mg Syrup 60ml","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Nodysis Pharma Pvt Ltd","price":"Rs.66.07"}
+{"_id":{"$oid":"5b5739ffd51d2953d2572e11"},"name":"LCFEX 120MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 120MG","manufacturer":"Rapross Pharmaceuticals (P) Ltd","price":"Rs.42.50"}
+{"_id":{"$oid":"5b573a01d51d2953d2572e12"},"name":"LCFEX 180MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Rapross Pharmaceuticals (P) Ltd","price":"Rs.62.70"}
+{"_id":{"$oid":"5b573a03d51d2953d2572e13"},"name":"LCFEX MONT 10/120mg Tablet 10's","composition":"FEXOFENADINE HYDROCHLORIDE 120MG+MONTELUKAST SODIUM 10MG","manufacturer":"Rapross Pharmaceuticals (P) Ltd","price":"Rs.62.50"}
+{"_id":{"$oid":"5b573a04d51d2953d2572e14"},"name":"LCM Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Swiss Pharma Pvt Ltd","price":"Rs.149.50"}
+{"_id":{"$oid":"5b573a06d51d2953d2572e15"},"name":"LCOD PLUS 10/5mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG+MONTELUKAST 10MG","manufacturer":"Pfizer Limited","price":"Rs.32.50"}
+{"_id":{"$oid":"5b573a08d51d2953d2572e16"},"name":"LCZ Syrup 60ml","composition":"Levocetirizine 2.5mg","manufacturer":"Rapross Pharmaceuticals (P) Ltd","price":"Rs.62.70"}
+{"_id":{"$oid":"5b573a0ad51d2953d2572e17"},"name":"LCZ 10mg Tablet 10's","composition":"Levocetirizine 10mg","manufacturer":"Rapross Pharmaceuticals (P) Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b573a0cd51d2953d2572e18"},"name":"LCZ 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Rapross Pharmaceuticals (P) Ltd","price":"Rs.19.90"}
+{"_id":{"$oid":"5b573a0ed51d2953d2572e19"},"name":"LCZ MONT 4/2.5mg Tablet 10's","composition":"LEVOCETIRIZINE 2.5MG+MONTELUKAST 4MG","manufacturer":"Rapross Pharmaceuticals (P) Ltd","price":"Rs.51.70"}
+{"_id":{"$oid":"5b573a10d51d2953d2572e1a"},"name":"LCZ MONT 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Rapross Pharmaceuticals (P) Ltd","price":"Rs.75.90"}
+{"_id":{"$oid":"5b573a12d51d2953d2572e1b"},"name":"LDIO 1 M 4/2.5mg Tablet 10's","composition":"LEVOCETIRIZINE 2.5MG+MONTELUKAST 4MG","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.26.20"}
+{"_id":{"$oid":"5b573a14d51d2953d2572e1c"},"name":"LDIO 1 M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.43.40"}
+{"_id":{"$oid":"5b573a16d51d2953d2572e1d"},"name":"LECET 2.5mg Syrup 60ml","composition":"Levocetirizine 2.5mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b573a18d51d2953d2572e1e"},"name":"LECOPE 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.18.63"}
+{"_id":{"$oid":"5b573a1ad51d2953d2572e1f"},"name":"LECOPE M Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.89.90"}
+{"_id":{"$oid":"5b573a1ed51d2953d2572e20"},"name":"LECOPE DT Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.18.63"}
+{"_id":{"$oid":"5b573a20d51d2953d2572e21"},"name":"LECY 10MG TABLET 10'S","composition":"LEVOCETIRIZINE 10MG","manufacturer":"Bennet Pharmaceuticals Ltd","price":"Rs.18.50"}
+{"_id":{"$oid":"5b573a22d51d2953d2572e22"},"name":"LECY 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Bennet Pharmaceuticals Ltd","price":"Rs.17.00"}
+{"_id":{"$oid":"5b573a24d51d2953d2572e23"},"name":"LECY M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Bennet Pharmaceuticals Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b573a26d51d2953d2572e24"},"name":"LEECET M Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Abl Lifecare Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b573a27d51d2953d2572e25"},"name":"LEET SYRUP 60ML","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 2.5MG","manufacturer":"West Coast Pharmaceutical Works Ltd","price":"Rs.26.50"}
+{"_id":{"$oid":"5b573a29d51d2953d2572e26"},"name":"LEJET Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.18.00"}
+{"_id":{"$oid":"5b573a2ad51d2953d2572e27"},"name":"LEJET Syrup 50ml","composition":"Levocetirizine 2.5mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b573a2cd51d2953d2572e28"},"name":"LEJET DC Tablet 10's","composition":"Diethylcarbamazine 150mg+Levocetirizine 2.5mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.28.57"}
+{"_id":{"$oid":"5b573a2ed51d2953d2572e29"},"name":"LEJET M Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b573a30d51d2953d2572e2a"},"name":"LEMOLEB 4/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Others","price":"Rs.40.00"}
+{"_id":{"$oid":"5b573a32d51d2953d2572e2b"},"name":"LEMOLEB 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Others","price":"Rs.66.00"}
+{"_id":{"$oid":"5b573a34d51d2953d2572e2c"},"name":"LEMOSTOP 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Indian Drugs And Pharmaceuticals Ltd","price":"Rs.99.10"}
+{"_id":{"$oid":"5b573a36d51d2953d2572e2d"},"name":"LENOVO Syrup 30ml","composition":"Levocetirizine 2.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.57.70"}
+{"_id":{"$oid":"5b573a38d51d2953d2572e2e"},"name":"LENOVO Syrup 60ml","composition":"Levocetirizine 2.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.90.26"}
+{"_id":{"$oid":"5b573a3ad51d2953d2572e2f"},"name":"LERAFIL 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b573a3cd51d2953d2572e30"},"name":"LERAFIL 150/5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b573a3fd51d2953d2572e31"},"name":"LERZIN M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Galpha Laboratories Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b573a41d51d2953d2572e32"},"name":"LERZIN M 4/2.5mg Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Galpha Laboratories Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b573a43d51d2953d2572e33"},"name":"LESAFE 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Saffron Therapeutics Pvt Ltd","price":"Rs.40.18"}
+{"_id":{"$oid":"5b573a45d51d2953d2572e34"},"name":"LESET Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.56.00"}
+{"_id":{"$oid":"5b573a48d51d2953d2572e35"},"name":"LESET MD Tablet 10's","composition":"Levocetirizine","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.55.00"}
+{"_id":{"$oid":"5b573a4bd51d2953d2572e36"},"name":"LESTAL 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.19.50"}
+{"_id":{"$oid":"5b573a4dd51d2953d2572e37"},"name":"LETRAS M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Others","price":"Rs.60.00"}
+{"_id":{"$oid":"5b573a4fd51d2953d2572e38"},"name":"LEVACT M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b573a51d51d2953d2572e39"},"name":"LEVACT PLUS Tablet 10's","composition":"Phenylephrine 5mg+Levocetirizine 2.5mg","manufacturer":"Kinedex Healthcare Pvt Ltd","price":"Rs.49.00"}
+{"_id":{"$oid":"5b573a53d51d2953d2572e3a"},"name":"LEVAPP 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.34.96"}
+{"_id":{"$oid":"5b573a55d51d2953d2572e3b"},"name":"LEVO 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Dexbio Pharma","price":"Rs.25.00"}
+{"_id":{"$oid":"5b573a57d51d2953d2572e3c"},"name":"LEVOCAD 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":" NA ","price":"Rs.38.50"}
+{"_id":{"$oid":"5b573a59d51d2953d2572e3d"},"name":"LEVOCAD SYRUP 30ML","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 2.5MG","manufacturer":" NA ","price":"Rs.8.68"}
+{"_id":{"$oid":"5b573a5bd51d2953d2572e3e"},"name":"LEVOCET Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.43.00"}
+{"_id":{"$oid":"5b573a5dd51d2953d2572e3f"},"name":"LEVOCET SYRUP 60ML","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 2.5MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b573a5ed51d2953d2572e40"},"name":"LEVOCET 10mg Tablet 15's","composition":"Levocetirizine 10mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b573a60d51d2953d2572e41"},"name":"LEVOCET M 4/2.5mg Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.83.50"}
+{"_id":{"$oid":"5b573a63d51d2953d2572e42"},"name":"LEVOCET PLUS 5/75mg Tablet 10's","composition":"Levocetirizine 5mg+Ambroxol 75mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.40.95"}
+{"_id":{"$oid":"5b573a67d51d2953d2572e43"},"name":"LEVOCETRIWAL Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.26.85"}
+{"_id":{"$oid":"5b573a69d51d2953d2572e44"},"name":"LEVOCOLD Syrup 60ml","composition":"Levocetirizine","manufacturer":"Ttk Healthcare Ltd","price":"Rs.57.00"}
+{"_id":{"$oid":"5b573a6bd51d2953d2572e45"},"name":"LEVODIL 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":" NA ","price":"Rs.3.20"}
+{"_id":{"$oid":"5b573a6cd51d2953d2572e46"},"name":"LEVODUS 500mg Tablet 5's","composition":"Levocetirizine 500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.18.75"}
+{"_id":{"$oid":"5b573a6fd51d2953d2572e47"},"name":"LEVOGEL 5MG CAPSULE 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Sanofi India Ltd","price":"Rs.32.02"}
+{"_id":{"$oid":"5b573a71d51d2953d2572e48"},"name":"LEVOGENTUS 10MG TABLET 10'S","composition":"LEVOCETIRIZINE 10MG","manufacturer":"Optho Remedies Pvt Ltd","price":"Rs.36.80"}
+{"_id":{"$oid":"5b573a73d51d2953d2572e49"},"name":"LEVOHEXT 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Sanofi India Ltd","price":"Rs.20.00"}
+{"_id":{"$oid":"5b573a75d51d2953d2572e4a"},"name":"LEVOKAST 4/2.5mg Suspension 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Ttk Healthcare Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b573a77d51d2953d2572e4b"},"name":"LEVOKAST Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Ttk Healthcare Ltd","price":"Rs.114.40"}
+{"_id":{"$oid":"5b573a79d51d2953d2572e4c"},"name":"LEVOKAST KID Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Ttk Healthcare Ltd","price":"Rs.65.12"}
+{"_id":{"$oid":"5b573a7bd51d2953d2572e4d"},"name":"LEVOL MD 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Talent Health Care","price":"Rs.19.00"}
+{"_id":{"$oid":"5b573a7bd51d2953d2572e4e"},"name":"LEVOLYTE 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Entod Pharmaceuticals Pvt Ltd","price":"Rs.24.20"}
+{"_id":{"$oid":"5b573a7dd51d2953d2572e4f"},"name":"LEVONAIR 4/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Entod Pharmaceuticals Pvt Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b573a7fd51d2953d2572e50"},"name":"LEVONAIR 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Entod Pharmaceuticals Pvt Ltd","price":"Rs.71.50"}
+{"_id":{"$oid":"5b573a81d51d2953d2572e51"},"name":"LEVORID 2.5mg Syrup 30ml","composition":"Levocetirizine 2.5mg","manufacturer":"Cipla Ltd","price":"Rs.30.80"}
+{"_id":{"$oid":"5b573a83d51d2953d2572e52"},"name":"LEVORID Tablet 10's","composition":"Levocetirizine","manufacturer":"Cipla Ltd","price":"Rs.60.50"}
+{"_id":{"$oid":"5b573a85d51d2953d2572e53"},"name":"LEVORID 5mg Tablet 50's","composition":"Levocetirizine 5mg","manufacturer":"Cipla Ltd","price":"Rs.197.63"}
+{"_id":{"$oid":"5b573a86d51d2953d2572e54"},"name":"LEVORIZ 20MG TABLET 10'S","composition":"LEVOCETIRIZINE HYDROCHLORIDE 20MG","manufacturer":"RITZ PHARMA","price":"Rs.24.88"}
+{"_id":{"$oid":"5b573a88d51d2953d2572e55"},"name":"LEVOSETRIDE Tablet 10's","composition":"Levocetirizine ","manufacturer":"Wockhardt Ltd","price":"Rs.27.50"}
+{"_id":{"$oid":"5b573a8ad51d2953d2572e56"},"name":"LEVOSETRIDE 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Wockhardt Ltd","price":"Rs.41.97"}
+{"_id":{"$oid":"5b573a8dd51d2953d2572e57"},"name":"LEVOSIZ M Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b573a8ed51d2953d2572e58"},"name":"LEVOSIZ 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.14.50"}
+{"_id":{"$oid":"5b573a90d51d2953d2572e59"},"name":"LEVOSIZ 10mg Tablet 10's","composition":"Levocetirizine 10mg","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.24.50"}
+{"_id":{"$oid":"5b573a92d51d2953d2572e5a"},"name":"LEVOSIZ M KID Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.32.50"}
+{"_id":{"$oid":"5b573a94d51d2953d2572e5b"},"name":"LEVOTAC 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Seagull Pharmaceuticals Pvt Ltd","price":"Rs.10.00"}
+{"_id":{"$oid":"5b573a96d51d2953d2572e5c"},"name":"LEVOTAC M 4/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Seagull Pharmaceuticals Pvt Ltd","price":"Rs.33.00"}
+{"_id":{"$oid":"5b573a98d51d2953d2572e5d"},"name":"LEVOTAC M 10/5mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG+MONTELUKAST 10MG","manufacturer":"Seagull Pharmaceuticals Pvt Ltd","price":"Rs.64.90"}
+{"_id":{"$oid":"5b573a9ad51d2953d2572e5e"},"name":"LEVOTIN PLUS 10/5mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG+MONTELUKAST 10MG","manufacturer":"Molekule India Pvt Ltd","price":"Rs.75.23"}
+{"_id":{"$oid":"5b573a9cd51d2953d2572e5f"},"name":"LEVOTINE 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Molekule India Pvt Ltd","price":"Rs.29.52"}
+{"_id":{"$oid":"5b573a9ed51d2953d2572e60"},"name":"LEVOTRIG 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Cure Quick Pharmaceuticals","price":"Rs.34.00"}
+{"_id":{"$oid":"5b573aa0d51d2953d2572e61"},"name":"LEVOTRIN 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":" NA ","price":"Rs.26.66"}
+{"_id":{"$oid":"5b573aa2d51d2953d2572e62"},"name":"LEVOZET M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.82.50"}
+{"_id":{"$oid":"5b573aa4d51d2953d2572e63"},"name":"LEVOZIN 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":" NA ","price":"Rs.19.63"}
+{"_id":{"$oid":"5b573aa6d51d2953d2572e64"},"name":"LEVOZIN SYRUP 30ML","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 2.5MG","manufacturer":" NA ","price":"Rs.23.40"}
+{"_id":{"$oid":"5b573aa8d51d2953d2572e65"},"name":"LEVOZIN M 10/5mg Suspension 60ml","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Moraceae Pharmaceuticals Pvt Ltd","price":"Rs.49.00"}
+{"_id":{"$oid":"5b573aaad51d2953d2572e66"},"name":"LEVOZIN M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Moraceae Pharmaceuticals Pvt Ltd","price":"Rs.79.47"}
+{"_id":{"$oid":"5b573aabd51d2953d2572e67"},"name":"LEVOZON A 5/75mg Capsule 10's","composition":"Levocetirizine 5mg+Ambroxol 75mg","manufacturer":"Cipla Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b573aadd51d2953d2572e68"},"name":"LEZEN 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Khandelwal Laboratories Ltd","price":"Rs.5.00"}
+{"_id":{"$oid":"5b573aafd51d2953d2572e69"},"name":"LEZIN Tablet 10's","composition":"Levocetirizine","manufacturer":"Inex Medicaments Pvt Ltd","price":"Rs.49.80"}
+{"_id":{"$oid":"5b573ab1d51d2953d2572e6a"},"name":"LEZINE 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.30.50"}
+{"_id":{"$oid":"5b573ab3d51d2953d2572e6b"},"name":"LEZO MD 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.36.40"}
+{"_id":{"$oid":"5b573ab6d51d2953d2572e6c"},"name":"LEZYNCET M Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.104.25"}
+{"_id":{"$oid":"5b573ab8d51d2953d2572e6d"},"name":"LICIT 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.37.02"}
+{"_id":{"$oid":"5b573abad51d2953d2572e6e"},"name":"LIMONTE Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Kaizen Pharmaceuticals Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b573abcd51d2953d2572e6f"},"name":"LIST Tablet 10's","composition":"Levocetirizine","manufacturer":"Gates India Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b573abfd51d2953d2572e70"},"name":"LIT SR 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Kivi Labs Ltd","price":"Rs.32.13"}
+{"_id":{"$oid":"5b573ac1d51d2953d2572e71"},"name":"LIVOMIK 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Dermarex Healthcare India Pvt Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b573ac3d51d2953d2572e72"},"name":"LIVOMIK M Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Dermarex Healthcare India Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b573ac5d51d2953d2572e73"},"name":"LIVOZINE 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.4.88"}
+{"_id":{"$oid":"5b573ac7d51d2953d2572e74"},"name":"LIVY M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Kanad Labs Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b573ac7d51d2953d2572e75"},"name":"LIVY M 10/5mg Syrup 60ml","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Kanad Labs Pvt Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b573ac9d51d2953d2572e76"},"name":"LM 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Synokem Pharmaceuticals Ltd","price":"Rs.81.90"}
+{"_id":{"$oid":"5b573acbd51d2953d2572e77"},"name":"LONGIFENE 25mg Tablet 50's","composition":"Buclizine 25mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.97.75"}
+{"_id":{"$oid":"5b573acdd51d2953d2572e78"},"name":"LONGIFENE 25mg Tablet 10's","composition":"Buclizine 25mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.21.89"}
+{"_id":{"$oid":"5b573acfd51d2953d2572e79"},"name":"LONGIFENE 25mg Tablet 100's","composition":"Buclizine 25mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.97.97"}
+{"_id":{"$oid":"5b573ad0d51d2953d2572e7a"},"name":"LONGIFENE Syrup 200ml","composition":"Buclizine 6mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.79.05"}
+{"_id":{"$oid":"5b573ad2d51d2953d2572e7b"},"name":"LONGIFENE DS Tablet 10's","composition":"Buclizine 50mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.35.09"}
+{"_id":{"$oid":"5b573ad4d51d2953d2572e7c"},"name":"LONGIFENE DS Syrup 200ml","composition":"Buclizine 12mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.103.81"}
+{"_id":{"$oid":"5b573ad6d51d2953d2572e7d"},"name":"LOR 10mg Tablet 10's","composition":"Loratadine 10mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.54.50"}
+{"_id":{"$oid":"5b573ad8d51d2953d2572e7e"},"name":"LORACAP 10mg Tablet 10's","composition":"LORATADINE 10MG","manufacturer":"Capital Pharma","price":"Rs.39.00"}
+{"_id":{"$oid":"5b573ad9d51d2953d2572e7f"},"name":"LORAN D Tablet 10's","composition":"Loratadine 5mg+Pseudoephedrine 120mg","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.20.20"}
+{"_id":{"$oid":"5b573adad51d2953d2572e80"},"name":"LORATIN 10mg Tablet 10's","composition":"Loratidine 10mg","manufacturer":"Cipla Ltd","price":"Rs.56.00"}
+{"_id":{"$oid":"5b573adcd51d2953d2572e81"},"name":"LORFAST MELTAB Tablet 10's","composition":"Loratadine 10mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.80.70"}
+{"_id":{"$oid":"5b573aded51d2953d2572e82"},"name":"LORIDIN 5mg Suspension 30ml","composition":"Loratidine 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.18.90"}
+{"_id":{"$oid":"5b573ae0d51d2953d2572e83"},"name":"LORIDIN 10mg Tablet 10's","composition":"Loratidine 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.39.70"}
+{"_id":{"$oid":"5b573ae1d51d2953d2572e84"},"name":"LORINOL 10mg Tablet 10's","composition":"Loratadine 10mg","manufacturer":"Micro Labs Ltd","price":"Rs.71.00"}
+{"_id":{"$oid":"5b573ae3d51d2953d2572e85"},"name":"LORMEG Syrup 30ml","composition":"Loratadine 5mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b573ae6d51d2953d2572e86"},"name":"LORMEG Tablet 10's","composition":"Loratadine 10mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.41.85"}
+{"_id":{"$oid":"5b573ae8d51d2953d2572e87"},"name":"LORSPAN 5mg Tablet 10's","composition":"Loratadine 5mg","manufacturer":"Swiss Pharma Pvt Ltd","price":"Rs.68.50"}
+{"_id":{"$oid":"5b573aead51d2953d2572e88"},"name":"LOVIM 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Alde Medi Impex Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b573aead51d2953d2572e89"},"name":"LOVIROC 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Alde Medi Impex Ltd","price":"Rs.14.45"}
+{"_id":{"$oid":"5b573aebd51d2953d2572e8a"},"name":"LUKAST LC 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b573aedd51d2953d2572e8b"},"name":"LUKAST LC 4/2.5mg Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b573aefd51d2953d2572e8c"},"name":"LUKOMAST 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Aaltramed Health Care Limited","price":"Rs.58.10"}
+{"_id":{"$oid":"5b573af1d51d2953d2572e8d"},"name":"LUKOTAS LC Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b573af3d51d2953d2572e8e"},"name":"LUKOTAS FX Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.147.00"}
+{"_id":{"$oid":"5b573af5d51d2953d2572e8f"},"name":"LUKOTAS LC KID Tablet 10's","composition":"LEVOCETIRIZINE 2.5MG+MONTELUKAST 4MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.68.00"}
+{"_id":{"$oid":"5b573af7d51d2953d2572e90"},"name":"LUNKLEAR LM MD 10/5mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG+MONTELUKAST 10MG","manufacturer":"Arvind Remedies Ltd","price":"Rs.76.18"}
+{"_id":{"$oid":"5b573af9d51d2953d2572e91"},"name":"LUPICET L 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Lupin Ltd","price":"Rs.42.00"}
+{"_id":{"$oid":"5b573afbd51d2953d2572e92"},"name":"LUPIMON FX 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Lupin Ltd","price":"Rs.118.30"}
+{"_id":{"$oid":"5b573affd51d2953d2572e93"},"name":"LUPIMON L 4/2.5mg Suspension 30ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Lupin Ltd","price":"Rs.49.50"}
+{"_id":{"$oid":"5b573b02d51d2953d2572e94"},"name":"LUPIMON L 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Lupin Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b573b04d51d2953d2572e95"},"name":"LUVLE M 10/5mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG+MONTELUKAST 10MG","manufacturer":"Hll Lifecare Ltd","price":"Rs.68.57"}
+{"_id":{"$oid":"5b573b06d51d2953d2572e96"},"name":"MAAST A 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Alchemist Lifesciences Ltd","price":"Rs.74.00"}
+{"_id":{"$oid":"5b573b08d51d2953d2572e97"},"name":"MAGNAMONT L Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Lupin Ltd","price":"Rs.122.50"}
+{"_id":{"$oid":"5b573b0bd51d2953d2572e98"},"name":"MAHAMONT L Tablet 10's","composition":"Montelukast 10mg+Levocetirizine 5mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b573b0bd51d2953d2572e99"},"name":"MANLO 4/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Others","price":"Rs.47.38"}
+{"_id":{"$oid":"5b573b0dd51d2953d2572e9a"},"name":"MANLO 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Others","price":"Rs.65.00"}
+{"_id":{"$oid":"5b573b0fd51d2953d2572e9b"},"name":"MASTIC LC 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Brawn Laboratories Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b573b11d51d2953d2572e9c"},"name":"MAXCET 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":" NA ","price":"Rs.28.87"}
+{"_id":{"$oid":"5b573b13d51d2953d2572e9d"},"name":"MAXTRA COLD Tablet 10's","composition":"Caffeine 25mg+Cetirizine 5mg+Nimesulide 100mg+Paracetamol 325mg+Phenylephrine 10mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.49.50"}
+{"_id":{"$oid":"5b573b14d51d2953d2572e9e"},"name":"MERLON LC 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.65.71"}
+{"_id":{"$oid":"5b573b16d51d2953d2572e9f"},"name":"MFEX 10/120mg Tablet 10's","composition":"FEXOFENADINE HYDROCHLORIDE 120MG+MONTELUKAST SODIUM 10MG","manufacturer":"Seagull Pharmaceuticals Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b573b19d51d2953d2572ea0"},"name":"MINOLAST LC 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b573b1ad51d2953d2572ea1"},"name":"MOLEV Syrup 60ml","composition":"Levocetirizine+Montelukast","manufacturer":"Bafna Pharmaceuticals Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b573b1cd51d2953d2572ea2"},"name":"MONADINE Tablet 10's","composition":"Fexofenadine 120mg+Montelukast 10mg","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.114.84"}
+{"_id":{"$oid":"5b573b1ed51d2953d2572ea3"},"name":"MONAST LC 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.98.95"}
+{"_id":{"$oid":"5b573b20d51d2953d2572ea4"},"name":"MONAST LC 10/5MG SYRUP 60ML","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b573b22d51d2953d2572ea5"},"name":"MONCITRA 5/10mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG+MONTELUKAST 10MG","manufacturer":"Tablets India Ltd","price":"Rs.93.95"}
+{"_id":{"$oid":"5b573b24d51d2953d2572ea6"},"name":"MONCITRA KID Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Tablets India Ltd","price":"Rs.55.95"}
+{"_id":{"$oid":"5b573b26d51d2953d2572ea7"},"name":"MONDESLOR Tablet 10's","composition":"Desloratadine 5mg+Montelukast 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b573b28d51d2953d2572ea8"},"name":"MONET LC 4/2.5mg Syrup 30ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Others","price":"Rs.30.00"}
+{"_id":{"$oid":"5b573b2ad51d2953d2572ea9"},"name":"MONET LC 10/5mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG+MONTELUKAST 10MG","manufacturer":"Others","price":"Rs.50.00"}
+{"_id":{"$oid":"5b573b2cd51d2953d2572eaa"},"name":"MONETETOP L Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.43.75"}
+{"_id":{"$oid":"5b573b2ed51d2953d2572eab"},"name":"MONITEK 10mg Tablet 10's","composition":"Montelukast 10mg","manufacturer":"Cipla Ltd","price":"Rs.116.17"}
+{"_id":{"$oid":"5b573b30d51d2953d2572eac"},"name":"MONLEVO Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.122.46"}
+{"_id":{"$oid":"5b573b32d51d2953d2572ead"},"name":"MONLEVO JUNIOR Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.79.39"}
+{"_id":{"$oid":"5b573b34d51d2953d2572eae"},"name":"MONOKAST FX 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Ttk Healthcare Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b573b36d51d2953d2572eaf"},"name":"MONOXIL LC 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Khandelwal Laboratories Ltd","price":"Rs.23.75"}
+{"_id":{"$oid":"5b573b38d51d2953d2572eb0"},"name":"MONT LC 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"West Coast Pharmaceutical Works Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b573b39d51d2953d2572eb1"},"name":"MONTAIR 5mg Chew Tablet 15's","composition":"Montelukast 5mg","manufacturer":"Cipla Ltd","price":"Rs.161.50"}
+{"_id":{"$oid":"5b573b3cd51d2953d2572eb2"},"name":"MONTAIR LC KID Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Cipla Ltd","price":"Rs.91.00"}
+{"_id":{"$oid":"5b573b3dd51d2953d2572eb3"},"name":"MONTAIR LC KID Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Cipla Ltd","price":"Rs.88.50"}
+{"_id":{"$oid":"5b573b3fd51d2953d2572eb4"},"name":"MONTAIR FX Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Cipla Ltd","price":"Rs.152.00"}
+{"_id":{"$oid":"5b573b45d51d2953d2572eb5"},"name":"MONTAIR LC Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Cipla Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b573b47d51d2953d2572eb6"},"name":"MONTALLVZ 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Talent Health Care","price":"Rs.98.00"}
+{"_id":{"$oid":"5b573b4ad51d2953d2572eb7"},"name":"MONTARK L 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Optho Remedies Pvt Ltd","price":"Rs.108.70"}
+{"_id":{"$oid":"5b573b4cd51d2953d2572eb8"},"name":"MONTAS L 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.151.00"}
+{"_id":{"$oid":"5b573b4ed51d2953d2572eb9"},"name":"MONTAS L 4/2.5mg Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.37.50"}
+{"_id":{"$oid":"5b573b50d51d2953d2572eba"},"name":"MONTASMA PLUS Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Icarus Health Care Pvt Ltd","price":"Rs.102.95"}
+{"_id":{"$oid":"5b573b53d51d2953d2572ebb"},"name":"MONTASMA FX Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Icarus Health Care Pvt Ltd","price":"Rs.121.00"}
+{"_id":{"$oid":"5b573b56d51d2953d2572ebc"},"name":"MONTASMA L KID Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Icarus Health Care Pvt Ltd","price":"Rs.78.65"}
+{"_id":{"$oid":"5b573b57d51d2953d2572ebd"},"name":"MONTE L KID DT Tablet 10's","composition":"Montelukast 5mg+Levocetirizine 2.5mg","manufacturer":"Xylo Lifesciences","price":"Rs.68.00"}
+{"_id":{"$oid":"5b573b59d51d2953d2572ebe"},"name":"MONTECIP 10mg Tablet 10's","composition":"Montelukast 10mg","manufacturer":"Cipla Ltd","price":"Rs.25.62"}
+{"_id":{"$oid":"5b573b5bd51d2953d2572ebf"},"name":"MONTEDER L 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.32.06"}
+{"_id":{"$oid":"5b573b5dd51d2953d2572ec0"},"name":"MONTEGRESS FX 120mg Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.136.00"}
+{"_id":{"$oid":"5b573b60d51d2953d2572ec1"},"name":"MONTEK LC KID Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.83.00"}
+{"_id":{"$oid":"5b573b67d51d2953d2572ec2"},"name":"MONTEK LC Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.137.00"}
+{"_id":{"$oid":"5b573b69d51d2953d2572ec3"},"name":"MONTEK LC KID Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b573b6bd51d2953d2572ec4"},"name":"MONTELAR 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Others","price":"Rs.93.00"}
+{"_id":{"$oid":"5b573b6dd51d2953d2572ec5"},"name":"MONTELAR 4/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Others","price":"Rs.48.57"}
+{"_id":{"$oid":"5b573b6fd51d2953d2572ec6"},"name":"MONTELAR 4/2.5mg Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Others","price":"Rs.59.25"}
+{"_id":{"$oid":"5b573b71d51d2953d2572ec7"},"name":"MONTELAST L 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Morepen Laboratories Ltd","price":"Rs.109.00"}
+{"_id":{"$oid":"5b573b73d51d2953d2572ec8"},"name":"MONTEMAC L KID Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.64.90"}
+{"_id":{"$oid":"5b573b75d51d2953d2572ec9"},"name":"MONTEMAC FX Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b573b77d51d2953d2572eca"},"name":"MONTEMAC L Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.112.00"}
+{"_id":{"$oid":"5b573b79d51d2953d2572ecb"},"name":"MONTEMAC L Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.69.80"}
+{"_id":{"$oid":"5b573b7bd51d2953d2572ecc"},"name":"MONTEMAC FX 4/60mg Suspension 60ml","composition":"Fexofenadine Hydrochloride 60mg+Montelukast Sodium 4mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b573b7dd51d2953d2572ecd"},"name":"MONTEROS 5/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 5mg","manufacturer":"Sresan Pharmaceuticals Ltd","price":"Rs.61.13"}
+{"_id":{"$oid":"5b573b7fd51d2953d2572ece"},"name":"MONTETOP L 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.106.80"}
+{"_id":{"$oid":"5b573b80d51d2953d2572ecf"},"name":"MONTEWIN F Tablet 10's","composition":"Fexofenadine 120mg+Montelukast 10mg","manufacturer":"Overseas Healthcare Pvt Ltd","price":"Rs.121.80"}
+{"_id":{"$oid":"5b573b82d51d2953d2572ed0"},"name":"MONTEWOK LC Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Wockhardt Ltd","price":"Rs.164.08"}
+{"_id":{"$oid":"5b573b84d51d2953d2572ed1"},"name":"MONTEWOK LC Syrup 60ml","composition":"Montelukast +Levocetirizine ","manufacturer":"Wockhardt Ltd","price":"Rs.101.92"}
+{"_id":{"$oid":"5b573b86d51d2953d2572ed2"},"name":"MONTEZET LC 4/2.5mg Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Others","price":"Rs.63.83"}
+{"_id":{"$oid":"5b573b88d51d2953d2572ed3"},"name":"MONTGOLD Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b573b8ad51d2953d2572ed4"},"name":"MONTGOLD KID Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b573b8cd51d2953d2572ed5"},"name":"MONTI 5mg Tablet 10's","composition":"Montelukast 5mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.89.65"}
+{"_id":{"$oid":"5b573b8dd51d2953d2572ed6"},"name":"MONTI 10mg Tablet 10's","composition":"Montelukast 10mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b573b8fd51d2953d2572ed7"},"name":"MONTI FX Tablet 10's","composition":"Fexofenadine 120mg+Montelukast 10mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.155.70"}
+{"_id":{"$oid":"5b573b91d51d2953d2572ed8"},"name":"MONTICOPE Suspension 30ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.37.00"}
+{"_id":{"$oid":"5b573b92d51d2953d2572ed9"},"name":"MONTICOPE Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.94.50"}
+{"_id":{"$oid":"5b573b94d51d2953d2572eda"},"name":"MONTICOPE Suspension 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.65.82"}
+{"_id":{"$oid":"5b573b96d51d2953d2572edb"},"name":"MONTICOPE KID Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.51.90"}
+{"_id":{"$oid":"5b573b98d51d2953d2572edc"},"name":"MONTICOPE A Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg+Ambroxol 75mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.106.48"}
+{"_id":{"$oid":"5b573b9ad51d2953d2572edd"},"name":"MONTIKEP LC 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"KEPLER HEALTHCARE PVT LTD","price":"Rs.75.23"}
+{"_id":{"$oid":"5b573b9cd51d2953d2572ede"},"name":"MONTILIFE KID 4/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Others","price":"Rs.65.00"}
+{"_id":{"$oid":"5b573b9ed51d2953d2572edf"},"name":"MONTLEVO 4/2.5mg Suspension 30ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.19.58"}
+{"_id":{"$oid":"5b573ba0d51d2953d2572ee0"},"name":"MONTLEVO 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b573ba2d51d2953d2572ee1"},"name":"MONTLEVO FX 10/120mg Tablet 10's","composition":"FEXOFENADINE HYDROCHLORIDE 120MG+MONTELUKAST SODIUM 10MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.41.87"}
+{"_id":{"$oid":"5b573ba4d51d2953d2572ee2"},"name":"MONTOLIFE LC 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Invision Medi Sciences Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b573ba6d51d2953d2572ee3"},"name":"MONTOR LC 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Torque Pharmaceuticals Pvt Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b573ba8d51d2953d2572ee4"},"name":"MONTOVENT LC 4/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Micro Labs Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b573baad51d2953d2572ee5"},"name":"MONTRAL 4/2.5mg Syrup 30ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Micro Labs Ltd","price":"Rs.28.37"}
+{"_id":{"$oid":"5b573bacd51d2953d2572ee6"},"name":"MONTRAL Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Micro Labs Ltd","price":"Rs.128.00"}
+{"_id":{"$oid":"5b573baed51d2953d2572ee7"},"name":"MONTRAL KID Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Micro Labs Ltd","price":"Rs.73.00"}
+{"_id":{"$oid":"5b573bb0d51d2953d2572ee8"},"name":"MONTRAL Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Micro Labs Ltd","price":"Rs.96.00"}
+{"_id":{"$oid":"5b573bb2d51d2953d2572ee9"},"name":"L MONTUS KID Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.82.00"}
+{"_id":{"$oid":"5b573bb4d51d2953d2572eea"},"name":"L MONTUS Tablet 15's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.212.00"}
+{"_id":{"$oid":"5b573bb6d51d2953d2572eeb"},"name":"L MONTUS FLASH Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b573bb8d51d2953d2572eec"},"name":"MONZEM FX 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Saffron Therapeutics Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b573bbad51d2953d2572eed"},"name":"MONZEM LC 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Saffron Therapeutics Pvt Ltd","price":"Rs.112.00"}
+{"_id":{"$oid":"5b573bbcd51d2953d2572eee"},"name":"MOTIMESH 0.1%W/W Cream 15gm","composition":"Mometasone 0.1%W/W","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.164.00"}
+{"_id":{"$oid":"5b573bbfd51d2953d2572eef"},"name":"MOTIMESH SF Cream 10gm","composition":"Fusidic Acid 2%+Mometasone 0.1%W/W","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.148.00"}
+{"_id":{"$oid":"5b573bc0d51d2953d2572ef0"},"name":"MTNL KID Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 5mg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.82.43"}
+{"_id":{"$oid":"5b573bc2d51d2953d2572ef1"},"name":"MTNL Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.137.06"}
+{"_id":{"$oid":"5b573bc4d51d2953d2572ef2"},"name":"MUCORIN 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Embiotic Laboratories Pvt Ltd","price":"Rs.69.11"}
+{"_id":{"$oid":"5b573bc6d51d2953d2572ef3"},"name":"MYCEPT S 180mg Tablet 10's","composition":"Mycophenolate Mofetil(Mycophenolic Acid) 180mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.484.00"}
+{"_id":{"$oid":"5b573bc8d51d2953d2572ef4"},"name":"MYTIMONT L 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Others","price":"Rs.114.00"}
+{"_id":{"$oid":"5b573bcad51d2953d2572ef5"},"name":"MYTIMONT L 4/2.5mg Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Others","price":"Rs.65.00"}
+{"_id":{"$oid":"5b573bccd51d2953d2572ef6"},"name":"N8 LC Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Abn Drugs","price":"Rs.90.00"}
+{"_id":{"$oid":"5b573bced51d2953d2572ef7"},"name":"NAM COLD PAEDIATRIC ORAL Drops 15ml","composition":"Cetirizine 2mg+Paracetamol 15mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.37.40"}
+{"_id":{"$oid":"5b573bcfd51d2953d2572ef8"},"name":"NASIVION ALLERGY 120mg Tablet 10's","composition":"Fexofenadine","manufacturer":"Merck Ltd","price":"Rs.98.50"}
+{"_id":{"$oid":"5b573bd1d51d2953d2572ef9"},"name":"NASIVION ALLERGY 180MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Merck Ltd","price":"Rs.110.67"}
+{"_id":{"$oid":"5b573bd3d51d2953d2572efa"},"name":"NASOREST PLUS Capsule 10's","composition":"Acrivastine 363mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.64.85"}
+{"_id":{"$oid":"5b573bd5d51d2953d2572efb"},"name":"NEOLORIDIN D Tablet 10's","composition":"Desloratadine 2.5mg+Pseudoephedrine 120mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.59.10"}
+{"_id":{"$oid":"5b573bd7d51d2953d2572efc"},"name":"NEOLORIDIN RAPITAB Tablet 10's","composition":"Desloratadine 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.82.80"}
+{"_id":{"$oid":"5b573bd9d51d2953d2572efd"},"name":"NEWCOLD 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.36.20"}
+{"_id":{"$oid":"5b573bdbd51d2953d2572efe"},"name":"NEWCOLD ML 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.23.50"}
+{"_id":{"$oid":"5b573bddd51d2953d2572eff"},"name":"NEWCOLD PLUS Tablet 10's","composition":"Levocetirizine 2.5mg+Phenylpropanolamine 12.5mg+Paracetamol 325mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b573bdfd51d2953d2572f00"},"name":"NEXCET 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.31.00"}
+{"_id":{"$oid":"5b573be1d51d2953d2572f01"},"name":"NEXOFEX 180MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.121.00"}
+{"_id":{"$oid":"5b573be3d51d2953d2572f02"},"name":"NEXOFEX 120mg Tablet 10's","composition":"Fexofenadine","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b573be5d51d2953d2572f03"},"name":"NEXOFEX 30MG SYRUP 60ML","composition":"FEXOFENADINE HYDROCHLORIDE 30MG","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b573be8d51d2953d2572f04"},"name":"NEXOFEX M 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.128.57"}
+{"_id":{"$oid":"5b573bead51d2953d2572f05"},"name":"NICOPHEN Injection 2ml","composition":"Pheniramine 22.75mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.2.16"}
+{"_id":{"$oid":"5b573bebd51d2953d2572f06"},"name":"NUCOPE 5mg Tablet 10's","composition":"Desloratadine 5mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.39.93"}
+{"_id":{"$oid":"5b573bedd51d2953d2572f07"},"name":"NUKAST 4mg Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.83.30"}
+{"_id":{"$oid":"5b573bf0d51d2953d2572f08"},"name":"NUKAST 4mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.72.85"}
+{"_id":{"$oid":"5b573bf2d51d2953d2572f09"},"name":"NUZINE 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Swiss Pharma Pvt Ltd","price":"Rs.49.60"}
+{"_id":{"$oid":"5b573bf5d51d2953d2572f0a"},"name":"ODIFEX 120MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 120MG","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.27.50"}
+{"_id":{"$oid":"5b573bf7d51d2953d2572f0b"},"name":"ODIFEX 180MG TABLET 6'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.33.55"}
+{"_id":{"$oid":"5b573bf9d51d2953d2572f0c"},"name":"ODIMONT LC Tablet 15's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"German Remedies Ltd","price":"Rs.230.50"}
+{"_id":{"$oid":"5b573bfbd51d2953d2572f0d"},"name":"ODIMONT FX Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"German Remedies Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b573bfdd51d2953d2572f0e"},"name":"ODIMONT LC KID Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"German Remedies Ltd","price":"Rs.94.00"}
+{"_id":{"$oid":"5b573bffd51d2953d2572f0f"},"name":"ODIMONT LC Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"German Remedies Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b573c01d51d2953d2572f10"},"name":"OKACET Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Cipla Ltd","price":"Rs.16.76"}
+{"_id":{"$oid":"5b573c05d51d2953d2572f11"},"name":"OKACET Syrup 30ml","composition":"Cetirizine 5mg","manufacturer":"Cipla Ltd","price":"Rs.17.32"}
+{"_id":{"$oid":"5b573c06d51d2953d2572f12"},"name":"OKACET L Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Cipla Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b573c08d51d2953d2572f13"},"name":"OKACET L Syrup 30ml","composition":"Levocetirizine ","manufacturer":"Cipla Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b573c0ad51d2953d2572f14"},"name":"OLOFAST 0.60% Nasal Spray 12ml","composition":"Olopatadine 0.60%","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.260.00"}
+{"_id":{"$oid":"5b573c0cd51d2953d2572f15"},"name":"ONCET 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b573c0ed51d2953d2572f16"},"name":"ONCET CF Tablet 10's","composition":"Cetirizine 5mg+Paracetamol 500mg+Phenylephrine 10mg","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.41.00"}
+{"_id":{"$oid":"5b573c11d51d2953d2572f17"},"name":"ORIEL Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.41.00"}
+{"_id":{"$oid":"5b573c13d51d2953d2572f18"},"name":"ORIEL 10mg Tablet 10's","composition":"Levocetirizine 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b573c15d51d2953d2572f19"},"name":"ORIEL M Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b573c17d51d2953d2572f1a"},"name":"PIRACIT 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.16.37"}
+{"_id":{"$oid":"5b573c19d51d2953d2572f1b"},"name":"PIRITON 4mg Tablet 500's","composition":"Chlorpheniramine 4mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.51.48"}
+{"_id":{"$oid":"5b573c1bd51d2953d2572f1c"},"name":"POLARAMINE 2mg Tablet 10's","composition":"Chlorpheniramine 2mg","manufacturer":"Fulford India Ltd","price":"Rs.17.56"}
+{"_id":{"$oid":"5b573c1cd51d2953d2572f1d"},"name":"POLARAMINE PAEDIATRIC Syrup 60ml","composition":"Dexchlorpheniramine 0.5mg","manufacturer":"Bayer India Ltd","price":"Rs.20.20"}
+{"_id":{"$oid":"5b573c1ed51d2953d2572f1e"},"name":"POLOSTAN 2mg Tablet 10's","composition":"Dexchlorpheniramine 2mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.26.18"}
+{"_id":{"$oid":"5b573c20d51d2953d2572f1f"},"name":"Q.MONT 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b573c23d51d2953d2572f20"},"name":"Q.MONT 4/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.69.72"}
+{"_id":{"$oid":"5b573c25d51d2953d2572f21"},"name":"R KAST L 10/5mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG+MONTELUKAST 10MG","manufacturer":"Others","price":"Rs.75.00"}
+{"_id":{"$oid":"5b573c27d51d2953d2572f22"},"name":"RALIF 10mg Tablet 10's","composition":"Rupatadine 10mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.47.50"}
+{"_id":{"$oid":"5b573c29d51d2953d2572f23"},"name":"RANMONTELC 4/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.180.50"}
+{"_id":{"$oid":"5b573c2bd51d2953d2572f24"},"name":"RAPIDON Eye Drops 5ml","composition":"OLOPATADINE HYDROCHLORIDE 0.1%","manufacturer":"Micro Labs Ltd","price":"Rs.94.50"}
+{"_id":{"$oid":"5b573c2dd51d2953d2572f25"},"name":"RHENOGUARD Tablet 10's","composition":"Loratidine 5mg","manufacturer":"Imed Healthcare","price":"Rs.2.60"}
+{"_id":{"$oid":"5b573c2fd51d2953d2572f26"},"name":"RHINOFEX 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b573c31d51d2953d2572f27"},"name":"RHINOFEX 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.88.90"}
+{"_id":{"$oid":"5b573c33d51d2953d2572f28"},"name":"RHINOMAX 10+5mg Tablet 10's","composition":"Montelukast 10mg+Levocetirizine 5mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.74.28"}
+{"_id":{"$oid":"5b573c35d51d2953d2572f29"},"name":"RHINOMAX 4+2.5mg Tablet 10's","composition":"Montelukast 4mg+Levocetirizine 2.5mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b573c37d51d2953d2572f2a"},"name":"RID AR KID Syrup 30ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Cipla Ltd","price":"Rs.46.00"}
+{"_id":{"$oid":"5b573c39d51d2953d2572f2b"},"name":"RID AR KID Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Cipla Ltd","price":"Rs.83.00"}
+{"_id":{"$oid":"5b573c3cd51d2953d2572f2c"},"name":"RID AR Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Cipla Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b573c3dd51d2953d2572f2d"},"name":"RINITRIN 10mg Tablet 10's","composition":"Cetrizine 10mg","manufacturer":"Maneesh Pharmaceuticals Ltd","price":"Rs.18.47"}
+{"_id":{"$oid":"5b573c3fd51d2953d2572f2e"},"name":"RINOSTAT LM Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Rpg Life Science Ltd","price":"Rs.98.95"}
+{"_id":{"$oid":"5b573c41d51d2953d2572f2f"},"name":"RINOSTAT LM Syrup 60ml","composition":"Levocetirizine+Montelukast","manufacturer":"Others","price":"Rs.66.00"}
+{"_id":{"$oid":"5b573c43d51d2953d2572f30"},"name":"ROLETRA D Tablet 10's","composition":"Loratadine 10mg+Pseudoephedrine 180mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.37.00"}
+{"_id":{"$oid":"5b573c45d51d2953d2572f31"},"name":"ROMILAST 4mg Granules 0.5gm","composition":"MONTELUKAST 4MG","manufacturer":" NA ","price":"Rs.8.00"}
+{"_id":{"$oid":"5b573c47d51d2953d2572f32"},"name":"ROMILAST 8mg Tablet 10's","composition":"Montelukast 8mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.131.61"}
+{"_id":{"$oid":"5b573c49d51d2953d2572f33"},"name":"ROMILAST FX Tablet 10's","composition":"FEXOFENADINE 120MG+MONTELUKAST 10MG","manufacturer":" NA ","price":"Rs.142.90"}
+{"_id":{"$oid":"5b573c4ad51d2953d2572f34"},"name":"ROMILAST L 5/2.5mg Tablet 10's","composition":"MONTELUKAST 5MG+LEVOCETIRIZINE+AMBROXOL 2.5MG","manufacturer":" NA ","price":"Rs.78.00"}
+{"_id":{"$oid":"5b573c4dd51d2953d2572f35"},"name":"ROMILAST L 10mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG+MONTELUKAST 10MG","manufacturer":" NA ","price":"Rs.129.10"}
+{"_id":{"$oid":"5b573c4ed51d2953d2572f36"},"name":"ROMILAST L 10/5mg Tablet 10's","composition":"Montelukast 10mg+Levocetirizine 5mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b573c51d51d2953d2572f37"},"name":"ROMILAST L 4mg Tablet 10's","composition":"LEVOCETIRIZINE 2.5MG+MONTELUKAST 4MG","manufacturer":" NA ","price":"Rs.58.00"}
+{"_id":{"$oid":"5b573c52d51d2953d2572f38"},"name":"ROMILAST L 4/2.5mg Tablet 10's","composition":"Montelukast 4mg+Levocetirizine 2.5mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.53.50"}
+{"_id":{"$oid":"5b573c54d51d2953d2572f39"},"name":"ROMILAST L Syrup 60ml","composition":"LEVOCETIRIZINE 2.5MG+MONTELUKAST 4MG","manufacturer":" NA ","price":"Rs.67.00"}
+{"_id":{"$oid":"5b573c56d51d2953d2572f3a"},"name":"ROMILAST L MG TABLET 5mg Tablet 10's","composition":"LEVOCETIRIZINE 2.5MG+MONTELUKAST 5MG","manufacturer":" NA ","price":"Rs.78.00"}
+{"_id":{"$oid":"5b573c58d51d2953d2572f3b"},"name":"RUP AL 10mg Tablet 10's","composition":"Rupatadine Fumarate 10mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b573c5ad51d2953d2572f3c"},"name":"RUPAHIST 10mg Tablet 10's","composition":"Rupatadine 10mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b573c5cd51d2953d2572f3d"},"name":"RUPANEX Tablet 10's","composition":"Rupatadine Fumarate 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.78.50"}
+{"_id":{"$oid":"5b573c5ed51d2953d2572f3e"},"name":"RUPANEX M Tablet 10's","composition":"Montelukast 10mg+Rupatadine 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.132.00"}
+{"_id":{"$oid":"5b573c60d51d2953d2572f3f"},"name":"RUPIZ 10mg Tablet 10's","composition":"Rupatadine 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.55.27"}
+{"_id":{"$oid":"5b573c62d51d2953d2572f40"},"name":"RYMA 120mg Tablet 10's","composition":"Fexofenadine 120mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b573c66d51d2953d2572f41"},"name":"RZINE M Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Aurz Pharmaceutical Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b573c68d51d2953d2572f42"},"name":"RZINE M 10/5mg Suspension 60ml","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Aurz Pharmaceutical Pvt Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b573c6ad51d2953d2572f43"},"name":"SAFECET 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Talent India","price":"Rs.43.00"}
+{"_id":{"$oid":"5b573c6ed51d2953d2572f44"},"name":"SAFECET M 10/5mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG+MONTELUKAST 10MG","manufacturer":"Talent India","price":"Rs.100.00"}
+{"_id":{"$oid":"5b573c6fd51d2953d2572f45"},"name":"SALPHYLLIN M 5/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 5mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.29.90"}
+{"_id":{"$oid":"5b573c72d51d2953d2572f46"},"name":"SALPHYLLIN M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.73.90"}
+{"_id":{"$oid":"5b573c73d51d2953d2572f47"},"name":"SHCORTY H17 Cream 10gm","composition":"HYDROCORTISONE 0.1%W/W","manufacturer":"Menarini India Pvt Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b573c76d51d2953d2572f48"},"name":"SIGCET M 4/2.5mg Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Signova Pharma Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b573c78d51d2953d2572f49"},"name":"SIGCET M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Signova Pharma Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b573c7ad51d2953d2572f4a"},"name":"SINGULAIR 10mg Tablet 28's","composition":"Montelukast 10mg","manufacturer":"Msd Pharmaceuticals Pvt Ltd","price":"Rs.420.00"}
+{"_id":{"$oid":"5b573c7cd51d2953d2572f4b"},"name":"SINGULAIR 10mg Tablet 7's","composition":"Montelukast 10mg","manufacturer":"Msd Pharmaceuticals Pvt Ltd","price":"Rs.216.55"}
+{"_id":{"$oid":"5b573c7ed51d2953d2572f4c"},"name":"SIZON 5mg Tablet 10's","composition":"Cetirizine 5mg","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.15.00"}
+{"_id":{"$oid":"5b573c80d51d2953d2572f4d"},"name":"SIZON 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.16.00"}
+{"_id":{"$oid":"5b573c82d51d2953d2572f4e"},"name":"SMARTI Tablet 10's","composition":"Rupatadine Fumarate","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.105.00"}
+{"_id":{"$oid":"5b573c84d51d2953d2572f4f"},"name":"SMARTI 10mg Tablet 2's","composition":"Rupatadine 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.78.25"}
+{"_id":{"$oid":"5b573c86d51d2953d2572f50"},"name":"SMARTI M Tablet 10's","composition":"Montelukast 10mg+Rupatadine 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.120.00"}
+{"_id":{"$oid":"5b573c88d51d2953d2572f51"},"name":"SOLITAIR 10/5mg Tablet 10's","composition":"Montelukast 10mg+Levocetirizine 5mg","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b573c8ad51d2953d2572f52"},"name":"RINOSOLVIN Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.93.50"}
+{"_id":{"$oid":"5b573c8cd51d2953d2572f53"},"name":"RINOSOLVIN Suspension 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.62.00"}
+{"_id":{"$oid":"5b573c90d51d2953d2572f54"},"name":"SPIROMONT F Tablet 10's","composition":"Fexofenadine 120mg+Montelukast 10mg","manufacturer":"Koye Pharmaceuticals Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b573c91d51d2953d2572f55"},"name":"SPIROMONT F 180 Tablet 10's","composition":"MONTELUKAST SODIUM 10MG+FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Koye Pharmaceuticals Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b573c94d51d2953d2572f56"},"name":"SPIROMONT L 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Koye Pharmaceuticals Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b573c96d51d2953d2572f57"},"name":"STARCET 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Lupin Ltd","price":"Rs.41.70"}
+{"_id":{"$oid":"5b573c98d51d2953d2572f58"},"name":"STEMIZ Suspension 30ml","composition":"Astemizole 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.16.76"}
+{"_id":{"$oid":"5b573c9ad51d2953d2572f59"},"name":"STONMONT LC 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Primus Remedies Pvt Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b573c9cd51d2953d2572f5a"},"name":"SUPRACET Tablet 10's","composition":"Levocetirizine","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.36.50"}
+{"_id":{"$oid":"5b573c9ed51d2953d2572f5b"},"name":"SYMFINE 120mg Tablet 6's","composition":"Fexofenadine 120mg","manufacturer":"Symphony Pharma Life Sciences Pvt Ltd","price":"Rs.74.00"}
+{"_id":{"$oid":"5b573ca0d51d2953d2572f5c"},"name":"SYMFINE 180mg Tablet 6's","composition":"Fexofenadine 180mg","manufacturer":"Kinesis Pharmaceuticals Pvt.Ltd","price":"Rs.89.16"}
+{"_id":{"$oid":"5b573ca2d51d2953d2572f5d"},"name":"TADIL 180MG TABLET 5'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Psychotropics India Limited","price":"Rs.50.47"}
+{"_id":{"$oid":"5b573ca4d51d2953d2572f5e"},"name":"TALICOLD Tablet 10's","composition":"CAFFEINE 30MG+CETIRIZINE 5MG+PARACETAMOL 325MG+PHENYLEPHRINE 5MG","manufacturer":"Talent Health Care","price":"Rs.21.25"}
+{"_id":{"$oid":"5b573ca7d51d2953d2572f5f"},"name":"TANCET L 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.3.75"}
+{"_id":{"$oid":"5b573caad51d2953d2572f60"},"name":"TASTYLORA Tablet 10's","composition":"Desloratadine 5mg","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b573cacd51d2953d2572f61"},"name":"TASTYMONT LC KID Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b573caed51d2953d2572f62"},"name":"TECZINE 10mg Tablet 15's","composition":"Levocetirizine 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b573cb0d51d2953d2572f63"},"name":"TECZINE 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.67.00"}
+{"_id":{"$oid":"5b573cb3d51d2953d2572f64"},"name":"TECZINE M Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b573cb5d51d2953d2572f65"},"name":"TECZINE Syrup 60ml","composition":"Levocetirizine 2.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.83.00"}
+{"_id":{"$oid":"5b573cb7d51d2953d2572f66"},"name":"TECZINE 5mg CP Tablet 30's","composition":"Levocetirizine 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b573cb8d51d2953d2572f67"},"name":"TECZINE M KID Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.49.00"}
+{"_id":{"$oid":"5b573cbad51d2953d2572f68"},"name":"TELEKAST L KID Syrup 30ml","composition":"Levocetirizine+Montelukast","manufacturer":"Lupin Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b573cbcd51d2953d2572f69"},"name":"TELEKAST L Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Lupin Ltd","price":"Rs.134.70"}
+{"_id":{"$oid":"5b573cbed51d2953d2572f6a"},"name":"TELEKAST F Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Lupin Ltd","price":"Rs.152.80"}
+{"_id":{"$oid":"5b573cc0d51d2953d2572f6b"},"name":"TELEKAST L KID Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Lupin Ltd","price":"Rs.86.90"}
+{"_id":{"$oid":"5b573cc3d51d2953d2572f6c"},"name":"TELEKAST L KID Syrup 60ml","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Lupin Ltd","price":"Rs.86.31"}
+{"_id":{"$oid":"5b573cc5d51d2953d2572f6d"},"name":"TERFED 60mg Tablet 10's","composition":"Terfenadine 60mg","manufacturer":"Cipla Ltd","price":"Rs.22.80"}
+{"_id":{"$oid":"5b573cc7d51d2953d2572f6e"},"name":"TERFED Syrup 50ml","composition":"Terfenadine 30mg","manufacturer":"Cipla Ltd","price":"Rs.21.43"}
+{"_id":{"$oid":"5b573cc9d51d2953d2572f6f"},"name":"THERMAL Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.20.45"}
+{"_id":{"$oid":"5b573ccbd51d2953d2572f70"},"name":"TORKAST FX Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.127.40"}
+{"_id":{"$oid":"5b573ccdd51d2953d2572f71"},"name":"TREATAR L 10/5mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG+MONTELUKAST 10MG","manufacturer":"Morepen Laboratories Ltd","price":"Rs.80.36"}
+{"_id":{"$oid":"5b573ccfd51d2953d2572f72"},"name":"TREXYL 30mg Suspension 60ml","composition":"Terfenadine 30mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.20.50"}
+{"_id":{"$oid":"5b573cd1d51d2953d2572f73"},"name":"TREXYL 60mg Tablet 10's","composition":"Terfenadine 60mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.23.50"}
+{"_id":{"$oid":"5b573cd3d51d2953d2572f74"},"name":"TRIZ Syrup 60ml","composition":"Cetirizine 5mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.35.28"}
+{"_id":{"$oid":"5b573cd5d51d2953d2572f75"},"name":"TRIZ Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.16.80"}
+{"_id":{"$oid":"5b573cd8d51d2953d2572f76"},"name":"TRIZ LM KID Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Indoco Remedies Ltd","price":"Rs.65.70"}
+{"_id":{"$oid":"5b573cdbd51d2953d2572f77"},"name":"TUSQ DX Liquid 100ml","composition":"Chlorpheniramine+Dextromethorphan+Phenylephrine","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.74.00"}
+{"_id":{"$oid":"5b573cddd51d2953d2572f78"},"name":"UNIAIR FX 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Others","price":"Rs.130.00"}
+{"_id":{"$oid":"5b573cdfd51d2953d2572f79"},"name":"UVNIL 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.9.52"}
+{"_id":{"$oid":"5b573ce1d51d2953d2572f7a"},"name":"VAN LM 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Vanguard Therapeutics Pvt Ltd","price":"Rs.97.97"}
+{"_id":{"$oid":"5b573ce3d51d2953d2572f7b"},"name":"VELCET 10MG TABLET 10'S","composition":"LEVOCETIRIZINE 10MG","manufacturer":" NA ","price":"Rs.30.00"}
+{"_id":{"$oid":"5b573ce5d51d2953d2572f7c"},"name":"VENTIDOX DL Tablet 10's","composition":"Desloratadine+Montelukast","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.96.80"}
+{"_id":{"$oid":"5b573ce9d51d2953d2572f7d"},"name":"VERIFINE 180MG TABLET 10'S","composition":"FEXOFENADINE HYDROCHLORIDE 180MG","manufacturer":"Veritaz Health Care Ltd","price":"Rs.99.80"}
+{"_id":{"$oid":"5b573cecd51d2953d2572f7e"},"name":"VERIZET D Tablet 10's","composition":"Levocetirizine 5mg+Pseudoephedrine 120mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.46.00"}
+{"_id":{"$oid":"5b573ceed51d2953d2572f7f"},"name":"VIBGLOW 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Novartis India Ltd","price":"Rs.44.31"}
+{"_id":{"$oid":"5b573cf0d51d2953d2572f80"},"name":"VILARGY 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Others","price":"Rs.99.00"}
+{"_id":{"$oid":"5b573cf2d51d2953d2572f81"},"name":"VITARESP FX Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.137.80"}
+{"_id":{"$oid":"5b573cf4d51d2953d2572f82"},"name":"VITARESP FX 4/60mg Suspension 60ml","composition":"Fexofenadine Hydrochloride 60mg+Montelukast Sodium 4mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.112.65"}
+{"_id":{"$oid":"5b573cf6d51d2953d2572f83"},"name":"VIZNIL Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Indi Pharma Pvt Ltd","price":"Rs.103.00"}
+{"_id":{"$oid":"5b573cf8d51d2953d2572f84"},"name":"VOCETIN SYRUP 30ML","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b573cfad51d2953d2572f85"},"name":"VOCETIN 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b573cfdd51d2953d2572f86"},"name":"VOLTRIZ M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Others","price":"Rs.88.00"}
+{"_id":{"$oid":"5b573d00d51d2953d2572f87"},"name":"VORLEVO M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Vasu Organics Pvt Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b573d05d51d2953d2572f88"},"name":"VOTA MD 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":" NA ","price":"Rs.33.18"}
+{"_id":{"$oid":"5b573d07d51d2953d2572f89"},"name":"VOZET 5mg Tablet 10's","composition":"Levocetirizine","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.53.35"}
+{"_id":{"$oid":"5b573d0ad51d2953d2572f8a"},"name":"WIFI MT 10/5mg Tablet 10's","composition":"LEVOCETIRIZINE 5MG+MONTELUKAST 10MG","manufacturer":"Others","price":"Rs.109.45"}
+{"_id":{"$oid":"5b573d0ad51d2953d2572f8b"},"name":"WIMONTE L 4/2.5mg Tablet 10's","composition":"Levocetirizine 2.5mg+Montelukast 4mg","manufacturer":"Others","price":"Rs.51.00"}
+{"_id":{"$oid":"5b573d0cd51d2953d2572f8c"},"name":"WIMONTE L 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Others","price":"Rs.91.00"}
+{"_id":{"$oid":"5b573d0ed51d2953d2572f8d"},"name":"WINKAST L KID DT Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Intra Labs India Pvt Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b573d11d51d2953d2572f8e"},"name":"XARIA 4/2.5mg Tablet 10's","composition":"LEVOCETIRIZINE 2.5MG+MONTELUKAST 4MG","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.57.68"}
+{"_id":{"$oid":"5b573d13d51d2953d2572f8f"},"name":"XARIA PLUS Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b573d15d51d2953d2572f90"},"name":"XARIA 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.112.37"}
+{"_id":{"$oid":"5b573d17d51d2953d2572f91"},"name":"XENOCET 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.13.13"}
+{"_id":{"$oid":"5b573d19d51d2953d2572f92"},"name":"XEVOR 10mg Tablet 10's","composition":"Levocetirizine 10mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b573d1cd51d2953d2572f93"},"name":"XEVOR 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b573d1ed51d2953d2572f94"},"name":"XEVOR PLUS 5/75mg Capsule 10's","composition":"Levocetirizine 5mg+Ambroxol 75mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.53.08"}
+{"_id":{"$oid":"5b573d20d51d2953d2572f95"},"name":"XYZAC 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.57.26"}
+{"_id":{"$oid":"5b573d22d51d2953d2572f96"},"name":"XYZAL M Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.115.50"}
+{"_id":{"$oid":"5b573d24d51d2953d2572f97"},"name":"XYZAL M KID DT Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.56.50"}
+{"_id":{"$oid":"5b573d26d51d2953d2572f98"},"name":"XYZAL 5mg Tablet 15's","composition":"Levocetirizine 5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.113.00"}
+{"_id":{"$oid":"5b573d28d51d2953d2572f99"},"name":"XYZAL Syrup 60ml","composition":"Levocetirizine 2.5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.93.50"}
+{"_id":{"$oid":"5b573d2ad51d2953d2572f9a"},"name":"XYZAL M Syrup 60ml","composition":"Levocetirizine+Montelukast","manufacturer":"Ucb Pharma Ltd","price":"Rs.80.85"}
+{"_id":{"$oid":"5b573d2cd51d2953d2572f9b"},"name":"XYZAL 10mg Tablet 10's","composition":"Levocetirizine 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.137.50"}
+{"_id":{"$oid":"5b573d2ed51d2953d2572f9c"},"name":"Z MONT Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Medlab Pharmaceuticals Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b573d30d51d2953d2572f9d"},"name":"Z MONT KID Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Medlab Pharmaceuticals Pvt Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b573d33d51d2953d2572f9e"},"name":"ZACRA Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Acekinetic Healthcare Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b573d34d51d2953d2572f9f"},"name":"ZADONASE 10/120mg Tablet 10's","composition":"Fexofenadine+Montelukast","manufacturer":"Alkem Laboratories Ltd","price":"Rs.156.00"}
+{"_id":{"$oid":"5b573d36d51d2953d2572fa0"},"name":"ZEEZ Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Akesiss Pharma Pvt Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b573d39d51d2953d2572fa1"},"name":"ZEEZ M Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Akesiss Pharma Pvt Ltd","price":"Rs.94.00"}
+{"_id":{"$oid":"5b573d3bd51d2953d2572fa2"},"name":"ZENCET 5MG TABLET 10'S","composition":"LEVOCETIRIZINE DIHYDROCHLORIDE 5MG","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b573d3cd51d2953d2572fa3"},"name":"ZERITIN 10mg Tablet 10's","composition":"Cetrizine 10mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.3.12"}
+{"_id":{"$oid":"5b573d3ed51d2953d2572fa4"},"name":"ZEX 180mg Tablet 10's","composition":"Fexofenadine 180mg","manufacturer":"Zee Laboratories Ltd","price":"Rs.139.60"}
+{"_id":{"$oid":"5b573d40d51d2953d2572fa5"},"name":"ZIPCET 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.20.00"}
+{"_id":{"$oid":"5b573d41d51d2953d2572fa6"},"name":"ZIPCET 2.5mg Syrup 30ml","composition":"Levocetirizine 2.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.27.33"}
+{"_id":{"$oid":"5b573d43d51d2953d2572fa7"},"name":"ZMONT FX 10/120mg Tablet 10's","composition":"Fexofenadine Hydrochloride 120mg+Montelukast Sodium 10mg","manufacturer":"Med Manor Organics Pvt Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b573d45d51d2953d2572fa8"},"name":"ZOOMCET M 10/5mg Tablet 10's","composition":"Levocetirizine 5mg+Montelukast 10mg","manufacturer":"Sifco Pharma","price":"Rs.46.66"}
+{"_id":{"$oid":"5b573d47d51d2953d2572fa9"},"name":"ZYLERA M Tablet 10's","composition":"Levocetirizine+Montelukast","manufacturer":"Usv Private Ltd","price":"Rs.92.00"}
+{"_id":{"$oid":"5b573d49d51d2953d2572faa"},"name":"ZYLERA 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Usv Private Ltd","price":"Rs.62.25"}
+{"_id":{"$oid":"5b573d4bd51d2953d2572fab"},"name":"LEZYNCET D Tablet 10's","composition":"Levocetirizine+Phenylephrine","manufacturer":"Unichem Laboratories Ltd","price":"Rs.61.40"}
+{"_id":{"$oid":"5b573d4cd51d2953d2572fac"},"name":"LEZYNCET COLD Tablet 10's","composition":"Levocetirizine","manufacturer":"Unichem Laboratories Ltd","price":"Rs.46.25"}
+{"_id":{"$oid":"5b573d4ed51d2953d2572fad"},"name":"LEZYNCET 5mg Tablet 10's","composition":"Levocetirizine 5mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.58.50"}
+{"_id":{"$oid":"5b573d50d51d2953d2572fae"},"name":"LEZYNCET Syrup 30ml","composition":"Levocetirizine 2.5mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.40.20"}
+{"_id":{"$oid":"5b573d52d51d2953d2572faf"},"name":"LEZYNCET M Syrup 60ml","composition":"Levocetirizine+Montelukast","manufacturer":"Unichem Laboratories Ltd","price":"Rs.54.25"}
+{"_id":{"$oid":"5b573d54d51d2953d2572fb0"},"name":"ZYNCET Syrup 60ml","composition":"Cetirizine 5mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.36.09"}
+{"_id":{"$oid":"5b573d56d51d2953d2572fb1"},"name":"ZYNCET 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.16.76"}
+{"_id":{"$oid":"5b573d59d51d2953d2572fb2"},"name":"LEZYNCET 10mg Tablet 10's","composition":"Levocetirizine 10mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.99.05"}
+{"_id":{"$oid":"5b573d5bd51d2953d2572fb3"},"name":"ZYRTEC 10mg Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.16.76"}
+{"_id":{"$oid":"5b573d5dd51d2953d2572fb4"},"name":"ZYRTEC 10mg Drops 30ml","composition":"Cetirizine 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.51.00"}
+{"_id":{"$oid":"5b573d5fd51d2953d2572fb5"},"name":"ZYRTEC Syrup 60ml","composition":"Cetirizine 5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.36.09"}
+{"_id":{"$oid":"5b573d61d51d2953d2572fb6"},"name":"ZYRTEC Drops 10ml","composition":"Cetirizine","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.56.00"}
+{"_id":{"$oid":"5b573d63d51d2953d2572fb7"},"name":"ZYRTEC D Tablet 10's","composition":"Cetirizine 5mg+Pseudoephedrine 120mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.16.76"}
+{"_id":{"$oid":"5b573d65d51d2953d2572fb8"},"name":"ZYRTEC OD Tablet 10's","composition":"Cetirizine 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.16.07"}

@@ -1,0 +1,14 @@
+{"_id":{"$oid":"5b584be7d51d29614deeb9a2"},"name":"BARACLUDE 0.5mg Tablet 10's","composition":"Entecavir 0.5mg","manufacturer":"Bristol Myers Squibb India Pvt Ltd","price":"Rs.2,236.50"}
+{"_id":{"$oid":"5b584be9d51d29614deeb9a3"},"name":"ENTALIV 0.5mg Tablet 30's","composition":"Entecavir 0.5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.2,280.60"}
+{"_id":{"$oid":"5b584bebd51d29614deeb9a4"},"name":"ENTAVIR 0.5mg Tablet 10's","composition":"Entecavir 0.5mg","manufacturer":"Cipla Ltd","price":"Rs.786.34"}
+{"_id":{"$oid":"5b584bedd51d29614deeb9a5"},"name":"ENTAVIR 1mg Tablet 10's","composition":"Entecavir 1mg","manufacturer":"Cipla Ltd","price":"Rs.1,207.82"}
+{"_id":{"$oid":"5b584befd51d29614deeb9a6"},"name":"ENTECA 1mg Tablet 10's","composition":"Entecavir 1mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.1,288.33"}
+{"_id":{"$oid":"5b584bf1d51d29614deeb9a7"},"name":"ENTECA 0.5mg Tablet 10's","composition":"Entecavir","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.760.20"}
+{"_id":{"$oid":"5b584bf3d51d29614deeb9a8"},"name":"ENTEHEP 0.5mg Tablet 10's","composition":"Entecavir 0.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.744.06"}
+{"_id":{"$oid":"5b584bf5d51d29614deeb9a9"},"name":"ENTEHEP 1mg Tablet 10's","composition":"Entecavir 1mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.1,231.43"}
+{"_id":{"$oid":"5b584bf7d51d29614deeb9aa"},"name":"EXXURA Injection","composition":"Peginterferon Alpha-2B","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.6,890.00"}
+{"_id":{"$oid":"5b584bf8d51d29614deeb9ab"},"name":"PEGLITON 50mcg Injection","composition":"Peginterferon Alpha-2B 50mcg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.7,114.00"}
+{"_id":{"$oid":"5b584bfad51d29614deeb9ac"},"name":"ROFERON A 3miu Injection 1's","composition":"INTERFERON ALPHA 2B 3MIU","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.738.00"}
+{"_id":{"$oid":"5b584bfcd51d29614deeb9ad"},"name":"TASPIANCE 180mcg Injection","composition":"Pegylated Interferon Alpha 2A 180mcg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.9,175.00"}
+{"_id":{"$oid":"5b584bfed51d29614deeb9ae"},"name":"X VIR 1mg Tablet 30's","composition":"Entecavir 1mg","manufacturer":"Natco Pharma Ltd","price":"Rs.3,380.00"}
+{"_id":{"$oid":"5b584c00d51d29614deeb9af"},"name":"X VIR 0.5mg Tablet 30's","composition":"Entecavir 0.5mg","manufacturer":"Natco Pharma Ltd","price":"Rs.2,097.00"}

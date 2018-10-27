@@ -1,0 +1,26 @@
+{"_id":{"$oid":"5b58396ed51d295f280836af"},"name":"AMIODAR 100mg Tablet 10's","composition":"Amiodarone 100mg","manufacturer":"Micro Labs Ltd","price":"Rs.55.65"}
+{"_id":{"$oid":"5b583970d51d295f280836b0"},"name":"AMIODAR 200mg Tablet 10's","composition":"Amiodarone 200mg","manufacturer":"Micro Labs Ltd","price":"Rs.112.56"}
+{"_id":{"$oid":"5b583972d51d295f280836b1"},"name":"AMIODON 100mg Tablet 10's","composition":"AMIODARONE 100MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.55.50"}
+{"_id":{"$oid":"5b583974d51d295f280836b2"},"name":"AMIODON 200mg Tablet 10's","composition":"AMIODARONE 200MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b583976d51d295f280836b3"},"name":"AMIPACE 100mg Tablet 10's","composition":"Amiodarone 100mg","manufacturer":"Lupin Ltd","price":"Rs.57.88"}
+{"_id":{"$oid":"5b583978d51d295f280836b4"},"name":"AMIPACE 200mg Tablet 10's","composition":"Amiodarone 200mg","manufacturer":"Lupin Ltd","price":"Rs.114.74"}
+{"_id":{"$oid":"5b583979d51d295f280836b5"},"name":"CORDARONE 100mg Tablet 10's","composition":"Amiodarone 100mg","manufacturer":"Sanofi India Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b58397bd51d295f280836b6"},"name":"CORDARONE Injection 3ml","composition":"Amiodarone 50mg/ml","manufacturer":"Sanofi India Ltd","price":"Rs.350.58"}
+{"_id":{"$oid":"5b58397dd51d295f280836b7"},"name":"CORDARONE X Tablet 10's","composition":"Amiodarone 200mg","manufacturer":"Sanofi India Ltd","price":"Rs.119.06"}
+{"_id":{"$oid":"5b58397fd51d295f280836b8"},"name":"DIXIN Injection 2ml","composition":"Digoxin 0.25mg","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.6.78"}
+{"_id":{"$oid":"5b583981d51d295f280836b9"},"name":"DIXIN 0.25mg Tablet 10's","composition":"Digoxin 0.25mg","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.12.09"}
+{"_id":{"$oid":"5b583983d51d295f280836ba"},"name":"DIXIN PEAD 50mcg Syrup 60ml","composition":"DIGOXIN 50MCG","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.19.48"}
+{"_id":{"$oid":"5b583985d51d295f280836bb"},"name":"DURON 100mg Tablet 10's","composition":"AMIODARONE 100MG","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.48.48"}
+{"_id":{"$oid":"5b583987d51d295f280836bc"},"name":"DURON 150mg Injection 3ml","composition":"AMIODARONE 150MG","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.56.30"}
+{"_id":{"$oid":"5b583989d51d295f280836bd"},"name":"DURON 200mg Tablet 10's","composition":"AMIODARONE 200MG","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.90.92"}
+{"_id":{"$oid":"5b58398bd51d295f280836be"},"name":"EURYTHMIC 150mg Prefilled Syringe 3ml","composition":"AMIODARONE 150MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.434.50"}
+{"_id":{"$oid":"5b58398dd51d295f280836bf"},"name":"EURYTHMIC 100mg Tablet 10's","composition":"AMIODARONE 100MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.55.65"}
+{"_id":{"$oid":"5b58398fd51d295f280836c0"},"name":"EURYTHMIC 200mg Tablet 10's","composition":"AMIODARONE 200MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.110.30"}
+{"_id":{"$oid":"5b583993d51d295f280836c1"},"name":"FLECARITE 50mg Tablet 10's","composition":"Flecainide 50mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.131.80"}
+{"_id":{"$oid":"5b583995d51d295f280836c2"},"name":"FLECARITE 100mg Tablet 10's","composition":"Flecainide 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.252.70"}
+{"_id":{"$oid":"5b583997d51d295f280836c3"},"name":"LANOXIN 0.25mg Tablet 10's","composition":"Digoxin 0.25mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.12.10"}
+{"_id":{"$oid":"5b583998d51d295f280836c4"},"name":"RITEBEAT 200mg Tablet 10's","composition":"Amiodarone 200mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.110.35"}
+{"_id":{"$oid":"5b583999d51d295f280836c5"},"name":"RITEBEAT 100mg Tablet 10's","composition":"Amiodarone 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.55.65"}
+{"_id":{"$oid":"5b58399ad51d295f280836c6"},"name":"TACHYRA 100mg Tablet 10's","composition":"Amiodarone 100mg","manufacturer":"Cipla Ltd","price":"Rs.55.58"}
+{"_id":{"$oid":"5b58399dd51d295f280836c7"},"name":"TACHYRA Injection 3ml","composition":"Amiodarone","manufacturer":"Cipla Ltd","price":"Rs.69.77"}
+{"_id":{"$oid":"5b58399ed51d295f280836c8"},"name":"TACHYRA 200mg Tablet 10's","composition":"Amiodarone 200mg","manufacturer":"Cipla Ltd","price":"Rs.95.52"}

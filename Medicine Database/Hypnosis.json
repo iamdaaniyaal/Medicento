@@ -1,0 +1,47 @@
+{"_id":{"$oid":"5b584de2d51d29617af6ee7c"},"name":"BARONITE 10mg Tablet 10's","composition":"Nitrazepam","manufacturer":"Baroda Pharma Pvt Ltd","price":"Rs.11.48"}
+{"_id":{"$oid":"5b584de4d51d29617af6ee7d"},"name":"BARONITE 5mg Tablet 10's","composition":"Nitrazepam","manufacturer":"Baroda Pharma Pvt Ltd","price":"Rs.9.67"}
+{"_id":{"$oid":"5b584de8d51d29617af6ee7e"},"name":"CONVACLON 2mg Tablet 10's","composition":"Clonazepam","manufacturer":"Baroda Pharma Pvt Ltd","price":"Rs.15.00"}
+{"_id":{"$oid":"5b584dead51d29617af6ee7f"},"name":"DACTIVE 6.25mg Tablet 7's","composition":"Zolpidem 6.25mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.64.52"}
+{"_id":{"$oid":"5b584debd51d29617af6ee80"},"name":"DACTIVE 6.25mg Tablet 10's","composition":"Zolpidem 6.25mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.48.36"}
+{"_id":{"$oid":"5b584dedd51d29617af6ee81"},"name":"DACTIVE SR 12.5mg Tablet 5's","composition":"Zolpidem 12.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.67.29"}
+{"_id":{"$oid":"5b584deed51d29617af6ee82"},"name":"DACTIVE SR 12.5mg Tablet 10's","composition":"Zolpidem 12.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.59.06"}
+{"_id":{"$oid":"5b584defd51d29617af6ee83"},"name":"DEXEM 100mg Injection 2ml","composition":"Dexmedetomidine 100mcg/ml","manufacturer":"Themis Pharmaceutical Ltd","price":"Rs.690.00"}
+{"_id":{"$oid":"5b584df1d51d29617af6ee84"},"name":"DEXTOMID 200mcg Injection 2ml","composition":"Dexmedetomidine 200mcg","manufacturer":"Neon Laboratories Ltd","price":"Rs.670.00"}
+{"_id":{"$oid":"5b584df3d51d29617af6ee85"},"name":"DEXTOMID 100mcg Injection 1ml","composition":"Dexmedetomidine 100mcg","manufacturer":"Neon Laboratories Ltd","price":"Rs.390.00"}
+{"_id":{"$oid":"5b584df4d51d29617af6ee86"},"name":"ESENTRA 2mg Tablet 10's","composition":"Eszopiclone 2mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b584df6d51d29617af6ee87"},"name":"FENOBARB 30mg Tablet 10's","composition":"PHENOBARBITONE 30MG","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.7.00"}
+{"_id":{"$oid":"5b584df8d51d29617af6ee88"},"name":"FENOBARB 60mg Tablet 10's","composition":"PHENOBARBITONE 60MG","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.8.00"}
+{"_id":{"$oid":"5b584dfad51d29617af6ee89"},"name":"FENOBARB 200mg Injection 1ml","composition":"PHENOBARBITONE 200MG","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.18.76"}
+{"_id":{"$oid":"5b584dfcd51d29617af6ee8a"},"name":"FULNITE 2mg Tablet 10's","composition":"Eszopiclone 2mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.89.50"}
+{"_id":{"$oid":"5b584dfdd51d29617af6ee8b"},"name":"FULNITE 1mg Tablet 10's","composition":"Eszopiclone 1mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.46.00"}
+{"_id":{"$oid":"5b584dffd51d29617af6ee8c"},"name":"INZOFRESH 5mg Tablet 10's","composition":"Zolpidem 5mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.33.25"}
+{"_id":{"$oid":"5b584e01d51d29617af6ee8d"},"name":"KABIZOLAM 1mg Injection 10ml","composition":"Midazolam 1mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.77.13"}
+{"_id":{"$oid":"5b584e03d51d29617af6ee8e"},"name":"KABIZOLAM 1mg Injection 5ml","composition":"Midazolam 1mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b584e05d51d29617af6ee8f"},"name":"MIDAZ 1mg Injection 5ml","composition":"Midazolam 1mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.29.75"}
+{"_id":{"$oid":"5b584e07d51d29617af6ee90"},"name":"MIDAZ 1mg Injection 10ml","composition":"Midazolam 1mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.65.25"}
+{"_id":{"$oid":"5b584e09d51d29617af6ee91"},"name":"MIDFAST 5mg Injection 5ml","composition":"Midazolam 5mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b584e0bd51d29617af6ee92"},"name":"MIDFAST 10mg Injection 10ml","composition":"Midazolam 10mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.57.53"}
+{"_id":{"$oid":"5b584e0dd51d29617af6ee93"},"name":"MIDZOL 10mg Injection 1ml","composition":"Midazolam","manufacturer":"Others","price":"Rs.53.75"}
+{"_id":{"$oid":"5b584e0fd51d29617af6ee94"},"name":"NITRAZ SR 10mg Tablet 10's","composition":"Nitrazepam","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.48.58"}
+{"_id":{"$oid":"5b584e10d51d29617af6ee95"},"name":"NITRAZ SR 5mg Tablet 10's","composition":"Nitrazepam","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b584e11d51d29617af6ee96"},"name":"NITREST 10mg Tablet 10's","composition":"ZOLPIDEM TARTRATE 10MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.82.32"}
+{"_id":{"$oid":"5b584e14d51d29617af6ee97"},"name":"NITREST 5mg Tablet 10's","composition":"ZOLPIDEM TARTRATE 5MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.52.39"}
+{"_id":{"$oid":"5b584e15d51d29617af6ee98"},"name":"STILNOCT 6.25mg Tablet 15's","composition":"Zolpidem 6.25mg","manufacturer":"Sanofi India Ltd","price":"Rs.177.84"}
+{"_id":{"$oid":"5b584e18d51d29617af6ee99"},"name":"STILNOCT 12.5mg Tablet 15's","composition":"Zolpidem 12.5mg","manufacturer":"Sanofi India Ltd","price":"Rs.223.30"}
+{"_id":{"$oid":"5b584e1ad51d29617af6ee9a"},"name":"SYLKAM 1mg Tablet 10's","composition":"Etizolam 1mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b584e1bd51d29617af6ee9b"},"name":"SYLKAM 1mg 1mg Tablet 10's","composition":"Etizolam 1mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b584e1dd51d29617af6ee9c"},"name":"XAMDEX 50MCG INJECTION 0.5ML","composition":"DEXMEDETOMIDINE 50MCG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b584e1fd51d29617af6ee9d"},"name":"XAmdEX Injection 2ml","composition":"Dexmedetomidine","manufacturer":"Abbott India Ltd","price":"Rs.662.00"}
+{"_id":{"$oid":"5b584e21d51d29617af6ee9e"},"name":"ZALEP 5MG TABLET 10'S","composition":"ZALEPLON 5MG","manufacturer":"Cipla Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b584e23d51d29617af6ee9f"},"name":"ZALEP 10MG TABLET 10'S","composition":"ZALEPLON 10MG","manufacturer":"Cipla Ltd","price":"Rs.61.55"}
+{"_id":{"$oid":"5b584e25d51d29617af6eea0"},"name":"ZALPILO 10MG CAPSULE 10'S","composition":"ZALEPLON 10MG","manufacturer":"Micro Labs Ltd","price":"Rs.68.00"}
+{"_id":{"$oid":"5b584e27d51d29617af6eea1"},"name":"ZALPILO 5MG CAPSULE 10'S","composition":"ZALEPLON 5MG","manufacturer":"Micro Labs Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b584e29d51d29617af6eea2"},"name":"ZAPLON 10MG CAPSULE 10'S","composition":"ZALEPLON 10MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.76.85"}
+{"_id":{"$oid":"5b584e2bd51d29617af6eea3"},"name":"ZAPLON 5MG CAPSULE 10'S","composition":"ZALEPLON 5MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.35.08"}
+{"_id":{"$oid":"5b584e2dd51d29617af6eea4"},"name":"ZASO 10MG CAPSULE 7'S","composition":"ZALEPLON 10MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.40.21"}
+{"_id":{"$oid":"5b584e2fd51d29617af6eea5"},"name":"ZASO 5MG TABLET 7'S","composition":"ZALEPLON 5MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.24.50"}
+{"_id":{"$oid":"5b584e31d51d29617af6eea6"},"name":"ZOLPIDEM TARTRATE 10mg Tablet 10's","composition":"Zolpidem 10mg","manufacturer":"Cipla Ltd","price":"Rs.87.50"}
+{"_id":{"$oid":"5b584e33d51d29617af6eea7"},"name":"ZOPENTA ER 6.25mg Tablet 10's","composition":"Zolpidem 6.25mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.75.50"}
+{"_id":{"$oid":"5b584e35d51d29617af6eea8"},"name":"ZOPENTA ER 12.5mg Tablet 10's","composition":"Zolpidem 12.5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.91.43"}
+{"_id":{"$oid":"5b584e37d51d29617af6eea9"},"name":"ZOPID 5mg Tablet 10's","composition":"Zolpidem Tartrate","manufacturer":"Psyco Remedies Ltd","price":"Rs.34.87"}
+{"_id":{"$oid":"5b584e38d51d29617af6eeaa"},"name":"ZOPID 10mg Tablet 10's","composition":"Zolpidem Tartrate","manufacturer":"Psyco Remedies Ltd","price":"Rs.58.50"}

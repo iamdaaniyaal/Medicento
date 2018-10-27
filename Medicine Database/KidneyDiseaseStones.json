@@ -1,0 +1,104 @@
+{"_id":{"$oid":"5b585fa4d51d29625df3f5ff"},"name":"ACUTROL C 400mg Tablet 15's","composition":"Sevelamer Carbonate 400mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.162.00"}
+{"_id":{"$oid":"5b585fa6d51d29625df3f600"},"name":"ACUTROL C 800mg Tablet 10's","composition":"Sevelamer Carbonate 800mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b585fa7d51d29625df3f601"},"name":"ALFALOG Powder 2.7gm","composition":"Alpha Ketoanalogue ","manufacturer":"Rpg Life Science Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b585fa9d51d29625df3f602"},"name":"ALKA 5 Syrup 100ml","composition":"Ayurvedic Medicine","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b585fabd51d29625df3f603"},"name":"ALKACIP Syrup 100ml","composition":"Disodium Hydrogen Citrate 1.53gm","manufacturer":"Cipla Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b585fadd51d29625df3f604"},"name":"ALKACITRAL Syrup 100ml","composition":"Disodium Hydrogen Citrate 1.25mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.76.10"}
+{"_id":{"$oid":"5b585fafd51d29625df3f605"},"name":"ALKAMAX Syrup 100ml","composition":"Citric Acid 334mg+Potassium Citrate 1100mg","manufacturer":"Overseas Healthcare Pvt Ltd","price":"Rs.42.80"}
+{"_id":{"$oid":"5b585fb2d51d29625df3f606"},"name":"ALKAMAX MB6 Syrup 200ml","composition":"Magnesium Citrate 375mg+Potassium Citrate 1100mg+Pyridoxine 20mg","manufacturer":"Overseas Healthcare Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b585fb4d51d29625df3f607"},"name":"ALKAMED Syrup 100ml","composition":"DISODIUM HYDROGEN CITRATE 1.37GM","manufacturer":"Medlab Pharmaceuticals Pvt Ltd","price":"Rs.67.00"}
+{"_id":{"$oid":"5b585fb6d51d29625df3f608"},"name":"ALKARATE Liquid 100ml","composition":"Disodium Hydrogen Citrate 1.37gm/5ml","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b585fb8d51d29625df3f609"},"name":"ALKARYL Liquid 100ml","composition":"Disodium Hydrogen Citrate 1.4gm","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.47.80"}
+{"_id":{"$oid":"5b585fb9d51d29625df3f60a"},"name":"ALKASOL Syrup 100ml","composition":"Disodium Hydrogen Citrate 1.4gm","manufacturer":"Stadmed Pvt Ltd","price":"Rs.86.55"}
+{"_id":{"$oid":"5b585fbbd51d29625df3f60b"},"name":"ALKASTON Tablet 10's","composition":"Magnesium Citrate 375mg+Potassium Citrate 1100mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.65.34"}
+{"_id":{"$oid":"5b585fbdd51d29625df3f60c"},"name":"ALKASTON 450ml Syrup","composition":"Magnesium Citrate 375mg+Potassium Citrate 1100mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.241.00"}
+{"_id":{"$oid":"5b585fbfd51d29625df3f60d"},"name":"ALKASTON ORAL Solution 450ml","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.231.00"}
+{"_id":{"$oid":"5b585fc1d51d29625df3f60e"},"name":"ALKASTON B6 Syrup 200ml","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.150.60"}
+{"_id":{"$oid":"5b585fc3d51d29625df3f60f"},"name":"ALKASTON INSTA Powder 2.321gm","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.17.20"}
+{"_id":{"$oid":"5b585fc5d51d29625df3f610"},"name":"ALKORINA Syrup 100ml","composition":"Disodium Hydrogen Citrate","manufacturer":"Eisai Pharmaceuticals India Pvt Ltd","price":"Rs.64.50"}
+{"_id":{"$oid":"5b585fc7d51d29625df3f611"},"name":"ANDROFIL 40mg Capsule 10's","composition":"Testosterone 40mg","manufacturer":"Cipla Ltd","price":"Rs.167.38"}
+{"_id":{"$oid":"5b585fc9d51d29625df3f612"},"name":"ANDROFIL 50mg Gel 5gm","composition":"Testosterone 50mg","manufacturer":"Cipla Ltd","price":"Rs.48.15"}
+{"_id":{"$oid":"5b585fcbd51d29625df3f613"},"name":"ANDROSURE 1000mg Injection 4ml","composition":"Testosterone 1000mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.589.48"}
+{"_id":{"$oid":"5b585fcdd51d29625df3f614"},"name":"ANDROSURE 1% Gel 5gm","composition":"Testosterone 1%","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.464.82"}
+{"_id":{"$oid":"5b585fcfd51d29625df3f615"},"name":"APLAZAR Tablet 10's","composition":"Alpha Keto Analogues 200mg","manufacturer":"Steadfast Medishield Pvt Ltd","price":"Rs.304.00"}
+{"_id":{"$oid":"5b585fd1d51d29625df3f616"},"name":"AUXIMIN Tablet 10's","composition":"Amino Acids","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b585fd2d51d29625df3f617"},"name":"BANGSHIL Tablet 100's","composition":"Ayurvedic Medicine","manufacturer":"Alarsin Pharmaceuticals","price":"Rs.233.00"}
+{"_id":{"$oid":"5b585fd4d51d29625df3f618"},"name":"BANGSHIL Tablet 50's","composition":"Ayurvedic Product","manufacturer":"Alarsin Pharmaceuticals","price":"Rs.135.00"}
+{"_id":{"$oid":"5b585fd6d51d29625df3f619"},"name":"BIOSEV 800mg Tablet 10's","composition":"Sevelamer Hydrochloride 800mg","manufacturer":"Biocon Ltd","price":"Rs.340.00"}
+{"_id":{"$oid":"5b585fd8d51d29625df3f61a"},"name":"BIOSEV C 400mg Tablet 10's","composition":"Sevelamer Hydrochloride 400mg","manufacturer":"Biocon Ltd","price":"Rs.216.07"}
+{"_id":{"$oid":"5b585fdad51d29625df3f61b"},"name":"BIOSEV C 800mg Tablet 10's","composition":"Sevelamer Hydrochloride 800mg","manufacturer":"Biocon Ltd","price":"Rs.396.00"}
+{"_id":{"$oid":"5b585fdcd51d29625df3f61c"},"name":"CADICITRON 1.4mg Syrup 100ml","composition":"Disodium Hydrogen Citrate 1.4mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.15.62"}
+{"_id":{"$oid":"5b585fded51d29625df3f61d"},"name":"CALCUROSIN Syrup 200ml","composition":"Ayurvedic Medicine ","manufacturer":"Ban Labs Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b585fe0d51d29625df3f61e"},"name":"CITAL Syrup 100ml","composition":"Disodium Hydrogen Citrate","manufacturer":"Indoco Remedies Ltd","price":"Rs.71.00"}
+{"_id":{"$oid":"5b585fe2d51d29625df3f61f"},"name":"CITAL H Tablet 60's","composition":"Disodium Hydrogen Citrate","manufacturer":"Indoco Remedies Ltd","price":"Rs.137.50"}
+{"_id":{"$oid":"5b585fe4d51d29625df3f620"},"name":"CITRAHIL Syrup 100ml","composition":"Disodium Hydrogen Citrate 1.37gm/5ml","manufacturer":"Heal India Laboratories Pvt Ltd","price":"Rs.63.50"}
+{"_id":{"$oid":"5b585fe6d51d29625df3f621"},"name":"CITRALKA Liquid 100ml","composition":"Disodium Hydrogen Citrate 1.53gm/5ml","manufacturer":"Pfizer Limited","price":"Rs.71.65"}
+{"_id":{"$oid":"5b585fe8d51d29625df3f622"},"name":"DANAZOLE 100mg Capsule 10's","composition":"Testosterone 100mg","manufacturer":"Cipla Ltd","price":"Rs.181.87"}
+{"_id":{"$oid":"5b585febd51d29625df3f623"},"name":"ELDICET 50mg Tablet 6's","composition":"PINAVERIUM BROMIDE 50MG","manufacturer":"Abbott India Ltd","price":"Rs.128.00"}
+{"_id":{"$oid":"5b585feed51d29625df3f624"},"name":"FOSBAIT 250mg Tablet 30's","composition":"Lanthanum Carbonate","manufacturer":"Panacea Biotec Ltd","price":"Rs.408.50"}
+{"_id":{"$oid":"5b585ff0d51d29625df3f625"},"name":"FOSBAIT 500mg Tablet 30's","composition":"Lanthanum Carbonate 500mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.817.10"}
+{"_id":{"$oid":"5b585ff2d51d29625df3f626"},"name":"GUSHOUT Syrup 200ml","composition":"Potassium Citrate 1100mg+Magnesium Citrate 375mg+Pyridoxine(Vit B6) 20mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b585ff4d51d29625df3f627"},"name":"GUSHOUT Syrup 450ml","composition":"Magnesium Citrate+Potassium Citrate+Vitamin","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.273.00"}
+{"_id":{"$oid":"5b585ff6d51d29625df3f628"},"name":"GUSHOUT Tablet 10's","composition":"Potassium Citrate 978mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.53.00"}
+{"_id":{"$oid":"5b585ff8d51d29625df3f629"},"name":"GUSHOUT 200 Oral Solution 200ml","composition":"Potassium Citrate 1100mg+Vitamin B6(Pyridoxine) 20mg+Magnesium Citrate 375mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b585ffad51d29625df3f62a"},"name":"K MAC Syrup 100ml","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b585ffcd51d29625df3f62b"},"name":"K MAC Tablet 10's","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.40.50"}
+{"_id":{"$oid":"5b585ffdd51d29625df3f62c"},"name":"K MAC Syrup 200ml","composition":"Magnesium Citrate 375mg+Potassium Citrate 1100mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.134.00"}
+{"_id":{"$oid":"5b585fffd51d29625df3f62d"},"name":"K MAC ORAL SOLUTION 450ml","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.252.00"}
+{"_id":{"$oid":"5b586000d51d29625df3f62e"},"name":"KCHEK Sachet 15gm","composition":"CALCIUM POLYSTYRENE SULPHONATE 15GM","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.94.00"}
+{"_id":{"$oid":"5b586002d51d29625df3f62f"},"name":"KETOADD Tablet 20's","composition":"Amino Acid+Minerals+Vitamins","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b586005d51d29625df3f630"},"name":"KETOALFA Tablet 10's","composition":"Alpha Keto Analogues 200mg","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.295.00"}
+{"_id":{"$oid":"5b586007d51d29625df3f631"},"name":"KETOALFA Sachet 2.7gm","composition":"L Histidine 114mg+L Threonine 159mg+L Lysine 225mg+Tryptophan 69mg+Tyrosine 108mg","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b586009d51d29625df3f632"},"name":"KETOSTERIL Tablet 20's","composition":"Amino Acid","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.698.00"}
+{"_id":{"$oid":"5b58600bd51d29625df3f633"},"name":"KMGCIT B6 Tablet 10's","composition":"Magnesium Citrate+Potassium Citrate+Pyridoxine","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.59.10"}
+{"_id":{"$oid":"5b58600cd51d29625df3f634"},"name":"M TORR Capsule 10's","composition":"Amino Acid","manufacturer":"Nutri Synapzz Therapeutix Pvt Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b58600ed51d29625df3f635"},"name":"MAGSTONE B6 Liquid 200ml","composition":"Magnesium Citrate+Potassium Citrate+Pyridoxine","manufacturer":"Meyer Organics Ltd","price":"Rs.136.50"}
+{"_id":{"$oid":"5b58600fd51d29625df3f636"},"name":"MINILACTONE Tablet 10's","composition":"FUROSEMIDE 20MG+SPIRONOLACTONE 25MG","manufacturer":"Others","price":"Rs.27.55"}
+{"_id":{"$oid":"5b586010d51d29625df3f637"},"name":"NEERI Tablet 30's","composition":"Ayurvedic Medicine","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.123.00"}
+{"_id":{"$oid":"5b586012d51d29625df3f638"},"name":"NEERI Syrup 200ml","composition":"Ayurvedic Medicine","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.215.00"}
+{"_id":{"$oid":"5b586014d51d29625df3f639"},"name":"NEERI Syrup 100ml","composition":"Ayurvedic Medicine","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.114.00"}
+{"_id":{"$oid":"5b586016d51d29625df3f63a"},"name":"NEERI KFT SUGAR FREE Syrup 200ml","composition":"Ayurvedic Medicine ","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.520.00"}
+{"_id":{"$oid":"5b586018d51d29625df3f63b"},"name":"NEFROSAVE KETO Powder 3gm","composition":"L Histidine 114mg+L Lysine 315mg+L Threonine 159mg+Tryptophan 69mg+Tyrosine 90mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.82.00"}
+{"_id":{"$oid":"5b58601ad51d29625df3f63c"},"name":"NEFROZON Tablet 10's","composition":"Taurine 500mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b58601cd51d29625df3f63d"},"name":"NEXILOG Powder 2.7gm","composition":"Alpha Ketoanalogue ","manufacturer":"Others","price":"Rs.88.47"}
+{"_id":{"$oid":"5b58601ed51d29625df3f63e"},"name":"NEXILOG Powder 3gm","composition":"Alpha Ketoanalogue ","manufacturer":"Others","price":"Rs.88.75"}
+{"_id":{"$oid":"5b586020d51d29625df3f63f"},"name":"NOCULI B6 Solution 200ml","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.129.00"}
+{"_id":{"$oid":"5b586022d51d29625df3f640"},"name":"NOCULI Tablet 10's","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.58.50"}
+{"_id":{"$oid":"5b586024d51d29625df3f641"},"name":"NOCULI Solution 500ml","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b586027d51d29625df3f642"},"name":"ORICITRAL Syrup 100ml","composition":"Disodium Hydrogen Citrate 1.38gm/5ml","manufacturer":"Ttk Healthcare Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b586029d51d29625df3f643"},"name":"POTRATE 10mg Tablet 10's","composition":"Potassium Citrate 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.53.00"}
+{"_id":{"$oid":"5b58602bd51d29625df3f644"},"name":"POTRATE MB6 Tablet 10's","composition":"Magnesium Citrate+Potassium Citrate+Pyridoxine","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b58602dd51d29625df3f645"},"name":"POTRATE M Tablet 10's","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b58602fd51d29625df3f646"},"name":"POTRATE M Syrup 450ml","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b586031d51d29625df3f647"},"name":"POTRATE M ORAL SOLUTION 200ml","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b586033d51d29625df3f648"},"name":"POTRATE 540mg Tablet 10's","composition":"Potassium Citrate 540mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.74.51"}
+{"_id":{"$oid":"5b586035d51d29625df3f649"},"name":"POTRATE 5mg Tablet 10's","composition":"Potassium Citrate 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.31.50"}
+{"_id":{"$oid":"5b586035d51d29625df3f64a"},"name":"POTRATE MB6 Solution 200ml","composition":"Magnesium Citrate+Potassium Citrate+Pyridoxine","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.157.00"}
+{"_id":{"$oid":"5b586037d51d29625df3f64b"},"name":"POTRATE MB6 Solution 450ml","composition":"Magnesium Citrate+Potassium Citrate+Pyridoxine","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.276.00"}
+{"_id":{"$oid":"5b586039d51d29625df3f64c"},"name":"PROSTOWIN Capsule 10's","composition":"Ayurvedic Medicine","manufacturer":"Bal Pharma Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b58603bd51d29625df3f64d"},"name":"REKITO Tablet 10's","composition":"Alpha Ketoanalogue","manufacturer":"Rener Healthcare Pvt Ltd","price":"Rs.275.00"}
+{"_id":{"$oid":"5b58603dd51d29625df3f64e"},"name":"RENCHEK Tablet 10's","composition":"Alpha Keto Analogues 200mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.308.50"}
+{"_id":{"$oid":"5b58603ed51d29625df3f64f"},"name":"RENHOLD Tablet 10's","composition":"Alpha Keto Analogues 200mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.399.30"}
+{"_id":{"$oid":"5b586040d51d29625df3f650"},"name":"RENOALFA Tablet 10's","composition":"Alpha Ketoanalogue","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b586041d51d29625df3f651"},"name":"RENOCIA Tablet 10's","composition":"Amino Acid+Antioxidant+Minerals+Vitamins","manufacturer":"Alkem Laboratories Ltd","price":"Rs.192.00"}
+{"_id":{"$oid":"5b586042d51d29625df3f652"},"name":"RENOLOG Tablet 10's","composition":"Alpha Keto Analogues 200mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.374.00"}
+{"_id":{"$oid":"5b586044d51d29625df3f653"},"name":"REVLAMER 400mg Tablet 10's","composition":"Sevelamer Carbonate 400mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.74.00"}
+{"_id":{"$oid":"5b586046d51d29625df3f654"},"name":"REVLAMER 800mg Tablet 10's","composition":"Sevelamer Carbonate 800mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.139.00"}
+{"_id":{"$oid":"5b586049d51d29625df3f655"},"name":"SEVBAIT DT 400mg Tablet 10's","composition":"Sevelamer 400mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.219.70"}
+{"_id":{"$oid":"5b58604ad51d29625df3f656"},"name":"SEVCAR 800mg Tablet 10's","composition":"Sevelamer Carbonate 800mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.400.90"}
+{"_id":{"$oid":"5b58604cd51d29625df3f657"},"name":"SEVCAR 400mg Tablet 10's","composition":"Sevelamer Carbonate 400mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.245.00"}
+{"_id":{"$oid":"5b58604ed51d29625df3f658"},"name":"SIOCITRATE Syrup 100ml","composition":"Disodium Hydrogen Citrate 1.375gm/5ml","manufacturer":"Albert David Ltd","price":"Rs.48.80"}
+{"_id":{"$oid":"5b586050d51d29625df3f659"},"name":"SOLVENT FOR XELENA 20mg Injection 1's","composition":"Darifenacin 20mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.19.30"}
+{"_id":{"$oid":"5b586052d51d29625df3f65a"},"name":"STON 1 B6 Tablet 10's","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"Cipla Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b586055d51d29625df3f65b"},"name":"STON 1 B6 ORAL Solution 200ml","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"Cipla Ltd","price":"Rs.149.50"}
+{"_id":{"$oid":"5b586056d51d29625df3f65c"},"name":"STON 1 Oral Solution 200ml","composition":"Magnesium Citrate+Potassium Nitrate","manufacturer":"Cipla Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b586058d51d29625df3f65d"},"name":"STON 1 ORAL Solution 450ml","composition":"Magnesium Citrate+Potassium Nitrate","manufacturer":"Cipla Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b58605ad51d29625df3f65e"},"name":"STONEX Capsule 10's","composition":"Ayurvedic Medicine","manufacturer":"Bal Pharma Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b58605cd51d29625df3f65f"},"name":"TESTOSTERONE UNDECANOATE 40mg Capsule 10's","composition":"Testosterone 40mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.450.42"}
+{"_id":{"$oid":"5b58605ed51d29625df3f660"},"name":"URIFEN 15mg Tablet 10's","composition":"Darifenacin 15mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.395.00"}
+{"_id":{"$oid":"5b586060d51d29625df3f661"},"name":"UROFIT Syrup 100ml","composition":"Magnesium Citrate+Potassium Citrate","manufacturer":"Ttk Healthcare Ltd","price":"Rs.85.80"}
+{"_id":{"$oid":"5b586060d51d29625df3f662"},"name":"UROTONE 25mg Tablet 10's","composition":"Bethanechol Chloride 25mg","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.128.74"}
+{"_id":{"$oid":"5b586062d51d29625df3f663"},"name":"VELACAR 400mg Tablet 10's","composition":"Sevelamer Carbonate 400mg","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.209.00"}
+{"_id":{"$oid":"5b586064d51d29625df3f664"},"name":"VESIGARD 15mg Tablet 10's","composition":"Darifenacin 15mg","manufacturer":"Cipla Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b586066d51d29625df3f665"},"name":"XELENA 7.5mg Tablet 10's","composition":"Darifenacin 7.5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.211.53"}
+{"_id":{"$oid":"5b586068d51d29625df3f666"},"name":"XELENA 15mg Tablet 10's","composition":"Darifenacin 15mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.379.81"}

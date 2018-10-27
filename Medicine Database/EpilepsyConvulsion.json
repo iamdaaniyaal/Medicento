@@ -1,0 +1,1003 @@
+{"_id":{"$oid":"5b5845cbd51d296093525056"},"name":"ACETOL 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":" NA ","price":"Rs.12.12"}
+{"_id":{"$oid":"5b5845ced51d296093525057"},"name":"ACETOL CR 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":" NA ","price":"Rs.13.93"}
+{"_id":{"$oid":"5b5845cfd51d296093525058"},"name":"ACETOL CR 400MG TABLET 10'S","composition":"CARBAMAZEPINE 400MG","manufacturer":" NA ","price":"Rs.25.33"}
+{"_id":{"$oid":"5b5845d2d51d296093525059"},"name":"AMENDO 500mg Tablet 15's","composition":"Levetiracetam 500mg","manufacturer":"Others","price":"Rs.176.00"}
+{"_id":{"$oid":"5b5845d4d51d29609352505a"},"name":"AMENDO 250mg Tablet 15's","composition":"Levetiracetam 250mg","manufacturer":"Others","price":"Rs.87.20"}
+{"_id":{"$oid":"5b5845d6d51d29609352505b"},"name":"AMENDO 500mg Suspension 100ml","composition":"Levetiracetam 500mg","manufacturer":"Others","price":"Rs.362.00"}
+{"_id":{"$oid":"5b5845d8d51d29609352505c"},"name":"AMENDO 750mg Tablet 15's","composition":"Levetiracetam 750mg","manufacturer":"Others","price":"Rs.270.00"}
+{"_id":{"$oid":"5b5845dad51d29609352505d"},"name":"AMVALOR CHRONO 500mg Tablet 10's","composition":"Sodium Valproate 500mg","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.70.44"}
+{"_id":{"$oid":"5b5845dcd51d29609352505e"},"name":"AMVALOR CHRONO 200MG TABLET 10'S","composition":"Sodium Valproate 200mg","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.31.36"}
+{"_id":{"$oid":"5b5845ded51d29609352505f"},"name":"AMVALOR CHRONO 300mg Tablet 10's","composition":"Sodium Valproate 300mg","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.39.48"}
+{"_id":{"$oid":"5b5845e0d51d296093525060"},"name":"ANTELEPTIN 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.95.11"}
+{"_id":{"$oid":"5b5845e2d51d296093525061"},"name":"ANTILEP 400MG TABLET 10'S","composition":"CARBAMAZEPINE 400MG","manufacturer":"Psyco Remedies Ltd","price":"Rs.29.80"}
+{"_id":{"$oid":"5b5845e4d51d296093525062"},"name":"ANTILEP CR 200mg Tablet 10's","composition":"Carbamazepine 200mg (CR)","manufacturer":"Psyco Remedies Ltd","price":"Rs.14.30"}
+{"_id":{"$oid":"5b5845e8d51d296093525063"},"name":"ANTILEP CR 300mg Tablet 10's","composition":"Carbamazepine 300mg (CR)","manufacturer":"Psyco Remedies Ltd","price":"Rs.20.00"}
+{"_id":{"$oid":"5b5845ead51d296093525064"},"name":"ARIGABA 400mg Tablet 10's","composition":"Gabapentin 400mg","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b5845ecd51d296093525065"},"name":"ARKAVAL 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Rkg Pharma Pvt Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b5845eed51d296093525066"},"name":"ARKAVAL 500mg Tablet 10's","composition":"Sodium Valproate 500mg","manufacturer":"Rkg Pharma Pvt Ltd","price":"Rs.55.05"}
+{"_id":{"$oid":"5b5845f0d51d296093525067"},"name":"BARBEE 60mg Tablet 10's","composition":"Phenobarbitone","manufacturer":"Ind Swift Ltd","price":"Rs.6.25"}
+{"_id":{"$oid":"5b5845f3d51d296093525068"},"name":"BARBEE 30mg Tablet 10's","composition":"Phenobarbitone","manufacturer":"Ind Swift Ltd","price":"Rs.10.06"}
+{"_id":{"$oid":"5b5845f4d51d296093525069"},"name":"BARBITOIN Tablet 10's","composition":"PhenoBarbitone 30mg+Phenytoin 100mg","manufacturer":"Medopharm Pvt Ltd","price":"Rs.33.00"}
+{"_id":{"$oid":"5b5845f6d51d29609352506a"},"name":"C TOIN 100mg Tablet 90's","composition":"Phenytoin Sodium 100mg","manufacturer":"Usv Private Ltd","price":"Rs.142.13"}
+{"_id":{"$oid":"5b5845f8d51d29609352506b"},"name":"C TOIN ER 300mg Capsule 30's","composition":"PHENYTOIN SODIUM 300 MG","manufacturer":"Usv Private Ltd","price":"Rs.113.72"}
+{"_id":{"$oid":"5b5845fad51d29609352506c"},"name":"CAMAPIN 200mg Tablet 10's","composition":"Carbamazapine 200mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.33.75"}
+{"_id":{"$oid":"5b5845fcd51d29609352506d"},"name":"CARBACONTIN 300MG TABLET 10'S","composition":"CARBAMAZEPINE 300MG","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.19.10"}
+{"_id":{"$oid":"5b5845fed51d29609352506e"},"name":"CARBACONTIN 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.12.91"}
+{"_id":{"$oid":"5b584600d51d29609352506f"},"name":"CARBACONTIN 400MG TABLET 10'S","composition":"CARBAMAZEPINE 400MG","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.26.16"}
+{"_id":{"$oid":"5b584602d51d296093525070"},"name":"CARBAFEN DT 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":" NA ","price":"Rs.18.09"}
+{"_id":{"$oid":"5b584605d51d296093525071"},"name":"CARBAMAC 600mg Tablet 10's","composition":"Oxcarbazepine 600mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b584607d51d296093525072"},"name":"CARBANERVE 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b584609d51d296093525073"},"name":"CARBANERVE 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b58460bd51d296093525074"},"name":"CARBANERVE 450mg Tablet 10's","composition":"Oxcarbazepine 450mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b58460dd51d296093525075"},"name":"CARBATOL 200mg Tablet 10's","composition":"Carbamazepine 200mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.14.01"}
+{"_id":{"$oid":"5b58460fd51d296093525076"},"name":"CARBATOL 100mg Tablet 10's","composition":"Carbamazepine 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.6.92"}
+{"_id":{"$oid":"5b584611d51d296093525077"},"name":"CARBATOL CR 200mg Tablet 10's","composition":"Carbamazepine 200mg (CR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.15.34"}
+{"_id":{"$oid":"5b584614d51d296093525078"},"name":"CARBATOL CR 400mg Tablet 10's","composition":"Carbamazepine 400mg (CR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.30.98"}
+{"_id":{"$oid":"5b584618d51d296093525079"},"name":"CARBATOL CR 300mg Tablet 10's","composition":"Carbamazepine 300mg (CR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.27.40"}
+{"_id":{"$oid":"5b58461ad51d29609352507a"},"name":"CARBAZEP 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":" NA ","price":"Rs.14.66"}
+{"_id":{"$oid":"5b58461cd51d29609352507b"},"name":"CARBESTA 400MG TABLET 10'S","composition":"CARBAMAZEPINE 400MG","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.22.54"}
+{"_id":{"$oid":"5b58461ed51d29609352507c"},"name":"CARBESTA 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.13.50"}
+{"_id":{"$oid":"5b584620d51d29609352507d"},"name":"CARBESTA CR 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.14.27"}
+{"_id":{"$oid":"5b584623d51d29609352507e"},"name":"CARBIN 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"Rkg Pharma Pvt Ltd","price":"Rs.11.77"}
+{"_id":{"$oid":"5b584625d51d29609352507f"},"name":"CARBIN 400MG TABLET 10'S","composition":"CARBAMAZEPINE 400MG","manufacturer":"Rkg Pharma Pvt Ltd","price":"Rs.28.53"}
+{"_id":{"$oid":"5b584627d51d296093525080"},"name":"CARBIN SR 200MG TABLET 6'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"Rkg Pharma Pvt Ltd","price":"Rs.8.89"}
+{"_id":{"$oid":"5b584628d51d296093525081"},"name":"CARBOX 600mg Tablet 10's","composition":"Oxcarbazepine 600mg","manufacturer":"Micro Labs Ltd","price":"Rs.169.80"}
+{"_id":{"$oid":"5b58462bd51d296093525082"},"name":"CARBOX 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Micro Labs Ltd","price":"Rs.113.00"}
+{"_id":{"$oid":"5b58462dd51d296093525083"},"name":"CARBOX 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Micro Labs Ltd","price":"Rs.55.50"}
+{"_id":{"$oid":"5b584631d51d296093525084"},"name":"CARBOX OD 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Micro Labs Ltd","price":"Rs.74.28"}
+{"_id":{"$oid":"5b584634d51d296093525085"},"name":"CARBOX OD 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Micro Labs Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b584636d51d296093525086"},"name":"CARMAZ 200mg Tablet 10's","composition":"CARBAMAZEPINE 200MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.16.74"}
+{"_id":{"$oid":"5b584638d51d296093525087"},"name":"CARZINE 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.17.83"}
+{"_id":{"$oid":"5b58463ad51d296093525088"},"name":"CELETOIN 100mg Tablet 100's","composition":"Phenytoin Sodium 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.157.92"}
+{"_id":{"$oid":"5b58463cd51d296093525089"},"name":"CELETOIN 300mg Tablet 30's","composition":"Phenytoin Sodium 300mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.138.29"}
+{"_id":{"$oid":"5b58463ed51d29609352508a"},"name":"CELETOIN ER 300mg Tablet 30's","composition":"Phenytoin 300mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.159.07"}
+{"_id":{"$oid":"5b58463fd51d29609352508b"},"name":"CINAVAL CHRONO 500mg Tablet 10's","composition":"Sodium Valprorate 500mg","manufacturer":"Usv Private Ltd","price":"Rs.80.54"}
+{"_id":{"$oid":"5b584641d51d29609352508c"},"name":"CINAVAL CHRONO 200mg Tablet 10's","composition":"Sodium Valprorate+Valproicacid","manufacturer":"Usv Private Ltd","price":"Rs.34.23"}
+{"_id":{"$oid":"5b584643d51d29609352508d"},"name":"CINAVAL CHRONO 300mg Tablet 10's","composition":"Sodium Valprorate 300mg","manufacturer":"Usv Private Ltd","price":"Rs.47.00"}
+{"_id":{"$oid":"5b584645d51d29609352508e"},"name":"CONFILEV 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b584647d51d29609352508f"},"name":"CONFILEV 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Strides Shasun Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b584649d51d296093525090"},"name":"CZO CHRONO 250/250mg Tablet 10's","composition":"Sodium Valproate 250mg+Valproic Acid 250mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.84.00"}
+{"_id":{"$oid":"5b58464bd51d296093525091"},"name":"CZO CHRONO 200/200mg Tablet 10's","composition":"Sodium Valproate 200mg+Valproic Acid 200mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.84.00"}
+{"_id":{"$oid":"5b58464dd51d296093525092"},"name":"CZO CHRONO 200/100mg Tablet 10's","composition":"Sodium Valproate 200mg+Valproic Acid 100mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.51.00"}
+{"_id":{"$oid":"5b58464fd51d296093525093"},"name":"DAYO OD 250mg Tablet 10's","composition":"Divalproex 250mg (OD)","manufacturer":"Lupin Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b584651d51d296093525094"},"name":"DAYO OD 750mg Tablet 10's","composition":"Divalproex 750mg (OD)","manufacturer":"Lupin Ltd","price":"Rs.133.50"}
+{"_id":{"$oid":"5b584653d51d296093525095"},"name":"DAYO OD 500mg Tablet 10's","composition":"Divalproex 500mg (OD)","manufacturer":"Lupin Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584655d51d296093525096"},"name":"DAYO OD 1gm Tablet 10's","composition":"Divalproex 1gm (OD)","manufacturer":"Lupin Ltd","price":"Rs.157.50"}
+{"_id":{"$oid":"5b584656d51d296093525097"},"name":"DAYO OD SPRINKLE 125mg Capsule 10's","composition":"Divalproex 125mg","manufacturer":"Lupin Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b584658d51d296093525098"},"name":"DEPAKOTE XR 250mg Tablet 15's","composition":"Divalproex 250mg (XR)","manufacturer":"Sanofi India Ltd","price":"Rs.121.58"}
+{"_id":{"$oid":"5b58465ad51d296093525099"},"name":"DEPAKOTE 1000mg Tablet 10's","composition":"Divalproex 1000mg","manufacturer":"Sanofi India Ltd","price":"Rs.135.56"}
+{"_id":{"$oid":"5b58465cd51d29609352509a"},"name":"DEPAKOTE 500mg Tablet 15's","composition":"Divalproex 500mg","manufacturer":"Sanofi India Ltd","price":"Rs.211.63"}
+{"_id":{"$oid":"5b58465ed51d29609352509b"},"name":"DEPAKOTE 250mg Tablet 15's","composition":"Divalproex 250mg","manufacturer":"Sanofi India Ltd","price":"Rs.122.75"}
+{"_id":{"$oid":"5b584660d51d29609352509c"},"name":"DEPAKOTE XR 500mg Tablet 15's","composition":"Divalproex 500mg (XR)","manufacturer":"Sanofi India Ltd","price":"Rs.243.54"}
+{"_id":{"$oid":"5b584662d51d29609352509d"},"name":"DESVAL ER 125mg Tablet 10's","composition":"DIVALPROEX 125MG","manufacturer":"Eris Lifesciences Ltd","price":"Rs.40.50"}
+{"_id":{"$oid":"5b584664d51d29609352509e"},"name":"DESVAL ER 500mg Tablet 10's","composition":"DIVALPROEX 500MG","manufacturer":"Eris Lifesciences Ltd","price":"Rs.120.50"}
+{"_id":{"$oid":"5b584666d51d29609352509f"},"name":"DESVAL ER 750mg Tablet 10's","composition":"DIVALPROEX 750MG","manufacturer":"Eris Lifesciences Ltd","price":"Rs.149.50"}
+{"_id":{"$oid":"5b584668d51d2960935250a0"},"name":"DESVAL ER 1gm Tablet 10's","composition":"DIVALPROEX 1GM","manufacturer":"Eris Lifesciences Ltd","price":"Rs.155.50"}
+{"_id":{"$oid":"5b584669d51d2960935250a1"},"name":"DESVAL ER 250mg Tablet 10's","composition":"DIVALPROEX 250MG","manufacturer":"Eris Lifesciences Ltd","price":"Rs.61.00"}
+{"_id":{"$oid":"5b58466cd51d2960935250a2"},"name":"DI VALP 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.100.00"}
+{"_id":{"$oid":"5b58466ed51d2960935250a3"},"name":"DI VALP 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.55.00"}
+{"_id":{"$oid":"5b584670d51d2960935250a4"},"name":"DI VALP 750mg Tablet 10's","composition":"Divalproex 750mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.115.00"}
+{"_id":{"$oid":"5b584672d51d2960935250a5"},"name":"DI VALP 1000mg Tablet 10's","composition":"Divalproex 1000mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.131.43"}
+{"_id":{"$oid":"5b584674d51d2960935250a6"},"name":"DICORATE ER 1gm Tablet 10's","composition":"Divalproex 1gm (ER)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.152.00"}
+{"_id":{"$oid":"5b584675d51d2960935250a7"},"name":"DICORATE ER 750mg Tablet 10's","composition":"Divalproex 750mg (ER)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.143.00"}
+{"_id":{"$oid":"5b584677d51d2960935250a8"},"name":"DICORATE ER 1000 mg Tablet 10's","composition":"DIVALPROEX 1000MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b584679d51d2960935250a9"},"name":"DICORATE ER 250mg Tablet 10's","composition":"Divalproex 250mg (ER)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b58467dd51d2960935250aa"},"name":"DICORATE ER 125mg Tablet 10's","composition":"Divalproex 125mg (ER)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.40.20"}
+{"_id":{"$oid":"5b58467fd51d2960935250ab"},"name":"DICORATE ER 500mg Tablet 10's","composition":"Divalproex 500mg (ER)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584682d51d2960935250ac"},"name":"DILANTIN 25mg Capsule 100's","composition":"PHENYTOIN 25MG","manufacturer":"Pfizer Limited","price":"Rs.148.05"}
+{"_id":{"$oid":"5b584684d51d2960935250ad"},"name":"DILANTIN 25mg Suspension 100ml","composition":"PHENYTOIN SODIUM 100MG","manufacturer":"Pfizer Limited","price":"Rs.123.20"}
+{"_id":{"$oid":"5b584686d51d2960935250ae"},"name":"DILANTIN 100mg Capsule 100's","composition":"Phenytoin Sodium 100mg","manufacturer":"Pfizer Limited","price":"Rs.151.56"}
+{"_id":{"$oid":"5b584688d51d2960935250af"},"name":"DILANTIN Injection 2ml","composition":"Phenytoin Sodium 100mg","manufacturer":"Pfizer Limited","price":"Rs.10.28"}
+{"_id":{"$oid":"5b58468ad51d2960935250b0"},"name":"DILEX CHRONO 134/58mg Tablet 10's","composition":"Sodium Valproate 135mg+Valproic Acid 58mg","manufacturer":"Wockhardt Ltd","price":"Rs.46.00"}
+{"_id":{"$oid":"5b58468cd51d2960935250b1"},"name":"DILEX CHRONO 333/145mg Tablet 10's","composition":"Sodium Valproate 333mg+Valproic Acid 145mg","manufacturer":"Wockhardt Ltd","price":"Rs.94.75"}
+{"_id":{"$oid":"5b58468ed51d2960935250b2"},"name":"DILEX CHRONO 200/87mg Tablet 10's","composition":"Sodium Valproate 200mg+Valproic Acid 87mg","manufacturer":"Wockhardt Ltd","price":"Rs.63.95"}
+{"_id":{"$oid":"5b584690d51d2960935250b3"},"name":"DILPRA 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.84.00"}
+{"_id":{"$oid":"5b584692d51d2960935250b4"},"name":"DILPRA OD 1000mg Tablet 10's","composition":"Divalproex 1000mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.129.65"}
+{"_id":{"$oid":"5b584694d51d2960935250b5"},"name":"DILPRA OD 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.98.90"}
+{"_id":{"$oid":"5b584696d51d2960935250b6"},"name":"DIPOREX ER 250mg Tablet 15's","composition":"Divalproex 250mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.64.76"}
+{"_id":{"$oid":"5b584698d51d2960935250b7"},"name":"DIPOREX ER 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b58469cd51d2960935250b8"},"name":"DIPRO 1000mg Tablet 8'S","composition":"Divalproex 1000mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.97.62"}
+{"_id":{"$oid":"5b58469ed51d2960935250b9"},"name":"DIPRO 125mg Tablet 10's","composition":"Divalproex 125mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.20.00"}
+{"_id":{"$oid":"5b5846a0d51d2960935250ba"},"name":"DIPRO 750MG TABLET 8'S","composition":"DIVALPROEX 750MG","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.75.88"}
+{"_id":{"$oid":"5b5846a2d51d2960935250bb"},"name":"DIPRO OD 500mg Tablet 10's","composition":"Divalproex 500mg (OD)","manufacturer":"ICON LIFE SCIENCES","price":"Rs.107.80"}
+{"_id":{"$oid":"5b5846a5d51d2960935250bc"},"name":"DIPRO OD 250mg Tablet 10's","composition":"Divalproex 250mg (OD)","manufacturer":"ICON LIFE SCIENCES","price":"Rs.66.00"}
+{"_id":{"$oid":"5b5846a7d51d2960935250bd"},"name":"DIPROEX ER 500mg Tablet 10's","composition":"Divalproex 500mg (ER)","manufacturer":"Unichem Laboratories Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5846a8d51d2960935250be"},"name":"DIPROEX 500mg Tablet 10's","composition":"DIVALPROEX 500MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.65.86"}
+{"_id":{"$oid":"5b5846abd51d2960935250bf"},"name":"DIPROEX ER 750mg Tablet 10's","composition":"Divalproex 750mg (ER)","manufacturer":"Unichem Laboratories Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5846add51d2960935250c0"},"name":"DIPROEX ER 250mg Tablet 10's","composition":"Divalproex 250mg (ER)","manufacturer":"Unichem Laboratories Ltd","price":"Rs.68.00"}
+{"_id":{"$oid":"5b5846afd51d2960935250c1"},"name":"DIPROEX 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.35.10"}
+{"_id":{"$oid":"5b5846b1d51d2960935250c2"},"name":"DIPROEX 125mg Tablet 10's","composition":"Divalproex 125mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b5846b3d51d2960935250c3"},"name":"DIPROEX ER 1000mg Tablet 10's","composition":"Divalproex 1000mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.109.52"}
+{"_id":{"$oid":"5b5846b5d51d2960935250c4"},"name":"DIRESTA OD 500mg Tablet 10's","composition":"DIVALPROEX 500 MG","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b5846b7d51d2960935250c5"},"name":"DIRESTA OD 750mg Tablet 10's","composition":"DIVALPROEX 750MG","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b5846b8d51d2960935250c6"},"name":"DIVAA 250mg Tablet 10's","composition":"DIVALPROEX 250MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.55.50"}
+{"_id":{"$oid":"5b5846bbd51d2960935250c7"},"name":"DIVAA 500mg Oral Solution 100ml","composition":"Divalproex 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.215.00"}
+{"_id":{"$oid":"5b5846bdd51d2960935250c8"},"name":"DIVAA 250mg Tablet 15's","composition":"Divalproex","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5846bfd51d2960935250c9"},"name":"DIVAA 1000mg Tablet 10's","composition":"Divalproex 1000mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.154.00"}
+{"_id":{"$oid":"5b5846c0d51d2960935250ca"},"name":"DIVAA 500mg Tablet 15's","composition":"Divalproex 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.136.50"}
+{"_id":{"$oid":"5b5846c3d51d2960935250cb"},"name":"DIVAA 250mg Oral Solution 100ml","composition":"Divalproex 250mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b5846c5d51d2960935250cc"},"name":"DIVAA 500mg Tablet 10's","composition":"DIVALPROEX 500MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.91.00"}
+{"_id":{"$oid":"5b5846c7d51d2960935250cd"},"name":"DIVAA OD 750mg Tablet 10's","composition":"Divalproex 750mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.138.00"}
+{"_id":{"$oid":"5b5846c9d51d2960935250ce"},"name":"DIVAA OD 500mg Tablet 10's","composition":"Divalproex 500mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.106.00"}
+{"_id":{"$oid":"5b5846cbd51d2960935250cf"},"name":"DIVAA OD 250mg Tablet 10's","composition":"Divalproex 250mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b5846cdd51d2960935250d0"},"name":"DIVAA OD 1gm Tablet 10's","composition":"Divalproex 1gm (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.154.00"}
+{"_id":{"$oid":"5b5846cfd51d2960935250d1"},"name":"DIVACID ER 500mg Tablet 6's","composition":"Divalproex 500mg (ER)","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.74.90"}
+{"_id":{"$oid":"5b5846d1d51d2960935250d2"},"name":"DIVACID ER 250mg Tablet 10's","composition":"Divalproex 250mg (ER)","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.104.90"}
+{"_id":{"$oid":"5b5846d3d51d2960935250d3"},"name":"DIVACID ER 500mg Tablet 10's","composition":"DIVALPROEX SODIUM 500MG","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.135.50"}
+{"_id":{"$oid":"5b5846d6d51d2960935250d4"},"name":"DIVAKON 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Ikon Remedies Pvt Ltd","price":"Rs.94.63"}
+{"_id":{"$oid":"5b5846d8d51d2960935250d5"},"name":"DIVALCAD ER 750mg Tablet 10's","composition":"DIVALPROEX 750 MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.109.00"}
+{"_id":{"$oid":"5b5846d9d51d2960935250d6"},"name":"DIVALGRESS 1gm Tablet 10's","composition":"Divalproex 1gm","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5846dcd51d2960935250d7"},"name":"DIVALGRESS ER 250mg Tablet 10's","composition":"Divalproex 500mg (ER)","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b5846ded51d2960935250d8"},"name":"DIVALGRESS 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.53.00"}
+{"_id":{"$oid":"5b5846e0d51d2960935250d9"},"name":"DIVALGRESS ER 500mg Tablet 10's","composition":"Divalproex 500mg (ER)","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.106.00"}
+{"_id":{"$oid":"5b5846e2d51d2960935250da"},"name":"DIVALGRESS ER 750mg Tablet 10's","composition":"Divalproex 750mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b5846e4d51d2960935250db"},"name":"DIVALID ER 250mg Tablet 10's","composition":"Divalproex 250mg (ER)","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b5846e6d51d2960935250dc"},"name":"DIVALID ER 500mg Tablet 10's","composition":"Divalproex 500mg (ER)","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b5846e8d51d2960935250dd"},"name":"DIVALID ER 1gm Tablet 10's","composition":"Divalproex Sodium 1000mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.143.00"}
+{"_id":{"$oid":"5b5846ebd51d2960935250de"},"name":"DIVALIN 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.42.86"}
+{"_id":{"$oid":"5b5846edd51d2960935250df"},"name":"DIVALIN 1000mg Tablet 10's","composition":"Divalproex 1000mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.100.95"}
+{"_id":{"$oid":"5b5846efd51d2960935250e0"},"name":"DIVALIN 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.90.95"}
+{"_id":{"$oid":"5b5846f1d51d2960935250e1"},"name":"DIVALIN 750mg Tablet 10's","composition":"Divalproex 750mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5846f3d51d2960935250e2"},"name":"DIVALOP 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"Rkg Pharma Pvt Ltd","price":"Rs.50.62"}
+{"_id":{"$oid":"5b5846f5d51d2960935250e3"},"name":"DIVALOP 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Rkg Pharma Pvt Ltd","price":"Rs.64.20"}
+{"_id":{"$oid":"5b5846f7d51d2960935250e4"},"name":"DIVALPRID 750mg Tablet 10's","composition":"Divalproex 750mg","manufacturer":"Micro Labs Ltd","price":"Rs.166.00"}
+{"_id":{"$oid":"5b5846f9d51d2960935250e5"},"name":"DIVALPRID OD 500mg Tablet 10's","composition":"Divalproex 500mg (OD)","manufacturer":"Micro Labs Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5846fdd51d2960935250e6"},"name":"DIVALPRID 100mg Tablet 10's","composition":"Divalproex 100mg","manufacturer":"Micro Labs Ltd","price":"Rs.41.32"}
+{"_id":{"$oid":"5b5846ffd51d2960935250e7"},"name":"DIVALPRID OD 250mg Tablet 10's","composition":"Divalproex 250mg (OD)","manufacturer":"Micro Labs Ltd","price":"Rs.82.00"}
+{"_id":{"$oid":"5b584701d51d2960935250e8"},"name":"DIVALPRO 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.129.80"}
+{"_id":{"$oid":"5b584703d51d2960935250e9"},"name":"DIVALPRO 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.69.20"}
+{"_id":{"$oid":"5b584705d51d2960935250ea"},"name":"DIVALPRO XR 750mg Tablet 10's","composition":"Divalproex 750mg (XR)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.149.10"}
+{"_id":{"$oid":"5b584707d51d2960935250eb"},"name":"DIVALPRO XR 250mg Tablet 10's","composition":"Divalproex 250mg (XR)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.69.50"}
+{"_id":{"$oid":"5b584709d51d2960935250ec"},"name":"DIVALPRO XR 500mg Tablet 10's","composition":"Divalproex 500mg (XR)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.127.20"}
+{"_id":{"$oid":"5b58470bd51d2960935250ed"},"name":"DIVALRATE ER 250mg Tablet 10's","composition":"Divalproex 250mg (ER)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.55.00"}
+{"_id":{"$oid":"5b58470dd51d2960935250ee"},"name":"DIVALRATE ER 500MG TABLET 10'S","composition":"DIVALPROEX 500MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.102.30"}
+{"_id":{"$oid":"5b58470fd51d2960935250ef"},"name":"DIVARUS ER 250mg Tablet 10's","composition":"Divalproex 250mg (ER)","manufacturer":"Icarus Health Care Pvt Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b584711d51d2960935250f0"},"name":"DIVAXEE 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"Talent India","price":"Rs.60.00"}
+{"_id":{"$oid":"5b584713d51d2960935250f1"},"name":"DIVAXEE 750mg Tablet 10's","composition":"Divalproex 750mg","manufacturer":"Talent India","price":"Rs.123.00"}
+{"_id":{"$oid":"5b584715d51d2960935250f2"},"name":"DIVAXEE 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Talent India","price":"Rs.108.00"}
+{"_id":{"$oid":"5b584718d51d2960935250f3"},"name":"DIVAXIM 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b58471ad51d2960935250f4"},"name":"DIVUNA ER 1000mg Tablet 15's","composition":"Divalproex 1000mg (ER)","manufacturer":"Ucb Pharma Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b58471cd51d2960935250f5"},"name":"DIVUNA ER 250mg Tablet 10's","composition":"DIVALPROEX","manufacturer":"Ucb Pharma Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b58471ed51d2960935250f6"},"name":"DIVUNA ER 250mg Tablet 15's","composition":"Divalproex 250mg (ER)","manufacturer":"Ucb Pharma Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b584720d51d2960935250f7"},"name":"DIVUNA ER 500mg Tablet 15's","composition":"Valproic Acid 500mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b584722d51d2960935250f8"},"name":"DIVUNA ER 500mg Tablet 10's","composition":"Divalproex 500mg (ER)","manufacturer":"Ucb Pharma Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b584724d51d2960935250f9"},"name":"DIVUNA ER 1000mg Tablet 10's","composition":"Valproic Acid 1000mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b584726d51d2960935250fa"},"name":"DIXVAL 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Others","price":"Rs.75.88"}
+{"_id":{"$oid":"5b584728d51d2960935250fb"},"name":"DIXVAL 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"Others","price":"Rs.47.00"}
+{"_id":{"$oid":"5b58472bd51d2960935250fc"},"name":"DIXVAL OD 1000mg Tablet 10's","composition":"Divalproex 1000mg","manufacturer":"Others","price":"Rs.104.76"}
+{"_id":{"$oid":"5b58472cd51d2960935250fd"},"name":"EMGARD 30MG TABLET 10'S","composition":"PHENOBARBITONE 30MG","manufacturer":"Medopharm Pvt Ltd","price":"Rs.10.40"}
+{"_id":{"$oid":"5b58472ed51d2960935250fe"},"name":"EMGARD 60MG TABLET 10'S","composition":"PHENOBARBITONE 60MG","manufacturer":"Medopharm Pvt Ltd","price":"Rs.18.08"}
+{"_id":{"$oid":"5b584731d51d2960935250ff"},"name":"EMGARD 15MG TABLET 10'S","composition":"PHENOBARBITONE 15MG","manufacturer":"Medopharm Pvt Ltd","price":"Rs.7.50"}
+{"_id":{"$oid":"5b584733d51d296093525100"},"name":"EmlEVO 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.106.50"}
+{"_id":{"$oid":"5b584735d51d296093525101"},"name":"EmlEVO 100mg Solution 100ml","composition":"Levetiracetam 100mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.354.90"}
+{"_id":{"$oid":"5b584737d51d296093525102"},"name":"EMLEVO 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.53.50"}
+{"_id":{"$oid":"5b584739d51d296093525103"},"name":"EMLEVO 500MG INJECTION 5ML","composition":"LEVETIRACETAM 500MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b58473bd51d296093525104"},"name":"EmlEVO 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.162.32"}
+{"_id":{"$oid":"5b58473dd51d296093525105"},"name":"ENCENTIN 100MG TABLET 10'S","composition":"Gabapentin 100mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.53.00"}
+{"_id":{"$oid":"5b58473fd51d296093525106"},"name":"ENCORATE CHRONO 600mg Tablet 10's","composition":"Sodium Valproate 600mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.137.00"}
+{"_id":{"$oid":"5b584741d51d296093525107"},"name":"ENCORATE 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.31.46"}
+{"_id":{"$oid":"5b584743d51d296093525108"},"name":"ENCORATE Oral Solution 200ml","composition":"Sodium Valproate 200mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.118.15"}
+{"_id":{"$oid":"5b584746d51d296093525109"},"name":"ENCORATE 500mg Tablet 10's","composition":"Sodium Valproate 500mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.70.42"}
+{"_id":{"$oid":"5b584748d51d29609352510a"},"name":"ENCORATE Syrup 100ml","composition":"Sodium Valproate 200mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.56.70"}
+{"_id":{"$oid":"5b58474ad51d29609352510b"},"name":"ENCORATE CHRONO 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.31.46"}
+{"_id":{"$oid":"5b58474cd51d29609352510c"},"name":"ENCORATE Injection 5ml","composition":"Sodium Valproate 500mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.29.23"}
+{"_id":{"$oid":"5b58474fd51d29609352510d"},"name":"ENCORATE 300mg Tablet 10's","composition":"Sodium Valproate 300mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.40.38"}
+{"_id":{"$oid":"5b584752d51d29609352510e"},"name":"ENCORATE CHRONO 500mg Tablet 10's","composition":"Sodium Valproate 500mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.94.73"}
+{"_id":{"$oid":"5b584753d51d29609352510f"},"name":"ENCORATE CHRONO 400mg Tablet 10's","composition":"Sodium Valproate 400mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b584755d51d296093525110"},"name":"ENCORATE CHRONO 300mg Tablet 10's","composition":"Sodium Valproate 300mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.61.54"}
+{"_id":{"$oid":"5b584757d51d296093525111"},"name":"ENREST 50mg Tablet 10's","composition":"Lacosamide 50mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.53.00"}
+{"_id":{"$oid":"5b584759d51d296093525112"},"name":"ENREST 100mg Tablet 10's","composition":"Lacosamide 100mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.92.00"}
+{"_id":{"$oid":"5b58475bd51d296093525113"},"name":"EPICETAM 500mg Injection 5ml","composition":"LEVETIRACETAM 500MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.106.00"}
+{"_id":{"$oid":"5b58475ed51d296093525114"},"name":"EPICETAM 500MG TABLET 10'S","composition":"LEVETIRACETAM 500MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b584760d51d296093525115"},"name":"EPICETAM 250MG TABLET 10'S","composition":"LEVETIRACETAM 250MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b584762d51d296093525116"},"name":"EPICTAL 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Ipca Laboratories Ltd","price":"Rs.57.29"}
+{"_id":{"$oid":"5b584764d51d296093525117"},"name":"EPICTAL 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.115.88"}
+{"_id":{"$oid":"5b584766d51d296093525118"},"name":"EPIGOLD 450mg Tablet 10's","composition":"Oxcarbazepine 450mg","manufacturer":"Kivi Labs Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b584768d51d296093525119"},"name":"EPIGOLD XR 600mg Tablet 10's","composition":"Oxcarbazepine 600mg","manufacturer":"Kivi Labs Ltd","price":"Rs.177.45"}
+{"_id":{"$oid":"5b58476ad51d29609352511a"},"name":"EPIGOLD XR 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Kivi Labs Ltd","price":"Rs.81.25"}
+{"_id":{"$oid":"5b58476cd51d29609352511b"},"name":"EPIGOLD XR 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Kivi Labs Ltd","price":"Rs.42.50"}
+{"_id":{"$oid":"5b58476ed51d29609352511c"},"name":"EPILAM 50mg Tablet 10's","composition":"LAMOTRIGINE 50MG","manufacturer":"Others","price":"Rs.51.42"}
+{"_id":{"$oid":"5b584770d51d29609352511d"},"name":"EPILENT 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"Talent Health Care","price":"Rs.26.19"}
+{"_id":{"$oid":"5b584772d51d29609352511e"},"name":"EPILENT SR 400MG TABLET 10'S","composition":"CARBAMAZEPINE 400MG","manufacturer":"Talent Health Care","price":"Rs.23.71"}
+{"_id":{"$oid":"5b584774d51d29609352511f"},"name":"EPILEX 300mg Tablet 10's","composition":"Sodium Valproate 300mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b584776d51d296093525120"},"name":"EPILEX Syrup 100ml","composition":"Sodium Valproate 200mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.59.05"}
+{"_id":{"$oid":"5b584778d51d296093525121"},"name":"EPILEX 500mg Tablet 10's","composition":"Sodium Valproate 500mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.67.51"}
+{"_id":{"$oid":"5b58477ad51d296093525122"},"name":"EPILEX Syrup 200ml","composition":"Sodium Valprorate 200mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.67.20"}
+{"_id":{"$oid":"5b58477bd51d296093525123"},"name":"EPILEX CHRONO 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.64.50"}
+{"_id":{"$oid":"5b58477dd51d296093525124"},"name":"EPILEX CHRONO 500mg Tablet 10's","composition":"Sodium Valproate 500mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.94.69"}
+{"_id":{"$oid":"5b58477fd51d296093525125"},"name":"EPILEX 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.28.87"}
+{"_id":{"$oid":"5b584781d51d296093525126"},"name":"EPILEX CHRONO 200/87mg Tablet 10's","composition":"Sodium Valproate 200mg+Valproic Acid 87mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.60.95"}
+{"_id":{"$oid":"5b584783d51d296093525127"},"name":"EPILEX CHRONO 300mg Tablet 10's","composition":"Sodium Valproate 300mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.61.51"}
+{"_id":{"$oid":"5b584785d51d296093525128"},"name":"EPILEX CHRONO 219/81mg Tablet 10's","composition":"Sodium Valproate 219mg+Valproic Acid 81mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b584787d51d296093525129"},"name":"EPILIVE Syrup 100ml","composition":"Levetiracetam 100mg","manufacturer":"Lupin Ltd","price":"Rs.369.79"}
+{"_id":{"$oid":"5b584789d51d29609352512a"},"name":"EPILIVE 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Lupin Ltd","price":"Rs.59.44"}
+{"_id":{"$oid":"5b58478cd51d29609352512b"},"name":"EPILIVE 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Lupin Ltd","price":"Rs.184.63"}
+{"_id":{"$oid":"5b58478dd51d29609352512c"},"name":"EPILIVE Injection 5ml","composition":"Levetiracetam 500mg","manufacturer":"Lupin Ltd","price":"Rs.67.27"}
+{"_id":{"$oid":"5b58478fd51d29609352512d"},"name":"EPILIVE 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Lupin Ltd","price":"Rs.124.05"}
+{"_id":{"$oid":"5b584791d51d29609352512e"},"name":"EPILIVE ER 1000mg Tablet 10's","composition":"Levetiracetam 1000mg (ER)","manufacturer":"Lupin Ltd","price":"Rs.386.45"}
+{"_id":{"$oid":"5b584793d51d29609352512f"},"name":"EPIMA CHRONO 300mg Tablet 10's","composition":"Sodium Valproate300mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.55.00"}
+{"_id":{"$oid":"5b584795d51d296093525130"},"name":"EPIMA CHRONO 500mg Tablet 10's","composition":"Sodium Valproate500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.86.50"}
+{"_id":{"$oid":"5b584797d51d296093525131"},"name":"EPIMA CHRONO 200mg Tablet 10's","composition":"Sodium Valproate200mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.35.00"}
+{"_id":{"$oid":"5b584799d51d296093525132"},"name":"EPINIL 60MG TABLET 10'S","composition":"PHENOBARBITONE 60MG","manufacturer":"Inga Laboratories Pvt Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b58479bd51d296093525133"},"name":"EPINIL 30MG TABLET 10'S","composition":"PHENOBARBITONE 30MG","manufacturer":"Inga Laboratories Pvt Ltd","price":"Rs.14.55"}
+{"_id":{"$oid":"5b58479cd51d296093525134"},"name":"EPIPHEN 50mg Tablet 10's","composition":"Phenobarbitone 100mg+Phenytoin 50mg","manufacturer":"Reliance Pharmaceuticals India Pvt Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b58479ed51d296093525135"},"name":"EPIPHEN 30mg Tablet 10's","composition":"Phenobarbitone 100mg+Phenytoin 30mg","manufacturer":"Reliance Pharmaceuticals India Pvt Ltd","price":"Rs.20.00"}
+{"_id":{"$oid":"5b5847a0d51d296093525136"},"name":"EPIPHEN 60mg Tablet 10's","composition":"Phenobarbitone 60+Phenytoin ","manufacturer":"Reliance Pharmaceuticals India Pvt Ltd","price":"Rs.20.00"}
+{"_id":{"$oid":"5b5847a2d51d296093525137"},"name":"EPISEIZE 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.58.17"}
+{"_id":{"$oid":"5b5847a4d51d296093525138"},"name":"EPISEIZE 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.115.18"}
+{"_id":{"$oid":"5b5847a5d51d296093525139"},"name":"EPISOL 50mg Tablet 10's","composition":"Phenobarbitone 50mg+Phenytoin 100mg","manufacturer":"Psychotropics India Limited","price":"Rs.12.50"}
+{"_id":{"$oid":"5b5847a7d51d29609352513a"},"name":"EPISOL PLUS 30mg Tablet 10's","composition":"Phenobarbitone 30mg+Phenytoin 100mg","manufacturer":"Psychotropics India Limited","price":"Rs.12.43"}
+{"_id":{"$oid":"5b5847a9d51d29609352513b"},"name":"EPITAN 60MG TABLET 10'S","composition":"PHENOBARBITONE 60MG","manufacturer":"Reliance Pharmaceuticals India Pvt Ltd","price":"Rs.15.00"}
+{"_id":{"$oid":"5b5847add51d29609352513c"},"name":"EPITAN 30MG TABLET 10'S","composition":"PHENOBARBITONE 30MG","manufacturer":"Reliance Pharmaceuticals India Pvt Ltd","price":"Rs.9.77"}
+{"_id":{"$oid":"5b5847afd51d29609352513d"},"name":"EPITOP 50mg Tablet 10's","composition":"TOPIRAMATE 50MG","manufacturer":"Micro Labs Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b5847b1d51d29609352513e"},"name":"EPITOP 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Micro Labs Ltd","price":"Rs.39.50"}
+{"_id":{"$oid":"5b5847b3d51d29609352513f"},"name":"EPITOP 100mg Tablet 10's","composition":"Topiramate 100mg","manufacturer":"Micro Labs Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b5847b5d51d296093525140"},"name":"EPITRA 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.124.32"}
+{"_id":{"$oid":"5b5847b8d51d296093525141"},"name":"EPITRA 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.184.69"}
+{"_id":{"$oid":"5b5847bad51d296093525142"},"name":"EPITRA Injection 5ml","composition":"Levetiracetam ","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.110.88"}
+{"_id":{"$oid":"5b5847bcd51d296093525143"},"name":"EPITRA 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.59.47"}
+{"_id":{"$oid":"5b5847bed51d296093525144"},"name":"EPIVAL Syrup 200ml","composition":"Sodium Valproate 200mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.118.15"}
+{"_id":{"$oid":"5b5847bed51d296093525145"},"name":"EPIVAL 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.31.46"}
+{"_id":{"$oid":"5b5847c2d51d296093525146"},"name":"EPNIL 100MG TABLET 10'S","composition":"CARBAMAZEPINE 100MG","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.8.82"}
+{"_id":{"$oid":"5b5847c4d51d296093525147"},"name":"EPNIL 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.14.11"}
+{"_id":{"$oid":"5b5847c6d51d296093525148"},"name":"EPOCARB 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.38.23"}
+{"_id":{"$oid":"5b5847c9d51d296093525149"},"name":"EPOCARB 450mg Tablet 10's","composition":"Oxcarbazepine 450mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5847cbd51d29609352514a"},"name":"EPOCARB 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.71.00"}
+{"_id":{"$oid":"5b5847cdd51d29609352514b"},"name":"EPSOLIN 300mg Tablet 30's","composition":"Phenytoin Sodium 300mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.144.48"}
+{"_id":{"$oid":"5b5847cfd51d29609352514c"},"name":"EPSOLIN ER 200mg Tablet 30's","composition":"Phenytoin Sodium 200mg (ER)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.165.80"}
+{"_id":{"$oid":"5b5847d1d51d29609352514d"},"name":"EPSOLIN 100mg Tablet 100's","composition":"Phenytoin Sodium 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.157.92"}
+{"_id":{"$oid":"5b5847d3d51d29609352514e"},"name":"EPSOLIN Injection 2ml","composition":"PHENYTOIN SODIUM 100MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.11.29"}
+{"_id":{"$oid":"5b5847d5d51d29609352514f"},"name":"EPSOLIN ER 300mg Capsule 30's","composition":"PHENYTOIN 300MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.169.79"}
+{"_id":{"$oid":"5b5847d7d51d296093525150"},"name":"EPSOLIN ER 300mg Tablet 30's","composition":"Phenytoin 300mg (ER)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.177.07"}
+{"_id":{"$oid":"5b5847dad51d296093525151"},"name":"EPTOIN Injection 2ml","composition":"PHENYTOIN 100MG","manufacturer":"Abbott India Ltd","price":"Rs.261.25"}
+{"_id":{"$oid":"5b5847ded51d296093525152"},"name":"EPTOIN ORAL Suspension 200ml","composition":"Phenytoin 30mg","manufacturer":"Abbott India Ltd","price":"Rs.59.11"}
+{"_id":{"$oid":"5b5847e0d51d296093525153"},"name":"EPTOIN ER 300mg Tablet 30's","composition":"Phenytoin Sodium 300mg (ER)","manufacturer":"Abbott India Ltd","price":"Rs.177.02"}
+{"_id":{"$oid":"5b5847e2d51d296093525154"},"name":"EPTOIN 100mg Tablet 120's","composition":"Phenytoin Sodium","manufacturer":"Abbott India Ltd","price":"Rs.189.39"}
+{"_id":{"$oid":"5b5847e4d51d296093525155"},"name":"EPTOIN 50mg Tablet 150's","composition":"Phenytoin Sodium 50mg","manufacturer":"Abbott India Ltd","price":"Rs.110.25"}
+{"_id":{"$oid":"5b5847e6d51d296093525156"},"name":"EPTOIN 100mg Tablet 100's","composition":"Phenytoin 100mg","manufacturer":"Abbott India Ltd","price":"Rs.185.22"}
+{"_id":{"$oid":"5b5847e8d51d296093525157"},"name":"EPTOIN 100mg Injection 10ml","composition":"PHENYTOIN SODIUM 100MG","manufacturer":"Abbott India Ltd","price":"Rs.54.45"}
+{"_id":{"$oid":"5b5847ead51d296093525158"},"name":"ESLICAR 800mg Tablet 10's","composition":"Eslicarbazepine Acetate 800mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b5847ecd51d296093525159"},"name":"ESLIFY 400mg Tablet 10's","composition":"Eslicarbazepine Acetate 400mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b5847efd51d29609352515a"},"name":"ESLIFY 600mg Tablet 10's","composition":"ESLICARBAZEPINE ACETATE 600MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.186.00"}
+{"_id":{"$oid":"5b5847f1d51d29609352515b"},"name":"ESLIFY 800mg Tablet 10's","composition":"Eslicarbazepine Acetate 800mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.235.00"}
+{"_id":{"$oid":"5b5847f3d51d29609352515c"},"name":"ESLIFY 200mg Tablet 10's","composition":"Eslicarbazepine Acetate 200mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.87.00"}
+{"_id":{"$oid":"5b5847f5d51d29609352515d"},"name":"ESLIZEN 400mg Tablet 10's","composition":"ESLICARBAZEPINE 400MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.122.66"}
+{"_id":{"$oid":"5b5847f7d51d29609352515e"},"name":"EURESTA SR 150mg Tablet 10's","composition":"Oxcarbazepine 150mg (SR)","manufacturer":"Usv Private Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b5847fad51d29609352515f"},"name":"EURESTA SR 600mg Tablet 10's","composition":"Oxcarbazepine 600mg","manufacturer":"Usv Private Ltd","price":"Rs.121.50"}
+{"_id":{"$oid":"5b5847fcd51d296093525160"},"name":"EURESTA SR 300mg Tablet 10's","composition":"OXCARBAZEPINE 300MG","manufacturer":"Usv Private Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b5847fed51d296093525161"},"name":"FAVLAM 25mg Tablet 10's","composition":"LAMOTRIGINE 25MG","manufacturer":"Usv Private Ltd","price":"Rs.27.84"}
+{"_id":{"$oid":"5b584800d51d296093525162"},"name":"FAVLAM 50mg Tablet 10's","composition":"LAMOTRIGINE 50MG","manufacturer":"Usv Private Ltd","price":"Rs.46.62"}
+{"_id":{"$oid":"5b584802d51d296093525163"},"name":"FOSOLIN 750mg Injection 10ml","composition":"Fosphenytoin Sodium 750mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.269.30"}
+{"_id":{"$oid":"5b584804d51d296093525164"},"name":"FOSOLIN 150mg Injection 2ml","composition":"Fosphenytoin Sodium 150mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.63.60"}
+{"_id":{"$oid":"5b584806d51d296093525165"},"name":"FOSPHEN Injection 2ml","composition":"Fosphenytoin Sodium 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.47.00"}
+{"_id":{"$oid":"5b584809d51d296093525166"},"name":"FOSPHEN Injection 10ml","composition":"FOSPHENYTOIN SODIUM 500MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.207.00"}
+{"_id":{"$oid":"5b58480bd51d296093525167"},"name":"FRITOLEV 100mg Injection 5ml","composition":"Levetiracetam 100mg","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.108.41"}
+{"_id":{"$oid":"5b58480dd51d296093525168"},"name":"FRITOLEV 100mg Solution 100ml","composition":"Levetiracetam 100mg","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.354.90"}
+{"_id":{"$oid":"5b584810d51d296093525169"},"name":"FRITOLEV 1000mg Tablet 10's","composition":"Levetiracetam 1000mg","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.231.00"}
+{"_id":{"$oid":"5b584812d51d29609352516a"},"name":"FYCOMPA 2mg Tablet 7's","composition":"Perampanel 2mg","manufacturer":"Eisai Pharmaceuticals India Pvt Ltd","price":"Rs.245.00"}
+{"_id":{"$oid":"5b584814d51d29609352516b"},"name":"FYCOMPA 4mg Tablet 14's","composition":"Perampanel 4mg","manufacturer":"Eisai Pharmaceuticals India Pvt Ltd","price":"Rs.770.00"}
+{"_id":{"$oid":"5b584816d51d29609352516c"},"name":"FYCOMPA 4mg Tablet 10's","composition":"Perampanel 4mg","manufacturer":"Eisai Pharmaceuticals India Pvt Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b584818d51d29609352516d"},"name":"GABACAP 300mg Capsule 10's","composition":"Gabapentin 300mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.98.45"}
+{"_id":{"$oid":"5b58481cd51d29609352516e"},"name":"GABAGESIC 300mg Tablet 10's","composition":"Gabapentin 300mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.116.60"}
+{"_id":{"$oid":"5b58481ed51d29609352516f"},"name":"GABAGESIC 100mg Tablet 10's","composition":"Gabapentin 100mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.52.80"}
+{"_id":{"$oid":"5b584820d51d296093525170"},"name":"GABAGESIC M Tablet 10's","composition":"Gabapentin","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.134.00"}
+{"_id":{"$oid":"5b584822d51d296093525171"},"name":"GABALENT 100mg Tablet 10's","composition":"Gabapentin 100mg","manufacturer":"Talent India","price":"Rs.41.40"}
+{"_id":{"$oid":"5b584824d51d296093525172"},"name":"GABALENT 400mg Capsule 10's","composition":"Gabapentin 400mg","manufacturer":"Talent India","price":"Rs.121.67"}
+{"_id":{"$oid":"5b584827d51d296093525173"},"name":"GABALENT 300mg Capsule 10's","composition":"Gabapentin 300mg","manufacturer":"Talent India","price":"Rs.125.00"}
+{"_id":{"$oid":"5b584829d51d296093525174"},"name":"GABALEPT 400mg Capsule 10's","composition":"Gabapentin 400mg","manufacturer":"Micro Labs Ltd","price":"Rs.128.00"}
+{"_id":{"$oid":"5b58482bd51d296093525175"},"name":"GABALEPT 300mg Capsule 10's","composition":"Gabapentin 300mg","manufacturer":"Micro Labs Ltd","price":"Rs.168.42"}
+{"_id":{"$oid":"5b58482dd51d296093525176"},"name":"GABALEPT 100MG CAPSULE 10'S","composition":"GABAPENTIN 100MG","manufacturer":"Micro Labs Ltd","price":"Rs.42.41"}
+{"_id":{"$oid":"5b58482fd51d296093525177"},"name":"GABAMUNDIN 600mg Tablet 10's","composition":"Gabapentin 600mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.216.55"}
+{"_id":{"$oid":"5b584831d51d296093525178"},"name":"GABAMUNDIN 450mg Tablet 10's","composition":"Gabapentin 450mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.178.05"}
+{"_id":{"$oid":"5b584833d51d296093525179"},"name":"GABANTIN 300mg Capsule 10's","composition":"Gabapentin 300mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.158.00"}
+{"_id":{"$oid":"5b584835d51d29609352517a"},"name":"GABANTIN 100mg Capsule 10's","composition":"Gabapentin 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b584837d51d29609352517b"},"name":"GABANTIN 400mg Capsule 10's","composition":"Gabapentin 400mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b584839d51d29609352517c"},"name":"GABAPIN 300mg Capsule 10's","composition":"GABAPENTIN 300MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.147.00"}
+{"_id":{"$oid":"5b58483bd51d29609352517d"},"name":"GABAPIN 400mg Capsule 10's","composition":"Gabapentin 400mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b58483dd51d29609352517e"},"name":"GABAPIN SR 450mg Tablet 10's","composition":"Gabapentin 450mg (SR)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.246.00"}
+{"_id":{"$oid":"5b584840d51d29609352517f"},"name":"GABAPIN 600mg Tablet 10's","composition":"Gabapentin 600mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.323.00"}
+{"_id":{"$oid":"5b584842d51d296093525180"},"name":"GABAPIN 300mg Capsule 15's","composition":"Gabapentin 300mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b584844d51d296093525181"},"name":"GABAPIN 600mg Capsule 10's","composition":"GABAPENTIN 600MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.296.00"}
+{"_id":{"$oid":"5b584845d51d296093525182"},"name":"GABAPIN 100mg Tablet 15's","composition":"Gabapentin 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.91.50"}
+{"_id":{"$oid":"5b584847d51d296093525183"},"name":"GABAPIN SR 600mg Tablet 10's","composition":"GABAPENTIN 600MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.257.00"}
+{"_id":{"$oid":"5b584848d51d296093525184"},"name":"GABAPIN SR 900mg Tablet 10's","composition":"Gabapentin 900mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b58484bd51d296093525185"},"name":"GABARLCH 300mg Tablet 10's","composition":"Gabapentin 300mg","manufacturer":"Crescent Pharmaceuticals","price":"Rs.135.81"}
+{"_id":{"$oid":"5b58484dd51d296093525186"},"name":"GABARICH 100mg Tablet 10's","composition":"Gabapentin 100mg","manufacturer":"Crescent Pharmaceuticals","price":"Rs.63.00"}
+{"_id":{"$oid":"5b58484ed51d296093525187"},"name":"GABASTAR 400mg Tablet 10's","composition":"Gabapentin 400mg","manufacturer":"Lupin Ltd","price":"Rs.118.46"}
+{"_id":{"$oid":"5b584850d51d296093525188"},"name":"GABASTAR 300mg Tablet 10's","composition":"Gabapentin 300mg","manufacturer":"Lupin Ltd","price":"Rs.102.52"}
+{"_id":{"$oid":"5b584852d51d296093525189"},"name":"GABASTAR MAX Tablet 10's","composition":"Gabapentin","manufacturer":"Lupin Ltd","price":"Rs.148.00"}
+{"_id":{"$oid":"5b584855d51d29609352518a"},"name":"GABASTAR SR 600mg Tablet 10's","composition":"Gabapentin 600mg (SR)","manufacturer":"Lupin Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b584857d51d29609352518b"},"name":"GABASTONE 300mg Tablet 10's","composition":"Gabapentin 300mg","manufacturer":"Gladstone Pharma India Pvt Ltd","price":"Rs.146.00"}
+{"_id":{"$oid":"5b584859d51d29609352518c"},"name":"GABASTONE 100mg Tablet 10's","composition":"Gabapentin 100mg","manufacturer":"Gladstone Pharma India Pvt Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b58485bd51d29609352518d"},"name":"GABATAL 100mg Capsule 10's","composition":"Gabapentin 100mg","manufacturer":"Talent Health Care","price":"Rs.147.68"}
+{"_id":{"$oid":"5b58485dd51d29609352518e"},"name":"GABATIN 300mg Capsule 10's","composition":"Gabapentin 300mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.141.07"}
+{"_id":{"$oid":"5b58485fd51d29609352518f"},"name":"GABATOR 100mg Capsule 10's","composition":"Gabapentin 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.57.60"}
+{"_id":{"$oid":"5b584861d51d296093525190"},"name":"GABATOR 300mg Capsule 10's","composition":"Gabapentin 300mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.143.00"}
+{"_id":{"$oid":"5b584863d51d296093525191"},"name":"GABATOR 400mg Capsule 10's","composition":"Gabapentin 400mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.119.50"}
+{"_id":{"$oid":"5b584866d51d296093525192"},"name":"GABAWELL 300mg Capsule 10's","composition":"Gabapentin 300mg","manufacturer":"Primus Remedies Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584868d51d296093525193"},"name":"GAPITAS 100MG TABLET 10'S","composition":"GABAPENTIN 100MG","manufacturer":"Tasmed India (P) Limited","price":"Rs.44.00"}
+{"_id":{"$oid":"5b58486ad51d296093525194"},"name":"GAPITAS 300mg Tablet 10's","composition":"GABAPENTIN 300MG","manufacturer":"Tasmed India (P) Limited","price":"Rs.90.00"}
+{"_id":{"$oid":"5b58486cd51d296093525195"},"name":"GARDENAL 200mg Injection 1ml","composition":"Phenobarbitone 200mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.24.87"}
+{"_id":{"$oid":"5b58486ed51d296093525196"},"name":"GARDENAL Syrup 60ml","composition":"Phenobarbitone","manufacturer":"Abbott India Ltd","price":"Rs.27.45"}
+{"_id":{"$oid":"5b584870d51d296093525197"},"name":"GARDENAL 20mg Syrup 60ml","composition":"Phenobarbitone 20mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.27.45"}
+{"_id":{"$oid":"5b584872d51d296093525198"},"name":"GARDENAL 60MG TABLET 100'S","composition":"PHENOBARBITONE 60MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.179.20"}
+{"_id":{"$oid":"5b584873d51d296093525199"},"name":"GARDENAL Syrup 100ml","composition":"Phenobarbitone","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.47.97"}
+{"_id":{"$oid":"5b584875d51d29609352519a"},"name":"GARDENAL 30MG TABLET 100'S","composition":"PHENOBARBITONE 30MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.124.32"}
+{"_id":{"$oid":"5b584877d51d29609352519b"},"name":"GAROIN Tablet 10's","composition":"Phenobarbitone 50mg+Phenytoin 100mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.26.00"}
+{"_id":{"$oid":"5b584879d51d29609352519c"},"name":"GPEN 100mg Tablet 10's","composition":"Gabapentin 100mg","manufacturer":"Others","price":"Rs.55.60"}
+{"_id":{"$oid":"5b58487dd51d29609352519d"},"name":"GPEN 300mg Tablet 10's","composition":"Gabapentin 300mg","manufacturer":"Others","price":"Rs.75.00"}
+{"_id":{"$oid":"5b58487fd51d29609352519e"},"name":"ICTACETAM 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.107.10"}
+{"_id":{"$oid":"5b584881d51d29609352519f"},"name":"ICTACETAM 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b584883d51d2960935251a0"},"name":"ICTACETAM 1000mg Tablet 10's","composition":"Levetiracetam 1000mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.196.42"}
+{"_id":{"$oid":"5b584885d51d2960935251a1"},"name":"ICTASURE DT 25MG TABLET 10'S","composition":"LAMOTRIGINE 25MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b584887d51d2960935251a2"},"name":"ICTASURE SR 200MG TABLET 10'S","composition":"LAMOTRIGINE 200MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.289.00"}
+{"_id":{"$oid":"5b584889d51d2960935251a3"},"name":"ICTASURE SR 50mg Tablet 10's","composition":"LAMOTRIGINE 50MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b58488bd51d2960935251a4"},"name":"ICTASURE SR 100MG TABLET 10'S","composition":"LAMOTRIGINE 100MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.158.00"}
+{"_id":{"$oid":"5b58488dd51d2960935251a5"},"name":"ICTROL 150mg Tablet 10's","composition":"Lacosamide 150mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b58488fd51d2960935251a6"},"name":"ICTROL 50mg Tablet 10's","composition":"Lacosamide 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.49.00"}
+{"_id":{"$oid":"5b584892d51d2960935251a7"},"name":"JOSEIZ 50mg Tablet 10's","composition":"Lacosamide","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.56.00"}
+{"_id":{"$oid":"5b584894d51d2960935251a8"},"name":"JOSEIZ 100mg Tablet 10's","composition":"Lacosamide","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b584895d51d2960935251a9"},"name":"KEPPRA 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.61.00"}
+{"_id":{"$oid":"5b584897d51d2960935251aa"},"name":"KEPPRA 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.120.16"}
+{"_id":{"$oid":"5b584899d51d2960935251ab"},"name":"KEPPRA 1gm Tablet 10's","composition":"Levetiracetam 1gm","manufacturer":"Ucb Pharma Ltd","price":"Rs.462.00"}
+{"_id":{"$oid":"5b58489bd51d2960935251ac"},"name":"KEPPRA Solution 100ml","composition":"Levetiracetam 100mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.382.50"}
+{"_id":{"$oid":"5b58489dd51d2960935251ad"},"name":"KEPPRA Syrup 300ml","composition":"Levetiracetam 100mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.354.90"}
+{"_id":{"$oid":"5b58489fd51d2960935251ae"},"name":"KEPPRA Syrup 100ml","composition":"LEVETIRACETAM 100MG","manufacturer":"Ucb Pharma Ltd","price":"Rs.354.90"}
+{"_id":{"$oid":"5b5848a2d51d2960935251af"},"name":"KEPPRA Injection 5ml","composition":"Levetiracetam 500mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.106.31"}
+{"_id":{"$oid":"5b5848a4d51d2960935251b0"},"name":"KEPPRA 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.177.03"}
+{"_id":{"$oid":"5b5848a6d51d2960935251b1"},"name":"KEPPRA WG 250mg Tablet 10's","composition":"LEVETIRACETAM 250MG","manufacturer":"Ucb Pharma Ltd","price":"Rs.61.00"}
+{"_id":{"$oid":"5b5848a8d51d2960935251b2"},"name":"KEPPRA WG 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.120.16"}
+{"_id":{"$oid":"5b5848aad51d2960935251b3"},"name":"KEPPRA WG 1000mg Tablet 10's","composition":"Levetiracetam 1000mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.462.00"}
+{"_id":{"$oid":"5b5848acd51d2960935251b4"},"name":"KEPPRA WG 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.184.65"}
+{"_id":{"$oid":"5b5848aed51d2960935251b5"},"name":"KRONOSTAR 500mg Tablet 10's","composition":"Sodium Valprorate 500mg","manufacturer":"Lupin Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5848b0d51d2960935251b6"},"name":"KRONOSTAR 200MG TABLET 10'S","composition":"SODIUM VALPRORATE 0+VALPROIC ACID 0","manufacturer":"Lupin Ltd","price":"Rs.37.00"}
+{"_id":{"$oid":"5b5848b2d51d2960935251b7"},"name":"KRONOSTAR 300mg Tablet 10's","composition":"Sodium Valprorate 300mg","manufacturer":"Lupin Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b5848b4d51d2960935251b8"},"name":"KURET 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.106.67"}
+{"_id":{"$oid":"5b5848b6d51d2960935251b9"},"name":"KURET 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.56.18"}
+{"_id":{"$oid":"5b5848b8d51d2960935251ba"},"name":"KURET ER 1000mg Tablet 10's","composition":"Levetiracetam 1000mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b5848bad51d2960935251bb"},"name":"KURET ER 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.161.90"}
+{"_id":{"$oid":"5b5848bed51d2960935251bc"},"name":"LACASA 50mg Tablet 10's","composition":"Lacosamide 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.101.65"}
+{"_id":{"$oid":"5b5848c0d51d2960935251bd"},"name":"LACONEXT 50mg Tablet 10's","composition":"Lacosamide 50mg","manufacturer":"Lupin Ltd","price":"Rs.49.50"}
+{"_id":{"$oid":"5b5848c2d51d2960935251be"},"name":"LACONEXT 100mg Tablet 10's","composition":"Lacosamide 100mg","manufacturer":"Lupin Ltd","price":"Rs.94.50"}
+{"_id":{"$oid":"5b5848c4d51d2960935251bf"},"name":"LACONEXT Injection 20ml","composition":"Lacosamide 10mg","manufacturer":"Lupin Ltd","price":"Rs.75.50"}
+{"_id":{"$oid":"5b5848c5d51d2960935251c0"},"name":"LACOPTAL 100mg Tablet 10's","composition":"Lacosamide 100mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.104.00"}
+{"_id":{"$oid":"5b5848c7d51d2960935251c1"},"name":"LACOPTAL 50mg Tablet 10's","composition":"Lacosamide 50mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.59.00"}
+{"_id":{"$oid":"5b5848c9d51d2960935251c2"},"name":"LACORATE 100mg Tablet 10's","composition":"Lacosamide 100mg","manufacturer":"Micro Labs Ltd","price":"Rs.178.00"}
+{"_id":{"$oid":"5b5848cbd51d2960935251c3"},"name":"LACORATE 50mg Tablet 10's","composition":"Lacosamide 50mg","manufacturer":"Micro Labs Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b5848cdd51d2960935251c4"},"name":"LACOSAM 200mg Tablet 10's","composition":"Lacosamide 200mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.184.60"}
+{"_id":{"$oid":"5b5848ced51d2960935251c5"},"name":"LACOSAM Injection 20ml","composition":"Lacosamide 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.98.90"}
+{"_id":{"$oid":"5b5848d1d51d2960935251c6"},"name":"LACOSAM 150mg Tablet 10's","composition":"Lacosamide 150mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.143.00"}
+{"_id":{"$oid":"5b5848d3d51d2960935251c7"},"name":"LACOSAM 100mg Tablet 10's","composition":"Lacosamide 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.110.90"}
+{"_id":{"$oid":"5b5848d5d51d2960935251c8"},"name":"LACOSAM 50mg Tablet 10's","composition":"Lacosamide 50mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.63.70"}
+{"_id":{"$oid":"5b5848d7d51d2960935251c9"},"name":"LACOSET 100mg Tablet 10's","composition":"Lacosamide 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.106.00"}
+{"_id":{"$oid":"5b5848d9d51d2960935251ca"},"name":"LACOSET 200mg Tablet 10's","composition":"Lacosamide 200mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.187.00"}
+{"_id":{"$oid":"5b5848dbd51d2960935251cb"},"name":"LACOSET 150mg Tablet 10's","composition":"Lacosamide 150mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.137.00"}
+{"_id":{"$oid":"5b5848ddd51d2960935251cc"},"name":"LACOSET 50mg Tablet 10's","composition":"Lacosamide 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.61.00"}
+{"_id":{"$oid":"5b5848dfd51d2960935251cd"},"name":"LACOSET Injection 20ml","composition":"Lacosamide 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.183.00"}
+{"_id":{"$oid":"5b5848e1d51d2960935251ce"},"name":"LACOSURE 100mg Tablet 10's","composition":"Lacosamide 100mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.110.90"}
+{"_id":{"$oid":"5b5848e3d51d2960935251cf"},"name":"LACOSURE 50mg Tablet 10's","composition":"Lacosamide 50mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.47.16"}
+{"_id":{"$oid":"5b5848e5d51d2960935251d0"},"name":"LACOTIDE 50mg Tablet 10's","composition":"Lacosamide 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.53.00"}
+{"_id":{"$oid":"5b5848e7d51d2960935251d1"},"name":"LACOTIDE 150MG TABLET 10'S","composition":"Lacosamide 150mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.143.00"}
+{"_id":{"$oid":"5b5848e9d51d2960935251d2"},"name":"LACOTIDE Injection 20ml","composition":"Lacosamide 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.195.00"}
+{"_id":{"$oid":"5b5848ebd51d2960935251d3"},"name":"LACOTIDE 100mg Tablet 10's","composition":"Lacosamide 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b5848edd51d2960935251d4"},"name":"LACOTIDE 200mg Tablet 10's","composition":"Lacosamide 200mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.181.00"}
+{"_id":{"$oid":"5b5848efd51d2960935251d5"},"name":"LACOXA 200MG TABLET 10'S","composition":"LACOSAMIDE 200MG","manufacturer":"Abbott India Ltd","price":"Rs.152.00"}
+{"_id":{"$oid":"5b5848f3d51d2960935251d6"},"name":"LACOXA 10mg Injection 20ml","composition":"Lacosamide 10mg","manufacturer":"Abbott India Ltd","price":"Rs.183.00"}
+{"_id":{"$oid":"5b5848f5d51d2960935251d7"},"name":"LACOXA 50mg Tablet 10's","composition":"Lacosamide 50mg","manufacturer":"Abbott India Ltd","price":"Rs.53.70"}
+{"_id":{"$oid":"5b5848f7d51d2960935251d8"},"name":"LACOXA 100mg Tablet 10's","composition":"Lacosamide 100mg","manufacturer":"Abbott India Ltd","price":"Rs.94.50"}
+{"_id":{"$oid":"5b5848f9d51d2960935251d9"},"name":"LAMEPIL 100mg Tablet 10's","composition":"Lamotrigine 100mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.162.80"}
+{"_id":{"$oid":"5b5848fcd51d2960935251da"},"name":"LAMEPIL 50mg Tablet 10's","composition":"Lamotrigine 50mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.84.50"}
+{"_id":{"$oid":"5b5848fed51d2960935251db"},"name":"LAMEPIL 25mg Tablet 10's","composition":"Lamotrigine 25mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.46.75"}
+{"_id":{"$oid":"5b584900d51d2960935251dc"},"name":"LAMETEC DT 25mg Tablet 10's","composition":"Lamotrigine 25mg","manufacturer":"Cipla Ltd","price":"Rs.66.50"}
+{"_id":{"$oid":"5b584902d51d2960935251dd"},"name":"LAMETEC DT 50mg Tablet 10's","composition":"Lamotrigine 50mg","manufacturer":"Cipla Ltd","price":"Rs.130.90"}
+{"_id":{"$oid":"5b584904d51d2960935251de"},"name":"LAMETEC DT 100mg Tablet 10's","composition":"Lamotrigine 100mg","manufacturer":"Cipla Ltd","price":"Rs.213.50"}
+{"_id":{"$oid":"5b584906d51d2960935251df"},"name":"LAMETEC KID DT 5mg Tablet 10's","composition":"Lamotrigine 5mg","manufacturer":"Cipla Ltd","price":"Rs.15.00"}
+{"_id":{"$oid":"5b584909d51d2960935251e0"},"name":"LAMEZ 5mg Tablet 10's","composition":"Lamotrigine 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.20.00"}
+{"_id":{"$oid":"5b58490ad51d2960935251e1"},"name":"LAMEZ 50mg Tablet 10's","composition":"Lamotrigine 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b58490cd51d2960935251e2"},"name":"LAMEZ 25mg Tablet 10's","composition":"Lamotrigine 25mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.46.00"}
+{"_id":{"$oid":"5b584910d51d2960935251e3"},"name":"LAMEZ 100mg Tablet 10's","composition":"Lamotrigine 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.146.00"}
+{"_id":{"$oid":"5b584912d51d2960935251e4"},"name":"LAMEZ OD 200mg Tablet 10's","composition":"Lamotrigine 200mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.396.00"}
+{"_id":{"$oid":"5b584914d51d2960935251e5"},"name":"LAMEZ OD 50mg Tablet 10's","composition":"Lamotrigine 50mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.116.00"}
+{"_id":{"$oid":"5b584916d51d2960935251e6"},"name":"LAMEZ OD 150mg Tablet 10's","composition":"Lamotrigine 150mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.284.00"}
+{"_id":{"$oid":"5b58491ad51d2960935251e7"},"name":"LAMEZ OD 100mg Tablet 10's","composition":"Lamotrigine 100mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b58491cd51d2960935251e8"},"name":"LAMIACE DT 25mg Tablet 10's","composition":"Lamotrigine 25mg","manufacturer":"Kivi Labs Ltd","price":"Rs.59.90"}
+{"_id":{"$oid":"5b58491ed51d2960935251e9"},"name":"LAMICTAL 50mg Tablet 30's","composition":"Lamotrigine 50mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b584922d51d2960935251ea"},"name":"LAMICTAL 25MG TABLET 14'S","composition":"Lamotrigine","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b584924d51d2960935251eb"},"name":"LAMICTAL 100mg Tablet 30's","composition":"Lamotrigine 100mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.558.00"}
+{"_id":{"$oid":"5b584926d51d2960935251ec"},"name":"LAMICTAL 25mg Tablet 30's","composition":"Lamotrigine 25mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.300.00"}
+{"_id":{"$oid":"5b584928d51d2960935251ed"},"name":"LAMICTAL 50MG TABLET 14'S","composition":"LAMOTRIGINE","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b58492ad51d2960935251ee"},"name":"LAMICTAL DT 5mg Tablet 10's","composition":"LAMOTRIGINE 5MG","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b58492cd51d2960935251ef"},"name":"LAMICTAL DT 50mg Tablet 14's","composition":"Lamotrigine 50mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.139.00"}
+{"_id":{"$oid":"5b58492ed51d2960935251f0"},"name":"LAMICTAL DT 100mg Tablet 14's","composition":"Lamotrigine 100mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b584930d51d2960935251f1"},"name":"LAMICTAL DT 25mg Tablet 14's","composition":"Lamotrigine 25mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.80.25"}
+{"_id":{"$oid":"5b584932d51d2960935251f2"},"name":"LAMICTAL XR 100mg Tablet 30's","composition":"LAMOTRIGINE 100MG","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.558.00"}
+{"_id":{"$oid":"5b584934d51d2960935251f3"},"name":"LAMICTAL XR 200mg Tablet 30's","composition":"LAMOTRIGINE 200MG","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.750.00"}
+{"_id":{"$oid":"5b584936d51d2960935251f4"},"name":"LAMITOR OD 100mg Tablet 10's","composition":"Lamotrigine 100mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.211.00"}
+{"_id":{"$oid":"5b584938d51d2960935251f5"},"name":"LAMITOR 5mg Tablet 10's","composition":"Lamotrigine 5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.52.93"}
+{"_id":{"$oid":"5b58493ad51d2960935251f6"},"name":"LAMITOR DT 100mg Tablet 15's","composition":"Lamotrigine 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.300.00"}
+{"_id":{"$oid":"5b58493cd51d2960935251f7"},"name":"LAMITOR DT 100mg Tablet 10's","composition":"Lamotrigine 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.197.00"}
+{"_id":{"$oid":"5b58493fd51d2960935251f8"},"name":"LAMITOR DT 50mg Tablet 10's","composition":"Lamotrigine 50mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.122.00"}
+{"_id":{"$oid":"5b584941d51d2960935251f9"},"name":"LAMITOR DT 200mg Tablet 10's","composition":"Lamotrigine 200mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.359.00"}
+{"_id":{"$oid":"5b584943d51d2960935251fa"},"name":"LAMITOR DT 25mg Tablet 10's","composition":"Lamotrigine 25mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.72.40"}
+{"_id":{"$oid":"5b584945d51d2960935251fb"},"name":"LAMITOR OD 150mg Tablet 10's","composition":"Lamotrigine 150mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.169.00"}
+{"_id":{"$oid":"5b584947d51d2960935251fc"},"name":"LAMITOR OD 200mg Tablet 10's","composition":"Lamotrigine 200mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.394.00"}
+{"_id":{"$oid":"5b584949d51d2960935251fd"},"name":"LAMITOR OD 50mg Tablet 10's","composition":"Lamotrigine 50mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.113.10"}
+{"_id":{"$oid":"5b58494bd51d2960935251fe"},"name":"LAMOGIN DT 50mg Tablet 10's","composition":"Lamotrigine 50mg","manufacturer":"Fdc Ltd","price":"Rs.38.41"}
+{"_id":{"$oid":"5b58494fd51d2960935251ff"},"name":"LAMOGINE 50mg Tablet 10's","composition":"Lamotrigine 50mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b584951d51d296093525200"},"name":"LAMOGINE 25mg Tablet 10's","composition":"LAMOTRIGINE 25MG","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.34.00"}
+{"_id":{"$oid":"5b584953d51d296093525201"},"name":"LAMOGINE 100mg Tablet 10's","composition":"Lamotrigine 100mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b584955d51d296093525202"},"name":"LAMOKEM OD 50mg Tablet 10's","composition":"Lamotrigine 50mg (OD)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.107.50"}
+{"_id":{"$oid":"5b584957d51d296093525203"},"name":"LAMOKEM OD 100mg Tablet 10's","composition":"Lamotrigine 100mg (OD)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.184.50"}
+{"_id":{"$oid":"5b584959d51d296093525204"},"name":"LAMORIG 50mg Tablet 10's","composition":"Lamotrigine 50mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b58495bd51d296093525205"},"name":"LAMOSYN 25mg Tablet 10's","composition":"Lamotrigine 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.61.00"}
+{"_id":{"$oid":"5b58495dd51d296093525206"},"name":"LAMOSYN 100mg Tablet 10's","composition":"Lamotrigine 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b58495fd51d296093525207"},"name":"LAMOSYN 50mg Tablet 10's","composition":"Lamotrigine 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.103.00"}
+{"_id":{"$oid":"5b584961d51d296093525208"},"name":"LAMRIGA 100mg Tablet 10's","composition":"Lamotrigine 100mg","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b584963d51d296093525209"},"name":"LAMRIGA 25mg Tablet 10's","composition":"Lamotrigine 25mg","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.29.15"}
+{"_id":{"$oid":"5b584965d51d29609352520a"},"name":"LAMRIGA 50mg Tablet 10's","composition":"Lamotrigine 50mg","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.75.23"}
+{"_id":{"$oid":"5b584968d51d29609352520b"},"name":"LAREGAB 300mg Capsule 10's","composition":"Gabapentin 300mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b58496ad51d29609352520c"},"name":"LEPTOMATE 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b58496cd51d29609352520d"},"name":"LEPTOMATE 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.73.00"}
+{"_id":{"$oid":"5b58496ed51d29609352520e"},"name":"LEVACETAM Injection 5ml","composition":"Levetiracetam 500mg","manufacturer":"Micro Labs Ltd","price":"Rs.108.41"}
+{"_id":{"$oid":"5b584971d51d29609352520f"},"name":"LEVACETAM 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Micro Labs Ltd","price":"Rs.124.32"}
+{"_id":{"$oid":"5b584973d51d296093525210"},"name":"LEVACETAM XR 500mg Tablet 10's","composition":"Levetiracetam 500mg (XR)","manufacturer":"Micro Labs Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b584976d51d296093525211"},"name":"LEVACETAM Syrup 100ml","composition":"Levetiracetam 100mg","manufacturer":"Micro Labs Ltd","price":"Rs.350.00"}
+{"_id":{"$oid":"5b584979d51d296093525212"},"name":"LEVACETAM 1000mg Tablet 10's","composition":"Levetiracetam 1000mg","manufacturer":"Micro Labs Ltd","price":"Rs.254.00"}
+{"_id":{"$oid":"5b58497bd51d296093525213"},"name":"LEVACETAM 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Micro Labs Ltd","price":"Rs.57.01"}
+{"_id":{"$oid":"5b58497cd51d296093525214"},"name":"LEVACETAM XR 1000mg Tablet 10's","composition":"LEVETIRACETAM 1000MG","manufacturer":"Micro Labs Ltd","price":"Rs.257.82"}
+{"_id":{"$oid":"5b58497ed51d296093525215"},"name":"LEVACETAM XR 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Micro Labs Ltd","price":"Rs.164.92"}
+{"_id":{"$oid":"5b584980d51d296093525216"},"name":"LEVECAD 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b584982d51d296093525217"},"name":"LEVECAD 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b584984d51d296093525218"},"name":"LEVECAD 100mg Injection 7.5ml","composition":"Levetiracetam 100mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.106.31"}
+{"_id":{"$oid":"5b584986d51d296093525219"},"name":"LEVEDER 1000mg Tablet 10's","composition":"Levetiracetam","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.360.00"}
+{"_id":{"$oid":"5b584988d51d29609352521a"},"name":"LEVEDER 250mg Tablet 10's","composition":"Levetiracetam","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.57.00"}
+{"_id":{"$oid":"5b58498ad51d29609352521b"},"name":"LEVEDER 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b58498cd51d29609352521c"},"name":"LEVEFREE 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Pfizer Limited","price":"Rs.78.00"}
+{"_id":{"$oid":"5b58498ed51d29609352521d"},"name":"LEVEFREE 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Pfizer Limited","price":"Rs.115.19"}
+{"_id":{"$oid":"5b584991d51d29609352521e"},"name":"LEVEMEX Injection 5ml","composition":"Levetiracetam 500mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.110.50"}
+{"_id":{"$oid":"5b584993d51d29609352521f"},"name":"LEVEMEX 1000mg Tablet 10's","composition":"Levetiracetam 1000mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.226.41"}
+{"_id":{"$oid":"5b584995d51d296093525220"},"name":"LEVEMEX 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.118.90"}
+{"_id":{"$oid":"5b584997d51d296093525221"},"name":"LEVEMEX Syrup 100ml","composition":"Levetiracetam ","manufacturer":"ICON LIFE SCIENCES","price":"Rs.360.97"}
+{"_id":{"$oid":"5b584999d51d296093525222"},"name":"LEVEMEX 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.57.40"}
+{"_id":{"$oid":"5b58499bd51d296093525223"},"name":"LEVEMEX OD 750mg Tablet 10's","composition":"Levetiracetam 750mg (OD)","manufacturer":"ICON LIFE SCIENCES","price":"Rs.177.40"}
+{"_id":{"$oid":"5b58499dd51d296093525224"},"name":"LEVEMEX OD 500mg Tablet 10's","composition":"Levetiracetam 500mg (OD)","manufacturer":"ICON LIFE SCIENCES","price":"Rs.139.00"}
+{"_id":{"$oid":"5b58499fd51d296093525225"},"name":"LEVENUE 500mg Tablet 15's","composition":"Levetiracetam 500mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.176.58"}
+{"_id":{"$oid":"5b5849a1d51d296093525226"},"name":"LEVENUE 100mg Injection 5ml","composition":"Levetiracetam 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.67.80"}
+{"_id":{"$oid":"5b5849a3d51d296093525227"},"name":"LEVENUE 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.59.36"}
+{"_id":{"$oid":"5b5849a6d51d296093525228"},"name":"LEVENUE 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.117.72"}
+{"_id":{"$oid":"5b5849a7d51d296093525229"},"name":"LEVENUE Syrup 100ml","composition":"Levetiracetam 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.370.21"}
+{"_id":{"$oid":"5b5849a9d51d29609352522a"},"name":"LEVENUE ER 1gm Tablet 10's","composition":"Levetiracetam 1000mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.287.00"}
+{"_id":{"$oid":"5b5849abd51d29609352522b"},"name":"LEVENUE 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.172.52"}
+{"_id":{"$oid":"5b5849add51d29609352522c"},"name":"LEVENUE 50mg Tablet 10's","composition":"LEVETIRACETAM 50MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5849afd51d29609352522d"},"name":"LEVEPSY 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Cipla Ltd","price":"Rs.141.07"}
+{"_id":{"$oid":"5b5849b1d51d29609352522e"},"name":"LEVEPSY 500mg Tablet 15's","composition":"Levetiracetam Usp 500mg","manufacturer":"Cipla Ltd","price":"Rs.137.77"}
+{"_id":{"$oid":"5b5849b3d51d29609352522f"},"name":"LEVEPSY Syrup 100ml","composition":"Levetiracetam 100mg","manufacturer":"Cipla Ltd","price":"Rs.321.29"}
+{"_id":{"$oid":"5b5849b4d51d296093525230"},"name":"LEVEPSY 250mg Tablet 15's","composition":"Levetiracetam 250mg","manufacturer":"Cipla Ltd","price":"Rs.79.15"}
+{"_id":{"$oid":"5b5849b6d51d296093525231"},"name":"LEVEPSY 1gm Tablet 10's","composition":"Levetiracetam 1gm","manufacturer":"Cipla Ltd","price":"Rs.185.50"}
+{"_id":{"$oid":"5b5849b9d51d296093525232"},"name":"LEVEPSY XR 750mg Tablet 10's","composition":"Levetiracetam 750mg (XR)","manufacturer":"Cipla Ltd","price":"Rs.160.53"}
+{"_id":{"$oid":"5b5849bad51d296093525233"},"name":"LEVEPSY Injection 5ml","composition":"Levetiracetam 500mg","manufacturer":"Cipla Ltd","price":"Rs.110.88"}
+{"_id":{"$oid":"5b5849bcd51d296093525234"},"name":"LEVEPSY XR 500mg Tablet 10's","composition":"Levetiracetam 500mg (XR)","manufacturer":"Cipla Ltd","price":"Rs.146.30"}
+{"_id":{"$oid":"5b5849bfd51d296093525235"},"name":"LEVEPSY 500mg Tablet 10's","composition":"LEVETIRACETAM 0","manufacturer":"Cipla Ltd","price":"Rs.132.07"}
+{"_id":{"$oid":"5b5849c1d51d296093525236"},"name":"LEVERA 500mg Tablet 15's","composition":"Levetiracetam 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.186.48"}
+{"_id":{"$oid":"5b5849c3d51d296093525237"},"name":"LEVERA XR 1gm Tablet 10's","composition":"Levetiracetam 1gm (XR)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.339.00"}
+{"_id":{"$oid":"5b5849c5d51d296093525238"},"name":"LEVERA 1gm Tablet 10's","composition":"Levetiracetam 1000mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.298.00"}
+{"_id":{"$oid":"5b5849c5d51d296093525239"},"name":"LEVERA Oral Solution 200ml","composition":"Levetiracetam 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.711.00"}
+{"_id":{"$oid":"5b5849c7d51d29609352523a"},"name":"LEVERA Injection 5ml","composition":"Levetiracetam 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.114.69"}
+{"_id":{"$oid":"5b5849c9d51d29609352523b"},"name":"LEVERA 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.120.17"}
+{"_id":{"$oid":"5b5849ccd51d29609352523c"},"name":"LEVERA 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.191.07"}
+{"_id":{"$oid":"5b5849cdd51d29609352523d"},"name":"LEVERA 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.61.49"}
+{"_id":{"$oid":"5b5849d0d51d29609352523e"},"name":"LEVERA Solution 100ml","composition":"Levetiracetam 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.383.04"}
+{"_id":{"$oid":"5b5849d2d51d29609352523f"},"name":"LEVERA DT 500mg Tablet 10's","composition":"Levetiracetam","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.117.50"}
+{"_id":{"$oid":"5b5849d2d51d296093525240"},"name":"LEVERA XR 500mg Tablet 10's","composition":"Levetiracetam 500mg (XR)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.171.00"}
+{"_id":{"$oid":"5b5849d5d51d296093525241"},"name":"LEVERA XR 750mg Tablet 10's","composition":"Levetiracetam 750mg (XR)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.182.78"}
+{"_id":{"$oid":"5b5849d7d51d296093525242"},"name":"LEVERON 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.159.00"}
+{"_id":{"$oid":"5b5849d9d51d296093525243"},"name":"LEVERON 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.57.02"}
+{"_id":{"$oid":"5b5849dbd51d296093525244"},"name":"LEVERON 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.120.18"}
+{"_id":{"$oid":"5b5849ddd51d296093525245"},"name":"LEVESAM 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.59.44"}
+{"_id":{"$oid":"5b5849dfd51d296093525246"},"name":"LEVESAM 500MG TABLET 10'S","composition":"Levetiracetam","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.172.77"}
+{"_id":{"$oid":"5b5849e2d51d296093525247"},"name":"LEVESAM 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.182.58"}
+{"_id":{"$oid":"5b5849e5d51d296093525248"},"name":"LEVESAM 1gm Tablet 10's","composition":"Levetiracetam 1gm","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.263.50"}
+{"_id":{"$oid":"5b5849e7d51d296093525249"},"name":"LEVESAM 500mg Tablet 15's","composition":"Levetiracetam 500mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.180.13"}
+{"_id":{"$oid":"5b5849ead51d29609352524a"},"name":"LEVESAM Injection 5ml","composition":"Levetiracetam 500mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.106.31"}
+{"_id":{"$oid":"5b5849ecd51d29609352524b"},"name":"LEVESAM Solution 100ml","composition":"Levetiracetam 100mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.370.03"}
+{"_id":{"$oid":"5b5849eed51d29609352524c"},"name":"LEVESAM XR 1gm Tablet 10's","composition":"Levetiracetam 1gm (XR)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.300.00"}
+{"_id":{"$oid":"5b5849f1d51d29609352524d"},"name":"LEVESAM XR 500mg Tablet 10's","composition":"Levetiracetam 500mg (XR)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.162.50"}
+{"_id":{"$oid":"5b5849f3d51d29609352524e"},"name":"LEVESOL 500MG TABLET 10'S","composition":"levetiracetam","manufacturer":" NA ","price":"Rs.108.00"}
+{"_id":{"$oid":"5b5849f6d51d29609352524f"},"name":"LEVESURE 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Gladstone Pharma India Pvt Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b5849f8d51d296093525250"},"name":"LEVESURE 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Gladstone Pharma India Pvt Ltd","price":"Rs.59.40"}
+{"_id":{"$oid":"5b5849fbd51d296093525251"},"name":"LEVETAS 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.111.00"}
+{"_id":{"$oid":"5b5849fdd51d296093525252"},"name":"LEVETAS 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.164.00"}
+{"_id":{"$oid":"5b5849ffd51d296093525253"},"name":"LEVETAS 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.57.00"}
+{"_id":{"$oid":"5b584a01d51d296093525254"},"name":"LEVETAS Syrup 100ml","composition":"Levetiracetam ","manufacturer":"Tasmed India (P) Limited","price":"Rs.332.37"}
+{"_id":{"$oid":"5b584a03d51d296093525255"},"name":"LEVETRIX 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Icarus Health Care Pvt Ltd","price":"Rs.57.00"}
+{"_id":{"$oid":"5b584a05d51d296093525256"},"name":"LEVEXX 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.59.47"}
+{"_id":{"$oid":"5b584a07d51d296093525257"},"name":"LEVEXX 250mg Tablet 60's","composition":"Levetiracetam 250mg","manufacturer":"Others","price":"Rs.356.82"}
+{"_id":{"$oid":"5b584a09d51d296093525258"},"name":"LEVEXX Injection 5ml","composition":"Levetiracetam 500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.110.88"}
+{"_id":{"$oid":"5b584a0cd51d296093525259"},"name":"LEVEXX 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Others","price":"Rs.124.30"}
+{"_id":{"$oid":"5b584a0ed51d29609352525a"},"name":"LEVEXX 500mg Tablet 60's","composition":"LEVETIRACETAM 500MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.721.02"}
+{"_id":{"$oid":"5b584a10d51d29609352525b"},"name":"LEVEXX OD 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Others","price":"Rs.115.85"}
+{"_id":{"$oid":"5b584a12d51d29609352525c"},"name":"LEVIGRESS 100mg Injection 5ml","composition":"Levetiracetam 100mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.106.00"}
+{"_id":{"$oid":"5b584a14d51d29609352525d"},"name":"LEVIGRESS 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b584a16d51d29609352525e"},"name":"LEVIGRESS Syrup 100ml","composition":"Levetiracetam ","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.354.00"}
+{"_id":{"$oid":"5b584a18d51d29609352525f"},"name":"LEVIGRESS 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.57.00"}
+{"_id":{"$oid":"5b584a1bd51d296093525260"},"name":"LEVIGRESS 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b584a1dd51d296093525261"},"name":"LEVIGRESS 1000mg Tablet 10's","composition":"Levetiracetam 1000mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.219.00"}
+{"_id":{"$oid":"5b584a1fd51d296093525262"},"name":"LEVILEX 750MG TABLET 10'S","composition":"LEVETIRACETAM 750MG","manufacturer":"Abbott India Ltd","price":"Rs.177.03"}
+{"_id":{"$oid":"5b584a21d51d296093525263"},"name":"LEVILEX Injection 5ml","composition":"Levetiracetam 500mg","manufacturer":"Abbott India Ltd","price":"Rs.106.31"}
+{"_id":{"$oid":"5b584a23d51d296093525264"},"name":"LEVILEX 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Abbott India Ltd","price":"Rs.119.75"}
+{"_id":{"$oid":"5b584a25d51d296093525265"},"name":"LEVILEX 1000mg Tablet 10's","composition":"Levetiracetam 1000mg","manufacturer":"Abbott India Ltd","price":"Rs.280.50"}
+{"_id":{"$oid":"5b584a27d51d296093525266"},"name":"LEVILEX XR 1gm Tablet 10's","composition":"Levetiracetam 1gm (XR)","manufacturer":"Abbott India Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b584a29d51d296093525267"},"name":"LEVILEX 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Abbott India Ltd","price":"Rs.57.01"}
+{"_id":{"$oid":"5b584a2bd51d296093525268"},"name":"LEVILEX Syrup 100ml","composition":"Levetiracetam 100mg","manufacturer":"Abbott India Ltd","price":"Rs.369.00"}
+{"_id":{"$oid":"5b584a2dd51d296093525269"},"name":"LEVILEX XR 500mg Tablet 10's","composition":"Levetiracetam 500mg (XR)","manufacturer":"Abbott India Ltd","price":"Rs.139.50"}
+{"_id":{"$oid":"5b584a2ed51d29609352526a"},"name":"LEVILEX(ABBOTT) XR 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Abbott India Ltd","price":"Rs.194.00"}
+{"_id":{"$oid":"5b584a30d51d29609352526b"},"name":"LEVIPIL 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.184.63"}
+{"_id":{"$oid":"5b584a32d51d29609352526c"},"name":"LEVIPIL 1gm Tablet 10's","composition":"Levetiracetam 1gm","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b584a35d51d29609352526d"},"name":"LEVIPIL Injection 5ml","composition":"Levetiracetam 500mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.110.88"}
+{"_id":{"$oid":"5b584a37d51d29609352526e"},"name":"LEVIPIL 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.61.49"}
+{"_id":{"$oid":"5b584a39d51d29609352526f"},"name":"LEVIPIL Syrup 100ml","composition":"Levetiracetam 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.370.20"}
+{"_id":{"$oid":"5b584a3fd51d296093525270"},"name":"LEVIPIL 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.120.14"}
+{"_id":{"$oid":"5b584a42d51d296093525271"},"name":"LEVIPIL XR 500mg Tablet 10's","composition":"Levetiracetam 500mg (XR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b584a44d51d296093525272"},"name":"LEVIPIL XR 1gm Tablet 10's","composition":"Levetiracetam 1000mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.300.00"}
+{"_id":{"$oid":"5b584a47d51d296093525273"},"name":"LEVIPIL XR 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b584a49d51d296093525274"},"name":"LEVITAM 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Others","price":"Rs.49.05"}
+{"_id":{"$oid":"5b584a4bd51d296093525275"},"name":"LEVITAM 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Others","price":"Rs.113.33"}
+{"_id":{"$oid":"5b584a4cd51d296093525276"},"name":"LEVITRA 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.120.17"}
+{"_id":{"$oid":"5b584a4ed51d296093525277"},"name":"LEVIZ Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Zedley Healthcare","price":"Rs.36.00"}
+{"_id":{"$oid":"5b584a50d51d296093525278"},"name":"LEVROXA 100mg Injection 5ml","composition":"Levetiracetam 100mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b584a52d51d296093525279"},"name":"LEVROXA 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Strides Shasun Ltd","price":"Rs.118.93"}
+{"_id":{"$oid":"5b584a54d51d29609352527a"},"name":"LEVROXA 250mg Tablet 10's","composition":"LEVETIRACETAM 250MG","manufacturer":" NA ","price":"Rs.58.95"}
+{"_id":{"$oid":"5b584a55d51d29609352527b"},"name":"LEVROXA Syrup 100ml","composition":"Levetiracetam 100mg","manufacturer":"Strides Shasun Ltd","price":"Rs.349.00"}
+{"_id":{"$oid":"5b584a57d51d29609352527c"},"name":"LEVROXA 1000mg Tablet 10's","composition":"Levetiracetam 1000mg","manufacturer":"Strides Shasun Ltd","price":"Rs.353.50"}
+{"_id":{"$oid":"5b584a5ad51d29609352527d"},"name":"LEVROXA XR 500mg Tablet 10's","composition":"Levetiracetam 500mg (XR)","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.143.00"}
+{"_id":{"$oid":"5b584a5cd51d29609352527e"},"name":"LEVROXA XR 1000mg Tablet 10's","composition":"LEVETIRACETAM 1000MG","manufacturer":"Eris Lifesciences Ltd","price":"Rs.230.58"}
+{"_id":{"$oid":"5b584a5ed51d29609352527f"},"name":"LEVROXA XR 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.161.91"}
+{"_id":{"$oid":"5b584a60d51d296093525280"},"name":"LEVTAM 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.59.51"}
+{"_id":{"$oid":"5b584a63d51d296093525281"},"name":"LEVTAM Syrup 100ml","composition":"LEVETIRACETAM 100MG","manufacturer":"Unichem Laboratories Ltd","price":"Rs.328.50"}
+{"_id":{"$oid":"5b584a65d51d296093525282"},"name":"LEVTAM Injection 5ml","composition":"Levetiracetam 500mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.108.41"}
+{"_id":{"$oid":"5b584a67d51d296093525283"},"name":"LEVTAM 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.120.20"}
+{"_id":{"$oid":"5b584a69d51d296093525284"},"name":"LIRCETAM 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584a6bd51d296093525285"},"name":"LIVATIRA 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Wockhardt Ltd","price":"Rs.55.28"}
+{"_id":{"$oid":"5b584a6dd51d296093525286"},"name":"LIVATIRA 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Wockhardt Ltd","price":"Rs.119.96"}
+{"_id":{"$oid":"5b584a70d51d296093525287"},"name":"LIVATIRA 100mg Solution 100ml","composition":"Levetiracetam 100mg","manufacturer":"Wockhardt Ltd","price":"Rs.370.21"}
+{"_id":{"$oid":"5b584a72d51d296093525288"},"name":"LIVATIRA Injection 5ml","composition":"Levetiracetam 500mg","manufacturer":"Wockhardt Ltd","price":"Rs.110.88"}
+{"_id":{"$oid":"5b584a74d51d296093525289"},"name":"LOVAX 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Lupin Ltd","price":"Rs.27.50"}
+{"_id":{"$oid":"5b584a76d51d29609352528a"},"name":"LOVAX OD 300mg Tablet 10's","composition":"Oxcarbazepine 300mg (OD)","manufacturer":"Lupin Ltd","price":"Rs.52.50"}
+{"_id":{"$oid":"5b584a78d51d29609352528b"},"name":"LOVAX 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Lupin Ltd","price":"Rs.43.40"}
+{"_id":{"$oid":"5b584a7ad51d29609352528c"},"name":"LOVAX OD 600mg Tablet 10's","composition":"Oxcarbazepine 600mg (OD)","manufacturer":"Lupin Ltd","price":"Rs.96.50"}
+{"_id":{"$oid":"5b584a7cd51d29609352528d"},"name":"LYSIPRIN 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.68.75"}
+{"_id":{"$oid":"5b584a7ed51d29609352528e"},"name":"M TOIN 100mg Tablet 10's","composition":"Phenytoin Sodium 100mg","manufacturer":"Medopharm Pvt Ltd","price":"Rs.14.45"}
+{"_id":{"$oid":"5b584a80d51d29609352528f"},"name":"M TOIN 50mg Tablet 10's","composition":"Phenytoin Sodium 50mg","manufacturer":"Medopharm Pvt Ltd","price":"Rs.8.60"}
+{"_id":{"$oid":"5b584a82d51d296093525290"},"name":"MACORATE 200mg Tablet 10's","composition":"Magnesium Valproate 200mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.42.00"}
+{"_id":{"$oid":"5b584a84d51d296093525291"},"name":"MACORATE CR 500mg Tablet 10's","composition":"Magnesium Valproate 500mg (CR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.102.00"}
+{"_id":{"$oid":"5b584a86d51d296093525292"},"name":"MACORATE 400mg Tablet 10's","composition":"Magnesium Valproate 400mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b584a88d51d296093525293"},"name":"MACORATE CR 300mg Tablet 10's","composition":"Magnesium Valproate 300mg (CR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.74.50"}
+{"_id":{"$oid":"5b584a8ad51d296093525294"},"name":"MACORATE CR 600mg Tablet 10's","composition":"Magnesium Valproate 600mg (CR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.128.00"}
+{"_id":{"$oid":"5b584a8cd51d296093525295"},"name":"MACORATE CR 400mg Tablet 10's","composition":"Magnesium Valproate 400mg (CR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.87.50"}
+{"_id":{"$oid":"5b584a8ed51d296093525296"},"name":"MACORATE CR 200mg Tablet 10's","composition":"MAGNESIUM VALPROATE 200MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.49.00"}
+{"_id":{"$oid":"5b584a90d51d296093525297"},"name":"MAGNEON Injection 2ml","composition":"Magnesium Sulphate 50%W/V","manufacturer":"Neon Laboratories Ltd","price":"Rs.9.65"}
+{"_id":{"$oid":"5b584a92d51d296093525298"},"name":"MAJEROL 200mg Tablet 10's","composition":"Carbamazapine 200mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.13.60"}
+{"_id":{"$oid":"5b584a94d51d296093525299"},"name":"MANOCALM 5MG TABLET 10'S","composition":"CHLORPROMAZINE 5MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.18.86"}
+{"_id":{"$oid":"5b584a96d51d29609352529a"},"name":"MANOCALM FORTE Tablet 10's","composition":"CHLORPROMAZINE 50MG+TRIFLUOPERAZINE 2MG+TRIHEXYPHENIDYL 5MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.4.65"}
+{"_id":{"$oid":"5b584a98d51d29609352529b"},"name":"MAXGALIN ER 150mg Tablet 10's","composition":"Pregabalin 150mg (ER)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.208.00"}
+{"_id":{"$oid":"5b584a9ad51d29609352529c"},"name":"MAXGALIN 50mg Capsule 10's","composition":"Pregabalin 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.82.00"}
+{"_id":{"$oid":"5b584a9ed51d29609352529d"},"name":"MAXGALIN 75mg Capsule 10's","composition":"Pregabalin 75mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b584aa0d51d29609352529e"},"name":"MAXGALIN 150mg Capsule 10's","composition":"Pregabalin 150mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.219.00"}
+{"_id":{"$oid":"5b584aa2d51d29609352529f"},"name":"MAXGALIN ER 75mg Tablet 10's","composition":"Pregabalin 75mg (ER)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.133.00"}
+{"_id":{"$oid":"5b584aa4d51d2960935252a0"},"name":"MAXGALIN ER 100mg Tablet 10's","composition":"Pregabalin 100mg (ER)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.147.00"}
+{"_id":{"$oid":"5b584aa6d51d2960935252a1"},"name":"MAZEPINE 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"Lupin Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b584aa8d51d2960935252a2"},"name":"MAZETOL 100mg Tablet 10's","composition":"Carbamazepine 100mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.6.94"}
+{"_id":{"$oid":"5b584aaad51d2960935252a3"},"name":"MAZETOL 400mg Tablet 10's","composition":"Carbamazepine 400mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.29.87"}
+{"_id":{"$oid":"5b584aadd51d2960935252a4"},"name":"MAZETOL 200mg Tablet 10's","composition":"Carbamazepine 200mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.14.49"}
+{"_id":{"$oid":"5b584aafd51d2960935252a5"},"name":"MAZETOL SR 200mg Tablet 10's","composition":"Carbamazepine 200mg (SR)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.15.76"}
+{"_id":{"$oid":"5b584ab1d51d2960935252a6"},"name":"MAZETOL SR 400mg Tablet 10's","composition":"Carbamazepine 400mg (SR)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.30.29"}
+{"_id":{"$oid":"5b584ab4d51d2960935252a7"},"name":"MAZETOL SR 300mg Tablet 10's","composition":"Carbamazepine 300mg (SR)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.24.00"}
+{"_id":{"$oid":"5b584ab5d51d2960935252a8"},"name":"MEDOVAL 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Medopharm Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b584ab7d51d2960935252a9"},"name":"MEDOVAL 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"Medopharm Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b584ab9d51d2960935252aa"},"name":"MEZAPIN 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"La Pharmaceuticals","price":"Rs.14.00"}
+{"_id":{"$oid":"5b584abbd51d2960935252ab"},"name":"MEZAPIN XR 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"La Pharmaceuticals","price":"Rs.15.79"}
+{"_id":{"$oid":"5b584abdd51d2960935252ac"},"name":"MEZAPIN XR 400MG TABLET 10'S","composition":"CARBAMAZEPINE 400MG","manufacturer":"La Pharmaceuticals","price":"Rs.31.02"}
+{"_id":{"$oid":"5b584abfd51d2960935252ad"},"name":"MEZARIL 100MG TABLET 10'S","composition":"CARBAMAZEPINE 100MG","manufacturer":" NA ","price":"Rs.7.88"}
+{"_id":{"$oid":"5b584ac1d51d2960935252ae"},"name":"MEZARIL SR 400MG TABLET 10'S","composition":"CARBAMAZEPINE 400MG","manufacturer":" NA ","price":"Rs.26.85"}
+{"_id":{"$oid":"5b584ac3d51d2960935252af"},"name":"MEZARIL SR 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":" NA ","price":"Rs.15.96"}
+{"_id":{"$oid":"5b584ac5d51d2960935252b0"},"name":"MEZOCAR LA 300MG TABLET 10'S","composition":"CARBAMAZEPINE 300MG","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.16.66"}
+{"_id":{"$oid":"5b584ac7d51d2960935252b1"},"name":"MEZOCAR LA 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.12.38"}
+{"_id":{"$oid":"5b584ac9d51d2960935252b2"},"name":"MEZOCAR LA 100MG TABLET 10'S","composition":"CARBAMAZEPINE 100MG","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.6.66"}
+{"_id":{"$oid":"5b584accd51d2960935252b3"},"name":"MONOTOP 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Kivi Labs Ltd","price":"Rs.41.70"}
+{"_id":{"$oid":"5b584aced51d2960935252b4"},"name":"MONOTOP 50mg Tablet 100's","composition":"Topiramate 50mg","manufacturer":"Kivi Labs Ltd","price":"Rs.121.60"}
+{"_id":{"$oid":"5b584ad0d51d2960935252b5"},"name":"MONOTOP 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"Kivi Labs Ltd","price":"Rs.75.40"}
+{"_id":{"$oid":"5b584ad2d51d2960935252b6"},"name":"MOVAPENTIN 300mg Tablet 10's","composition":"Gabapentin 300mg","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.135.90"}
+{"_id":{"$oid":"5b584ad4d51d2960935252b7"},"name":"MOVAPENTIN 100mg Tablet 10's","composition":"Gabapentin 100mg","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.55.09"}
+{"_id":{"$oid":"5b584ad6d51d2960935252b8"},"name":"NAPILEX 200mg LIQUID 200ml","composition":"Sodium Valproate 200mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.59.99"}
+{"_id":{"$oid":"5b584ad8d51d2960935252b9"},"name":"NAPILEX Syrup 100ml","composition":"Sodium Valproate 200mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.66.98"}
+{"_id":{"$oid":"5b584adad51d2960935252ba"},"name":"NAVALIN 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.28.00"}
+{"_id":{"$oid":"5b584adcd51d2960935252bb"},"name":"NAVALIN 500mg Tablet 10's","composition":"Sodium Valproate 500mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.71.81"}
+{"_id":{"$oid":"5b584aded51d2960935252bc"},"name":"NAVALIN 300mg Tablet 10's","composition":"Sodium Valproate 300mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.56.05"}
+{"_id":{"$oid":"5b584ae0d51d2960935252bd"},"name":"NAVALIN CHRONO 200mg Tablet 10's","composition":"Sodium Valproate 200mg+Valproic Acid ","manufacturer":"Molekule India Pvt Ltd","price":"Rs.42.37"}
+{"_id":{"$oid":"5b584ae2d51d2960935252be"},"name":"NAVALIN CHRONO 333/145mg Tablet 10's","composition":"Sodium Valproate 333mg+Valproic Acid 145mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.89.52"}
+{"_id":{"$oid":"5b584ae4d51d2960935252bf"},"name":"NEOLET 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Kivi Labs Ltd","price":"Rs.58.17"}
+{"_id":{"$oid":"5b584ae7d51d2960935252c0"},"name":"NEOLET 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Kivi Labs Ltd","price":"Rs.120.18"}
+{"_id":{"$oid":"5b584ae9d51d2960935252c1"},"name":"NEOLET 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Kivi Labs Ltd","price":"Rs.184.69"}
+{"_id":{"$oid":"5b584aecd51d2960935252c2"},"name":"NERVIBRAIN 300mg Capsule 10's","composition":"Gabapentin 300mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.131.64"}
+{"_id":{"$oid":"5b584aeed51d2960935252c3"},"name":"NERVIBRAIN 100mg Tablet 10's","composition":"Gabapentin 100mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.50.71"}
+{"_id":{"$oid":"5b584af0d51d2960935252c4"},"name":"NEUGABA 75mg Capsule 10's","composition":"Pregabalin 75mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b584af2d51d2960935252c5"},"name":"NEUGABA 150mg Capsule 10's","composition":"Pregabalin 150mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.219.00"}
+{"_id":{"$oid":"5b584af5d51d2960935252c6"},"name":"NEUGABA ER 150mg Tablet 10's","composition":"Pregabalin 150mg (ER)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b584af7d51d2960935252c7"},"name":"NEUGABA ER 75mg Tablet 10's","composition":"Pregabalin 75mg (ER)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.133.00"}
+{"_id":{"$oid":"5b584af9d51d2960935252c8"},"name":"NEUPENT AF 600mg Tablet 10's","composition":"Gabapentin 600mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.195.30"}
+{"_id":{"$oid":"5b584afbd51d2960935252c9"},"name":"NEUPENT AF 450mg Tablet 10's","composition":"Gabapentin 450mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.176.00"}
+{"_id":{"$oid":"5b584afdd51d2960935252ca"},"name":"NEUPENT AF 900mg Tablet 10's","composition":"Gabapentin 900mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.277.20"}
+{"_id":{"$oid":"5b584affd51d2960935252cb"},"name":"NEUROPENTIN 300mg Capsule 10's","composition":"Gabapentin 300mg","manufacturer":"Synokem Pharmaceuticals Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b584b01d51d2960935252cc"},"name":"NEXTOP 100mg Tablet 10's","composition":"Topiramate 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.174.00"}
+{"_id":{"$oid":"5b584b03d51d2960935252cd"},"name":"NEXTOP 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.110.90"}
+{"_id":{"$oid":"5b584b05d51d2960935252ce"},"name":"NEXTOP 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.55.40"}
+{"_id":{"$oid":"5b584b07d51d2960935252cf"},"name":"NORMICTAL 400mg Tablet 10's","composition":"Eslicarbazepine 400mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b584b08d51d2960935252d0"},"name":"NORMICTAL 800mg Tablet 10's","composition":"Eslicarbazepine 800mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b584b0ad51d2960935252d1"},"name":"NOVA 75mg Capsule 10's","composition":"Pregabalin 75mg","manufacturer":"Cipla Ltd","price":"Rs.101.75"}
+{"_id":{"$oid":"5b584b0cd51d2960935252d2"},"name":"NOXVAL CHRONO 333/145mg Tablet 10's","composition":"Sodium Valproate 333mg+Valproic Acid 145mg","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.100.95"}
+{"_id":{"$oid":"5b584b0ed51d2960935252d3"},"name":"NOXVAL CHRONO 133/58mg Tablet 10's","composition":"Sodium Valproate 133mg+Valproic Acid 58mg","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.39.52"}
+{"_id":{"$oid":"5b584b10d51d2960935252d4"},"name":"NOXVAL CHRONO 200/87mg Tablet 10's","composition":"Sodium Valproate 200mg+Valproic Acid 87mg","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.53.32"}
+{"_id":{"$oid":"5b584b12d51d2960935252d5"},"name":"O2 CAR 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Zoic Chemicals \u0026 Pharmaceuticals Pvt Ltd","price":"Rs.93.00"}
+{"_id":{"$oid":"5b584b14d51d2960935252d6"},"name":"OLEPTAL OD 900mg Tablet 10's","composition":"Oxcarbazepine 900mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.276.00"}
+{"_id":{"$oid":"5b584b16d51d2960935252d7"},"name":"OLEPTAL DT 450mg Tablet 10's","composition":"Oxcarbazepine 450mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b584b18d51d2960935252d8"},"name":"OLEPTAL OD 300mg Tablet 10's","composition":"Oxcarbazepine 300mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.112.00"}
+{"_id":{"$oid":"5b584b1bd51d2960935252d9"},"name":"OLEPTAL OD 600mg Tablet 10's","composition":"Oxcarbazepine 600mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.208.80"}
+{"_id":{"$oid":"5b584b1dd51d2960935252da"},"name":"OLEPTAL DT 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.92.30"}
+{"_id":{"$oid":"5b584b1fd51d2960935252db"},"name":"OLEPTAL OD 150mg Tablet 10's","composition":"Oxcarbazepine 150mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.62.60"}
+{"_id":{"$oid":"5b584b20d51d2960935252dc"},"name":"OLEPTAL OD 450mg Tablet 10's","composition":"Oxcarbazepine 450mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.157.20"}
+{"_id":{"$oid":"5b584b22d51d2960935252dd"},"name":"OLEPTAL DT 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b584b24d51d2960935252de"},"name":"OLEPTAL DT 150mg Tablet 15's","composition":"Oxcarbazepine 150mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.81.00"}
+{"_id":{"$oid":"5b584b28d51d2960935252df"},"name":"OXACENT 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Crescent Pharmaceuticals","price":"Rs.48.19"}
+{"_id":{"$oid":"5b584b2bd51d2960935252e0"},"name":"OXANA SR 300mg Tablet 10's","composition":"Oxcarbazepine 300mg (SR)","manufacturer":"Psyco Remedies Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b584b2dd51d2960935252e1"},"name":"OXCARB 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Cipla Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b584b2fd51d2960935252e2"},"name":"OXCARB 450mg Tablet 10's","composition":"Oxcarbazepine 450mg","manufacturer":"Cipla Ltd","price":"Rs.114.50"}
+{"_id":{"$oid":"5b584b31d51d2960935252e3"},"name":"OXCARB 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Cipla Ltd","price":"Rs.92.50"}
+{"_id":{"$oid":"5b584b33d51d2960935252e4"},"name":"OXCARB 600mg Tablet 10's","composition":"Oxcarbazepine","manufacturer":"Cipla Ltd","price":"Rs.173.50"}
+{"_id":{"$oid":"5b584b35d51d2960935252e5"},"name":"OXCAZO 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b584b39d51d2960935252e6"},"name":"OXCAZO OD 300mg Tablet 10's","composition":"Oxcarbazepine 300mg (OD)","manufacturer":"Unichem Laboratories Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b584b3bd51d2960935252e7"},"name":"OXCAZO 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b584b3dd51d2960935252e8"},"name":"OXCAZO 600mg Tablet 10's","composition":"Oxcarbazepine 600mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b584b3fd51d2960935252e9"},"name":"OXCAZO OD 600mg Tablet 10's","composition":"Oxcarbazepine","manufacturer":"Unichem Laboratories Ltd","price":"Rs.142.75"}
+{"_id":{"$oid":"5b584b41d51d2960935252ea"},"name":"OXEPIN 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.56.50"}
+{"_id":{"$oid":"5b584b43d51d2960935252eb"},"name":"OXEPIN 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.81.50"}
+{"_id":{"$oid":"5b584b45d51d2960935252ec"},"name":"OXEPTAL OD 150mg Tablet 10's","composition":"Oxcarbazepine 150mg (OD)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.41.00"}
+{"_id":{"$oid":"5b584b47d51d2960935252ed"},"name":"OXEPTAL 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.74.50"}
+{"_id":{"$oid":"5b584b49d51d2960935252ee"},"name":"OXEPTAL OD 300mg Tablet 10's","composition":"Oxcarbazepine 300mg (OD)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.74.50"}
+{"_id":{"$oid":"5b584b4cd51d2960935252ef"},"name":"OXEPTAL 600mg Tablet 10's","composition":"Oxcarbazepine 600mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.93.21"}
+{"_id":{"$oid":"5b584b4ed51d2960935252f0"},"name":"OXETOL 450mg Tablet 10's","composition":"Oxcarbazepine 450mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.136.00"}
+{"_id":{"$oid":"5b584b50d51d2960935252f1"},"name":"OXETOL XR 300mg Tablet 10's","composition":"Oxcarbazepine 300mg (XR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.102.00"}
+{"_id":{"$oid":"5b584b52d51d2960935252f2"},"name":"OXETOL XR 150mg Tablet 10's","composition":"Oxcarbazepine 150mg (XR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b584b54d51d2960935252f3"},"name":"OXETOL 600mg Tablet 10's","composition":"Oxcarbazepine 600mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.156.00"}
+{"_id":{"$oid":"5b584b57d51d2960935252f4"},"name":"OXETOL XR 450mg Tablet 10's","composition":"Oxcarbazepine 450mg (XR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.139.00"}
+{"_id":{"$oid":"5b584b58d51d2960935252f5"},"name":"OXETOL 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b584b5bd51d2960935252f6"},"name":"OXETOL XR 600mg Tablet 10's","composition":"Oxcarbazepine 600mg (XR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b584b5dd51d2960935252f7"},"name":"OXETOL C 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.47.00"}
+{"_id":{"$oid":"5b584b5fd51d2960935252f8"},"name":"OXETOL 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b584b63d51d2960935252f9"},"name":"OXICAR 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.65.77"}
+{"_id":{"$oid":"5b584b65d51d2960935252fa"},"name":"OXILEPTIN 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Pfizer Limited","price":"Rs.76.00"}
+{"_id":{"$oid":"5b584b67d51d2960935252fb"},"name":"OXILEPTIN 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Pfizer Limited","price":"Rs.42.50"}
+{"_id":{"$oid":"5b584b69d51d2960935252fc"},"name":"OXMAZETOL 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.54.50"}
+{"_id":{"$oid":"5b584b6dd51d2960935252fd"},"name":"OXMAZETOL 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.98.50"}
+{"_id":{"$oid":"5b584b6ed51d2960935252fe"},"name":"OXMAZETOL 450mg Tablet 10's","composition":"OXCARBAZEPINE 450MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b584b6fd51d2960935252ff"},"name":"OXMAZETOL ER 600mg Tablet 10's","composition":"Oxcarbazepine 600mg (ER)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.169.00"}
+{"_id":{"$oid":"5b584b71d51d296093525300"},"name":"OXMAZETOL ER 300mg Tablet 10's","composition":"Oxcarbazepine 300mg (ER)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.92.00"}
+{"_id":{"$oid":"5b584b73d51d296093525301"},"name":"OXRATE 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Wockhardt Ltd","price":"Rs.24.09"}
+{"_id":{"$oid":"5b584b75d51d296093525302"},"name":"OXRATE 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Wockhardt Ltd","price":"Rs.33.20"}
+{"_id":{"$oid":"5b584b78d51d296093525303"},"name":"OXRATE 600mg Tablet 10's","composition":"Oxcarbazepine 600mg","manufacturer":"Wockhardt Ltd","price":"Rs.105.77"}
+{"_id":{"$oid":"5b584b79d51d296093525304"},"name":"OXRING OD 600mg Tablet 10's","composition":"Oxcarbazepine 600mg (OD)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.164.00"}
+{"_id":{"$oid":"5b584b7dd51d296093525305"},"name":"OXRING 900mg Tablet 10's","composition":"Oxcarbazepine 900mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.198.00"}
+{"_id":{"$oid":"5b584b7fd51d296093525306"},"name":"OXRING 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.82.50"}
+{"_id":{"$oid":"5b584b81d51d296093525307"},"name":"OXRING OD 300mg Tablet 10's","composition":"Oxcarbazepine 300mg (OD)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b584b84d51d296093525308"},"name":"OXRING 600mg Tablet 10's","composition":"Oxcarbazepine 600mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.119.05"}
+{"_id":{"$oid":"5b584b86d51d296093525309"},"name":"OXRING 450mg Tablet 10's","composition":"Oxcarbazepine 450mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b584b88d51d29609352530a"},"name":"OXRING 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b584b8bd51d29609352530b"},"name":"PEG SR 75mg Tablet 10's","composition":"Pregabalin 75mg (SR)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.129.80"}
+{"_id":{"$oid":"5b584b8dd51d29609352530c"},"name":"PENTANERV 300mg Tablet 10's","composition":"Gabapentin 300mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.160.50"}
+{"_id":{"$oid":"5b584b8fd51d29609352530d"},"name":"PHENOBARBITONE 60mg Tablet 20's","composition":"Phenobarbitone 60mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.26.51"}
+{"_id":{"$oid":"5b584b91d51d29609352530e"},"name":"PHENYKEM 300mg Tablet 10's","composition":"Phenytoin Sodium 300mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b584b93d51d29609352530f"},"name":"PHENYKEM 100mg Tablet 10's","composition":"Phenytoin Sodium 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.158.49"}
+{"_id":{"$oid":"5b584b94d51d296093525310"},"name":"PHENYTAL 50mg Tablet 10's","composition":"Phenobarbitone 50mg+Phenytoin 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.14.00"}
+{"_id":{"$oid":"5b584b96d51d296093525311"},"name":"PHENYTAL 30mg Tablet 10's","composition":"Phenobarbitone 30mg+Phenytoin 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.12.00"}
+{"_id":{"$oid":"5b584b98d51d296093525312"},"name":"PHENYTOIN 100mg Capsule 10's","composition":"Phenytoin 100mg","manufacturer":"Cipla Ltd","price":"Rs.12.15"}
+{"_id":{"$oid":"5b584b9ad51d296093525313"},"name":"PHENYTOIN 100mg Injection 2ml","composition":"Phenytoin 100mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.10.34"}
+{"_id":{"$oid":"5b584b9cd51d296093525314"},"name":"PREBAXE 75mg Capsule 10's","composition":"Pregabalin 75mg","manufacturer":"Cipla Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b584b9dd51d296093525315"},"name":"PREBAXE 150mg Tablet 10's","composition":"Pregabalin 150mg","manufacturer":"Cipla Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b584b9fd51d296093525316"},"name":"PREGABA 50mg Capsule 10's","composition":"Pregabalin 50mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.92.00"}
+{"_id":{"$oid":"5b584ba1d51d296093525317"},"name":"PREGABA 75mg Capsule 10's","composition":"Pregabalin 75mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.140.50"}
+{"_id":{"$oid":"5b584ba3d51d296093525318"},"name":"PREGABA SR 75mg Tablet 10's","composition":"Pregabalin 75mg (SR)","manufacturer":"Unichem Laboratories Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b584ba5d51d296093525319"},"name":"PREGABID 150mg Capsule 10's","composition":"Pregabalin 150mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b584ba7d51d29609352531a"},"name":"PREGABID 75mg Capsule 10's","composition":"PREGABALIN 75MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.151.50"}
+{"_id":{"$oid":"5b584baad51d29609352531b"},"name":"PREGABID OD 100mg Tablet 10's","composition":"Pregabalin 100mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b584bacd51d29609352531c"},"name":"PREGABID 50mg Capsule 10's","composition":"Pregabalin 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.83.00"}
+{"_id":{"$oid":"5b584baed51d29609352531d"},"name":"PREGADOC 75mg Capsule 10's","composition":"Pregabalin 75mg","manufacturer":"Lupin Ltd","price":"Rs.115.50"}
+{"_id":{"$oid":"5b584bb0d51d29609352531e"},"name":"PREGALIN 75mg Capsule 15's","composition":"Pregabalin 75mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.191.20"}
+{"_id":{"$oid":"5b584bb2d51d29609352531f"},"name":"PREGALIN 50mg Capsule 10's","composition":"Pregabalin 50mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.81.30"}
+{"_id":{"$oid":"5b584bb4d51d296093525320"},"name":"PREGALIN 150mg Capsule 10's","composition":"Pregabalin 150mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.229.50"}
+{"_id":{"$oid":"5b584bb6d51d296093525321"},"name":"PREGALIN SR 150mg Tablet 10's","composition":"Pregabalin 150mg (SR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.216.50"}
+{"_id":{"$oid":"5b584bb8d51d296093525322"},"name":"PREGALIN SR 75mg Tablet 10's","composition":"Pregabalin 75mg (SR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.127.40"}
+{"_id":{"$oid":"5b584bbad51d296093525323"},"name":"PREGASTAR 75mg CAPSULE 10's","composition":"Pregabalin 75mg","manufacturer":"Lupin Ltd","price":"Rs.139.60"}
+{"_id":{"$oid":"5b584bbcd51d296093525324"},"name":"PREGASTAR OD 75mg Tablet 10's","composition":"Pregabalin 75mg (OD)","manufacturer":"Lupin Ltd","price":"Rs.130.80"}
+{"_id":{"$oid":"5b584bbfd51d296093525325"},"name":"PROGABA 300mg Tablet 10's","composition":"Gabapentin 300mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.152.00"}
+{"_id":{"$oid":"5b584bc1d51d296093525326"},"name":"PROGABA 100mg Tablet 10's","composition":"Gabapentin 100mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.57.00"}
+{"_id":{"$oid":"5b584bc3d51d296093525327"},"name":"PROVALEX 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.49.52"}
+{"_id":{"$oid":"5b584bc5d51d296093525328"},"name":"PROVALEX 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.94.00"}
+{"_id":{"$oid":"5b584bc7d51d296093525329"},"name":"PRYNERVE 75mg Capsule 10's","composition":"Pregabalin 75mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b584bc9d51d29609352532a"},"name":"PRYNERVE OD 75mg Tablet 10's","composition":"Pregabalin 75mg (OD)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b584bcbd51d29609352532b"},"name":"REJUNATE 300mg Capsule 10's","composition":"Gabapentin 300mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.96.18"}
+{"_id":{"$oid":"5b584bcdd51d29609352532c"},"name":"REJURON 300mg Capsule 10's","composition":"Gabapentin 300mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.101.00"}
+{"_id":{"$oid":"5b584bd1d51d29609352532d"},"name":"REX XR 250mg Tablet 15's","composition":"Divalproex 250mg (XR)","manufacturer":"Abbott India Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b584bd3d51d29609352532e"},"name":"REX XR 500mg Tablet 15'S","composition":"Divalproex 500mg","manufacturer":"Abbott India Ltd","price":"Rs.178.50"}
+{"_id":{"$oid":"5b584bd5d51d29609352532f"},"name":"SEIZ FREE 1000mg Tablet 10's","composition":"Levetiracetam 1000mg","manufacturer":"Usv Private Ltd","price":"Rs.230.50"}
+{"_id":{"$oid":"5b584bd7d51d296093525330"},"name":"SEIZ FREE 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Usv Private Ltd","price":"Rs.58.17"}
+{"_id":{"$oid":"5b584bdad51d296093525331"},"name":"SEIZ FREE 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Usv Private Ltd","price":"Rs.120.18"}
+{"_id":{"$oid":"5b584bdbd51d296093525332"},"name":"SEIZGARD 50mg Tablet 10's","composition":"Lacosamide 50mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.131.00"}
+{"_id":{"$oid":"5b584bddd51d296093525333"},"name":"SEIZGARD 200mg Tablet 10's","composition":"Lacosamide 200mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.525.00"}
+{"_id":{"$oid":"5b584bdfd51d296093525334"},"name":"SEIZGARD 100mg Tablet 10's","composition":"Lacosamide 100mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.262.00"}
+{"_id":{"$oid":"5b584be1d51d296093525335"},"name":"SEIZGARD 150mg Tablet 10's","composition":"Lacosamide 150mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.394.00"}
+{"_id":{"$oid":"5b584be3d51d296093525336"},"name":"SEIZLAC 50mg Tablet 10's","composition":"Lacosamide 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.49.40"}
+{"_id":{"$oid":"5b584be5d51d296093525337"},"name":"SEIZLAC 100mg Tablet 10's","composition":"Lacosamide 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.93.40"}
+{"_id":{"$oid":"5b584be7d51d296093525338"},"name":"SEIZPRESS ER 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Others","price":"Rs.69.50"}
+{"_id":{"$oid":"5b584be9d51d296093525339"},"name":"SELZIC 450mg Tablet 10's","composition":"Oxcarbazepine 450mg","manufacturer":"Strides Shasun Ltd","price":"Rs.137.50"}
+{"_id":{"$oid":"5b584becd51d29609352533a"},"name":"SELZIC 600MG TABLET 10'S","composition":"OXCARBAZEPINE 600MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.175.45"}
+{"_id":{"$oid":"5b584beed51d29609352533b"},"name":"SELZIC 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.111.65"}
+{"_id":{"$oid":"5b584bf0d51d29609352533c"},"name":"SELZIC 300mg Suspension 60ml","composition":"Oxcarbazepine 300mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.71.30"}
+{"_id":{"$oid":"5b584bf3d51d29609352533d"},"name":"SELZIC 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b584bf5d51d29609352533e"},"name":"SELZIC OD 300mg Tablet 10's","composition":"Oxcarbazepine 300mg (OD)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b584bf7d51d29609352533f"},"name":"SELZIC OD 900mg Tablet 10's","composition":"OXCARBAZEPINE 900 MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.235.00"}
+{"_id":{"$oid":"5b584bf9d51d296093525340"},"name":"SELZIC OD 150mg Tablet 10's","composition":"Oxcarbazepine 150mg (OD)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.54.50"}
+{"_id":{"$oid":"5b584bfbd51d296093525341"},"name":"SELZIC OD 600mg Tablet 10's","composition":"Oxcarbazepine 600mg (OD)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.181.50"}
+{"_id":{"$oid":"5b584bfdd51d296093525342"},"name":"SENVAL 300mg Tablet 10's","composition":"Sodium Valproate 300mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.56.67"}
+{"_id":{"$oid":"5b584c01d51d296093525343"},"name":"SENVAL 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.33.32"}
+{"_id":{"$oid":"5b584c03d51d296093525344"},"name":"SENVAL CHRONO 200/87mg Tablet 10's","composition":"Sodium Valproate 200mg+Valproic Acid 87mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.35.52"}
+{"_id":{"$oid":"5b584c05d51d296093525345"},"name":"SENVAL CHRONO 133/58mg Tablet 10's","composition":"Sodium Valproate 133mg+Valproic Acid 58mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.56.67"}
+{"_id":{"$oid":"5b584c07d51d296093525346"},"name":"SHINOGAB 100mg Capsule 10's","composition":"Gabapentin 100mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.46.20"}
+{"_id":{"$oid":"5b584c09d51d296093525347"},"name":"SHINOGAB 300mg Capsule 10's","composition":"Gabapentin 300mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b584c0bd51d296093525348"},"name":"SHITOL 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.13.65"}
+{"_id":{"$oid":"5b584c0dd51d296093525349"},"name":"SIZLAC 200mg Tablet 10's","composition":"Lacosamide 200mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b584c0fd51d29609352534a"},"name":"SIZLAC 150mg Tablet 10's","composition":"Lacosamide 150mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b584c11d51d29609352534b"},"name":"SIZLAC 50mg Tablet 10's","composition":"Lacosamide 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b584c13d51d29609352534c"},"name":"SIZLAC 10mg Injection 20ml","composition":"Lacosamide 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.201.00"}
+{"_id":{"$oid":"5b584c16d51d29609352534d"},"name":"SOLPHEN 100mg Tablet 100's","composition":"Phenytoin 100mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.139.60"}
+{"_id":{"$oid":"5b584c18d51d29609352534e"},"name":"SOTOP 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Others","price":"Rs.47.87"}
+{"_id":{"$oid":"5b584c1ad51d29609352534f"},"name":"SOTOP 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"Others","price":"Rs.99.00"}
+{"_id":{"$oid":"5b584c1cd51d296093525350"},"name":"SOVAL 200mg Syrup 100ml","composition":"Sodium Valproate 200mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.57.50"}
+{"_id":{"$oid":"5b584c1ed51d296093525351"},"name":"SOVAL 200mg Syrup 200ml","composition":"Sodium Valproate 200mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.115.50"}
+{"_id":{"$oid":"5b584c20d51d296093525352"},"name":"SOVAL CHRONO 333/145mg Tablet 10's","composition":"Sodium Valproate 333mg+Valproic Acid 145mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.92.60"}
+{"_id":{"$oid":"5b584c22d51d296093525353"},"name":"SOVAL CHRONO 133/58mg Tablet 10's","composition":"Sodium Valproate 133mg+Valproic Acid 58mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.30.75"}
+{"_id":{"$oid":"5b584c24d51d296093525354"},"name":"SOVAL CHRONO 200/87mg Tablet 10's","composition":"Sodium Valproate 200mg+Valproic Acid 87mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.60.15"}
+{"_id":{"$oid":"5b584c26d51d296093525355"},"name":"SOVAL DVX 1000mg Tablet 6'S","composition":"Divalproex 1000mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.92.40"}
+{"_id":{"$oid":"5b584c28d51d296093525356"},"name":"SOVAL DVX 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.94.60"}
+{"_id":{"$oid":"5b584c2ad51d296093525357"},"name":"SOVAL DVX 1000mg Tablet 10's","composition":"Divalproex 1000mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.57.13"}
+{"_id":{"$oid":"5b584c2cd51d296093525358"},"name":"SOVAL DVX 200mg Tablet 10's","composition":"Divalproex 200mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.42.86"}
+{"_id":{"$oid":"5b584c2ed51d296093525359"},"name":"SPIKALON DV ER 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.72.14"}
+{"_id":{"$oid":"5b584c30d51d29609352535a"},"name":"SPIKALON DV ER 500mg Tablet 10's","composition":"DIVALPROEX 500MG","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.79.62"}
+{"_id":{"$oid":"5b584c32d51d29609352535b"},"name":"SPROVAL 200mg Tablet 10's","composition":"Sodium Valproate 200mg+Valproic Acid ","manufacturer":"GENESIS BIOTECH INC","price":"Rs.35.00"}
+{"_id":{"$oid":"5b584c34d51d29609352535c"},"name":"T MATE 100mg Tablet 10's","composition":"Topiramate 100mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b584c36d51d29609352535d"},"name":"T MATE 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b584c38d51d29609352535e"},"name":"T MATE 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b584c3ad51d29609352535f"},"name":"TAZETOL 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":" NA ","price":"Rs.12.89"}
+{"_id":{"$oid":"5b584c3cd51d296093525360"},"name":"TEGRETOL CR 200mg Tablet","composition":"Carbamazepine 200mg (CR)","manufacturer":"Novartis India Ltd","price":"Rs.23.47"}
+{"_id":{"$oid":"5b584c3ed51d296093525361"},"name":"TEGRETOL Syrup 100ml","composition":"Carbamazepine 100mg","manufacturer":"Novartis India Ltd","price":"Rs.18.90"}
+{"_id":{"$oid":"5b584c3fd51d296093525362"},"name":"TEGRETOL CR 300mg Tablet 10's","composition":"Carbamazepine 300mg","manufacturer":"Novartis India Ltd","price":"Rs.38.42"}
+{"_id":{"$oid":"5b584c41d51d296093525363"},"name":"TEGRITAL 400mg Tablet 10's","composition":"Carbamazepine 400mg","manufacturer":"Novartis India Ltd","price":"Rs.32.20"}
+{"_id":{"$oid":"5b584c43d51d296093525364"},"name":"TEGRITAL 100mg Tablet 10's","composition":"Carbamazepine 100mg","manufacturer":"Novartis India Ltd","price":"Rs.6.94"}
+{"_id":{"$oid":"5b584c45d51d296093525365"},"name":"TEGRITAL Suspension 100ml","composition":"Carbamazepine 100mg","manufacturer":"Novartis India Ltd","price":"Rs.19.27"}
+{"_id":{"$oid":"5b584c47d51d296093525366"},"name":"TEGRITAL 200mg Tablet 10's","composition":"Carbamazepine 200mg","manufacturer":"Novartis India Ltd","price":"Rs.14.11"}
+{"_id":{"$oid":"5b584c49d51d296093525367"},"name":"TEGRITAL CR 300mg Tablet 10's","composition":"Carbamazepine 300mg (CR)","manufacturer":"Novartis India Ltd","price":"Rs.38.42"}
+{"_id":{"$oid":"5b584c4bd51d296093525368"},"name":"TEGRITAL CR 200mg Tablet 10's","composition":"Carbamazepine 200mg (CR)","manufacturer":"Novartis India Ltd","price":"Rs.15.79"}
+{"_id":{"$oid":"5b584c4dd51d296093525369"},"name":"TEGRITAL CR 400mg Tablet 10's","composition":"Carbamazepine 400mg (CR)","manufacturer":"Novartis India Ltd","price":"Rs.31.02"}
+{"_id":{"$oid":"5b584c4fd51d29609352536a"},"name":"TEMPLER 300mg Capsule 10's","composition":"Gabapentin 300mg","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.100.48"}
+{"_id":{"$oid":"5b584c51d51d29609352536b"},"name":"TIKOPREX 500MG TABLET 10'S","composition":"DIVALPROEX 500MG","manufacturer":"Usv Private Ltd","price":"Rs.83.06"}
+{"_id":{"$oid":"5b584c54d51d29609352536c"},"name":"TIKOPREX 750mg Tablet 10's","composition":"Divalproex 750mg","manufacturer":"Usv Private Ltd","price":"Rs.113.00"}
+{"_id":{"$oid":"5b584c56d51d29609352536d"},"name":"TIKOPREX 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"Usv Private Ltd","price":"Rs.56.00"}
+{"_id":{"$oid":"5b584c58d51d29609352536e"},"name":"TIKOPREX 1gm Tablet 10's","composition":"Divalproex 1gm","manufacturer":"Usv Private Ltd","price":"Rs.128.00"}
+{"_id":{"$oid":"5b584c5ad51d29609352536f"},"name":"TMATECAD 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.28.57"}
+{"_id":{"$oid":"5b584c5cd51d296093525370"},"name":"TMATECAD 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.57.13"}
+{"_id":{"$oid":"5b584c5ed51d296093525371"},"name":"TOPAMAC 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.86.00"}
+{"_id":{"$oid":"5b584c60d51d296093525372"},"name":"TOPAMAC 100mg Tablet 10's","composition":"Topiramate 100mg","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.324.00"}
+{"_id":{"$oid":"5b584c62d51d296093525373"},"name":"TOPAMAC 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.162.00"}
+{"_id":{"$oid":"5b584c64d51d296093525374"},"name":"TOPAMATE 100mg Tablet 10's","composition":"Topiramate 100mg","manufacturer":"Cipla Ltd","price":"Rs.324.00"}
+{"_id":{"$oid":"5b584c66d51d296093525375"},"name":"TOPAMATE 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"Cipla Ltd","price":"Rs.117.50"}
+{"_id":{"$oid":"5b584c68d51d296093525376"},"name":"TOPAMATE 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Cipla Ltd","price":"Rs.40.28"}
+{"_id":{"$oid":"5b584c6ad51d296093525377"},"name":"TOPAMED 100mg Tablet 10's","composition":"Topiramate 100mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.145.00"}
+{"_id":{"$oid":"5b584c6cd51d296093525378"},"name":"TOPAMED 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.52.50"}
+{"_id":{"$oid":"5b584c6ed51d296093525379"},"name":"TOPAMED 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.100.00"}
+{"_id":{"$oid":"5b584c70d51d29609352537a"},"name":"TOPATE 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.80.50"}
+{"_id":{"$oid":"5b584c72d51d29609352537b"},"name":"TOPATE 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.42.50"}
+{"_id":{"$oid":"5b584c74d51d29609352537c"},"name":"TOPAZ 25mg Tablet 15's","composition":"TOPIRAMATE 25MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.67.50"}
+{"_id":{"$oid":"5b584c76d51d29609352537d"},"name":"TOPAZ 100mg Tablet 10's","composition":"TOPIRAMATE 100MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b584c79d51d29609352537e"},"name":"TOPAZ 25mg Tablet 10's","composition":"TOPIRAMATE 25MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.41.00"}
+{"_id":{"$oid":"5b584c7bd51d29609352537f"},"name":"TOPAZ 50mg Tablet 10's","composition":"TOPIRAMATE 50MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b584c7bd51d296093525380"},"name":"TOPAZ 200mg Tablet 10's","composition":"Topiramate 200mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.252.00"}
+{"_id":{"$oid":"5b584c7dd51d296093525381"},"name":"TOPEMA 25MG TABLET 10'S","composition":"TOPIRAMATE 25MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.47.00"}
+{"_id":{"$oid":"5b584c80d51d296093525382"},"name":"TOPEMA 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b584c83d51d296093525383"},"name":"TOPEMA 100mg Tablet 10's","composition":"Topiramate 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b584c84d51d296093525384"},"name":"TOPEX 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Cipla Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b584c86d51d296093525385"},"name":"TOPIMAX 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Capital Pharma","price":"Rs.49.90"}
+{"_id":{"$oid":"5b584c87d51d296093525386"},"name":"TOPIRAIN 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.55.50"}
+{"_id":{"$oid":"5b584c8ad51d296093525387"},"name":"TOPIRAIN 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b584c8cd51d296093525388"},"name":"TOPIRATE 25mg Tablet 10's","composition":"TOPIRAMATE 25MG","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.52.50"}
+{"_id":{"$oid":"5b584c8ed51d296093525389"},"name":"TOPIRATE 100mg Tablet 15'S","composition":"Topiramate 100mg","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b584c90d51d29609352538a"},"name":"TOPIRATE 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.97.50"}
+{"_id":{"$oid":"5b584c91d51d29609352538b"},"name":"TOPIROL 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b584c93d51d29609352538c"},"name":"TOPIROL 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b584c95d51d29609352538d"},"name":"TOPIROL 100mg Tablet 10's","composition":"Topiramate 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b584c97d51d29609352538e"},"name":"TOPIROL 15mg Tablet 10's","composition":"Topiramate 15mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.29.00"}
+{"_id":{"$oid":"5b584c9ad51d29609352538f"},"name":"TOPITAB 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b584c9cd51d296093525390"},"name":"TOPITAB 100mg Tablet 10's","composition":"Topiramate 100mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b584c9dd51d296093525391"},"name":"TOPITAB 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.92.00"}
+{"_id":{"$oid":"5b584ca0d51d296093525392"},"name":"TOPIVAL 50MG TABLET 10'S","composition":"TOPIRAMATE 50MG","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.81.96"}
+{"_id":{"$oid":"5b584ca2d51d296093525393"},"name":"TOPSULANT 100mg Tablet 10's","composition":"TOPIRAMATE 100MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.91.00"}
+{"_id":{"$oid":"5b584ca4d51d296093525394"},"name":"TOPSULANT 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.23.00"}
+{"_id":{"$oid":"5b584ca6d51d296093525395"},"name":"TORLEVA 1gm Tablet 10's","composition":"Levetiracetam 1gm","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.269.00"}
+{"_id":{"$oid":"5b584ca9d51d296093525396"},"name":"TORLEVA 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.120.14"}
+{"_id":{"$oid":"5b584cabd51d296093525397"},"name":"TORLEVA Syrup 100ml","composition":"Levetiracetam 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.370.20"}
+{"_id":{"$oid":"5b584cadd51d296093525398"},"name":"TORLEVA 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.59.46"}
+{"_id":{"$oid":"5b584caed51d296093525399"},"name":"TORLEVA 750mg Tablet 10's","composition":"Levetiracetam 750mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.177.36"}
+{"_id":{"$oid":"5b584cb0d51d29609352539a"},"name":"TORLEVA DT 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.58.13"}
+{"_id":{"$oid":"5b584cb2d51d29609352539b"},"name":"TORLEVA DT 500mg Tablet 10's","composition":"Levetiracetam 500mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.117.45"}
+{"_id":{"$oid":"5b584cb5d51d29609352539c"},"name":"TORLEVA XR 750mg Tablet 10's","composition":"Levetiracetam 750mg (XR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.182.68"}
+{"_id":{"$oid":"5b584cb7d51d29609352539d"},"name":"TORLEVA XR 500mg Tablet 10's","composition":"Levetiracetam 500mg (XR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.184.60"}
+{"_id":{"$oid":"5b584cb8d51d29609352539e"},"name":"TORLEVA XR 1gm Tablet 10's","composition":"Levetiracetam 1gm (XR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.315.40"}
+{"_id":{"$oid":"5b584cbbd51d29609352539f"},"name":"TORPIZA 25mg Tablet 10's","composition":"Topiramate 25mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b584cbdd51d2960935253a0"},"name":"TORPIZA 100mg Tablet 10's","composition":"Topiramate 100mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b584cbfd51d2960935253a1"},"name":"TORPIZA 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b584cc1d51d2960935253a2"},"name":"TORVATE 500mg Tablet 10's","composition":"Sodium Valproate 500mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.44.54"}
+{"_id":{"$oid":"5b584cc4d51d2960935253a3"},"name":"TORVATE 1000mg Tablet 10's","composition":"Sodium Valproate 1000mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b584cc7d51d2960935253a4"},"name":"TORVATE 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.22.88"}
+{"_id":{"$oid":"5b584ccad51d2960935253a5"},"name":"TORVATE 750mg Tablet 10's","composition":"Sodium Valproate 750mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.44.54"}
+{"_id":{"$oid":"5b584cccd51d2960935253a6"},"name":"TORVATE 300mg Tablet 10's","composition":"Sodium Valproate 300mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.29.67"}
+{"_id":{"$oid":"5b584cced51d2960935253a7"},"name":"TORVATE CHRONO 500mg Tablet 10's","composition":"Sodium Valproate 500mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.62.60"}
+{"_id":{"$oid":"5b584ccfd51d2960935253a8"},"name":"TORVATE CHRONO 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.29.60"}
+{"_id":{"$oid":"5b584cd1d51d2960935253a9"},"name":"TORVATE CHRONO 300mg Tablet 10's","composition":"Sodium Valproate 300mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.40.60"}
+{"_id":{"$oid":"5b584cd3d51d2960935253aa"},"name":"TREND XR 500mg Tablet 10's","composition":"Divalproex 500mg (XR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.114.20"}
+{"_id":{"$oid":"5b584cd6d51d2960935253ab"},"name":"TREND SPRINKLE 125mg Capsule 10's","composition":"Divalproex 125mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b584cd8d51d2960935253ac"},"name":"TREND 125mg Capsule 10's","composition":"Divalproex 125mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b584cdad51d2960935253ad"},"name":"TREND XR 750mg Tablet 10's","composition":"Divalproex 750mg (XR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.130.70"}
+{"_id":{"$oid":"5b584cdcd51d2960935253ae"},"name":"TREND 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.96.25"}
+{"_id":{"$oid":"5b584cded51d2960935253af"},"name":"TREND XR 250mg Tablet 10's","composition":"Divalproex 250mg (XR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.59.30"}
+{"_id":{"$oid":"5b584ce1d51d2960935253b0"},"name":"TREND XR 125mg Tablet 10's","composition":"Divalproex 125mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.22.20"}
+{"_id":{"$oid":"5b584ce3d51d2960935253b1"},"name":"TRIOPTAL 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Novartis India Ltd","price":"Rs.73.00"}
+{"_id":{"$oid":"5b584ce5d51d2960935253b2"},"name":"TRIOPTAL 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Novartis India Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b584ce6d51d2960935253b3"},"name":"TRIOPTAL 600mg Tablet 10's","composition":"Oxcarbazepine 600mg","manufacturer":"Novartis India Ltd","price":"Rs.300.00"}
+{"_id":{"$oid":"5b584ce9d51d2960935253b4"},"name":"TRIOPTAL 450mg Tablet 10's","composition":"Oxcarbazepine 450mg","manufacturer":"Novartis India Ltd","price":"Rs.218.00"}
+{"_id":{"$oid":"5b584cead51d2960935253b5"},"name":"TRIVAL 100mg Tablet 10's","composition":"Sodium Valproate 100mg+Valproic Acid ","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.29.65"}
+{"_id":{"$oid":"5b584cecd51d2960935253b6"},"name":"TRIVAL 333/145mg Tablet 10's","composition":"Sodium Valproate 333mg+Valproic Acid 145mg","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.91.15"}
+{"_id":{"$oid":"5b584ceed51d2960935253b7"},"name":"TRIVAL 200mg Tablet 10's","composition":"Sodium Valproate 200mg+Valproic Acid ","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.21.92"}
+{"_id":{"$oid":"5b584cf0d51d2960935253b8"},"name":"TRIVAL 133/58mg Tablet 10's","composition":"Sodium Valproate 133mg+Valproic Acid 58mg","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.54.87"}
+{"_id":{"$oid":"5b584cf3d51d2960935253b9"},"name":"TRUDIVAL 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"GENESIS BIOTECH INC","price":"Rs.95.00"}
+{"_id":{"$oid":"5b584cf5d51d2960935253ba"},"name":"ULEEV 250mg Tablet 10's","composition":"Levetiracetam 250mg","manufacturer":"Usv Private Ltd","price":"Rs.78.32"}
+{"_id":{"$oid":"5b584cf7d51d2960935253bb"},"name":"URATE 50mg Tablet 10's","composition":"Topiramate 50mg","manufacturer":"Usv Private Ltd","price":"Rs.58.60"}
+{"_id":{"$oid":"5b584cf9d51d2960935253bc"},"name":"VALANCE Solution 100ml","composition":"DIVALPROEX 250MG","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.157.00"}
+{"_id":{"$oid":"5b584cfbd51d2960935253bd"},"name":"VALANCE 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b584cffd51d2960935253be"},"name":"VALANCE OD 1gm Tablet 10's","composition":"Divalproex 1gm (OD)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.151.50"}
+{"_id":{"$oid":"5b584d01d51d2960935253bf"},"name":"VALANCE OD 500mg Tablet 10's","composition":"Divalproex 500mg (OD)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.127.00"}
+{"_id":{"$oid":"5b584d03d51d2960935253c0"},"name":"VALANCE 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.113.00"}
+{"_id":{"$oid":"5b584d04d51d2960935253c1"},"name":"VALANCE OD 250mg Tablet 10's","composition":"Divalproex 250mg (OD)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.70.50"}
+{"_id":{"$oid":"5b584d06d51d2960935253c2"},"name":"VALANCE OD 750mg Tablet 10's","composition":"Divalproex 750mg (OD)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.150.50"}
+{"_id":{"$oid":"5b584d08d51d2960935253c3"},"name":"VALCIP 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Cipla Ltd","price":"Rs.220.50"}
+{"_id":{"$oid":"5b584d0ad51d2960935253c4"},"name":"VALCONTIN 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.30.78"}
+{"_id":{"$oid":"5b584d0dd51d2960935253c5"},"name":"VALCONTIN 500mg Tablet 10's","composition":"Sodium Valprorate 500mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b584d0ed51d2960935253c6"},"name":"VALCONTIN 300mg Tablet 10's","composition":"Sodium Valproate 300mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.54.47"}
+{"_id":{"$oid":"5b584d10d51d2960935253c7"},"name":"VALEP CHRONO 500mg Tablet 10's","composition":"Sodium Valproate 500mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.62.73"}
+{"_id":{"$oid":"5b584d13d51d2960935253c8"},"name":"VALEP CHRONO 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.25.33"}
+{"_id":{"$oid":"5b584d14d51d2960935253c9"},"name":"VALEP CHRONO 300mg Tablet 10's","composition":"Sodium Valproate 300mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.35.52"}
+{"_id":{"$oid":"5b584d16d51d2960935253ca"},"name":"VALEPTOL CR 300mg Tablet 10's","composition":"Sodium Valprorate 300mg (CR)","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.67.00"}
+{"_id":{"$oid":"5b584d18d51d2960935253cb"},"name":"VALEPTOL SYRUP 100ML","composition":"SODIUM VALPROATE 200MG","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.57.75"}
+{"_id":{"$oid":"5b584d1bd51d2960935253cc"},"name":"VALEPTOL CR 200mg Tablet 10's","composition":"Sodium Valprorate 200mg (CR)","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b584d1cd51d2960935253cd"},"name":"VALEPTOL CR 500mg Tablet 10's","composition":"Sodium Valprorate 500mg (CR)","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b584d1fd51d2960935253ce"},"name":"VALEX ER 250mg Tablet 10's","composition":"Divalproex 250mg","manufacturer":"Others","price":"Rs.64.10"}
+{"_id":{"$oid":"5b584d20d51d2960935253cf"},"name":"VALEX ER 1000mg Tablet 10's","composition":"Divalproex 1000mg","manufacturer":"Others","price":"Rs.118.75"}
+{"_id":{"$oid":"5b584d23d51d2960935253d0"},"name":"VALEX ER 500mg Tablet 10's","composition":"Divalproex 500mg","manufacturer":"Others","price":"Rs.107.20"}
+{"_id":{"$oid":"5b584d25d51d2960935253d1"},"name":"VALGRESS CR 500mg Tablet 10's","composition":"Sodium Valprorate 500mg (CR)","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.82.00"}
+{"_id":{"$oid":"5b584d27d51d2960935253d2"},"name":"VALGRESS CR 200mg Tablet 10's","composition":"Sodium Valprorate 200mg (CR)","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b584d29d51d2960935253d3"},"name":"VALGRESS CR 300mg Tablet 10's","composition":"Sodium Valprorate 300mg (CR)","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.61.00"}
+{"_id":{"$oid":"5b584d2bd51d2960935253d4"},"name":"VALKEM OD 500mg Tablet 10's","composition":"Divalproex 500mg (OD)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.129.50"}
+{"_id":{"$oid":"5b584d2ed51d2960935253d5"},"name":"VALKEM OD 750mg Tablet 10's","composition":"Divalproex 750mg (OD)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.129.50"}
+{"_id":{"$oid":"5b584d30d51d2960935253d6"},"name":"VALKEM OD 1gm Tablet 10's","composition":"Divalproex 1g (OD)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.152.50"}
+{"_id":{"$oid":"5b584d33d51d2960935253d7"},"name":"VALKEM OD 125mg Tablet 10's","composition":"Divalproex 125mg (OD)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.132.00"}
+{"_id":{"$oid":"5b584d35d51d2960935253d8"},"name":"VALKEM OD 250mg Tablet 10's","composition":"Divalproex 250mg (OD)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b584d37d51d2960935253d9"},"name":"VALMED 500mg Tablet 10's","composition":"Sodium Valproate 500mg+Valproic Acid ","manufacturer":"Med Manor Organics Pvt Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b584d39d51d2960935253da"},"name":"VALMED 200MG TABLET 10'S","composition":"Sodium Valproate 200mg+Valproic Acid ","manufacturer":"Med Manor Organics Pvt Ltd","price":"Rs.43.00"}
+{"_id":{"$oid":"5b584d3bd51d2960935253db"},"name":"VALP ER 750mg Tablet 10's","composition":"Divalproex 750mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b584d3dd51d2960935253dc"},"name":"VALPAREX 500mg Tablet 10's","composition":"Sodium Valproate 500mg","manufacturer":"Others","price":"Rs.70.40"}
+{"_id":{"$oid":"5b584d3fd51d2960935253dd"},"name":"VALPAREX 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Others","price":"Rs.31.50"}
+{"_id":{"$oid":"5b584d42d51d2960935253de"},"name":"VALPAREX 300mg Tablet 10's","composition":"Sodium Valproate 300mg","manufacturer":"Others","price":"Rs.55.00"}
+{"_id":{"$oid":"5b584d44d51d2960935253df"},"name":"VALPARIN 200mg Syrup 100ml","composition":"SODIUM VALPROATE 200MG","manufacturer":"Sanofi India Ltd","price":"Rs.71.69"}
+{"_id":{"$oid":"5b584d46d51d2960935253e0"},"name":"VALPARIN 400mg Injection 4ml","composition":"Sodium Valproate 400mg","manufacturer":"Sanofi India Ltd","price":"Rs.24.00"}
+{"_id":{"$oid":"5b584d48d51d2960935253e1"},"name":"VALPARIN 500mg Tablet 10's","composition":"Sodium Valproate 500mg","manufacturer":"Sanofi India Ltd","price":"Rs.70.40"}
+{"_id":{"$oid":"5b584d4ad51d2960935253e2"},"name":"VALPARIN 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Sanofi India Ltd","price":"Rs.32.59"}
+{"_id":{"$oid":"5b584d4cd51d2960935253e3"},"name":"VALPARIN 200mg ORAL Solution 200ml","composition":"Sodium Valproate 200mg","manufacturer":"Sanofi India Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b584d4ed51d2960935253e4"},"name":"VALPARIN CHRONO 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Sanofi India Ltd","price":"Rs.65.94"}
+{"_id":{"$oid":"5b584d50d51d2960935253e5"},"name":"VALPARIN CHRONO 500mg Tablet 10's","composition":"Sodium Valproate 500mg","manufacturer":"Sanofi India Ltd","price":"Rs.102.48"}
+{"_id":{"$oid":"5b584d52d51d2960935253e6"},"name":"VALPARIN CHRONO 300mg Tablet 10's","composition":"Sodium Valproate 300mg","manufacturer":"Sanofi India Ltd","price":"Rs.66.19"}
+{"_id":{"$oid":"5b584d54d51d2960935253e7"},"name":"VALPEX 100mg Injection 5ml","composition":"Sodium Valproate 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.28.04"}
+{"_id":{"$oid":"5b584d56d51d2960935253e8"},"name":"VALPEX 200mg Syrup 100ml","composition":"Sodium Valproate 200mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.59.08"}
+{"_id":{"$oid":"5b584d58d51d2960935253e9"},"name":"VALPEX CR 300mg Tablet 10's","composition":"Sodium Valproate 300mg (CR)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.55.24"}
+{"_id":{"$oid":"5b584d5bd51d2960935253ea"},"name":"VALPEX CR 200mg Tablet 10's","composition":"Sodium Valproate 200mg (CR)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.31.47"}
+{"_id":{"$oid":"5b584d5dd51d2960935253eb"},"name":"VALPEX ER 500mg Tablet 10's","composition":"Sodium Valproate 500mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.83.06"}
+{"_id":{"$oid":"5b584d5fd51d2960935253ec"},"name":"VALPO CR 200/87mg Tablet 10's","composition":"Sodium Valproate 200mg+Valproic Acid 87mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b584d61d51d2960935253ed"},"name":"VALPO CR 500mg Tablet 10's","composition":"SODIUM VALPROATE 500MG+VALPROIC ACID 0","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.94.75"}
+{"_id":{"$oid":"5b584d63d51d2960935253ee"},"name":"VALPO CR 300mg Tablet 10's","composition":"Sodium Valproate 300mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.61.60"}
+{"_id":{"$oid":"5b584d65d51d2960935253ef"},"name":"VALPORATE CHRONO 300mg Tablet 10's","composition":"Sodium Valprorate 300mg","manufacturer":"United Biotech Pvt Ltd","price":"Rs.80.37"}
+{"_id":{"$oid":"5b584d67d51d2960935253f0"},"name":"VALPORATE CHRONO 333/145mg Tablet 10's","composition":"Sodium Valproate 333mg+Valproic Acid 145mg","manufacturer":"Crescent Pharmaceuticals","price":"Rs.73.95"}
+{"_id":{"$oid":"5b584d6ad51d2960935253f1"},"name":"VALPRID 200mg Syrup 100ml","composition":"SODIUM VALPROATE 200MG","manufacturer":"Micro Labs Ltd","price":"Rs.56.20"}
+{"_id":{"$oid":"5b584d6bd51d2960935253f2"},"name":"VALPRID CR 200mg Tablet 10's","composition":"Sodium Valprorate 200mg (CR)","manufacturer":"Micro Labs Ltd","price":"Rs.58.50"}
+{"_id":{"$oid":"5b584d6dd51d2960935253f3"},"name":"VALPRID CR 300mg Tablet 10's","composition":"Sodium Valprorate 300mg (CR)","manufacturer":"Micro Labs Ltd","price":"Rs.88.50"}
+{"_id":{"$oid":"5b584d6fd51d2960935253f4"},"name":"VALPRID CR 500mg Tablet 10's","composition":"Sodium Valproate 500mg (CR)","manufacturer":"Micro Labs Ltd","price":"Rs.143.50"}
+{"_id":{"$oid":"5b584d71d51d2960935253f5"},"name":"VALPROL Injection 5ml","composition":"Sodium Valproate 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.29.29"}
+{"_id":{"$oid":"5b584d73d51d2960935253f6"},"name":"VALPROL Syrup 100ml","composition":"Sodium Valproate 200mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.58.13"}
+{"_id":{"$oid":"5b584d75d51d2960935253f7"},"name":"VALPROL CR 400mg Tablet 15's","composition":"Sodium Valproate 400mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.129.00"}
+{"_id":{"$oid":"5b584d77d51d2960935253f8"},"name":"VALPROL CR 400mg Tablet 10's","composition":"Sodium Valproate 400 mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b584d7ad51d2960935253f9"},"name":"VALPROL CR 500MG TABLET 10'S","composition":"SODIUM VALPROATE 500MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.86.00"}
+{"_id":{"$oid":"5b584d7cd51d2960935253fa"},"name":"VALPROL CR 200mg Tablet 15's","composition":"Sodium Valproate 200mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.63.50"}
+{"_id":{"$oid":"5b584d7ed51d2960935253fb"},"name":"VALPROL CR 200mg Tablet 10's","composition":"Sodium Valproate 200mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.42.50"}
+{"_id":{"$oid":"5b584d80d51d2960935253fc"},"name":"VALPROL CR 300mg Tablet 10's","composition":"Sodium Valproate 300 mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.61.38"}
+{"_id":{"$oid":"5b584d82d51d2960935253fd"},"name":"VALPROL CR 300mg Tablet 15's","composition":"Sodium Valproate 300mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.92.07"}
+{"_id":{"$oid":"5b584d83d51d2960935253fe"},"name":"VALRATE Syrup 100ml","composition":"Sodium Valproate 200mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.59.35"}
+{"_id":{"$oid":"5b584d85d51d2960935253ff"},"name":"VALRATE CR 500mg Tablet 10's","composition":"Sodium Valproate 500mg (CR)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.99.12"}
+{"_id":{"$oid":"5b584d87d51d296093525400"},"name":"VALRATE CR 300mg Tablet 10's","composition":"Sodium Valproate 300mg (CR)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.61.60"}
+{"_id":{"$oid":"5b584d89d51d296093525401"},"name":"VALRATE CR 200mg Tablet 10's","composition":"Sodium Valproate 200mg (CR)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.40.00"}
+{"_id":{"$oid":"5b584d8bd51d296093525402"},"name":"VALROPE CHRONO 300mg Tablet 10's","composition":"Sodium Valproate 300mg+Valproic Acid ","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.47.62"}
+{"_id":{"$oid":"5b584d8dd51d296093525403"},"name":"VALROPE CHRONO 500mg Tablet 10's","composition":"Sodium Valproate 500mg+Valproic Acid ","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.75.23"}
+{"_id":{"$oid":"5b584d8fd51d296093525404"},"name":"VALROPE CHRONO 200mg Tablet 10's","composition":"Sodium Valproate 200mg+Valproic Acid ","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.34.28"}
+{"_id":{"$oid":"5b584d92d51d296093525405"},"name":"VALTEC CR 500mg Tablet 10's","composition":"Sodium Valproate 500mg (CR)","manufacturer":"Cipla Ltd","price":"Rs.80.32"}
+{"_id":{"$oid":"5b584d94d51d296093525406"},"name":"VALTEC 200mg Solution 100ml","composition":"Sodium Valproate 200mg","manufacturer":"Cipla Ltd","price":"Rs.48.72"}
+{"_id":{"$oid":"5b584d96d51d296093525407"},"name":"VALTEC CR 300mg Tablet 10's","composition":"Sodium Valproate 300mg (CR)","manufacturer":"Cipla Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b584d98d51d296093525408"},"name":"VALTEC CR 200mg Tablet 10's","composition":"Sodium Valproate 200mg (CR)","manufacturer":"Cipla Ltd","price":"Rs.37.50"}
+{"_id":{"$oid":"5b584d9ad51d296093525409"},"name":"VALVOREX 250MG TABLET 10'S","composition":"DIVALPROEX 250MG","manufacturer":"Leeford Healthcare Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b584d9cd51d29609352540a"},"name":"VALVOREX 500MG TABLET 10'S","composition":"Divalproex 500mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584d9ed51d29609352540b"},"name":"VAT CR 200/87mg Tablet 10's","composition":"Sodium Valproate 200mg+Valproic Acid 87mg","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b584da0d51d29609352540c"},"name":"VAT CR 300mg Tablet 10's","composition":"Sodium Valproate 300mg+Valproic Acid ","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.37.00"}
+{"_id":{"$oid":"5b584da4d51d29609352540d"},"name":"VERSITOL RETARD 200mg Tablet 10's","composition":"Carbamazepine Rd 200mg","manufacturer":"Micro Labs Ltd","price":"Rs.15.05"}
+{"_id":{"$oid":"5b584da6d51d29609352540e"},"name":"VIKORATE 200mg Syrup 100ml","composition":"Sodium Valproate 200mg","manufacturer":"Kivi Labs Ltd","price":"Rs.57.75"}
+{"_id":{"$oid":"5b584da9d51d29609352540f"},"name":"VIKORATE 200mg Syrup 200ml","composition":"Sodium Valproate 200mg","manufacturer":"Kivi Labs Ltd","price":"Rs.118.72"}
+{"_id":{"$oid":"5b584dabd51d296093525410"},"name":"VIKORATE CHRONO 133/58mg Tablet 10's","composition":"Sodium Valproate 133mg+Valproic Acid 58mg","manufacturer":"Kivi Labs Ltd","price":"Rs.38.50"}
+{"_id":{"$oid":"5b584dacd51d296093525411"},"name":"VIKORATE CHRONO 500mg Tablet 6'S","composition":"Sodium Valproate 500mg+Valproic Acid ","manufacturer":"Kivi Labs Ltd","price":"Rs.86.68"}
+{"_id":{"$oid":"5b584daed51d296093525412"},"name":"VIKORATE CHRONO 200/87mg Tablet 10's","composition":"Sodium Valproate 200mg+Valproic Acid 87mg","manufacturer":"Kivi Labs Ltd","price":"Rs.61.60"}
+{"_id":{"$oid":"5b584db2d51d296093525413"},"name":"VIKORATE CHRONO 333/145mg Tablet 10's","composition":"Sodium Valproate 333mg+Valproic Acid 145mg","manufacturer":"Kivi Labs Ltd","price":"Rs.94.75"}
+{"_id":{"$oid":"5b584db4d51d296093525414"},"name":"VINLEP Suspension 100ml","composition":"Oxcarbazepine 300mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b584db6d51d296093525415"},"name":"VINLEP 600mg Tablet 10's","composition":"Oxcarbazepine 600mg","manufacturer":"Sanofi India Ltd","price":"Rs.255.82"}
+{"_id":{"$oid":"5b584db8d51d296093525416"},"name":"VINLEP 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Sanofi India Ltd","price":"Rs.73.06"}
+{"_id":{"$oid":"5b584dbad51d296093525417"},"name":"VINLEP 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Sanofi India Ltd","price":"Rs.137.77"}
+{"_id":{"$oid":"5b584dbcd51d296093525418"},"name":"VOltrIGIN 50mg Tablet 10's","composition":"Lamotrigine","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.94.00"}
+{"_id":{"$oid":"5b584dbed51d296093525419"},"name":"VOltrIGIN 100mg Tablet 10's","composition":"Lamotrigine","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.166.00"}
+{"_id":{"$oid":"5b584dc1d51d29609352541a"},"name":"XBAREN 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b584dc3d51d29609352541b"},"name":"XBAREN 450mg Tablet 10's","composition":"Oxcarbazepine 450mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.129.00"}
+{"_id":{"$oid":"5b584dc5d51d29609352541c"},"name":"XBAREN 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.96.00"}
+{"_id":{"$oid":"5b584dc7d51d29609352541d"},"name":"ZEFRETOL 400mg Tablet 10's","composition":"Eslicarbazepine Acetate 400mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b584dc9d51d29609352541e"},"name":"ZEFRETOL 800mg Tablet 10's","composition":"Eslicarbazepine Acetate 800mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.285.00"}
+{"_id":{"$oid":"5b584dcbd51d29609352541f"},"name":"ZEN RETARD 200mg Tablet 10's","composition":"Carbamazepine Rd 200mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.15.23"}
+{"_id":{"$oid":"5b584dced51d296093525420"},"name":"ZEN 100mg Tablet 10's","composition":"Carbamazepine 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.6.51"}
+{"_id":{"$oid":"5b584dd0d51d296093525421"},"name":"ZEN RETARD 300mg Tablet 10's","composition":"Carbamazepine Rd 300mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.26.50"}
+{"_id":{"$oid":"5b584dd0d51d296093525422"},"name":"ZEN RETARD 400mg Tablet 10's","composition":"Carbamazepine Rd 400mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.32.14"}
+{"_id":{"$oid":"5b584dd2d51d296093525423"},"name":"ZEN 200mg Tablet 10's","composition":"Carbamazepine 200mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.13.71"}
+{"_id":{"$oid":"5b584dd5d51d296093525424"},"name":"ZEN RETARD 100mg Tablet 10's","composition":"CARBAMAZAPINE 100MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.20.40"}
+{"_id":{"$oid":"5b584dd7d51d296093525425"},"name":"ZENOXA 450mg Tablet 10's","composition":"Oxcarbazepine 450mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b584ddbd51d296093525426"},"name":"ZENOXA 150mg Tablet 10's","composition":"Oxcarbazepine 150mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.56.00"}
+{"_id":{"$oid":"5b584dddd51d296093525427"},"name":"ZENOXA 300mg Suspension 60ml","composition":"Oxcarbazepine 300mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.164.00"}
+{"_id":{"$oid":"5b584ddfd51d296093525428"},"name":"ZENOXA OD 150mg Tablet 10's","composition":"Oxcarbazepine 150mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b584de0d51d296093525429"},"name":"ZENOXA 600mg Tablet 10's","composition":"Oxcarbazepine 600mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.168.00"}
+{"_id":{"$oid":"5b584de4d51d29609352542a"},"name":"ZENOXA 300mg Tablet 10's","composition":"Oxcarbazepine 300mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.87.00"}
+{"_id":{"$oid":"5b584de6d51d29609352542b"},"name":"ZENOXA OD 300mg Tablet 10's","composition":"Oxcarbazepine 300mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.106.00"}
+{"_id":{"$oid":"5b584de8d51d29609352542c"},"name":"ZENOXA OD 600mg Tablet 10's","composition":"Oxcarbazepine 600mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.196.00"}
+{"_id":{"$oid":"5b584dead51d29609352542d"},"name":"ZENOXA OD 900mg Tablet 10's","composition":"Oxcarbazepine","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.281.00"}
+{"_id":{"$oid":"5b584decd51d29609352542e"},"name":"ZENOXA OD 450mg Tablet 10's","composition":"Oxcarbazepine 450mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.147.00"}
+{"_id":{"$oid":"5b584defd51d29609352542f"},"name":"ZEPTOL CR 300mg Tablet 10's","composition":"Carbamazepine 300mg (CR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.28.20"}
+{"_id":{"$oid":"5b584df1d51d296093525430"},"name":"ZEPTOL 100mg Tablet 10's","composition":"Carbamazepine 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.6.94"}
+{"_id":{"$oid":"5b584df3d51d296093525431"},"name":"ZEPTOL 200mg Tablet 10's","composition":"Carbamazepine 200mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.14.00"}
+{"_id":{"$oid":"5b584df4d51d296093525432"},"name":"ZEPTOL CR 400mg Tablet 10's","composition":"Carbamazepine 400mg (CR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.30.98"}
+{"_id":{"$oid":"5b584df7d51d296093525433"},"name":"ZEPTOL CR 200mg Tablet 10's","composition":"Carbamazepine 200mg (CR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.15.76"}
+{"_id":{"$oid":"5b584df9d51d296093525434"},"name":"ZIGMA 100MG TABLET 10'S","composition":"CARBAMAZEPINE 100MG","manufacturer":"Crescent Formulations Pvt Ltd","price":"Rs.7.70"}
+{"_id":{"$oid":"5b584dfbd51d296093525435"},"name":"ZIGMA 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"Crescent Formulations Pvt Ltd","price":"Rs.11.57"}
+{"_id":{"$oid":"5b584dfdd51d296093525436"},"name":"ZIGMA CR 200MG TABLET 10'S","composition":"CARBAMAZEPINE 200MG","manufacturer":"Crescent Formulations Pvt Ltd","price":"Rs.15.72"}
+{"_id":{"$oid":"5b584dffd51d296093525437"},"name":"ZIGMA CR 400MG TABLET 10'S","composition":"CARBAMAZEPINE 400MG","manufacturer":"Crescent Formulations Pvt Ltd","price":"Rs.29.53"}
+{"_id":{"$oid":"5b584e01d51d296093525438"},"name":"ZIGMA CR 300MG TABLET 10'S","composition":"CARBAMAZEPINE 300MG","manufacturer":"Crescent Formulations Pvt Ltd","price":"Rs.23.64"}
+{"_id":{"$oid":"5b584e03d51d296093525439"},"name":"ZONEGRAN Tablet 10's","composition":"Zonisamide 100mg","manufacturer":"Eisai Pharmaceuticals India Pvt Ltd","price":"Rs.208.00"}
+{"_id":{"$oid":"5b584e05d51d29609352543a"},"name":"ZONICARE 50mg Capsule 10's","composition":"Zonisamide 50mg","manufacturer":"Abbott India Ltd","price":"Rs.57.00"}
+{"_id":{"$oid":"5b584e08d51d29609352543b"},"name":"ZONIMID 100mg Capsule 10's","composition":"Zonisamide 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.133.00"}
+{"_id":{"$oid":"5b584e09d51d29609352543c"},"name":"ZONISEP 25mg Capsule 10's","composition":"Zonisamide 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.34.00"}
+{"_id":{"$oid":"5b584e0bd51d29609352543d"},"name":"ZONISEP 50mg Capsule 10's","composition":"Zonisamide 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b584e0dd51d29609352543e"},"name":"ZONISEP 100mg Capsule 10's","composition":"Zonisamide 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.132.00"}
+{"_id":{"$oid":"5b584e0fd51d29609352543f"},"name":"ZONIT 25mg Capsule 10's","composition":"ZONISAMIDE 25MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.26.63"}
+{"_id":{"$oid":"5b584e11d51d296093525440"},"name":"ZONIT 100mg Capsule 10's","composition":"ZONISAMIDE 200MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.85.30"}

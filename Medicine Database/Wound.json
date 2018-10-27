@@ -1,0 +1,64 @@
+{"_id":{"$oid":"5b59c65ed51d2975344a1b99"},"name":"BALVIDINE Ointment 30gm","composition":"Povidone Iodine 5%W/V","manufacturer":"Bal Pharma Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b59c660d51d2975344a1b9a"},"name":"BALVIDINE Solution 100ml","composition":"Povidone Iodine 10%W/V","manufacturer":"Bal Pharma Ltd","price":"Rs.101.00"}
+{"_id":{"$oid":"5b59c662d51d2975344a1b9b"},"name":"BECTOSEPT 75% Solution 500ml","composition":"Povidone Iodine","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.177.67"}
+{"_id":{"$oid":"5b59c664d51d2975344a1b9c"},"name":"BETADINE FIRST AID Solution 50ml","composition":"Povidone Iodine","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.88.48"}
+{"_id":{"$oid":"5b59c666d51d2975344a1b9d"},"name":"BETADINE SURGICAL SCRUB 7.5% Solution 500ml","composition":"Povidone Iodine 7.5%W/V","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.1,005.00"}
+{"_id":{"$oid":"5b59c668d51d2975344a1b9e"},"name":"BETADINE Cream 20gm","composition":"Povidone Iodine","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.121.00"}
+{"_id":{"$oid":"5b59c66ad51d2975344a1b9f"},"name":"BETADINE 5% Solution 500ml","composition":"Povidone Iodine 5%W/V","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.196.00"}
+{"_id":{"$oid":"5b59c66bd51d2975344a1ba0"},"name":"BETADINE 10% Solution 100ml","composition":"Povidone Iodine 10%W/V","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.88.48"}
+{"_id":{"$oid":"5b59c66cd51d2975344a1ba1"},"name":"BETADINE Ointment 125gm","composition":"Povidone Iodine 5%W/V","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b59c66ed51d2975344a1ba2"},"name":"BETADINE Ointment 15gm","composition":"Povidone Iodine 10%W/V","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.109.00"}
+{"_id":{"$oid":"5b59c670d51d2975344a1ba3"},"name":"BETADINE Powder 10gm","composition":"Povidine Iodine 5%W/V","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.91.00"}
+{"_id":{"$oid":"5b59c672d51d2975344a1ba4"},"name":"BETADINE Ointment 250gm","composition":"Povidone Iodine","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.379.00"}
+{"_id":{"$oid":"5b59c673d51d2975344a1ba5"},"name":"BETADINE 10% Solution 500ml","composition":"Povidone Iodine 10%","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.442.40"}
+{"_id":{"$oid":"5b59c673d51d2975344a1ba6"},"name":"BETADINE AD Shampoo 60ml","composition":"POVIDONE IODINE 4%W/W","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.102.00"}
+{"_id":{"$oid":"5b59c674d51d2975344a1ba7"},"name":"BETADINE ANTISEPTIC Ointment 20gm","composition":"POVIDINE IODINE 5%","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.121.00"}
+{"_id":{"$oid":"5b59c676d51d2975344a1ba8"},"name":"BETADINE SURGICAL SCRUB 7.5% Solution 50ml","composition":"Povidone Iodine 7.5%W/V","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b59c679d51d2975344a1ba9"},"name":"BETADINE VAGINAL Pessarie 10's","composition":"Povidone Iodine 200mg","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.137.00"}
+{"_id":{"$oid":"5b59c67bd51d2975344a1baa"},"name":"BETASEPTIC Solution 30ml","composition":"Povidone Iodine 5%W/V","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.45.15"}
+{"_id":{"$oid":"5b59c67bd51d2975344a1bab"},"name":"BETASEPTIC Solution 500ml","composition":"Povidone Iodine 10%W/V","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.204.50"}
+{"_id":{"$oid":"5b59c67dd51d2975344a1bac"},"name":"BETASEPTIC Ointment 15gm","composition":"POVIDONE IODINE 5%","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.27.00"}
+{"_id":{"$oid":"5b59c67ed51d2975344a1bad"},"name":"BURNHEAL Dusting Powder 10gm","composition":"Sulfadiazine 1%+Chlorhexidine 0.5%","manufacturer":"Cipla Ltd","price":"Rs.21.00"}
+{"_id":{"$oid":"5b59c67ed51d2975344a1bae"},"name":"BURNHEAL PLUS Ointment 20gm","composition":"Sulfadiazine 1%+Chlorhexidine 0.5%","manufacturer":"Cipla Ltd","price":"Rs.27.50"}
+{"_id":{"$oid":"5b59c680d51d2975344a1baf"},"name":"CADLON Liquid 100ml","composition":"Cetrimide 0.3%+Chlorhexidine 0.3%","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.17.50"}
+{"_id":{"$oid":"5b59c682d51d2975344a1bb0"},"name":"CETRILAK MILD Solution 100ml","composition":"Cetrimide 5%W/V","manufacturer":"Menarini India Pvt Ltd","price":"Rs.37.00"}
+{"_id":{"$oid":"5b59c683d51d2975344a1bb1"},"name":"CETRILAK BABY Soap 75gm","composition":"Cetrimide","manufacturer":"Menarini India Pvt Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b59c686d51d2975344a1bb2"},"name":"CETRILAK VET Soap 75gm","composition":"Cetrimide","manufacturer":"Menarini India Pvt Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b59c688d51d2975344a1bb3"},"name":"CETRILAK Soap 75gm","composition":"Cetrimide","manufacturer":"Menarini India Pvt Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b59c688d51d2975344a1bb4"},"name":"CETRILAK PLUS Soap 75gm","composition":"Cetrimide","manufacturer":"Menarini India Pvt Ltd","price":"Rs.53.00"}
+{"_id":{"$oid":"5b59c68ad51d2975344a1bb5"},"name":"CETRILAK MILD Solution 450ml","composition":"Cetrimide 5%W/V","manufacturer":"Menarini India Pvt Ltd","price":"Rs.34.00"}
+{"_id":{"$oid":"5b59c68cd51d2975344a1bb6"},"name":"CETRILAK STRONG Solution 100ml","composition":"Cetrimide 20%","manufacturer":"Menarini India Pvt Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b59c68dd51d2975344a1bb7"},"name":"CIPLADINE 5% Ointment 15gm","composition":"Povidone Iodine 5%W/V","manufacturer":"Cipla Ltd","price":"Rs.27.68"}
+{"_id":{"$oid":"5b59c68fd51d2975344a1bb8"},"name":"CIPLADINE Ointment 20gm","composition":"Povidone Iodine 5%W/V","manufacturer":"Cipla Ltd","price":"Rs.40.50"}
+{"_id":{"$oid":"5b59c691d51d2975344a1bb9"},"name":"DREZ Ointment 10gm","composition":"Metronidazole+Povidone Iodine","manufacturer":"Stedman Pharmaceuticals Pvt Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b59c692d51d2975344a1bba"},"name":"DREZ Ointment 100gm","composition":"Metronidazole+Povidone Iodine","manufacturer":"Stedman Pharmaceuticals Pvt Ltd","price":"Rs.181.50"}
+{"_id":{"$oid":"5b59c694d51d2975344a1bbb"},"name":"DREZ Solution 500ml","composition":"Povidone Iodine","manufacturer":"Stedman Pharmaceuticals Pvt Ltd","price":"Rs.225.75"}
+{"_id":{"$oid":"5b59c696d51d2975344a1bbc"},"name":"DREZ Solution 30ml","composition":"Metronidazole+Povidone Iodine","manufacturer":"Stedman Pharmaceuticals Pvt Ltd","price":"Rs.225.75"}
+{"_id":{"$oid":"5b59c698d51d2975344a1bbd"},"name":"DREZ S Ointment 15gm","composition":"Povidone Iodine 5%+Sucralfate 0.07+Tinidazole 0.01","manufacturer":"Stedman Pharmaceuticals Pvt Ltd","price":"Rs.93.17"}
+{"_id":{"$oid":"5b59c69ad51d2975344a1bbe"},"name":"DREZ Spray 40gm","composition":"Metronidazole+Povidone Iodine","manufacturer":"Stedman Pharmaceuticals Pvt Ltd","price":"Rs.106.48"}
+{"_id":{"$oid":"5b59c69bd51d2975344a1bbf"},"name":"DREZ GARGLE Syrup 100ml","composition":"Povidone Iodine","manufacturer":"Stedman Pharmaceuticals Pvt Ltd","price":"Rs.146.41"}
+{"_id":{"$oid":"5b59c69dd51d2975344a1bc0"},"name":"DREZ S Ointment 100gm","composition":"Povidone Iodine 5%+Sucralfate 0.07+Tinidazole 0.01","manufacturer":"Stedman Pharmaceuticals Pvt Ltd","price":"Rs.219.62"}
+{"_id":{"$oid":"5b59c69fd51d2975344a1bc1"},"name":"DREZ 10% Ointment 15gm","composition":"Metronidazole+Povidone Iodine","manufacturer":"Stedman Pharmaceuticals Pvt Ltd","price":"Rs.79.86"}
+{"_id":{"$oid":"5b59c6a0d51d2975344a1bc2"},"name":"DREZ Solution 100ml","composition":"Metronidazole+Povidone Iodine","manufacturer":"Stedman Pharmaceuticals Pvt Ltd","price":"Rs.39.20"}
+{"_id":{"$oid":"5b59c6a0d51d2975344a1bc3"},"name":"DREZ 10% Solution 60ml","composition":"Povidone Iodine 10%W/V","manufacturer":"Stedman Pharmaceuticals Pvt Ltd","price":"Rs.106.05"}
+{"_id":{"$oid":"5b59c6a3d51d2975344a1bc4"},"name":"ITEOL 3 Liquid 1000ml","composition":"Cetrimide 1.5mg+Chlorhexidine 7.5%","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.110.72"}
+{"_id":{"$oid":"5b59c6a4d51d2975344a1bc5"},"name":"ITEOL H Solution 5ltr","composition":"Benzalkonium Chloride 0.045mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.218.12"}
+{"_id":{"$oid":"5b59c6a6d51d2975344a1bc6"},"name":"MEGATRUM P Ointment 10gm","composition":"Povidone Iodine 5%W/W","manufacturer":"Group Pharmaceuticals Ltd","price":"Rs.17.99"}
+{"_id":{"$oid":"5b59c6a7d51d2975344a1bc7"},"name":"MEGATRUM Ointment 15gm","composition":"Povidone Iodine 5%W/W+Metronidazole 1%W/W","manufacturer":"Group Pharmaceuticals Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b59c6a9d51d2975344a1bc8"},"name":"MERBROMIN Solution 20ml","composition":"Surgicals ","manufacturer":"Jai Pharmaceuticals","price":"Rs.30.00"}
+{"_id":{"$oid":"5b59c6aad51d2975344a1bc9"},"name":"MERCI DINE Ointment 15gm","composition":"Povidone Iodine","manufacturer":"Aurz Pharmaceutical Pvt Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b59c6abd51d2975344a1bca"},"name":"MICROGARD Solution 500ml","composition":"Cetrimide 0.2%+Chlorhexidine 0.005","manufacturer":"Stedman Pharmaceuticals Pvt Ltd","price":"Rs.399.30"}
+{"_id":{"$oid":"5b59c6add51d2975344a1bcb"},"name":"MICROSHIELD HANDRUB Solution 500ml","composition":"Chlorhexidine Gluconate+Ethanol","manufacturer":"Schulke India Pvt Ltd","price":"Rs.600.00"}
+{"_id":{"$oid":"5b59c6afd51d2975344a1bcc"},"name":"PIVIDINE Ointment 15gm","composition":"Povidine Iodine 5%W/V","manufacturer":"Wockhardt Ltd","price":"Rs.25.83"}
+{"_id":{"$oid":"5b59c6b1d51d2975344a1bcd"},"name":"PLERMIN Gel 15gm","composition":"Becaplermin 0.01%","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,930.68"}
+{"_id":{"$oid":"5b59c6b3d51d2975344a1bce"},"name":"POVIDONE IODINE Solution 500ml","composition":"Povidone Iodine","manufacturer":"First Priority","price":"Rs.245.00"}
+{"_id":{"$oid":"5b59c6b5d51d2975344a1bcf"},"name":"POVIDONE IODINE Ointment 20gm","composition":"Povidone Iodine ","manufacturer":"Cipla Ltd","price":"Rs.6.87"}
+{"_id":{"$oid":"5b59c6b6d51d2975344a1bd0"},"name":"SEPTOL Cream 20gm","composition":"Cetrimide","manufacturer":"Acron Pharmaceuticals Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b59c6b8d51d2975344a1bd1"},"name":"SUCRAL POVI Ointment 20gm","composition":"Metronidazole+Povidone Iodine+Sucralfate","manufacturer":"Deys Medical Stores Mfg Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b59c6b9d51d2975344a1bd2"},"name":"WOKADINE Ointment 15gm","composition":"Povidone Iodine","manufacturer":"Wockhardt Ltd","price":"Rs.98.50"}
+{"_id":{"$oid":"5b59c6bbd51d2975344a1bd3"},"name":"WOKADINE SURGICAL SCRUB 500ml","composition":"Povidone Iodine","manufacturer":"Wockhardt Ltd","price":"Rs.630.50"}
+{"_id":{"$oid":"5b59c6bdd51d2975344a1bd4"},"name":"WOKADINE Solution 500ml","composition":"Povidone Iodine 10%","manufacturer":"Wockhardt Ltd","price":"Rs.353.33"}
+{"_id":{"$oid":"5b59c6bed51d2975344a1bd5"},"name":"WOKADINE 10% Solution 100ml","composition":"Povidone Iodine","manufacturer":"Wockhardt Ltd","price":"Rs.71.68"}
+{"_id":{"$oid":"5b59c6c0d51d2975344a1bd6"},"name":"WOKADINE Ointment 125gm","composition":"Povidone Iodine","manufacturer":"Wockhardt Ltd","price":"Rs.203.00"}
+{"_id":{"$oid":"5b59c6c1d51d2975344a1bd7"},"name":"WOKADINE M Ointment 10gm","composition":"Metronidazole+Povidone Iodine","manufacturer":"Wockhardt Ltd","price":"Rs.105.92"}
+{"_id":{"$oid":"5b59c6c1d51d2975344a1bd8"},"name":"WOUNSOL Ointment 15gm","composition":"Povidone Iodine+Sucralfate","manufacturer":"Theia Healthcare","price":"Rs.70.00"}

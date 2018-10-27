@@ -1,0 +1,240 @@
+{"_id":{"$oid":"5b59c5f7d51d297522465618"},"name":"ACT NVP 10/10mg Tablet 10's","composition":"DOXYLAMINE 10MG+PYRIDOXINE 10MG","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b59c5f9d51d297522465619"},"name":"ALDOM 20mg Tablet 10's","composition":"Domperidone 20mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.47.61"}
+{"_id":{"$oid":"5b59c5fbd51d29752246561a"},"name":"ALGETONE 2mg Injection 2ml","composition":"Ondansetron 2mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.4.25"}
+{"_id":{"$oid":"5b59c5fcd51d29752246561b"},"name":"ALMET 5mg Injection 2ml","composition":"Metoclopramide 5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.3.50"}
+{"_id":{"$oid":"5b59c5ffd51d29752246561c"},"name":"ALMET 10mg Tablet 10's","composition":"Metoclopramide 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.24.00"}
+{"_id":{"$oid":"5b59c601d51d29752246561d"},"name":"ANTEM 10mg Suspension 30ml","composition":"Domperidone 10mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.12.40"}
+{"_id":{"$oid":"5b59c603d51d29752246561e"},"name":"AUDON Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Aurz Pharmaceutical Pvt Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b59c605d51d29752246561f"},"name":"AUDON 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Aurz Pharmaceutical Pvt Ltd","price":"Rs.44.00"}
+{"_id":{"$oid":"5b59c605d51d297522465620"},"name":"AVOGRAN DT 1mg Tablet 4's","composition":"Granisetron 1mg","manufacturer":"Cipla Ltd","price":"Rs.76.92"}
+{"_id":{"$oid":"5b59c607d51d297522465621"},"name":"AVOGRANT DT Tablet 4's","composition":"Granisetron Hydrochloride","manufacturer":"Cipla Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b59c609d51d297522465622"},"name":"CHLORPROMAZINE 50mg Tablet 10's","composition":"Chlorpromazine 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.4.85"}
+{"_id":{"$oid":"5b59c60ad51d297522465623"},"name":"CHLORPROMAZINE 100mg Tablet 10's","composition":"Chlorpromazine 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.8.10"}
+{"_id":{"$oid":"5b59c60cd51d297522465624"},"name":"CHLORPROMAZINE 25mg Tablet 10's","composition":"Chlorpromazine 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.7.41"}
+{"_id":{"$oid":"5b59c60ed51d297522465625"},"name":"CPZ 200 s Tablet 10","composition":"CHLORPROMAZINE 200MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.7.12"}
+{"_id":{"$oid":"5b59c610d51d297522465626"},"name":"CPZ 25 mg Tablet 10's","composition":"CHLORPROMAZINE 25MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.3.04"}
+{"_id":{"$oid":"5b59c612d51d297522465627"},"name":"CPZ 10 mg Tablet 10","composition":"CHLORPROMAZINE 10MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.7.41"}
+{"_id":{"$oid":"5b59c612d51d297522465628"},"name":"DAYSHINE 10/10mg Tablet 30's","composition":"Doxylamine 10mg+Pyridoxine 10mg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.92.23"}
+{"_id":{"$oid":"5b59c615d51d297522465629"},"name":"DOMEL MT 10mg Tablet 10's","composition":"DOMPERIDONE 10MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.68.59"}
+{"_id":{"$oid":"5b59c616d51d29752246562a"},"name":"DOMI 5mg Tablet 10's","composition":"Domperidone 5mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.21.30"}
+{"_id":{"$oid":"5b59c619d51d29752246562b"},"name":"DOMI 1mg Suspension 30ml","composition":"Domperidone 1mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.31.40"}
+{"_id":{"$oid":"5b59c61bd51d29752246562c"},"name":"DOMI 6mg Tablet 10's","composition":"Domperidone 6mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.23.30"}
+{"_id":{"$oid":"5b59c61bd51d29752246562d"},"name":"DOMI UP 2mg Injection 4ml","composition":"Ondansetron 2mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.37.02"}
+{"_id":{"$oid":"5b59c61dd51d29752246562e"},"name":"DOMI UP 2mg Injection 2ml","composition":"Ondansetron 2mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.11.80"}
+{"_id":{"$oid":"5b59c61fd51d29752246562f"},"name":"DOMI UP 2mg Syrup 5ml","composition":"Ondansetron 2mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.141.91"}
+{"_id":{"$oid":"5b59c621d51d297522465630"},"name":"DOMI UP 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.47.50"}
+{"_id":{"$oid":"5b59c623d51d297522465631"},"name":"DOMI UP 2mg Syrup 30ml","composition":"Ondansetron 2mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.31.40"}
+{"_id":{"$oid":"5b59c625d51d297522465632"},"name":"DOMNE 1mg Suspension 30ml","composition":"Domperidone 1mg","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.22.50"}
+{"_id":{"$oid":"5b59c627d51d297522465633"},"name":"DOMNE CR 40mg Capsule 10's","composition":"Domperidone 40mg","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.66.65"}
+{"_id":{"$oid":"5b59c629d51d297522465634"},"name":"DOMNE CR 30mg Capsule 10's","composition":"Domperidone 30mg","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b59c62bd51d297522465635"},"name":"DOMNE P 30/40mg Capsule 10's","composition":"Domperidone 30mg+Pantoprazole 40mg","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b59c62cd51d297522465636"},"name":"DOMNIC Suspension 30ml","composition":"Domperidone 10mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.11.87"}
+{"_id":{"$oid":"5b59c62dd51d297522465637"},"name":"DOMPERI DT MG TABLET 10mg Tablet 10's","composition":"DOMPERIDONE 10MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.25.29"}
+{"_id":{"$oid":"5b59c62fd51d297522465638"},"name":"DOMPERI DT 5mg Tablet 10's","composition":"DOMPERIDONE 5MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.20.00"}
+{"_id":{"$oid":"5b59c631d51d297522465639"},"name":"DOMPERON Suspension 30ml","composition":"Domperidone","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.34.50"}
+{"_id":{"$oid":"5b59c633d51d29752246563a"},"name":"DOMPERON Drops 5ml","composition":"Domperidone 10mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.49.20"}
+{"_id":{"$oid":"5b59c636d51d29752246563b"},"name":"DOMPERON MELTABS 10mg Tablet 10's","composition":"DOMPERIDONE 10MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.23.52"}
+{"_id":{"$oid":"5b59c636d51d29752246563c"},"name":"DOMSTAL MPS 10/125mg Tablet 10's","composition":"Domperidone 10mg+Dimethicone 125mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.34.32"}
+{"_id":{"$oid":"5b59c639d51d29752246563d"},"name":"DOMSTAL MT 5mg Tablet 10's","composition":"DOMPERIDONE 5MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.20.80"}
+{"_id":{"$oid":"5b59c63bd51d29752246563e"},"name":"DOMSTAL P 10/500mg Tablet 10's","composition":"Domperidone 10mg+Paracetamol 500mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.26.53"}
+{"_id":{"$oid":"5b59c63dd51d29752246563f"},"name":"DOMSTOP 10mg Tablet 10's","composition":"Domperidone 10mg","manufacturer":"Wockhardt Ltd","price":"Rs.3.33"}
+{"_id":{"$oid":"5b59c63ed51d297522465640"},"name":"DOMSTOP 10mg Suspension 30ml","composition":"Domperidone 10mg","manufacturer":"Wockhardt Ltd","price":"Rs.32.85"}
+{"_id":{"$oid":"5b59c640d51d297522465641"},"name":"DORAN O 2mg Injection 2ml","composition":"Ondansetron 2mg+Ranitidine 50mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.14.42"}
+{"_id":{"$oid":"5b59c641d51d297522465642"},"name":"DOXINATE Tablet 30's","composition":"Doxylamine Succinate 10mg+Pyridoxine 10mg","manufacturer":"Svizera Healthcare","price":"Rs.156.55"}
+{"_id":{"$oid":"5b59c643d51d297522465643"},"name":"DOXINATE PLUS Tablet 30's","composition":"Doxylamine Succinate 10mg+Folic Acid 2.5mg+Pyridoxine 10mg","manufacturer":"Svizera Healthcare","price":"Rs.173.65"}
+{"_id":{"$oid":"5b59c645d51d297522465644"},"name":"DOXINATE OD Tablet 15's","composition":"Doxylamine Succinate 20mg+Pyridoxine 20mg (OD)","manufacturer":"Svizera Healthcare","price":"Rs.139.05"}
+{"_id":{"$oid":"5b59c646d51d297522465645"},"name":"DPF Tablet 10's","composition":"Doxylamine 10mg+Vitamin B6(Pyridoxine) 10mg+Folic Acid 25mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b59c647d51d297522465646"},"name":"EDGON 4mg Tablet 's","composition":"Ondansetron 4mg","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.45.68"}
+{"_id":{"$oid":"5b59c649d51d297522465647"},"name":"EDGON 2mg Syrup 30ml","composition":"Ondansetron 2mg","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.33.80"}
+{"_id":{"$oid":"5b59c64ad51d297522465648"},"name":"EME OD Tablet 10's","composition":"Palonosetron Hydrochloride 0.5mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.209.00"}
+{"_id":{"$oid":"5b59c64bd51d297522465649"},"name":"EME OD Injection 1.5ml","composition":"Palonosetron 0.075mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b59c64bd51d29752246564a"},"name":"EME OD Tablet 4's","composition":"Palonosetron Hydrochloride","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.192.00"}
+{"_id":{"$oid":"5b59c64dd51d29752246564b"},"name":"EMEFILM 4mg Strip 30's","composition":"Ondansetron 4mg","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.286.50"}
+{"_id":{"$oid":"5b59c650d51d29752246564c"},"name":"EMEFILM 2mg STRIP 30's","composition":"Ondansetron 2mg","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.253.50"}
+{"_id":{"$oid":"5b59c652d51d29752246564d"},"name":"EMEGRAN 1mg Injection 3ml","composition":"Granisetron 1mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.76.70"}
+{"_id":{"$oid":"5b59c655d51d29752246564e"},"name":"EMERAN 2mg Syrup 30ml","composition":"Ondansetron 2mg","manufacturer":"Biological Evans Ltd","price":"Rs.37.00"}
+{"_id":{"$oid":"5b59c656d51d29752246564f"},"name":"EMERAN 2mg Injection 1's","composition":"Ondansetron 2mg","manufacturer":"Biological Evans Ltd","price":"Rs.15.48"}
+{"_id":{"$oid":"5b59c65ad51d297522465650"},"name":"EMESET 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Cipla Ltd","price":"Rs.47.64"}
+{"_id":{"$oid":"5b59c65cd51d297522465651"},"name":"EMESET Injection 4ml","composition":"Ondansetron 8mg","manufacturer":"Cipla Ltd","price":"Rs.23.26"}
+{"_id":{"$oid":"5b59c65ed51d297522465652"},"name":"EMESET 8mg Tablet 10's","composition":"Ondansetron 8mg","manufacturer":"Cipla Ltd","price":"Rs.99.23"}
+{"_id":{"$oid":"5b59c660d51d297522465653"},"name":"EMESET Injection 20ml","composition":"Ondansetron 8mg","manufacturer":"Cipla Ltd","price":"Rs.203.50"}
+{"_id":{"$oid":"5b59c662d51d297522465654"},"name":"EMESET Injection 2ml","composition":"Ondansetron 4mg","manufacturer":"Cipla Ltd","price":"Rs.11.40"}
+{"_id":{"$oid":"5b59c663d51d297522465655"},"name":"EMESET Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Cipla Ltd","price":"Rs.34.16"}
+{"_id":{"$oid":"5b59c663d51d297522465656"},"name":"EMESET OD 8mg Tablet 10's","composition":"Ondansetron 8mg","manufacturer":"Cipla Ltd","price":"Rs.55.14"}
+{"_id":{"$oid":"5b59c665d51d297522465657"},"name":"EMESET ODT 2mg Tablet 10's","composition":"ONDANSETRON 2MG","manufacturer":"Cipla Ltd","price":"Rs.45.67"}
+{"_id":{"$oid":"5b59c666d51d297522465658"},"name":"EMESET ODT 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Cipla Ltd","price":"Rs.46.57"}
+{"_id":{"$oid":"5b59c668d51d297522465659"},"name":"EMIGO 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.45.79"}
+{"_id":{"$oid":"5b59c66cd51d29752246565a"},"name":"EMIGO Solution 30ml","composition":"Ondansetron 2mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.34.27"}
+{"_id":{"$oid":"5b59c66fd51d29752246565b"},"name":"EMIGO 4mg Injection 2ml","composition":"Ondansetron 4mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.11.61"}
+{"_id":{"$oid":"5b59c671d51d29752246565c"},"name":"EMIGO MD Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.47.71"}
+{"_id":{"$oid":"5b59c673d51d29752246565d"},"name":"EMITUS 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Icarus Health Care Pvt Ltd","price":"Rs.49.35"}
+{"_id":{"$oid":"5b59c675d51d29752246565e"},"name":"EMITUS Injection 2ml","composition":"Ondansetron 4mg","manufacturer":"Icarus Health Care Pvt Ltd","price":"Rs.123.00"}
+{"_id":{"$oid":"5b59c677d51d29752246565f"},"name":"EMITUS Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Icarus Health Care Pvt Ltd","price":"Rs.35.60"}
+{"_id":{"$oid":"5b59c679d51d297522465660"},"name":"EMNIL Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Vilberry Healthcare Pvt Ltd","price":"Rs.33.55"}
+{"_id":{"$oid":"5b59c67bd51d297522465661"},"name":"EMPOV 125mg Capsule 3's","composition":"Aprepitant 125mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,300.00"}
+{"_id":{"$oid":"5b59c67dd51d297522465662"},"name":"EMVOID Capsule 3's","composition":"Aprepitant ","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.852.50"}
+{"_id":{"$oid":"5b59c67fd51d297522465663"},"name":"EMVOID Injection 1's","composition":"Aprepitant mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.2,309.81"}
+{"_id":{"$oid":"5b59c681d51d297522465664"},"name":"EPINORM Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.34.27"}
+{"_id":{"$oid":"5b59c684d51d297522465665"},"name":"ESPAZINE 5mg Tablet 10's","composition":"TRIFLUOPERAZINE 5MG","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.26.80"}
+{"_id":{"$oid":"5b59c686d51d297522465666"},"name":"ESPAZINE Injection 1ml","composition":"TRIFLUOPERAZINE 1MG","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.28.10"}
+{"_id":{"$oid":"5b59c688d51d297522465667"},"name":"ETERNA Injection 10ml","composition":"Ondansetron 20mg","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.29.40"}
+{"_id":{"$oid":"5b59c68ad51d297522465668"},"name":"ETERNA 2mg Injection 2ml","composition":"Ondansetron 2mg","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.11.60"}
+{"_id":{"$oid":"5b59c68cd51d297522465669"},"name":"ETERNA MD 4mg Tablet 10's","composition":"ONDANSETRON 4MG","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b59c68fd51d29752246566a"},"name":"FOSA 150mg Injection","composition":"Fosaprepitant 150mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.1,400.00"}
+{"_id":{"$oid":"5b59c691d51d29752246566b"},"name":"FOSAPRETERO 150mg Injection 1's","composition":"Fosaprepitant 250mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.2,375.00"}
+{"_id":{"$oid":"5b59c693d51d29752246566c"},"name":"GASTRACTIV Tablet 10's","composition":"Domperidone","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.24.50"}
+{"_id":{"$oid":"5b59c695d51d29752246566d"},"name":"GLEEDOX Tablet 10's","composition":"Doxylamine Succinate+Folic Acid+Pyridoxine","manufacturer":"Wockhardt Ltd","price":"Rs.51.50"}
+{"_id":{"$oid":"5b59c697d51d29752246566e"},"name":"GOODAY Tablet 10's","composition":"Doxylamine 20mg+Pyridoxine 20mg","manufacturer":"Akesiss Pharma Pvt Ltd","price":"Rs.57.00"}
+{"_id":{"$oid":"5b59c699d51d29752246566f"},"name":"GOODMORN PLUS Tablet 10's","composition":"Doxylamine Succinate+Folic Acid+Pyridoxine","manufacturer":"Dwd Pharmaceuticals Ltd","price":"Rs.51.70"}
+{"_id":{"$oid":"5b59c69bd51d297522465670"},"name":"GOODMORN TABLET 30'S","composition":"DOXYLAMINE SUCCINATE 10MG+PYRIDOXINE 10MG","manufacturer":"Dwd Pharmaceuticals Ltd","price":"Rs.128.50"}
+{"_id":{"$oid":"5b59c69dd51d297522465671"},"name":"GOODMORN FORTE Tablet 10's","composition":"Doxylamine Succinate+Pyridoxine","manufacturer":"Dwd Pharmaceuticals Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b59c69dd51d297522465672"},"name":"GRANDEM Syrup 10ml","composition":"Granisetron Hydrochloride","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.31.45"}
+{"_id":{"$oid":"5b59c69fd51d297522465673"},"name":"GRANDEM Drops 10ml","composition":"Granisetron ","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.23.13"}
+{"_id":{"$oid":"5b59c6a1d51d297522465674"},"name":"GRANDEM Injection 3ml","composition":"Granisetron 1mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.73.45"}
+{"_id":{"$oid":"5b59c6a4d51d297522465675"},"name":"GRANDEM 1mg Injection 1ml","composition":"Granisetron Hydrochloride 1mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.26.36"}
+{"_id":{"$oid":"5b59c6a6d51d297522465676"},"name":"GRANDEM Injection 5ml","composition":"Granisetron ","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.131.80"}
+{"_id":{"$oid":"5b59c6a7d51d297522465677"},"name":"GRANDEM MD Tablet 6's","composition":"Granisetron Hydrochloride","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.40.50"}
+{"_id":{"$oid":"5b59c6a9d51d297522465678"},"name":"GRANDEM 1mg Tablet 6's","composition":"Granisetron Hydrochloride 1mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.37.00"}
+{"_id":{"$oid":"5b59c6abd51d297522465679"},"name":"GRANDEM 2mg Tablet 4's","composition":"Granisetron 2mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.33.86"}
+{"_id":{"$oid":"5b59c6add51d29752246567a"},"name":"GRANEXA 1mg Tablet 4's","composition":"Granisetron 1mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.16.12"}
+{"_id":{"$oid":"5b59c6afd51d29752246567b"},"name":"GRANEXA Suspension 30ml","composition":"Granisetron Hydrochloride 1mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.43.00"}
+{"_id":{"$oid":"5b59c6b1d51d29752246567c"},"name":"GRANEXA Drops 10ml","composition":"Granisetron 1mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.20.58"}
+{"_id":{"$oid":"5b59c6b4d51d29752246567d"},"name":"GRANEXA Suspension 10ml","composition":"Granisetron 1mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.19.81"}
+{"_id":{"$oid":"5b59c6b5d51d29752246567e"},"name":"GRANICIP 1mg Tablet 10's","composition":"Granisetron 1mg","manufacturer":"Cipla Ltd","price":"Rs.67.50"}
+{"_id":{"$oid":"5b59c6b6d51d29752246567f"},"name":"GRANICIP 1mg Tablet 4's","composition":"Granisetron 1mg","manufacturer":"Cipla Ltd","price":"Rs.81.18"}
+{"_id":{"$oid":"5b59c6b6d51d297522465680"},"name":"GRANICIP 1mg Syrup 10ml","composition":"Granisetron 1mg","manufacturer":"Cipla Ltd","price":"Rs.33.68"}
+{"_id":{"$oid":"5b59c6b8d51d297522465681"},"name":"GRANICIP 1mg Injection 1ml","composition":"Granisetron 1mg","manufacturer":"Cipla Ltd","price":"Rs.28.72"}
+{"_id":{"$oid":"5b59c6bad51d297522465682"},"name":"GRANIFORCE Syrup 10ml","composition":"Granisetron","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.39.87"}
+{"_id":{"$oid":"5b59c6bcd51d297522465683"},"name":"GRANIFORCE Syrup 30ml","composition":"Granisetron Hydrochloride 1mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.32.96"}
+{"_id":{"$oid":"5b59c6bed51d297522465684"},"name":"GRANIFORCE Injection 1ml","composition":"Granisetron Hydrochloride","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.16.48"}
+{"_id":{"$oid":"5b59c6c0d51d297522465685"},"name":"GRANIFORCE 1mg Tablet 10's","composition":"Granisetron Hydrochloride 1mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.60.50"}
+{"_id":{"$oid":"5b59c6c1d51d297522465686"},"name":"GRANIFORCE MD Tablet 10's","composition":"Granisetron Hydrochloride","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.60.50"}
+{"_id":{"$oid":"5b59c6c3d51d297522465687"},"name":"GRANISET 3mg Injection 3ml","composition":"GRANISETRON HYDROCHLORIDE 3MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.83.00"}
+{"_id":{"$oid":"5b59c6c3d51d297522465688"},"name":"GRANISET 1MG TABLET 4'S","composition":"GRANISETRON 1MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.101.00"}
+{"_id":{"$oid":"5b59c6c5d51d297522465689"},"name":"GRANISET(AML) 1 mg Tablet 4's","composition":"GRANISETRON 1MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.101.00"}
+{"_id":{"$oid":"5b59c6c7d51d29752246568a"},"name":"GRANISET(CIP) Injection 2ml","composition":"Granisetron ","manufacturer":"Cipla Ltd","price":"Rs.28.35"}
+{"_id":{"$oid":"5b59c6c9d51d29752246568b"},"name":"GRANITERO 1mg Tablet 4's","composition":"Granisetron 1mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.73.07"}
+{"_id":{"$oid":"5b59c6cbd51d29752246568c"},"name":"IBSET 5mcg Tablet 10's","composition":"Ramosetron Hydrochloride 5mcg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.310.70"}
+{"_id":{"$oid":"5b59c6cdd51d29752246568d"},"name":"INDOWEL Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Delcure Lifesciences Ltd","price":"Rs.31.50"}
+{"_id":{"$oid":"5b59c6cfd51d29752246568e"},"name":"LESETRON 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Leolife Sciences Pvt Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b59c6cfd51d29752246568f"},"name":"MOTILIUM M Tablet 10's","composition":"Domperidone 10mg","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.24.50"}
+{"_id":{"$oid":"5b59c6d1d51d297522465690"},"name":"MOTINORM Suspension 30ml","composition":"Domperidone 5mg","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.23.00"}
+{"_id":{"$oid":"5b59c6d3d51d297522465691"},"name":"MOTINORM Drops 5ml","composition":"Domperidone 10mg","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.41.00"}
+{"_id":{"$oid":"5b59c6d6d51d297522465692"},"name":"MOTINORM DT 10mg Tablet 10's","composition":"Domperidone 10mg","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.23.00"}
+{"_id":{"$oid":"5b59c6d6d51d297522465693"},"name":"MOTIWIN 10mg Tablet 10's","composition":"Domperidone 10mg","manufacturer":"Maneesh Pharmaceuticals Ltd","price":"Rs.21.39"}
+{"_id":{"$oid":"5b59c6d8d51d297522465694"},"name":"MOTIWIN 1mg Suspension 30ml","composition":"Domperidone 1mg","manufacturer":"Maneesh Pharmaceuticals Ltd","price":"Rs.22.50"}
+{"_id":{"$oid":"5b59c6d9d51d297522465695"},"name":"NAUCID 2mg Injection 2ml","composition":"Ondansetron 2mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.14.67"}
+{"_id":{"$oid":"5b59c6dcd51d297522465696"},"name":"NAUCID 2mg Injection 10ml","composition":"Ondansetron 2mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.33.86"}
+{"_id":{"$oid":"5b59c6ded51d297522465697"},"name":"NAUCID Syrup 30ml","composition":"ONDANSETRON 2MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b59c6e0d51d297522465698"},"name":"NAUCID 4mg Tablet 6's","composition":"Ondansetron 4mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.47.26"}
+{"_id":{"$oid":"5b59c6e2d51d297522465699"},"name":"NAUSIK Tablet 10's","composition":"Doxylamine Succinate+Folic Acid+Pyridoxine","manufacturer":"Mmc Health Care Ltd","price":"Rs.41.00"}
+{"_id":{"$oid":"5b59c6e4d51d29752246569a"},"name":"NAV Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Others","price":"Rs.53.14"}
+{"_id":{"$oid":"5b59c6e8d51d29752246569b"},"name":"NEOMIT 4mg Injection 2ml","composition":"Ondansetron Hydrochloride 4mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.11.85"}
+{"_id":{"$oid":"5b59c6ead51d29752246569c"},"name":"NOEM Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Medlab Pharmaceuticals Pvt Ltd","price":"Rs.34.00"}
+{"_id":{"$oid":"5b59c6edd51d29752246569d"},"name":"NOEM 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Med Manor Organics Pvt Ltd","price":"Rs.45.28"}
+{"_id":{"$oid":"5b59c6efd51d29752246569e"},"name":"NOSIC 10/10mg Tablet 10's","composition":"Doxylamine 10mg+Pyridoxine 10mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.41.75"}
+{"_id":{"$oid":"5b59c6f0d51d29752246569f"},"name":"NOSIC Tablet 10's","composition":"Doxylamine Succinate 10mg+Pyridoxine 10mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.122.00"}
+{"_id":{"$oid":"5b59c6d2d51d2975224656a0"},"name":"NOSIC Tablet 30's","composition":"Doxylamine Succinate 10mg+Pyridoxine 10mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.133.00"}
+{"_id":{"$oid":"5b59c6d4d51d2975224656a1"},"name":"NOZIA Tablet 2's","composition":"Ramosetron Hydrochloride 100mcg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.78.50"}
+{"_id":{"$oid":"5b59c6d6d51d2975224656a2"},"name":"NOZIA 0.1mg Tablet 1's","composition":"Ramosetron 0.1mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.32.23"}
+{"_id":{"$oid":"5b59c6d8d51d2975224656a3"},"name":"NOZIA Injection 2ml","composition":"Ramosetron Hydrochloride 300mcg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.45.70"}
+{"_id":{"$oid":"5b59c6dad51d2975224656a4"},"name":"NUAVOMIN 8mg Tablet 10's","composition":"Ondansetron 8mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.95.13"}
+{"_id":{"$oid":"5b59c6ddd51d2975224656a5"},"name":"NUAVOMIN 2mg Injection 1's","composition":"Ondansetron 2mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.11.88"}
+{"_id":{"$oid":"5b59c6dfd51d2975224656a6"},"name":"ODANSE 2mg Syrup 30ml","composition":"Ondansetron 2mg","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.34.80"}
+{"_id":{"$oid":"5b59c6e1d51d2975224656a7"},"name":"OMALCER D Capsule 15's","composition":"DOMPERIDONE 10MG+OMEPRAZOLE 20MG","manufacturer":"Wockhardt Ltd","price":"Rs.118.16"}
+{"_id":{"$oid":"5b59c6e3d51d2975224656a8"},"name":"OMNIDOX Tablet 10's","composition":"Doxylamine Succinate+Pyridoxine","manufacturer":"Cipla Ltd","price":"Rs.26.75"}
+{"_id":{"$oid":"5b59c6e6d51d2975224656a9"},"name":"OND 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.43.06"}
+{"_id":{"$oid":"5b59c6e8d51d2975224656aa"},"name":"OND 2mg Syrup 30ml","composition":"Ondansetron 2mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.33.32"}
+{"_id":{"$oid":"5b59c6ead51d2975224656ab"},"name":"OND 2mg Injection 10ml","composition":"Ondansetron 2mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.27.88"}
+{"_id":{"$oid":"5b59c6ecd51d2975224656ac"},"name":"ONDACE Solution 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Cosme Farma Laboratories Ltd","price":"Rs.34.83"}
+{"_id":{"$oid":"5b59c6eed51d2975224656ad"},"name":"ONDACE Injection 2ml","composition":"Ondansetron 4mg","manufacturer":"Cosme Farma Laboratories Ltd","price":"Rs.14.58"}
+{"_id":{"$oid":"5b59c6f0d51d2975224656ae"},"name":"ONDACE 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Oaknet Healthcare Pvt Ltd","price":"Rs.46.57"}
+{"_id":{"$oid":"5b59c6f2d51d2975224656af"},"name":"ONDACHEK Tablet 10's","composition":"Ondansetron ","manufacturer":"Unichem Laboratories Ltd","price":"Rs.8.75"}
+{"_id":{"$oid":"5b59c6f4d51d2975224656b0"},"name":"ONDAMAC 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.53.13"}
+{"_id":{"$oid":"5b59c6f7d51d2975224656b1"},"name":"ONDAMAC MD Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.45.68"}
+{"_id":{"$oid":"5b59c6fad51d2975224656b2"},"name":"ONDAMAC Oral Syrup 30ml","composition":"Ondansetron 2mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.34.27"}
+{"_id":{"$oid":"5b59c6fcd51d2975224656b3"},"name":"ONDANBIC Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.34.14"}
+{"_id":{"$oid":"5b59c6fdd51d2975224656b4"},"name":"ONDEM Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Alkem Laboratories Ltd","price":"Rs.35.28"}
+{"_id":{"$oid":"5b59c700d51d2975224656b5"},"name":"ONDEM 8mg Tablet 10's","composition":"Ondansetron 8mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.92.53"}
+{"_id":{"$oid":"5b59c702d51d2975224656b6"},"name":"ONDEM P Syrup 30ml","composition":"Ondansetron+Paracetamol","manufacturer":"Alkem Laboratories Ltd","price":"Rs.36.23"}
+{"_id":{"$oid":"5b59c704d51d2975224656b7"},"name":"ONDEM 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.47.65"}
+{"_id":{"$oid":"5b59c706d51d2975224656b8"},"name":"ONDEM Injection 4ml","composition":"Ondansetron 8mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.23.78"}
+{"_id":{"$oid":"5b59c709d51d2975224656b9"},"name":"ONDEM Injection 2ml","composition":"Ondansetron 4mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.11.88"}
+{"_id":{"$oid":"5b59c709d51d2975224656ba"},"name":"ONDEM MD 8mg Tablet 10's","composition":"Ondansetron 8mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.99.23"}
+{"_id":{"$oid":"5b59c70bd51d2975224656bb"},"name":"ONDEM MD 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.47.65"}
+{"_id":{"$oid":"5b59c70ed51d2975224656bc"},"name":"ONDIRON 2mg Drops 30ml","composition":"Ondansetron 2mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.12.50"}
+{"_id":{"$oid":"5b59c710d51d2975224656bd"},"name":"ONDIRON Injection 2ml","composition":"Ondansetron 2mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.55.12"}
+{"_id":{"$oid":"5b59c714d51d2975224656be"},"name":"ONDIRON 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.53.60"}
+{"_id":{"$oid":"5b59c716d51d2975224656bf"},"name":"ONDITRON 2mg Syrup 30ml","composition":"Ondansetron 2mg","manufacturer":"Wockhardt Ltd","price":"Rs.16.27"}
+{"_id":{"$oid":"5b59c719d51d2975224656c0"},"name":"ONDITRON 2mg Injection 4ml","composition":"Ondansetron 2mg","manufacturer":"Wockhardt Ltd","price":"Rs.12.50"}
+{"_id":{"$oid":"5b59c71bd51d2975224656c1"},"name":"ONDITRON 2mg Injection 2ml","composition":"Ondansetron 2mg","manufacturer":"Wockhardt Ltd","price":"Rs.11.40"}
+{"_id":{"$oid":"5b59c71dd51d2975224656c2"},"name":"ONDITRON MD 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Wockhardt Ltd","price":"Rs.47.65"}
+{"_id":{"$oid":"5b59c720d51d2975224656c3"},"name":"ONTIC Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.34.50"}
+{"_id":{"$oid":"5b59c722d51d2975224656c4"},"name":"ONTIC Injection 2ml","composition":"Ondansetron 2mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.11.57"}
+{"_id":{"$oid":"5b59c724d51d2975224656c5"},"name":"ONVIN Injection 2ml","composition":"Ondansetron 1mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.16.46"}
+{"_id":{"$oid":"5b59c727d51d2975224656c6"},"name":"ONVIN MD 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.45.68"}
+{"_id":{"$oid":"5b59c729d51d2975224656c7"},"name":"OPTIDOX Tablet 10's","composition":"Doxylamine Succinate 10mg+Pyridoxine 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.87.00"}
+{"_id":{"$oid":"5b59c72bd51d2975224656c8"},"name":"OZOTRON Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Ozone Pharmaceuticals Ltd","price":"Rs.32.70"}
+{"_id":{"$oid":"5b59c72dd51d2975224656c9"},"name":"P RD Capsule 10's","composition":"Domperidone+Pantoprazole","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b59c72fd51d2975224656ca"},"name":"PALOZAC 0.5mg Capsule 5's","composition":"Palonosetron Hydrochloride 0.5mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b59c731d51d2975224656cb"},"name":"PALZEN 0.25mg Injection 5ml","composition":"Palonosetron Hydrochloride 0.25mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b59c734d51d2975224656cc"},"name":"PANOMP 40mg Tablet 10's","composition":"Pantoprazole 40mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b59c736d51d2975224656cd"},"name":"PANOMP D Tablet 10's","composition":"Pantoprazole 40mg+Domperidone 30mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.78.50"}
+{"_id":{"$oid":"5b59c738d51d2975224656ce"},"name":"PERISET Injection 10ml","composition":"Ondansetron 20mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.35.00"}
+{"_id":{"$oid":"5b59c73ad51d2975224656cf"},"name":"PERISET 8mg Tablet 10's","composition":"Ondansetron 8mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.67.90"}
+{"_id":{"$oid":"5b59c73dd51d2975224656d0"},"name":"PERISET Injection 2ml","composition":"Ondansetron 4mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.11.88"}
+{"_id":{"$oid":"5b59c740d51d2975224656d1"},"name":"PERISET 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.45.95"}
+{"_id":{"$oid":"5b59c742d51d2975224656d2"},"name":"PERISET Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.33.60"}
+{"_id":{"$oid":"5b59c745d51d2975224656d3"},"name":"PERISET MD Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.46.84"}
+{"_id":{"$oid":"5b59c747d51d2975224656d4"},"name":"PREGNIDOXIN 25/20mg Tablet 15's","composition":"Meclizine 25mg+Caffeine 20mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.53.75"}
+{"_id":{"$oid":"5b59c749d51d2975224656d5"},"name":"PREGNIDOXIN NU Tablet 30's","composition":"Doxylamine+Pyridoxine","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b59c74bd51d2975224656d6"},"name":"PREVENT Tablet 10's","composition":"Doxylamine Succinate+Pyridoxine","manufacturer":"Zee Laboratories Ltd","price":"Rs.58.80"}
+{"_id":{"$oid":"5b59c74dd51d2975224656d7"},"name":"RENERVE D Tablet 10's","composition":"Alpha Lipoic Acid+Folic Acid+Mecobalamin(Methylcobalamin)+Pyridoxine","manufacturer":"Strides Shasun Ltd","price":"Rs.156.00"}
+{"_id":{"$oid":"5b59c74fd51d2975224656d8"},"name":"REST AID PLUS Tablet 10's","composition":"Doxylamine Succinate+Pyridoxine","manufacturer":"Overseas Healthcare Pvt Ltd","price":"Rs.39.10"}
+{"_id":{"$oid":"5b59c751d51d2975224656d9"},"name":"REST AID Tablet 10's","composition":"Doxylamine Succinate 10mg+Pyridoxine Hydrochloride 10mg","manufacturer":"Overseas Healthcare Pvt Ltd","price":"Rs.35.10"}
+{"_id":{"$oid":"5b59c754d51d2975224656da"},"name":"SINATE Tablet 10's","composition":"Doxylamine Succinate+Folic Acid+Pyridoxine","manufacturer":"Serum Institute Of India Ltd","price":"Rs.44.70"}
+{"_id":{"$oid":"5b59c755d51d2975224656db"},"name":"SINATE OD Tablet 10's","composition":"Doxylamine Succinate+Folic Acid+Pyridoxine","manufacturer":"Serum Institute Of India Ltd","price":"Rs.67.70"}
+{"_id":{"$oid":"5b59c756d51d2975224656dc"},"name":"SPERONDEN Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Indoco Remedies Ltd","price":"Rs.34.82"}
+{"_id":{"$oid":"5b59c758d51d2975224656dd"},"name":"STOPVOM P Suspension 30ml","composition":"Domperidone","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.24.00"}
+{"_id":{"$oid":"5b59c75ad51d2975224656de"},"name":"SYSFOL PLUS Tablet 10's","composition":"Doxylamine Succinate+Folic Acid+Pyridoxine","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.35.50"}
+{"_id":{"$oid":"5b59c75cd51d2975224656df"},"name":"TRANCHLOR 25mg Tablet 10's","composition":"Chlorpromazine 25mg","manufacturer":"Medopharm Pvt Ltd","price":"Rs.2.53"}
+{"_id":{"$oid":"5b59c75ed51d2975224656e0"},"name":"TRANCHLOR 50mg Tablet 10's","composition":"Chlorpromazine 50mg","manufacturer":"Medopharm Pvt Ltd","price":"Rs.3.61"}
+{"_id":{"$oid":"5b59c760d51d2975224656e1"},"name":"VOMENA PD 4mg Drops 15ml","composition":"Ondansetron 4mg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.27.43"}
+{"_id":{"$oid":"5b59c762d51d2975224656e2"},"name":"VOMENA PD 4mg Solution 30ml","composition":"Ondansetron 4mg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.27.00"}
+{"_id":{"$oid":"5b59c765d51d2975224656e3"},"name":"VOMICURE Syrup 30ml","composition":"Ondansetron","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b59c767d51d2975224656e4"},"name":"VOMIHALT Injection 10ml","composition":"Ondansetron 20mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.36.34"}
+{"_id":{"$oid":"5b59c76ad51d2975224656e5"},"name":"VOMIHALT Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.33.60"}
+{"_id":{"$oid":"5b59c76dd51d2975224656e6"},"name":"VOMIHALT MD Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.45.89"}
+{"_id":{"$oid":"5b59c770d51d2975224656e7"},"name":"VOMIHALT 4mg Injection 2ml","composition":"Ondansetron 4mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.17.12"}
+{"_id":{"$oid":"5b59c772d51d2975224656e8"},"name":"VOMIKIND Injection 2ml","composition":"Ondansetron","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.11.87"}
+{"_id":{"$oid":"5b59c774d51d2975224656e9"},"name":"VOMIKIND MD 2mg Tablet 10's","composition":"Ondansetron 2mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.33.00"}
+{"_id":{"$oid":"5b59c776d51d2975224656ea"},"name":"VOMIKIND PLUS Syrup 30ml","composition":"Ondansetron+Paracetamol","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.33.39"}
+{"_id":{"$oid":"5b59c778d51d2975224656eb"},"name":"VOMIKIND Syrup 30ml","composition":"Ondansetron","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.30.63"}
+{"_id":{"$oid":"5b59c77cd51d2975224656ec"},"name":"VOMIKIND Injection 10ml","composition":"Ondansetron","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.30.64"}
+{"_id":{"$oid":"5b59c77fd51d2975224656ed"},"name":"VOMIKIND MD 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.36.82"}
+{"_id":{"$oid":"5b59c781d51d2975224656ee"},"name":"VOMIKIND 8mg FAST Strip 12's","composition":"Ondansetron 8mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.11.00"}
+{"_id":{"$oid":"5b59c781d51d2975224656ef"},"name":"VOMIKIND FAST Strip 4mg","composition":"Ondansetron 4mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.10.45"}
+{"_id":{"$oid":"5b59c783d51d2975224656f0"},"name":"VOMIKIND PLUS 4/500mg Tablet 10's","composition":"Ondansetron 4mg+Paracetamol 500mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.61.37"}
+{"_id":{"$oid":"5b59c785d51d2975224656f1"},"name":"VOMILAST Tablet 10's","composition":"Doxylamine Succinate+Folic Acid+Pyridoxine","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.45.65"}
+{"_id":{"$oid":"5b59c788d51d2975224656f2"},"name":"VOMILAST OD Tablet 10's","composition":"DOXYLAMINE SUCCINATE 20MG+PYRIDOXINE 20MG+FOLIC ACID 5MG","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b59c78ad51d2975224656f3"},"name":"VOMILIFE MD 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.24.00"}
+{"_id":{"$oid":"5b59c78ad51d2975224656f4"},"name":"VOMINATE 10mg/10mg Tablet 10's","composition":"Doxylamine 10mg+Pyridoxine 10mg","manufacturer":"Cipla Ltd","price":"Rs.33.00"}
+{"_id":{"$oid":"5b59c78dd51d2975224656f5"},"name":"VOMIOF 8mg Tablet 10's","composition":"Ondansetron 8mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.80.02"}
+{"_id":{"$oid":"5b59c78fd51d2975224656f6"},"name":"VOMIOF 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.29.91"}
+{"_id":{"$oid":"5b59c792d51d2975224656f7"},"name":"VOMISAVE Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Others","price":"Rs.34.15"}
+{"_id":{"$oid":"5b59c794d51d2975224656f8"},"name":"VOMISET 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Indi Pharma Pvt Ltd","price":"Rs.44.10"}
+{"_id":{"$oid":"5b59c796d51d2975224656f9"},"name":"VOMISET Injection 2ml","composition":"Ondansetron 4mg","manufacturer":"Indi Pharma Pvt Ltd","price":"Rs.11.89"}
+{"_id":{"$oid":"5b59c798d51d2975224656fa"},"name":"VOMISET 8mg Tablet 10's","composition":"Ondansetron 8mg","manufacturer":"Indi Pharma Pvt Ltd","price":"Rs.75.10"}
+{"_id":{"$oid":"5b59c79bd51d2975224656fb"},"name":"VOMISET Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Indi Pharma Pvt Ltd","price":"Rs.33.40"}
+{"_id":{"$oid":"5b59c79dd51d2975224656fc"},"name":"VOMISET MD 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Indi Pharma Pvt Ltd","price":"Rs.47.71"}
+{"_id":{"$oid":"5b59c79fd51d2975224656fd"},"name":"VOMISTOP 10mg Tablet 10's","composition":"Domperidone 10mg","manufacturer":"Cipla Ltd","price":"Rs.24.49"}
+{"_id":{"$oid":"5b59c7a1d51d2975224656fe"},"name":"VOMITEX 10/10mg Tablet 10's","composition":"Doxylamine 10mg+Pyridoxine 10mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.19.50"}
+{"_id":{"$oid":"5b59c7a5d51d2975224656ff"},"name":"VOMITIL 5mg Tablet 10's","composition":"Prochlorperazine 5mg","manufacturer":"Cipla Ltd","price":"Rs.9.37"}
+{"_id":{"$oid":"5b59c7a7d51d297522465700"},"name":"VOMSTAL 10mg Tablet 10's","composition":"Domperidone 10mg","manufacturer":"Maneesh Pharmaceuticals Ltd","price":"Rs.23.00"}
+{"_id":{"$oid":"5b59c7a9d51d297522465701"},"name":"VORAST Syrup 30ml","composition":"Ondansetron 2mg/5ml","manufacturer":"Fdc Ltd","price":"Rs.30.30"}
+{"_id":{"$oid":"5b59c7abd51d297522465702"},"name":"ZOFER MD 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.47.64"}
+{"_id":{"$oid":"5b59c7acd51d297522465703"},"name":"ZOFER 8mg Tablet 10's","composition":"Ondansetron 8mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.95.13"}
+{"_id":{"$oid":"5b59c7acd51d297522465704"},"name":"ZOFER Injection 2ml","composition":"ONDANSETRON 4MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.11.62"}
+{"_id":{"$oid":"5b59c7aed51d297522465705"},"name":"ZOFER 4mg Tablet 10's","composition":"Ondansetron 4mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.47.64"}
+{"_id":{"$oid":"5b59c7b2d51d297522465706"},"name":"ZOFER MD 8mg Tablet 10's","composition":"Ondansetron 8mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.99.22"}
+{"_id":{"$oid":"5b59c7b4d51d297522465707"},"name":"ZORDIL ORAL Suspension 30ml","composition":"Ondansetron+Ranitidine","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.42.00"}

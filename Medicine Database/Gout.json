@@ -1,0 +1,177 @@
+{"_id":{"$oid":"5b584865d51d2960ccf3c98d"},"name":"ABUSTAT 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Psychotropics India Limited","price":"Rs.30.93"}
+{"_id":{"$oid":"5b584867d51d2960ccf3c98e"},"name":"ALINOL 20MG TABLET 10'S","composition":"ALLOPURINOL 20MG","manufacturer":"Kivi Labs Ltd","price":"Rs.43.06"}
+{"_id":{"$oid":"5b584869d51d2960ccf3c98f"},"name":"ALINOL 10MG TABLET 10'S","composition":"ALLOPURINOL 10MG","manufacturer":"Kivi Labs Ltd","price":"Rs.31.07"}
+{"_id":{"$oid":"5b58486bd51d2960ccf3c990"},"name":"ALLGORIC 100MG TABLET 10'S","composition":"ALLOPURINOL 100MG","manufacturer":" NA ","price":"Rs.23.81"}
+{"_id":{"$oid":"5b58486dd51d2960ccf3c991"},"name":"ALORIC 100MG TABLET 10'S","composition":"ALLOPURINOL 100MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.7.21"}
+{"_id":{"$oid":"5b58486fd51d2960ccf3c992"},"name":"ALPNOL 20MG TABLET 10'S","composition":"ALLOPURINOL 20MG","manufacturer":"Kivi Labs Ltd","price":"Rs.23.72"}
+{"_id":{"$oid":"5b584871d51d2960ccf3c993"},"name":"ALPNOL 10MG TABLET 10'S","composition":"ALLOPURINOL 10MG","manufacturer":"Kivi Labs Ltd","price":"Rs.17.85"}
+{"_id":{"$oid":"5b584873d51d2960ccf3c994"},"name":"ALRIK 100mg Tablet 10's","composition":"Allopurinol 100mg","manufacturer":"Cipla Ltd","price":"Rs.24.00"}
+{"_id":{"$oid":"5b584874d51d2960ccf3c995"},"name":"ALUNO 300MG TABLET 10'S","composition":"ALLOPURINOL 300MG","manufacturer":"SALUD CARE PVT LTD","price":"Rs.60.00"}
+{"_id":{"$oid":"5b584876d51d2960ccf3c996"},"name":"ALUNO 100MG TABLET 10'S","composition":"ALLOPURINOL 100MG","manufacturer":"SALUD CARE PVT LTD","price":"Rs.28.57"}
+{"_id":{"$oid":"5b584879d51d2960ccf3c997"},"name":"ALUXO 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"SALUD CARE PVT LTD","price":"Rs.98.00"}
+{"_id":{"$oid":"5b58487bd51d2960ccf3c998"},"name":"ANTIURIC 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Pharmed Limited","price":"Rs.66.66"}
+{"_id":{"$oid":"5b58487dd51d2960ccf3c999"},"name":"ANTIURIC 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Pharmed Limited","price":"Rs.120.00"}
+{"_id":{"$oid":"5b58487fd51d2960ccf3c99a"},"name":"ARBON 80mg Tablet 10's","composition":"FEBUXOSTAT 80MG","manufacturer":"Bennet Pharmaceuticals Ltd","price":"Rs.104.76"}
+{"_id":{"$oid":"5b584881d51d2960ccf3c99b"},"name":"ARBON 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Bennet Pharmaceuticals Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b584883d51d2960ccf3c99c"},"name":"BELOSIX 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.58.03"}
+{"_id":{"$oid":"5b584885d51d2960ccf3c99d"},"name":"BELOSIX 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.114.88"}
+{"_id":{"$oid":"5b584887d51d2960ccf3c99e"},"name":"BENCID 500mg Tablet 10's","composition":"Probenecid 500mg","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.47.00"}
+{"_id":{"$oid":"5b584889d51d2960ccf3c99f"},"name":"CIPLORIC 300mg Tablet 10's","composition":"Allopurinol 300mg","manufacturer":"Cipla Ltd","price":"Rs.68.10"}
+{"_id":{"$oid":"5b58488bd51d2960ccf3c9a0"},"name":"CIPLORIC 100mg Tablet 10's","composition":"Allopurinol 100mg","manufacturer":"Cipla Ltd","price":"Rs.23.55"}
+{"_id":{"$oid":"5b58488dd51d2960ccf3c9a1"},"name":"CIPROLIC 300mg Tablet 10's","composition":"Allopurinol 300mg","manufacturer":"Cipla Ltd","price":"Rs.56.67"}
+{"_id":{"$oid":"5b58488ed51d2960ccf3c9a2"},"name":"COLCHICINDON 0.5mg Tablet 10's","composition":"Colchicine 0.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.12.29"}
+{"_id":{"$oid":"5b584890d51d2960ccf3c9a3"},"name":"COLOCHICINE 0.5mg Tablet 10's","composition":"Colchicine 0.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.10.58"}
+{"_id":{"$oid":"5b584892d51d2960ccf3c9a4"},"name":"CRYSTACARE 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b584895d51d2960ccf3c9a5"},"name":"CRYSTACARE 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.133.33"}
+{"_id":{"$oid":"5b584897d51d2960ccf3c9a6"},"name":"CRYSTCARE 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Strides Shasun Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b584899d51d2960ccf3c9a7"},"name":"CRYSTCARE 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Strides Shasun Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b58489bd51d2960ccf3c9a8"},"name":"DONICA 25mg Capsule 10's","composition":"Indomethacin 25mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.36.00"}
+{"_id":{"$oid":"5b58489dd51d2960ccf3c9a9"},"name":"DUCAINE Tablet 10's","composition":"Indomethacin 25mg","manufacturer":"Skn Organics Pvt Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b58489fd51d2960ccf3c9aa"},"name":"EBUXO 80mg Tablet 10's","composition":"Febuxostat","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.153.70"}
+{"_id":{"$oid":"5b5848a1d51d2960ccf3c9ab"},"name":"EBUXO 120mg Tablet 10's","composition":"Febuxostat 120mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.190.00"}
+{"_id":{"$oid":"5b5848a3d51d2960ccf3c9ac"},"name":"EBUXO 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.92.95"}
+{"_id":{"$oid":"5b5848a5d51d2960ccf3c9ad"},"name":"FABULAS 120mg Tablet 10's","composition":"Febuxostat 120mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b5848a7d51d2960ccf3c9ae"},"name":"FABULAS 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b5848a9d51d2960ccf3c9af"},"name":"FABULAS 80MG TABLET 10'S","composition":"FEBUXOSTAT 80MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.167.00"}
+{"_id":{"$oid":"5b5848abd51d2960ccf3c9b0"},"name":"FABULON 80mg Tablet 10's","composition":"FEBUXOSTAT 80MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b5848add51d2960ccf3c9b1"},"name":"FABULON 40mg Tablet 10's","composition":"FEBUXOSTAT 40MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b5848afd51d2960ccf3c9b2"},"name":"FABUZEST 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.67.13"}
+{"_id":{"$oid":"5b5848b1d51d2960ccf3c9b3"},"name":"FABUZEST 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5848b3d51d2960ccf3c9b4"},"name":"FACTUS SR 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Delcure Lifesciences Ltd","price":"Rs.147.00"}
+{"_id":{"$oid":"5b5848b5d51d2960ccf3c9b5"},"name":"FACTUS SR 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Delcure Lifesciences Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b5848b7d51d2960ccf3c9b6"},"name":"FADVIC 40mg Tablet 10's","composition":"FEBUXOSTAT 40MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5848bad51d2960ccf3c9b7"},"name":"FADVIC 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.284.00"}
+{"_id":{"$oid":"5b5848bcd51d2960ccf3c9b8"},"name":"FBX 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Albert David Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5848bdd51d2960ccf3c9b9"},"name":"FBX 120mg Tablet 10's","composition":"Febuxostat 120mg","manufacturer":"Albert David Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b5848bfd51d2960ccf3c9ba"},"name":"FBX 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Albert David Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5848c2d51d2960ccf3c9bb"},"name":"FEBARTO 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b5848c4d51d2960ccf3c9bc"},"name":"FEBARTO 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b5848c6d51d2960ccf3c9bd"},"name":"FEBLORIC 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.49.90"}
+{"_id":{"$oid":"5b5848c7d51d2960ccf3c9be"},"name":"FEBOXA 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.33.12"}
+{"_id":{"$oid":"5b5848c9d51d2960ccf3c9bf"},"name":"FEBOXA 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b5848cbd51d2960ccf3c9c0"},"name":"FEBUAT 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.71.00"}
+{"_id":{"$oid":"5b5848cdd51d2960ccf3c9c1"},"name":"FEBUAT 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5848cfd51d2960ccf3c9c2"},"name":"FEBUBEST 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.94.60"}
+{"_id":{"$oid":"5b5848d1d51d2960ccf3c9c3"},"name":"FEBUBEST 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5848d3d51d2960ccf3c9c4"},"name":"FEBUCAD 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.86.00"}
+{"_id":{"$oid":"5b5848d6d51d2960ccf3c9c5"},"name":"FEBUCAD 80mg Tablet 10's","composition":"FEBUXOSTAT 80MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.127.00"}
+{"_id":{"$oid":"5b5848d8d51d2960ccf3c9c6"},"name":"FEBUCARE 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Others","price":"Rs.98.00"}
+{"_id":{"$oid":"5b5848dad51d2960ccf3c9c7"},"name":"FEBUCARE 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Others","price":"Rs.110.00"}
+{"_id":{"$oid":"5b5848dcd51d2960ccf3c9c8"},"name":"FEBUCIP 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Cipla Ltd","price":"Rs.94.50"}
+{"_id":{"$oid":"5b5848dcd51d2960ccf3c9c9"},"name":"FEBUDAY 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.71.00"}
+{"_id":{"$oid":"5b5848dfd51d2960ccf3c9ca"},"name":"FEBUFIX 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Akesiss Pharma Pvt Ltd","price":"Rs.71.42"}
+{"_id":{"$oid":"5b5848e1d51d2960ccf3c9cb"},"name":"FEBUGET 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5848e3d51d2960ccf3c9cc"},"name":"FEBUGET 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b5848e7d51d2960ccf3c9cd"},"name":"FEBUGOOD 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.142.00"}
+{"_id":{"$oid":"5b5848e9d51d2960ccf3c9ce"},"name":"FEBUGOOD 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.84.00"}
+{"_id":{"$oid":"5b5848ebd51d2960ccf3c9cf"},"name":"FEBUGOOD 120mg Tablet 10's","composition":"Febuxostat 120mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b5848edd51d2960ccf3c9d0"},"name":"FEBULAS 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b5848f0d51d2960ccf3c9d1"},"name":"FEBUMAC 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b5848f2d51d2960ccf3c9d2"},"name":"FEBUMAC 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.139.50"}
+{"_id":{"$oid":"5b5848f4d51d2960ccf3c9d3"},"name":"FEBUNEX 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Invision Medi Sciences Pvt Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b5848f6d51d2960ccf3c9d4"},"name":"FEBURIC 120mg Tablet 10's","composition":"Febuxostat 120mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.127.56"}
+{"_id":{"$oid":"5b5848f8d51d2960ccf3c9d5"},"name":"FEBURIC 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.161.00"}
+{"_id":{"$oid":"5b5848f9d51d2960ccf3c9d6"},"name":"FEBURIC 20mg Tablet 10's","composition":"Febuxostat 20mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.70.50"}
+{"_id":{"$oid":"5b5848fcd51d2960ccf3c9d7"},"name":"FEBURIC 60mg Tablet 10's","composition":"FEBUXOSTAT 60MG","manufacturer":"Ajanta Pharma Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5848fed51d2960ccf3c9d8"},"name":"FEBURIC 120mg Tablet 7's","composition":"Febuxostat 120mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.140.47"}
+{"_id":{"$oid":"5b584900d51d2960ccf3c9d9"},"name":"FEBURIC 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b584902d51d2960ccf3c9da"},"name":"FEBUS 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.112.26"}
+{"_id":{"$oid":"5b584904d51d2960ccf3c9db"},"name":"FEBUSET 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Meyer Organics Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b584906d51d2960ccf3c9dc"},"name":"FEBUSET 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Meyer Organics Ltd","price":"Rs.137.00"}
+{"_id":{"$oid":"5b584908d51d2960ccf3c9dd"},"name":"FEBUSTAT 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.112.00"}
+{"_id":{"$oid":"5b58490ad51d2960ccf3c9de"},"name":"FEBUSTAT 120mg Tablet 10's","composition":"FEBUXOSTAT 120MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.189.91"}
+{"_id":{"$oid":"5b58490dd51d2960ccf3c9df"},"name":"FEBUSTAT 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.192.50"}
+{"_id":{"$oid":"5b58490fd51d2960ccf3c9e0"},"name":"FEBUTAC 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Signova Pharma Pvt Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b584911d51d2960ccf3c9e1"},"name":"FEBUTAC 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Signova Pharma Pvt Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b584913d51d2960ccf3c9e2"},"name":"FEBUTAX 80mg Tablet 10's","composition":"FEBUXOSTAT 80MG","manufacturer":"Leeford Healthcare Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b584915d51d2960ccf3c9e3"},"name":"FEBUTAX 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b584916d51d2960ccf3c9e4"},"name":"FEBUTAZ 10 mg Tablet 10","composition":"FEBUXOSTAT 10MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b584918d51d2960ccf3c9e5"},"name":"FEBUTAZ 20mg Tablet 10's","composition":"Febuxostat 20mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b58491bd51d2960ccf3c9e6"},"name":"FEBUTAZ 20mg Tablet 10","composition":"FEBUXOSTAT 20MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b58491dd51d2960ccf3c9e7"},"name":"FEBUTAZ 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b584920d51d2960ccf3c9e8"},"name":"FEBUTAZ 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b584922d51d2960ccf3c9e9"},"name":"FEBUTAZ 10mg Tablet 10's","composition":"Febuxostat 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b584924d51d2960ccf3c9ea"},"name":"FEBUTROY 40mg Tablet 10's","composition":"FEBUXOSTAT 40MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.66.68"}
+{"_id":{"$oid":"5b584928d51d2960ccf3c9eb"},"name":"FEBUTROY 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584929d51d2960ccf3c9ec"},"name":"FEBUVEL 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b58492bd51d2960ccf3c9ed"},"name":"FEBUVEL 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.91.12"}
+{"_id":{"$oid":"5b58492dd51d2960ccf3c9ee"},"name":"FEBUXIA 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Colgen Pharma","price":"Rs.31.15"}
+{"_id":{"$oid":"5b58492fd51d2960ccf3c9ef"},"name":"FEBUXOR 80MG TABLET 10'S","composition":"FEBUXOSTAT 80MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.43.00"}
+{"_id":{"$oid":"5b584932d51d2960ccf3c9f0"},"name":"FEBUXOR 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b584934d51d2960ccf3c9f1"},"name":"FEBUXOR 120mg Tablet 10's","composition":"Febuxostat 120mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.182.22"}
+{"_id":{"$oid":"5b584936d51d2960ccf3c9f2"},"name":"FEBUZEX 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b584938d51d2960ccf3c9f3"},"name":"FEBUZEX 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.121.02"}
+{"_id":{"$oid":"5b58493ad51d2960ccf3c9f4"},"name":"FEBZEAL 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b58493cd51d2960ccf3c9f5"},"name":"FEXANTO ER 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.104.00"}
+{"_id":{"$oid":"5b58493ed51d2960ccf3c9f6"},"name":"FOXSTAT 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.131.88"}
+{"_id":{"$oid":"5b584941d51d2960ccf3c9f7"},"name":"FOXSTAT 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.92.74"}
+{"_id":{"$oid":"5b584943d51d2960ccf3c9f8"},"name":"FUBOX 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Others","price":"Rs.88.00"}
+{"_id":{"$oid":"5b584945d51d2960ccf3c9f9"},"name":"FUBOX 80mg Tablet 10's","composition":"FEBUXOSTAT 80MG","manufacturer":"Others","price":"Rs.155.00"}
+{"_id":{"$oid":"5b584947d51d2960ccf3c9fa"},"name":"FUBRA 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Comed Chemicals Pvt Ltd","price":"Rs.83.50"}
+{"_id":{"$oid":"5b584949d51d2960ccf3c9fb"},"name":"FUBRA 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Comed Chemicals Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b58494cd51d2960ccf3c9fc"},"name":"FURIC 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Lupin Ltd","price":"Rs.106.65"}
+{"_id":{"$oid":"5b58494ed51d2960ccf3c9fd"},"name":"FURIC 80mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Lupin Ltd","price":"Rs.159.50"}
+{"_id":{"$oid":"5b584950d51d2960ccf3c9fe"},"name":"FURITAS 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.68.00"}
+{"_id":{"$oid":"5b584952d51d2960ccf3c9ff"},"name":"FURITAS 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.95.00"}
+{"_id":{"$oid":"5b584954d51d2960ccf3ca00"},"name":"GOUSTAT 40MG TABLET 10'S","composition":"FEBUXOSTAT 40MG","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.68.91"}
+{"_id":{"$oid":"5b584956d51d2960ccf3ca01"},"name":"GOUSTAT 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.95.23"}
+{"_id":{"$oid":"5b584958d51d2960ccf3ca02"},"name":"GOUTCHEK 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Merck Ltd","price":"Rs.82.20"}
+{"_id":{"$oid":"5b58495ad51d2960ccf3ca03"},"name":"GOUTCHEK 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Merck Ltd","price":"Rs.131.50"}
+{"_id":{"$oid":"5b58495cd51d2960ccf3ca04"},"name":"GOUTFREE 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Saffron Therapeutics Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b58495ed51d2960ccf3ca05"},"name":"GOUTNIL 0.5mg Tablet 10's","composition":"Colchicine 0.5mg","manufacturer":"Inga Laboratories Pvt Ltd","price":"Rs.31.58"}
+{"_id":{"$oid":"5b584960d51d2960ccf3ca06"},"name":"GOXOI 80mg Tablet 10's","composition":"FEBUXOSTAT 80MG","manufacturer":"Sinsan Pharmaceuticals Pvt Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b584964d51d2960ccf3ca07"},"name":"GOXOI 40mg Tablet 10's","composition":"FEBUXOSTAT 40MG","manufacturer":"Sinsan Pharmaceuticals Pvt Ltd","price":"Rs.91.00"}
+{"_id":{"$oid":"5b584968d51d2960ccf3ca08"},"name":"GUDLORIC 100mg Tablet 10's","composition":"Allopurinol 100mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.20.00"}
+{"_id":{"$oid":"5b58496bd51d2960ccf3ca09"},"name":"IBAXIT XR Tablet 10's","composition":"FEBUXOSTAT 40MG","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b58496ed51d2960ccf3ca0a"},"name":"IBAXIT XR 80mg Tablet 10's","composition":"FEBUXOSTAT 80MG","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.158.00"}
+{"_id":{"$oid":"5b584970d51d2960ccf3ca0b"},"name":"INDOCAP SR 75mg Capsule 10's","composition":"Indomethacin 75mg (SR)","manufacturer":"Jagsonpal Pharmaceuticals Ltd","price":"Rs.109.50"}
+{"_id":{"$oid":"5b584972d51d2960ccf3ca0c"},"name":"INDOCAP 25mg Capsule 10's","composition":"Indomethacin 25mg","manufacturer":"Jagsonpal Pharmaceuticals Ltd","price":"Rs.47.00"}
+{"_id":{"$oid":"5b584974d51d2960ccf3ca0d"},"name":"LOPNOL DT 100MG TABLET 10'S","composition":"ALLOPURINOL 100MG","manufacturer":"West Coast Pharmaceutical Works Ltd","price":"Rs.19.16"}
+{"_id":{"$oid":"5b584976d51d2960ccf3ca0e"},"name":"MICROCID 25mg Capsule 10's","composition":"Indomethacin 25mg","manufacturer":"Micro Labs Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b584978d51d2960ccf3ca0f"},"name":"MICROCID SR 75mg Capsule 10's","composition":"Indomethacin 75mg (SR)","manufacturer":"Micro Labs Ltd","price":"Rs.101.50"}
+{"_id":{"$oid":"5b58497ad51d2960ccf3ca10"},"name":"NORMORIC ER 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Vasu Organics Pvt Ltd","price":"Rs.89.10"}
+{"_id":{"$oid":"5b58497ed51d2960ccf3ca11"},"name":"NUFEB 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Marc Laboratories Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b584980d51d2960ccf3ca12"},"name":"RANLORIC 300mg Tablet 10's","composition":"Allopurinol 300mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.45.50"}
+{"_id":{"$oid":"5b584983d51d2960ccf3ca13"},"name":"RANLORIC 100MG TABLET 10'S","composition":"ALLOPURINOL 100MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.7.58"}
+{"_id":{"$oid":"5b584985d51d2960ccf3ca14"},"name":"SEGERA 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.104.00"}
+{"_id":{"$oid":"5b584987d51d2960ccf3ca15"},"name":"SEGERA ER 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.104.00"}
+{"_id":{"$oid":"5b584989d51d2960ccf3ca16"},"name":"UBEXA 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Lupin Ltd","price":"Rs.174.50"}
+{"_id":{"$oid":"5b58498bd51d2960ccf3ca17"},"name":"UBEXA 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Lupin Ltd","price":"Rs.101.70"}
+{"_id":{"$oid":"5b58498dd51d2960ccf3ca18"},"name":"URICOSTAT 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.94.60"}
+{"_id":{"$oid":"5b584990d51d2960ccf3ca19"},"name":"URICOSTAT 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.149.30"}
+{"_id":{"$oid":"5b584991d51d2960ccf3ca1a"},"name":"URIDIP 100mg Tablet 10's","composition":"Allopurinol 100mg","manufacturer":"Alchemist Lifesciences Ltd","price":"Rs.19.00"}
+{"_id":{"$oid":"5b584993d51d2960ccf3ca1b"},"name":"URIFIX 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.48.35"}
+{"_id":{"$oid":"5b584996d51d2960ccf3ca1c"},"name":"URIFIX 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b584998d51d2960ccf3ca1d"},"name":"URILACT ER 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Anthus Pharmaceuticals Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b58499bd51d2960ccf3ca1e"},"name":"URILACT ER 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Anthus Pharmaceuticals Pvt Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b58499cd51d2960ccf3ca1f"},"name":"URITAS 100mg Tablet 10's","composition":"Allopurinol 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.18.10"}
+{"_id":{"$oid":"5b58499fd51d2960ccf3ca20"},"name":"URITAS 300mg Tablet 10's","composition":"Allopurinol 300mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.43.47"}
+{"_id":{"$oid":"5b5849a1d51d2960ccf3ca21"},"name":"UROSTAT 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b5849a3d51d2960ccf3ca22"},"name":"UROSTAT 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b5849a5d51d2960ccf3ca23"},"name":"VILSTAT 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Vilberry Healthcare Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5849a7d51d2960ccf3ca24"},"name":"VILSTAT 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Vilberry Healthcare Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5849a9d51d2960ccf3ca25"},"name":"XANFEB 80mg Tablet 10's","composition":"FEBUXOSTAT 80MG","manufacturer":"Indoco Remedies Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5849abd51d2960ccf3ca26"},"name":"XANFEB 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.68.10"}
+{"_id":{"$oid":"5b5849add51d2960ccf3ca27"},"name":"XANTHOFEX 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b5849b0d51d2960ccf3ca28"},"name":"XANURIX 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Micro Labs Ltd","price":"Rs.164.75"}
+{"_id":{"$oid":"5b5849b2d51d2960ccf3ca29"},"name":"XANURIX 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Micro Labs Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b5849b4d51d2960ccf3ca2a"},"name":"ZURIG 120mg Tablet 15's","composition":"Febuxostat 120mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.375.85"}
+{"_id":{"$oid":"5b5849b6d51d2960ccf3ca2b"},"name":"ZURIG 80mg Tablet 7's","composition":"Febuxostat 80mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.84.30"}
+{"_id":{"$oid":"5b5849b8d51d2960ccf3ca2c"},"name":"ZURIG 80mg Tablet 14's","composition":"Febuxostat 80mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.162.27"}
+{"_id":{"$oid":"5b5849bad51d2960ccf3ca2d"},"name":"ZURIG 40mg Tablet 30's","composition":"Febuxostat 40mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.282.00"}
+{"_id":{"$oid":"5b5849bcd51d2960ccf3ca2e"},"name":"ZURIG 120mg Tablet 7's","composition":"Febuxostat 120mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.187.97"}
+{"_id":{"$oid":"5b5849bed51d2960ccf3ca2f"},"name":"ZURIG 40mg Tablet 10's","composition":"Febuxostat 40mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.86.82"}
+{"_id":{"$oid":"5b5849c0d51d2960ccf3ca30"},"name":"ZURIG 80mg Tablet 5's","composition":"Febuxostat 80mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.67.46"}
+{"_id":{"$oid":"5b5849c2d51d2960ccf3ca31"},"name":"ZURIG 80mg Tablet 30's","composition":"Febuxostat 80mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.479.70"}
+{"_id":{"$oid":"5b5849c4d51d2960ccf3ca32"},"name":"ZURIG 80mg Tablet 10's","composition":"Febuxostat 80mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.86.33"}
+{"_id":{"$oid":"5b5849c7d51d2960ccf3ca33"},"name":"ZURIG 40mg Tablet 7's","composition":"Febuxostat 40mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.83.73"}
+{"_id":{"$oid":"5b5849c8d51d2960ccf3ca34"},"name":"ZYCOLCHIN 0.5mg Tablet 10's","composition":"Colchicine 0.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.31.55"}
+{"_id":{"$oid":"5b5849cad51d2960ccf3ca35"},"name":"ZYLE 300mg Tablet 10's","composition":"Allopurinol 300mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b5849ccd51d2960ccf3ca36"},"name":"ZYLE 100MG TABLET 10'S","composition":"ALLOPURINOL 100MG","manufacturer":"Leeford Healthcare Ltd","price":"Rs.19.25"}
+{"_id":{"$oid":"5b5849d3d51d2960ccf3ca37"},"name":"ZYLORIC 100mg Tablet 10's","composition":"Allopurinol 100mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.19.26"}
+{"_id":{"$oid":"5b5849d5d51d2960ccf3ca38"},"name":"ZYLORIC 300mg Tablet 10's","composition":"Allopurinol 300mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b5849d7d51d2960ccf3ca39"},"name":"ZYPRINOL 250mg Tablet 10's","composition":"Allopurinol 250mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.27.35"}
+{"_id":{"$oid":"5b5849d8d51d2960ccf3ca3a"},"name":"ZYPRINOL 250mg Capsule 10's","composition":"Allopurinol 250mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.60.00"}
+{"_id":{"$oid":"5b5849dad51d2960ccf3ca3b"},"name":"ZYPRINOL 100mg Tablet 10's","composition":"Allopurinol 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.25.00"}
+{"_id":{"$oid":"5b5849dcd51d2960ccf3ca3c"},"name":"ZYRIK 100mg Tablet 10's","composition":"Allopurinol 100mg","manufacturer":"Cipla Ltd","price":"Rs.19.23"}
+{"_id":{"$oid":"5b5849ded51d2960ccf3ca3d"},"name":"ZYRIK 300mg Tablet 10's","composition":"Allopurinol 300mg","manufacturer":"Cipla Ltd","price":"Rs.59.88"}

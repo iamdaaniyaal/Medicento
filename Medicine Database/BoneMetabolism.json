@@ -1,0 +1,76 @@
+{"_id":{"$oid":"5b583db8d51d295f807b3345"},"name":"ACLASTA 5mg Infusion 100ml","composition":"Zoledronate 5mg","manufacturer":"Novartis India Ltd","price":"Rs.20,492.00"}
+{"_id":{"$oid":"5b583dbbd51d295f807b3346"},"name":"ACTONEL 35mg Tablet 4's","composition":"Risedronate Sodium 35mg","manufacturer":"Sanofi India Ltd","price":"Rs.2,310.00"}
+{"_id":{"$oid":"5b583dbcd51d295f807b3347"},"name":"ATSA 100mg Injection 1's","composition":"AZACITIDINE 100MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.8,750.00"}
+{"_id":{"$oid":"5b583dbed51d295f807b3348"},"name":"BOMASTREN 750 mg Injection 3ml","composition":"Teriparatide 750mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.12,857.13"}
+{"_id":{"$oid":"5b583dc0d51d295f807b3349"},"name":"BONDRONAT 6mg Injection 1's","composition":"Ibandronic Acid 6mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.13,950.00"}
+{"_id":{"$oid":"5b583dc2d51d295f807b334a"},"name":"BONDRONAT 50mg Tablet 7's","composition":"Ibandronic Acid 50mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.5,058.70"}
+{"_id":{"$oid":"5b583dc4d51d295f807b334b"},"name":"BONISTA Cartridge 1x3ml","composition":"Teriparatide(Recombinanat Human Parathyoid) 750mcg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.7,117.50"}
+{"_id":{"$oid":"5b583dc5d51d295f807b334c"},"name":"BONMAX PTH Auto Pen ","composition":"Teriparatide(Recombinanat Human Parathyoid)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.2,999.00"}
+{"_id":{"$oid":"5b583dc7d51d295f807b334d"},"name":"BONMAX PTH 750mcg Injection 3ml","composition":"TERIPARATIDE(RECOMBINANAT HUMAN PARATHYOID) 750MCG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.6,900.00"}
+{"_id":{"$oid":"5b583dc9d51d295f807b334e"},"name":"BONRISE 150mg Tablet 10's","composition":"IBANDRONIC ACID(IBANDRONATE) 150MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b583dcbd51d295f807b334f"},"name":"CALCIBEST Capsule 10's","composition":"Calcium Carbonate 200mg+Calcitriol 0.025mcg+Elemental Zinc 7.5mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.113.91"}
+{"_id":{"$oid":"5b583dcdd51d295f807b3350"},"name":"CALCISPRAY Nasal Spray 60md","composition":"CALCITONIN 200IU","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.1,745.20"}
+{"_id":{"$oid":"5b583dcfd51d295f807b3351"},"name":"CALCIT SG 0.25mg Capsule 10's","composition":"CALCITRIOL 0.25MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.125.00"}
+{"_id":{"$oid":"5b583dd1d51d295f807b3352"},"name":"CALIBRAIN D 200IU Syrup 200ml","composition":"Calcitriol 200Iu","manufacturer":"Brio Bliss Life Science Pvt Ltd","price":"Rs.1,170.00"}
+{"_id":{"$oid":"5b583dd3d51d295f807b3353"},"name":"CALNASAL Nasal Spray 6ml","composition":"Calcitonin 2200IU","manufacturer":"Koye Pharmaceuticals Pvt Ltd","price":"Rs.1,400.00"}
+{"_id":{"$oid":"5b583dd5d51d295f807b3354"},"name":"CALTROL 0.25MCG Capsule 10's","composition":"Calcitriol 0.25Mcg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.103.00"}
+{"_id":{"$oid":"5b583dd7d51d295f807b3355"},"name":"CARTIGEN 1500mg Tablet 30's","composition":"GLUCOSAMINE 1500MG","manufacturer":"Pharmed Limited","price":"Rs.524.00"}
+{"_id":{"$oid":"5b583dd7d51d295f807b3356"},"name":"CETJOINT SG Capsule 10's","composition":"Calcitriol 0.25mcg+Calcium Carbonate 500mg+Elemental Zinc 7.5mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b583dd9d51d295f807b3357"},"name":"CRYSTACAL Capsule 10's","composition":"CALCITRIOL 0.25MCG+ELEMENTAL ZINC 7.5MG+ELEMENTAL BORON 3MG+ELEMENTAL CALCIUM 200MG+ELEMENTAL MAGNESIUM 50MG","manufacturer":"Cachet Pharmaceuticals Pvt Ltd","price":"Rs.115.45"}
+{"_id":{"$oid":"5b583ddbd51d295f807b3358"},"name":"DEVITA 600000MIU Injection 1ml","composition":"Calcitriol 600000Miu","manufacturer":"Medinova Labs","price":"Rs.36.25"}
+{"_id":{"$oid":"5b583dddd51d295f807b3359"},"name":"DISONATE 200mg Tablet 30's","composition":"Etidronate 200mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.237.50"}
+{"_id":{"$oid":"5b583ddfd51d295f807b335a"},"name":"EVOMATE 60mg Tablet 7's","composition":"Raloxifene 60mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.73.08"}
+{"_id":{"$oid":"5b583de1d51d295f807b335b"},"name":"FORTEO 750mg Injection 3ml","composition":"Teriparatide 750mg","manufacturer":"Eli Lilly And Company","price":"Rs.23,462.00"}
+{"_id":{"$oid":"5b583de3d51d295f807b335c"},"name":"GEMCAL CAPSULE 10'S","composition":"Calcitriol+Calcium Carbonate+Zinc","manufacturer":"Alkem Laboratories Ltd","price":"Rs.66.00"}
+{"_id":{"$oid":"5b583de5d51d295f807b335d"},"name":"GEMCAL MOM Tablet 10's","composition":"Calcium Orotate+Cholecalciferol(Vit D3)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b583de7d51d295f807b335e"},"name":"GEMDRONIC Infusion 100ml","composition":"Zoledronic Acid 4mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.2,750.00"}
+{"_id":{"$oid":"5b583de9d51d295f807b335f"},"name":"GEMFOS 35mg Tablet 4's","composition":"Risedronate Sodium 35mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b583debd51d295f807b3360"},"name":"GEMITROL NS Nasal Spray 3.7ml","composition":"CALCITONIN","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.1,400.00"}
+{"_id":{"$oid":"5b583dedd51d295f807b3361"},"name":"GEMTIDE 750mcg Injection 3ml","composition":"TERIPARATIDE 750MCG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.29,997.00"}
+{"_id":{"$oid":"5b583defd51d295f807b3362"},"name":"LUPIDOL A Capsule 10's","composition":"ALFACALCIDOL 0.25MG+CALCIUM CARBONATE 500MG","manufacturer":"Lupin Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b583df1d51d295f807b3363"},"name":"MINROSET 0.25mcg Capsule 10's","composition":"Alfacalcidol 0.25mcg","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.55.40"}
+{"_id":{"$oid":"5b583df2d51d295f807b3364"},"name":"MINROSET C Capsule 10's","composition":"Alfacalcidol 0.25mcg+Calcium Carbonate 500mg","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.70.05"}
+{"_id":{"$oid":"5b583df4d51d295f807b3365"},"name":"MONTHIBA 150mg Tablet 1's","composition":"Ibandronate 150mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.168.27"}
+{"_id":{"$oid":"5b583df6d51d295f807b3366"},"name":"NATZOLD 5mg Infusion 100ml","composition":"Zoledronic Acid 5mg","manufacturer":"Natco Pharma Ltd","price":"Rs.2,990.00"}
+{"_id":{"$oid":"5b583df8d51d295f807b3367"},"name":"NEPHCELOL 0.25MCG Capsule 10's","composition":"Calcitriol 0.25Mcg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.120.80"}
+{"_id":{"$oid":"5b583dfad51d295f807b3368"},"name":"NEPHTROL 0.25mcg Capsule 10's","composition":"Calcitriol 0.25mcg","manufacturer":"Rpg Life Science Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b583dfcd51d295f807b3369"},"name":"NEWBONA 5mg Infusion 100ml","composition":"Zoledronate 5mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.3,500.00"}
+{"_id":{"$oid":"5b583dfed51d295f807b336a"},"name":"OSRAL FC 60mg Tablet 10's","composition":"Raloxifene 60mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b583e00d51d295f807b336b"},"name":"OSTEO Injection 3ml","composition":"ALFACALCIDOL 0.25MG+CALCIUM CARBONATE 500MG","manufacturer":"Indoco Remedies Ltd","price":"Rs.50.40"}
+{"_id":{"$oid":"5b583e02d51d295f807b336c"},"name":"OSTERI 750mcg Injection(Pfs)","composition":"Teriparatide 750mcg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.9,297.50"}
+{"_id":{"$oid":"5b583e04d51d295f807b336d"},"name":"PAMIRED 30mg Injection","composition":"Pamidronate 30mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,200.00"}
+{"_id":{"$oid":"5b583e06d51d295f807b336e"},"name":"PT PRESS 0.25MCG Capsule 10's","composition":"Calcitriol 0.25Mcg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b583e07d51d295f807b336f"},"name":"RALISTA Tablet 10's","composition":"RALOXIFENE 60MG","manufacturer":"Cipla Ltd","price":"Rs.111.34"}
+{"_id":{"$oid":"5b583e09d51d295f807b3370"},"name":"RELISTA 60mg Tablet 10's","composition":"Raloxifene 60mg","manufacturer":"Cipla Ltd","price":"Rs.107.12"}
+{"_id":{"$oid":"5b583e0bd51d295f807b3371"},"name":"RISOFOS 150mg Tablet 1's","composition":"Risedronate Sodium 150mg","manufacturer":"Cipla Ltd","price":"Rs.216.00"}
+{"_id":{"$oid":"5b583e0dd51d295f807b3372"},"name":"RISOFOS 35mg Tablet 4's","composition":"Risedronate Sodium 35mg","manufacturer":"Cipla Ltd","price":"Rs.176.50"}
+{"_id":{"$oid":"5b583e0fd51d295f807b3373"},"name":"RISOFOS 75mg Tablet 2's","composition":"Risedronate Sodium 75mg","manufacturer":"Cipla Ltd","price":"Rs.160.50"}
+{"_id":{"$oid":"5b583e10d51d295f807b3374"},"name":"ROCKBON PTH 750mg Injection 3ml","composition":"Teriparatide 750mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.11,532.00"}
+{"_id":{"$oid":"5b583e12d51d295f807b3375"},"name":"ROKFOS Infusion","composition":"Zoledronic Acid 5mg","manufacturer":"Cipla Ltd","price":"Rs.2,950.00"}
+{"_id":{"$oid":"5b583e14d51d295f807b3376"},"name":"SALMONCAL 100mg Injection 1ml","composition":"Calcitonin 100mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.236.69"}
+{"_id":{"$oid":"5b583e16d51d295f807b3377"},"name":"SALMONCAL 2200IU Nasal Spray 3.2ml","composition":"Calcitonin 2200IU","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.1,138.40"}
+{"_id":{"$oid":"5b583e18d51d295f807b3378"},"name":"SHELCAL OS 250mg Tablet 10's","composition":"ALFACALCIDOL 0.25MG+CALCIUM CARBONATE 250MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b583e1ad51d295f807b3379"},"name":"STATBONE Capsule 15's","composition":"Calcitriol 0.25mcg+Elemental Calcium 200mg+Zinc 7.5mg","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.215.00"}
+{"_id":{"$oid":"5b583e1bd51d295f807b337a"},"name":"STOPLOS ONE Injection 100ml","composition":"Zoledronic Acid","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.2,389.00"}
+{"_id":{"$oid":"5b583e1dd51d295f807b337b"},"name":"STRONAT Powder 6gm","composition":"Strontium","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.82.90"}
+{"_id":{"$oid":"5b583e1fd51d295f807b337c"},"name":"STRONG KIT Tablet 15's","composition":"Risedronate 35mg+Elemental Calcium 500mg+Cholecalciferol(Vit D3) 0.25mcg","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b583e21d51d295f807b337d"},"name":"TEREOS 250mcg/ml Cartridge ","composition":"Teriparatide(Recombinanat Human Parathyoid) 750mcg","manufacturer":"Lupin Ltd","price":"Rs.12,990.00"}
+{"_id":{"$oid":"5b583e22d51d295f807b337e"},"name":"TERIFRAC PEN Injection 3ml","composition":"Teriparatide(Recombinanat Human Parathyoid)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.1,100.00"}
+{"_id":{"$oid":"5b583e23d51d295f807b337f"},"name":"TRICIUM PTH 250mcg Pen(Device) 1's","composition":"Teriparatide 250mcg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.1,200.00"}
+{"_id":{"$oid":"5b583e25d51d295f807b3380"},"name":"TRICIUM PTH 750mcg Injection 1's","composition":"Teriparatide 750mcg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.4,500.00"}
+{"_id":{"$oid":"5b583e26d51d295f807b3381"},"name":"TRICIUM PTH RU Injection 3ml","composition":"Teriparatide 250mcg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.4,999.00"}
+{"_id":{"$oid":"5b583e28d51d295f807b3382"},"name":"VACOSTEO 5mg Infusion 100ml","composition":"Zoledronate 5mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.2,915.00"}
+{"_id":{"$oid":"5b583e2ad51d295f807b3383"},"name":"XGEVA 120mg Injection 1.7ml","composition":"Denosumab 120mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.28,787.00"}
+{"_id":{"$oid":"5b583e2cd51d295f807b3384"},"name":"ZOBILAN 4mg Injection 5ml","composition":"Zoledronic Acid 4mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.2,990.00"}
+{"_id":{"$oid":"5b583e2ed51d295f807b3385"},"name":"ZOBONE 5mg Injection 100ml","composition":"Zoledronic Acid 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.2,697.95"}
+{"_id":{"$oid":"5b583e30d51d295f807b3386"},"name":"ZOBONE 4mg Injection","composition":"Zoledronic Acid 4mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.3,017.00"}
+{"_id":{"$oid":"5b583e32d51d295f807b3387"},"name":"ZOLASTA 4mg Injection 1's","composition":"Zoledronic Acid ","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.3,334.48"}
+{"_id":{"$oid":"5b583e33d51d295f807b3388"},"name":"ZOLDONAT 4mg Injection","composition":"Zoledronic Acid 4mg","manufacturer":"Natco Pharma Ltd","price":"Rs.2,990.00"}
+{"_id":{"$oid":"5b583e35d51d295f807b3389"},"name":"ZOLDRIA 4mg Injection 1","composition":"Zoledronic 4mg","manufacturer":"Cipla Ltd","price":"Rs.2,800.00"}
+{"_id":{"$oid":"5b583e37d51d295f807b338a"},"name":"ZOLEPHOS Infusion 100ml","composition":"Zoledronic Acid","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.3,000.00"}
+{"_id":{"$oid":"5b583e39d51d295f807b338b"},"name":"ZOLEPHOS 5mg/100ml Injection","composition":"Zoledronate 5mg/100ml","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.3,000.00"}
+{"_id":{"$oid":"5b583e3bd51d295f807b338c"},"name":"ZOLETRUST 4mg Injection 1's","composition":"Zoledronate 4mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.1,626.40"}
+{"_id":{"$oid":"5b583e3dd51d295f807b338d"},"name":"ZOLTERO 4mg Injection 1's","composition":"ZOLEDRONATE 4MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.2,650.00"}
+{"_id":{"$oid":"5b583e3ed51d295f807b338e"},"name":"ZOMETA 4mg Injection 5ml","composition":"Zoledronate 4mg","manufacturer":"Novartis India Ltd","price":"Rs.15,213.00"}
+{"_id":{"$oid":"5b583e40d51d295f807b338f"},"name":"ZUNITRA 4mg Injection 1's","composition":"Zoledronate 40mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.2,548.00"}
+{"_id":{"$oid":"5b583e42d51d295f807b3390"},"name":"ZYRONA 4mg Injection","composition":"Zoledronic Acid 4mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.2,995.00"}

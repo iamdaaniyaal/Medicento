@@ -1,0 +1,38 @@
+{"_id":{"$oid":"5b5723bed51d295326d31b9e"},"name":"ADDNOK Tablet 20's","composition":"Buprenorphine","manufacturer":"Rusan Health Care Pvt Ltd","price":"Rs.1.00"}
+{"_id":{"$oid":"5b5723c1d51d295326d31b9f"},"name":"ADDWIZE 10mg Tablet 10's","composition":"METHYLPHENIDATE HYDROCHLORIDE 10MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.127.00"}
+{"_id":{"$oid":"5b5723c4d51d295326d31ba0"},"name":"ADDWIZE OD 18mg Tablet 10's","composition":"METHYLPHENIDATE HYDROCHLORIDE 18MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b5723c7d51d295326d31ba1"},"name":"ATOKEM 18mg Tablet 10's","composition":"Atomoxetine 18mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.87.00"}
+{"_id":{"$oid":"5b5723c9d51d295326d31ba2"},"name":"ATOKEM 25mg Tablet 10's","composition":"Atomoxetine 25mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5723cbd51d295326d31ba3"},"name":"ATOKEM 10mg Tablet 10's","composition":"Atomoxetine 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b5723cdd51d295326d31ba4"},"name":"ATTENTIN 18mg Capsule 10's","composition":"Atomoxetine 18mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.103.00"}
+{"_id":{"$oid":"5b5723cfd51d295326d31ba5"},"name":"ATTENTIN 25mg Capsule 10's","composition":"Atomoxetine 25mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.99.80"}
+{"_id":{"$oid":"5b5723d1d51d295326d31ba6"},"name":"ATTENTIN 10mg Capsule 10's","composition":"Atomoxetine 10mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.60.63"}
+{"_id":{"$oid":"5b5723d3d51d295326d31ba7"},"name":"ATTENTROL 10mg Capsule 10's","composition":"Atomoxetine 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.71.00"}
+{"_id":{"$oid":"5b5723d5d51d295326d31ba8"},"name":"ATTENTROL 25mg Capsule 10's","composition":"Atomoxetine 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b5723d7d51d295326d31ba9"},"name":"ATTENTROL 18mg Capsule 10's","composition":"Atomoxetine 18mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b5723dad51d295326d31baa"},"name":"ATTERA 10mg Tablet 10's","composition":"Atomoxetine 10mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.65.00"}
+{"_id":{"$oid":"5b5723dcd51d295326d31bab"},"name":"ATTERA 18mg Tablet 10's","composition":"Atomoxetine 18mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.106.00"}
+{"_id":{"$oid":"5b5723ded51d295326d31bac"},"name":"ATTERA 25mg Tablet 10's","composition":"Atomoxetine 25mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.135.00"}
+{"_id":{"$oid":"5b5723e1d51d295326d31bad"},"name":"AXEPTA 18mg Tablet 10's","composition":"Atomoxetine 18mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b5723e3d51d295326d31bae"},"name":"AXEPTA 60mg Tablet 10's","composition":"Atomoxetine 60mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.352.00"}
+{"_id":{"$oid":"5b5723e5d51d295326d31baf"},"name":"AXEPTA 40mg Tablet 10's","composition":"Atomoxetine 40mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b5723e7d51d295326d31bb0"},"name":"AXEPTA 25mg Tablet 10's","composition":"Atomoxetine 25mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.173.00"}
+{"_id":{"$oid":"5b5723e9d51d295326d31bb1"},"name":"AXEPTA 10mg Tablet 10's","composition":"Atomoxetine 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5723ebd51d295326d31bb2"},"name":"CAPNEA Injection 1ml","composition":"Caffeine 20mg","manufacturer":"Cipla Ltd","price":"Rs.246.77"}
+{"_id":{"$oid":"5b5723edd51d295326d31bb3"},"name":"CAPNEA Injection 2ml","composition":"Caffeine 40mg","manufacturer":"Cipla Ltd","price":"Rs.493.41"}
+{"_id":{"$oid":"5b5723f4d51d295326d31bb4"},"name":"COGNICARE Syrup 200ml","composition":"L CARNOSINE 100MG","manufacturer":"Brio Bliss Life Science Pvt Ltd","price":"Rs.900.00"}
+{"_id":{"$oid":"5b5723f7d51d295326d31bb5"},"name":"INSPIRAL 5MG TABLET 10'S","composition":"METHYLPHENIDATE HYDROCHLORIDE 5MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.82.50"}
+{"_id":{"$oid":"5b5723fad51d295326d31bb6"},"name":"INSPIRAL 10MG TABLET 10'S","composition":"METHYLPHENIDATE HYDROCHLORIDE 10MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.112.00"}
+{"_id":{"$oid":"5b5723fcd51d295326d31bb7"},"name":"INSPIRAL SR 10MG TABLET 10'S","composition":"METHYLPHENIDATE HYDROCHLORIDE 10MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b5723fed51d295326d31bb8"},"name":"INSPIRAL 20MG TABLET 10'S","composition":"METHYLPHENIDATE HYDROCHLORIDE 20MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.164.25"}
+{"_id":{"$oid":"5b572400d51d295326d31bb9"},"name":"INSPIRAL SR 20mg Tablet 10's","composition":"METHYLPHENIDATE HYDROCHLORIDE 20MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.164.25"}
+{"_id":{"$oid":"5b572402d51d295326d31bba"},"name":"MODAFIL MD 100mg Tablet 10's","composition":"MODAFINIL 100MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b572405d51d295326d31bbb"},"name":"MODAFIL MD 200mg Tablet 10's","composition":"MODAFINIL 200MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.171.00"}
+{"_id":{"$oid":"5b572408d51d295326d31bbc"},"name":"MODALERT 100mg Tablet 10's","composition":"MODAFINIL 100MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.132.00"}
+{"_id":{"$oid":"5b57240ed51d295326d31bbd"},"name":"MODALERT 200mg Tablet 10's","composition":"MODAFINIL 200MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.205.00"}
+{"_id":{"$oid":"5b572410d51d295326d31bbe"},"name":"MODAPRO 200mg Tablet 10's","composition":"MODAFINIL 200MG","manufacturer":"Cipla Ltd","price":"Rs.100.60"}
+{"_id":{"$oid":"5b572412d51d295326d31bbf"},"name":"MODAPRO 100mg Tablet 10's","composition":"MODAFINIL 100MG","manufacturer":"Cipla Ltd","price":"Rs.61.58"}
+{"_id":{"$oid":"5b572415d51d295326d31bc0"},"name":"MODATEC 100mg Tablet 10's","composition":"MODAFINIL 100MG","manufacturer":"Cipla Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b572417d51d295326d31bc1"},"name":"MODATEC 200mg Tablet 10's","composition":"MODAFINIL 200MG","manufacturer":"Cipla Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b572419d51d295326d31bc2"},"name":"PROVAKE 100mg Tablet 10's","composition":"MODAFINIL 100MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.83.40"}
+{"_id":{"$oid":"5b57241bd51d295326d31bc3"},"name":"PROVAKE 200mg Tablet 10's","composition":"MODAFINIL 200MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.189.52"}

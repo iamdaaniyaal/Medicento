@@ -1,0 +1,147 @@
+{"_id":{"$oid":"5b59c98ad51d2975aa65e246"},"name":"AGGS 10000IU Injection 1's","composition":"Gas Gangrene Sera 10000 Iu","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.1,485.00"}
+{"_id":{"$oid":"5b59c98dd51d2975aa65e247"},"name":"AGRIPPAL S1 0.5ml Injection 1's","composition":"Influenza(H1N1) 0.5ml","manufacturer":"Panacea Biotec Ltd","price":"Rs.595.00"}
+{"_id":{"$oid":"5b59c98ed51d2975aa65e248"},"name":"ASVS Injection 10ml","composition":"Snake Bite Sera 10ml ","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.566.29"}
+{"_id":{"$oid":"5b59c990d51d2975aa65e249"},"name":"ATGAM 250mg Injection 5ml","composition":"Antithymocyte Immunoglobulin 250mg","manufacturer":"Pfizer Limited","price":"Rs.19,819.00"}
+{"_id":{"$oid":"5b59c992d51d2975aa65e24a"},"name":"AVAXIM 80mg Injection","composition":"Hepatitis A Vaccine 80IU","manufacturer":"Sanofi India Ltd","price":"Rs.1,385.00"}
+{"_id":{"$oid":"5b59c994d51d2975aa65e24b"},"name":"BEATS 1500IU Injection 1ml","composition":"Tetanus Toxoid 1500IU","manufacturer":"Biological Evans Ltd","price":"Rs.71.17"}
+{"_id":{"$oid":"5b59c996d51d2975aa65e24c"},"name":"BERAB 2.5IU Injection 0.5ml","composition":"Rabies Vaccine 2.5IU","manufacturer":"Biological Evans Ltd","price":"Rs.325.58"}
+{"_id":{"$oid":"5b59c998d51d2975aa65e24d"},"name":"BERIRAB P 300 IU Injection 2ml","composition":"Anti Rabies Sera Immunoglobulins 300IU","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.5,286.54"}
+{"_id":{"$oid":"5b59c999d51d2975aa65e24e"},"name":"BETT Injection 5ml","composition":"Tetanus Toxoid 1.5mg","manufacturer":"Biological Evans Ltd","price":"Rs.28.95"}
+{"_id":{"$oid":"5b59c99bd51d2975aa65e24f"},"name":"BETT Injection 0.5ml","composition":"Tetanus Toxoid 1.5mg","manufacturer":"Biological Evans Ltd","price":"Rs.10.80"}
+{"_id":{"$oid":"5b59c99dd51d2975aa65e250"},"name":"BEVAC Injection 0.5ml","composition":"Hepatitis B 10mcg+Aluminium Hydroxide 0.25mg+Thiomersal 0.025mg","manufacturer":"Biological Evans Ltd","price":"Rs.37.31"}
+{"_id":{"$oid":"5b59c99fd51d2975aa65e251"},"name":"BHARGLOB 16.50% Injection 1ml","composition":"Polyvalent Immunoglobulins 16.5%","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.150.50"}
+{"_id":{"$oid":"5b59c9a1d51d2975aa65e252"},"name":"BHARGLOB 10% Injection 1ml","composition":"Human Normal Immunoglobulin 10%","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b59c9a4d51d2975aa65e253"},"name":"BHARGLOB 10% Injection 2ml","composition":"Polyvalent Immunoglobulins 10%","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.1,031.25"}
+{"_id":{"$oid":"5b59c9a6d51d2975aa65e254"},"name":"BHARGLOB 16.5% Injection 2ml","composition":"Human Normal Immunoglobulin 16.5%","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.1,149.00"}
+{"_id":{"$oid":"5b59c9a8d51d2975aa65e255"},"name":"BIOVAC 25mcg Injection 10ml","composition":"Hepatitis B 25mcg","manufacturer":"Wockhardt Ltd","price":"Rs.775.00"}
+{"_id":{"$oid":"5b59c9aad51d2975aa65e256"},"name":"BIOVAC A Injection 0.5ml","composition":"Hepatitis A Vaccine 0.25mg","manufacturer":"Wockhardt Ltd","price":"Rs.1,395.00"}
+{"_id":{"$oid":"5b59c9acd51d2975aa65e257"},"name":"BIOVAC B 100mcg Injection 10ml","composition":"Hepatitis B 100mcg","manufacturer":"Wockhardt Ltd","price":"Rs.700.00"}
+{"_id":{"$oid":"5b59c9aed51d2975aa65e258"},"name":"BIOVAC B 10mcg Injection 0.5ml","composition":"Hepatitis B 10mcg","manufacturer":"Wockhardt Ltd","price":"Rs.1,170.00"}
+{"_id":{"$oid":"5b59c9b1d51d2975aa65e259"},"name":"BIOVAC FLU ml Injection 0.5ml","composition":"Hepatitis B 0.5mg","manufacturer":"Wockhardt Ltd","price":"Rs.790.00"}
+{"_id":{"$oid":"5b59c9b3d51d2975aa65e25a"},"name":"BIOVAC TYPHOID 25mcg Injection 0.5ml","composition":"Purified Vi Ploysaccharide Typhoid Vaccine 25mcg","manufacturer":"Wockhardt Ltd","price":"Rs.156.95"}
+{"_id":{"$oid":"5b59c9b5d51d2975aa65e25b"},"name":"BIOVAC V Injection 0.5ml","composition":"Varicella(Chickenpox)Vaccine 0.5mg","manufacturer":"Wockhardt Ltd","price":"Rs.1,799.00"}
+{"_id":{"$oid":"5b59c9b7d51d2975aa65e25c"},"name":"BOOSTRIX Injection","composition":"Diphtheria+Pertussis+Tetanus(Dpt)","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.1,033.00"}
+{"_id":{"$oid":"5b59c9b9d51d2975aa65e25d"},"name":"CLINDAZOLE Suppository 3's","composition":"CLINDAMYCIN 100MG+CLOTRIMAZOLE 200MG","manufacturer":"Walter Bushnell Pvt Ltd","price":"Rs.112.00"}
+{"_id":{"$oid":"5b59c9bbd51d2975aa65e25e"},"name":"COMBEFIVE Injection 0.5ml","composition":"Diptheria Immune Globulin 30IU+Human Antitetanus Immunoglobulin 60IU+Pertussis Toxoid 4IU+Hepatitis B 10mcg+Haemophilus Influenzae Type B 10mcg","manufacturer":"Biological Evans Ltd","price":"Rs.382.59"}
+{"_id":{"$oid":"5b59c9bdd51d2975aa65e25f"},"name":"COMBEFIVE Injectionpfs 0.5ml","composition":"Diptheria Immune Globulin 30IU+Human Antitetanus Immunoglobulin 160IU+Pertussis Toxoid 4IU+Hepatitis B 10mcg+Haemophilus Influenzae Type B 10mcg","manufacturer":"Biological Evans Ltd","price":"Rs.382.59"}
+{"_id":{"$oid":"5b59c9bed51d2975aa65e260"},"name":"DYSPORT 500 IU Injection 1's","composition":"Botulism Sera 500IU","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.31,500.00"}
+{"_id":{"$oid":"5b59c9c0d51d2975aa65e261"},"name":"EASYFIVE TT Injectionpfs 1's","composition":"Diptheria Immune Globulin 30IU+Haemophilus B Conjugate Vaccine 10mcg+Hepatitis B 10mcg+Pertussis Toxoid 4IU+Tetanus Toxoid 60IU","manufacturer":"Panacea Biotec Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b59c9c2d51d2975aa65e262"},"name":"EASYFOUR TT Injectionpfs 0.5ml","composition":"Diptheria Immune Globulin 30IU+Haemophilus B Conjugate Vaccine 10mcg+Pertussis Toxoid 4IU+Tetanus Toxoid 60IU","manufacturer":"Panacea Biotec Ltd","price":"Rs.620.00"}
+{"_id":{"$oid":"5b59c9c4d51d2975aa65e263"},"name":"EASYSIX Injectionpfs 0.5ml","composition":"Diptheria Immune Globulin 30IU+Haemophilus B Conjugate Vaccine 10mcg+Pertussis Toxoid 4IU+Tetanus Toxoid 60IU","manufacturer":"Panacea Biotec Ltd","price":"Rs.2,393.00"}
+{"_id":{"$oid":"5b59c9c6d51d2975aa65e264"},"name":"ELOVAC B Injection 5ml","composition":"Hepatitis B 20mcg","manufacturer":"Indian Immunologicals Ltd","price":"Rs.600.00"}
+{"_id":{"$oid":"5b59c9c8d51d2975aa65e265"},"name":"ENTEROSHIELD Injection(PFS) 1.5ml","composition":"Tetanus Toxoid 25U/1gm","manufacturer":"Abbott India Ltd","price":"Rs.1,775.00"}
+{"_id":{"$oid":"5b59c9cbd51d2975aa65e266"},"name":"ENTEROSHIELD Injection(Pfs) 0.5ml","composition":"Tetanus Toxoid 25mcg+Sodium Chloride 4.5mg","manufacturer":"Abbott India Ltd","price":"Rs.1,821.00"}
+{"_id":{"$oid":"5b59c9cdd51d2975aa65e267"},"name":"EQUIRAB 1500 IU Injection 5ml","composition":"Anti Rabies Sera Immunoglobulins 1500IU","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.465.94"}
+{"_id":{"$oid":"5b59c9cfd51d2975aa65e268"},"name":"GAMMA I.V. 5000 mg Infusion 100ml","composition":"Immunoglobulin 5000mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.14,697.90"}
+{"_id":{"$oid":"5b59c9d1d51d2975aa65e269"},"name":"GAMMA I.V. 500 mg Injection 10ml","composition":"Immunoglobulin 500mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.1,469.79"}
+{"_id":{"$oid":"5b59c9d3d51d2975aa65e26a"},"name":"GAMUNEX 10% Infusion 50ml","composition":"Polyvalent Immunoglobulins 10%","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.32,995.00"}
+{"_id":{"$oid":"5b59c9d5d51d2975aa65e26b"},"name":"GARDASIL Injection(PFS) 0.5ml","composition":"Human Papilloma Virus Vaccine Quadrivalent","manufacturer":"Merck Ltd","price":"Rs.2,975.00"}
+{"_id":{"$oid":"5b59c9d7d51d2975aa65e26c"},"name":"GARDASIL Injection 0.5ml","composition":"HUMAN PAPILLOMA VIRUS VACCINE QUADRIVALENT","manufacturer":"Msd Pharmaceuticals Pvt Ltd","price":"Rs.2,975.00"}
+{"_id":{"$oid":"5b59c9dad51d2975aa65e26d"},"name":"GENEVAC B Injection 10ml","composition":"Hepatitis B","manufacturer":"Serum Institute Of India Ltd","price":"Rs.820.40"}
+{"_id":{"$oid":"5b59c9dcd51d2975aa65e26e"},"name":"GENEVAC B Injection 0.5ml","composition":"Hepatitis B","manufacturer":"Serum Institute Of India Ltd","price":"Rs.55.55"}
+{"_id":{"$oid":"5b59c9ddd51d2975aa65e26f"},"name":"GENEVAC B Injection 1ml","composition":"Hepatitis B","manufacturer":"Serum Institute Of India Ltd","price":"Rs.85.95"}
+{"_id":{"$oid":"5b59c9dfd51d2975aa65e270"},"name":"GLATIRA 20mg Injection 1ml","composition":"Glatiramer Acetate 20mg","manufacturer":"Cipla Ltd","price":"Rs.374.17"}
+{"_id":{"$oid":"5b59c9e1d51d2975aa65e271"},"name":"GLATIREX Injection 1's","composition":"Glatiramer Acetate ","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.970.00"}
+{"_id":{"$oid":"5b59c9e4d51d2975aa65e272"},"name":"GLOBUCEL 1000mg Injection 1's","composition":"Polyvalent Immunoglobulins Combination Modulation 1000mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.3,100.00"}
+{"_id":{"$oid":"5b59c9e6d51d2975aa65e273"},"name":"GLOBUWOK Injection 100ml","composition":"Human Normal Immunoglobulin ","manufacturer":"Wockhardt Ltd","price":"Rs.17,061.61"}
+{"_id":{"$oid":"5b59c9e8d51d2975aa65e274"},"name":"HAVRIX 720 PAEDIATRIC INJECTION 0.5ml","composition":"Hepatitis A Vaccine 720IU","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.1,055.00"}
+{"_id":{"$oid":"5b59c9ead51d2975aa65e275"},"name":"HEPABSV 100IU Injection 0.5ml","composition":"Hepatitis B 100IU","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.5,248.10"}
+{"_id":{"$oid":"5b59c9edd51d2975aa65e276"},"name":"HEPATITIS B Prefilled Syringe 5ml","composition":"Hepatitis Immunoglobulin","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.11,000.00"}
+{"_id":{"$oid":"5b59c9efd51d2975aa65e277"},"name":"HEPPACINEB 20mcg Injection 1ml","composition":"Hepatitis B 20mcg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.11,000.00"}
+{"_id":{"$oid":"5b59c9f1d51d2975aa65e278"},"name":"HEXAXIM Vaccine 0.5ml","composition":"Diptheria Immune Globulin 20IU+Haemophilus B Conjugate Vaccine 12mcg+Pertussis Toxoid 25mcg+Tetanus Toxoid 40IU","manufacturer":"Sanofi India Ltd","price":"Rs.3,900.00"}
+{"_id":{"$oid":"5b59c9f3d51d2975aa65e279"},"name":"HIB PRO Injection 0.5ml","composition":"Haemophilus B Conjugate Vaccine","manufacturer":"Wyeth Pharmaceuticals Ltd","price":"Rs.412.50"}
+{"_id":{"$oid":"5b59c9f5d51d2975aa65e27a"},"name":"HISTOGLOB Injection 1ml","composition":"Immunoglobulin 12mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b59c9f7d51d2975aa65e27b"},"name":"IGANTET 250IU Injection 1's","composition":"Tetanus 250 Iu","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.1,500.00"}
+{"_id":{"$oid":"5b59c9f9d51d2975aa65e27c"},"name":"IGWOK 5% Injection 100ml","composition":"Polyvalent Immunoglobulins 5%","manufacturer":"Wockhardt Ltd","price":"Rs.13,073.73"}
+{"_id":{"$oid":"5b59c9fbd51d2975aa65e27d"},"name":"IMMUNOREL 5% Injection 100ml","composition":"Immunoglobulin 5%","manufacturer":"Reliance Pharmaceuticals India Pvt Ltd","price":"Rs.15,202.95"}
+{"_id":{"$oid":"5b59c9fed51d2975aa65e27e"},"name":"IMMUNOREL 2.5gm Injection 50ml","composition":"Immunoglobulin 2.5Gm","manufacturer":"Reliance Pharmaceuticals India Pvt Ltd","price":"Rs.7,500.00"}
+{"_id":{"$oid":"5b59ca00d51d2975aa65e27f"},"name":"IMMUNOREL 5% Injection 20ml","composition":"Immunoglobulin 5%","manufacturer":"Reliance Pharmaceuticals India Pvt Ltd","price":"Rs.1,350.00"}
+{"_id":{"$oid":"5b59ca02d51d2975aa65e280"},"name":"IMOVAX POLIO Injection 0.5ml","composition":"Poliomyelitis Vaccine ","manufacturer":"Sanofi India Ltd","price":"Rs.440.00"}
+{"_id":{"$oid":"5b59ca04d51d2975aa65e281"},"name":"INFANRIX Injection 0.5ml","composition":"Diphtheria+Pertussis+Tetanus(Dpt)","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.838.00"}
+{"_id":{"$oid":"5b59ca06d51d2975aa65e282"},"name":"INFLUGEN Injection 0.5ml","composition":"Influenza(H1N1) 0.5ml","manufacturer":"Lupin Ltd","price":"Rs.790.50"}
+{"_id":{"$oid":"5b59ca08d51d2975aa65e283"},"name":"INFLUVAC Injection 0.5ml","composition":"Influenza(H1N1) 0.5ml","manufacturer":"Abbott India Ltd","price":"Rs.785.00"}
+{"_id":{"$oid":"5b59ca0ad51d2975aa65e284"},"name":"INFUWOK Injection 0.5ml","composition":"Influenza ","manufacturer":"Wockhardt Ltd","price":"Rs.790.00"}
+{"_id":{"$oid":"5b59ca0dd51d2975aa65e285"},"name":"INTALFA 5miu Injection 1's","composition":"INTERFERON ALPHA 2B 5MIU","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.884.00"}
+{"_id":{"$oid":"5b59ca11d51d2975aa65e286"},"name":"IVIGLOB EX 5gm Injection 100ml","composition":"Human Normal Immunoglobulin 5%","manufacturer":"Vhb Pharma Pvt Ltd","price":"Rs.15,999.00"}
+{"_id":{"$oid":"5b59ca12d51d2975aa65e287"},"name":"JE SHIELD INJECTION 0.5ML","composition":"INACTIVATED JAPANESE ENCEPHALITIS 0.5ML","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.540.00"}
+{"_id":{"$oid":"5b59ca13d51d2975aa65e288"},"name":"JEEV 6mcg Injection 0.5ml","composition":"Inactivated Japanese Encephalitis 6mcg","manufacturer":"Biological Evans Ltd","price":"Rs.1,080.00"}
+{"_id":{"$oid":"5b59ca15d51d2975aa65e289"},"name":"JEEV 3mcg Injection 0.5ml","composition":"Inactivated Japanese Encephalitis 3mcg","manufacturer":"Biological Evans Ltd","price":"Rs.750.00"}
+{"_id":{"$oid":"5b59ca19d51d2975aa65e28a"},"name":"JEEV 3mcg Injectionpfs 0.5ml","composition":"Inactivated Japanese Encephalitis 3mcg","manufacturer":"Biological Evans Ltd","price":"Rs.985.00"}
+{"_id":{"$oid":"5b59ca1bd51d2975aa65e28b"},"name":"JEEV 6mcg Injectionpfs 0.5ml","composition":"Inactivated Japanese Encephalitis 6mcg","manufacturer":"Biological Evans Ltd","price":"Rs.1,285.00"}
+{"_id":{"$oid":"5b59ca1fd51d2975aa65e28c"},"name":"LENOME 25mg Capsule 30's","composition":"Lenalidomide 25mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.17,142.86"}
+{"_id":{"$oid":"5b59ca21d51d2975aa65e28d"},"name":"LENOME 10mg Capsule 30's","composition":"Lenalidomide 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.10,800.00"}
+{"_id":{"$oid":"5b59ca23d51d2975aa65e28e"},"name":"MENACTRA Injection 0.5ml","composition":"Melphalan 4mcg","manufacturer":"Sanofi India Ltd","price":"Rs.4,950.00"}
+{"_id":{"$oid":"5b59ca24d51d2975aa65e28f"},"name":"MENCEVAX ACWY Vaccine","composition":"Meningococcal Polysaccharide","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.955.00"}
+{"_id":{"$oid":"5b59ca26d51d2975aa65e290"},"name":"MENINGOCOCCAL A\u0026C 50/50 MCG Injection 0.5ml","composition":"Meningococcal Vaccines 50mcg","manufacturer":"Sanofi India Ltd","price":"Rs.418.75"}
+{"_id":{"$oid":"5b59ca28d51d2975aa65e291"},"name":"NASOVAC S Injection 0.5ml","composition":"Influenza ","manufacturer":"Cipla Ltd","price":"Rs.761.90"}
+{"_id":{"$oid":"5b59ca2ad51d2975aa65e292"},"name":"NEXIPOX Vaccine 0.5ml","composition":"Varicella Live Attenuated Vaccine 2000Pfu","manufacturer":"Novo Medi Sciences Pvt Ltd","price":"Rs.1,779.00"}
+{"_id":{"$oid":"5b59ca2cd51d2975aa65e293"},"name":"NOVOHIB Injection(Pfs) 0.5ml","composition":"Thiomersal 10mcg+Haemophilus Influenzae Type B 0.025mcg","manufacturer":"Panacea Biotec Ltd","price":"Rs.350.00"}
+{"_id":{"$oid":"5b59ca2ed51d2975aa65e294"},"name":"OKAVAX Vaccine 0.5ml","composition":"Varicella(Chickenpox)Vaccine 1000 Pfu/Dose","manufacturer":"Sanofi India Ltd","price":"Rs.1,412.00"}
+{"_id":{"$oid":"5b59ca32d51d2975aa65e295"},"name":"ONCO BCG 40mg Vaccine","composition":"Bacillus Calmette Guerin (Bcg) 40mg","manufacturer":"Serum Institute Of India Ltd","price":"Rs.652.10"}
+{"_id":{"$oid":"5b59ca34d51d2975aa65e296"},"name":"ONCOVAC 40mg Injection","composition":"Bacillus Calmette Guerin(Bcg) 40mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.590.00"}
+{"_id":{"$oid":"5b59ca38d51d2975aa65e297"},"name":"PARS 1000IU Injection","composition":"Immunoglobulin","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.29.90"}
+{"_id":{"$oid":"5b59ca3bd51d2975aa65e298"},"name":"PENTASHIELD INJECTION(PFS) 0.5ml","composition":"Diphtheria+Pertussis+Tetanus(Dpt)+Hepatitis B","manufacturer":"Abbott India Ltd","price":"Rs.600.00"}
+{"_id":{"$oid":"5b59ca3dd51d2975aa65e299"},"name":"PENTAVAC SD (1DOSE) Vaccine 0.5ml","composition":"Diphtheria+Pertussis+Tetanus(Dpt)+Hepatitis B+Hib","manufacturer":"Serum Institute Of India Ltd","price":"Rs.765.18"}
+{"_id":{"$oid":"5b59ca3fd51d2975aa65e29a"},"name":"PENTAXIM Injection 0.5ml","composition":"Diptheria Immune Globulin 30IU+Haemophilus Influenzae Type B 10mg+Pertussis Toxoid 25mcg+Tetanus Toxoid 40IU+Inactivated Polio Vaccine ","manufacturer":"Sanofi India Ltd","price":"Rs.2,495.00"}
+{"_id":{"$oid":"5b59ca41d51d2975aa65e29b"},"name":"PNEUMOVAX 23 Injection 0.5ml","composition":"Pneumococcal Polysaccharide Vaccine(Ppv) 25mcg","manufacturer":"Msd Pharmaceuticals Pvt Ltd","price":"Rs.1,600.00"}
+{"_id":{"$oid":"5b59ca43d51d2975aa65e29c"},"name":"POLIOMYELITIS Vaccine","composition":"N/A (Vaccine)","manufacturer":"Others","price":"Rs.230.00"}
+{"_id":{"$oid":"5b59ca45d51d2975aa65e29d"},"name":"POLPROTEC Injection 0.5ml","composition":"Poliomyelitis Vaccine","manufacturer":"Chiron Panacea","price":"Rs.410.00"}
+{"_id":{"$oid":"5b59ca48d51d2975aa65e29e"},"name":"PREVENAR 13 Vaccine 0.5ml","composition":"Pneumococcal Polysaccharide Vaccine(Ppv) 15mcg","manufacturer":"Pfizer Limited","price":"Rs.3,801.00"}
+{"_id":{"$oid":"5b59ca4ad51d2975aa65e29f"},"name":"PRIORIX MONODOSE Vaccine 1's","composition":"MEASLES +RUBELLA ","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.545.00"}
+{"_id":{"$oid":"5b59ca4bd51d2975aa65e2a0"},"name":"PULMOVAX 23 VACCINE","composition":"Pneumococcal Polysaccharide Vaccine (Ppv) 25MCG","manufacturer":"Lupin Ltd","price":"Rs.1,365.00"}
+{"_id":{"$oid":"5b59ca4dd51d2975aa65e2a1"},"name":"QUADRI MENINGO Injection 0.5ml","composition":"Meningococcal Polysaccharide","manufacturer":"Bio-Med Pvt Ltd","price":"Rs.1,050.00"}
+{"_id":{"$oid":"5b59ca51d51d2975aa65e2a2"},"name":"QUINVAXEM Vaccine 0.5ml","composition":"Diphtheria Toxoid 30IU+Haemophilus Influenzae Type B 10mcg+Hepatitis B 10mcg+Pertussis Toxoid 4IU+Tetanus Toxoid 60IU","manufacturer":"Novartis India Ltd","price":"Rs.870.00"}
+{"_id":{"$oid":"5b59ca53d51d2975aa65e2a3"},"name":"R VAC Vaccine 0.5ml","composition":"Rubella Virus 1000 Ccid50","manufacturer":"Serum Institute Of India Ltd","price":"Rs.85.78"}
+{"_id":{"$oid":"5b59ca54d51d2975aa65e2a4"},"name":"RABIPUR 2.5IU Injection 1ml","composition":"Rabies Vaccine 2.5IU","manufacturer":"Sanofi India Ltd","price":"Rs.336.76"}
+{"_id":{"$oid":"5b59ca56d51d2975aa65e2a5"},"name":"RABISHIELD 100IU Injection 2.5ml","composition":"Rabies Vaccine 100IU","manufacturer":"SERUM INSTITUTE OF INDIA LTD","price":"Rs.8,450.00"}
+{"_id":{"$oid":"5b59ca58d51d2975aa65e2a6"},"name":"REVAC B MULTI Injection 10ml","composition":"Hepatitis B","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.625.00"}
+{"_id":{"$oid":"5b59ca5bd51d2975aa65e2a7"},"name":"REVAC B PAEDIATRIC Injection 0.5ml","composition":"Hepatitis B","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b59ca5dd51d2975aa65e2a8"},"name":"REVAC B Injection 10ml","composition":"Hepatitis B","manufacturer":"Bharat Biotech International Ltd","price":"Rs.625.00"}
+{"_id":{"$oid":"5b59ca5fd51d2975aa65e2a9"},"name":"REVAC B ADULT Injection 1ml","composition":"HEPATITIS B","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.106.00"}
+{"_id":{"$oid":"5b59ca61d51d2975aa65e2aa"},"name":"REVACB Vaccine 10ml","composition":"Hepatitis B ","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.168.75"}
+{"_id":{"$oid":"5b59ca63d51d2975aa65e2ab"},"name":"RHOCLONE 300mcg Injection 15ml","composition":"Anti Rh D Immunoglobulin 300mcg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.2,600.00"}
+{"_id":{"$oid":"5b59ca65d51d2975aa65e2ac"},"name":"RHOCLONE 150mcg Injection 1's","composition":"Human Anti D Immunoglobulin 150mcg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.2,219.00"}
+{"_id":{"$oid":"5b59ca67d51d2975aa65e2ad"},"name":"RHOGAM 300mg Injection","composition":"Human Anti D Immunoglobulin 300mcg","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.2,466.90"}
+{"_id":{"$oid":"5b59ca6ad51d2975aa65e2ae"},"name":"ROTASIIL Injection 2.5ml","composition":"Rotavirus Vaccine Live Attenuated ","manufacturer":"SERUM INSTITUTE OF INDIA LTD","price":"Rs.650.00"}
+{"_id":{"$oid":"5b59ca6cd51d2975aa65e2af"},"name":"ROTASURE Vaccine 1's","composition":"ROTAVIRUS VACCINE LIVE ATTENUATED 100000IU","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.729.00"}
+{"_id":{"$oid":"5b59ca6ed51d2975aa65e2b0"},"name":"ROTATEQ Injection 2ml","composition":"Rotavirus Vaccine Live Attenuated ","manufacturer":"Msd Pharmaceuticals Pvt Ltd","price":"Rs.990.00"}
+{"_id":{"$oid":"5b59ca70d51d2975aa65e2b1"},"name":"SHANCHOL Injection 1.5ml","composition":"Cholera Vaccine ","manufacturer":"Sanofi India Ltd","price":"Rs.324.00"}
+{"_id":{"$oid":"5b59ca72d51d2975aa65e2b2"},"name":"SHANTYPH Injection 2.5ml","composition":"Typhoid Vaccines","manufacturer":"Shantha Biotechnics Pvt Ltd","price":"Rs.600.00"}
+{"_id":{"$oid":"5b59ca74d51d2975aa65e2b3"},"name":"SHANVAC B PAEDIATRIC Injection 0.5ml","composition":"Hepatitis B","manufacturer":"Shantha Biotechnics Pvt Ltd","price":"Rs.74.62"}
+{"_id":{"$oid":"5b59ca76d51d2975aa65e2b4"},"name":"SHANVAC B ADULT Injection 1ml","composition":"HEPATITIS B ","manufacturer":"Shantha Biotechnics Pvt Ltd","price":"Rs.103.25"}
+{"_id":{"$oid":"5b59ca78d51d2975aa65e2b5"},"name":"SHANVAC B MULTIDOSE Injection 10ml","composition":"Hepatitis B","manufacturer":"Shantha Biotechnics Pvt Ltd","price":"Rs.520.00"}
+{"_id":{"$oid":"5b59ca7bd51d2975aa65e2b6"},"name":"SII ONCO BCG Injection 1's","composition":"Bacillus Calmette Guerin(Bcg) 40mg","manufacturer":"SERUM INSTITUTE OF INDIA LTD","price":"Rs.645.95"}
+{"_id":{"$oid":"5b59ca7dd51d2975aa65e2b7"},"name":"SII TD VAC Injection 1's","composition":"Diphtheria Toxoid 5Lf+Tetanus Toxoid 5Lf","manufacturer":"SERUM INSTITUTE OF INDIA LTD","price":"Rs.17.04"}
+{"_id":{"$oid":"5b59ca81d51d2975aa65e2b8"},"name":"SNAKE ANTIVENIN Injection 10ml","composition":"Standard Cobra Venom 0.6mg+Standard Common Krait Venom 0.45mg+Standard Russels Viper Venom 0.6mg+Snake Bite Sera 0.45mg","manufacturer":"Biological Evans Ltd","price":"Rs.491.41"}
+{"_id":{"$oid":"5b59ca83d51d2975aa65e2b9"},"name":"STAMARIL Vaccine 0.5ml","composition":"Yellow Fever Vaccine","manufacturer":"Sanofi India Ltd","price":"Rs.4,060.00"}
+{"_id":{"$oid":"5b59ca84d51d2975aa65e2ba"},"name":"SYNFLORIX Injection 0.5ml","composition":"Pneumococcal Polysaccharide Vaccine (Ppv)","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.2,190.00"}
+{"_id":{"$oid":"5b59ca86d51d2975aa65e2bb"},"name":"TETANUS TOXOID Injection 5ml","composition":"Tetanus Toxoid","manufacturer":"Serum Institute Of India Ltd","price":"Rs.27.10"}
+{"_id":{"$oid":"5b59ca88d51d2975aa65e2bc"},"name":"TETANUS TOXOID Injection 10ml","composition":"Tetanus Toxoid","manufacturer":"Serum Institute Of India Ltd","price":"Rs.27.10"}
+{"_id":{"$oid":"5b59ca8ad51d2975aa65e2bd"},"name":"TETANUS TOXOID Injection 50x0.5ml","composition":"Tetanus Toxoid","manufacturer":"Serum Institute Of India Ltd","price":"Rs.114.50"}
+{"_id":{"$oid":"5b59ca8cd51d2975aa65e2be"},"name":"TETANUS TOXOID Injection 10x0.5ml","composition":"Tetanus Toxoid","manufacturer":"Serum Institute Of India Ltd","price":"Rs.113.86"}
+{"_id":{"$oid":"5b59ca8dd51d2975aa65e2bf"},"name":"TETGLOB 250IU Injection","composition":"Tetanus Immunoglobulin 250mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.1,042.12"}
+{"_id":{"$oid":"5b59ca8fd51d2975aa65e2c0"},"name":"TETGLOB 500IU Injection","composition":"Tetanus Immunoglobulin","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.1,387.23"}
+{"_id":{"$oid":"5b59ca91d51d2975aa65e2c1"},"name":"TETGLOB 1000 IU Injection 1ml","composition":"Tetanus 1000IU","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.3,289.00"}
+{"_id":{"$oid":"5b59ca95d51d2975aa65e2c2"},"name":"THYMOGAM 250 mg Injection 5ml","composition":"Antithymocyte Immunoglobulins 250mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.5,552.87"}
+{"_id":{"$oid":"5b59ca97d51d2975aa65e2c3"},"name":"TRESIVAC Injection 0.5ml","composition":"MEASLES 0","manufacturer":"SERUM INSTITUTE OF INDIA LTD","price":"Rs.153.34"}
+{"_id":{"$oid":"5b59ca98d51d2975aa65e2c4"},"name":"TRESIVAC MMR Injection 0.5ml","composition":"Measles+Mumps+Rubella (Mmr)","manufacturer":"Serum Institute Of India Ltd","price":"Rs.154.80"}
+{"_id":{"$oid":"5b59ca9ad51d2975aa65e2c5"},"name":"TRIPLE ANTIGEN Injection 0.5ml","composition":"Triple Antigen","manufacturer":"Serum Institute Of India Ltd","price":"Rs.201.50"}
+{"_id":{"$oid":"5b59ca9cd51d2975aa65e2c6"},"name":"TRIPVAC Injection 0.5ml","composition":"Diphtheria Toxoid 30IU+Tetanus Toxoid 60IU+Pertussis Toxoid 4IU","manufacturer":"Biological Evans Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b59ca9fd51d2975aa65e2c7"},"name":"TT (CIPLA) Injection 5ml","composition":"Tetanus ","manufacturer":"Cipla Ltd","price":"Rs.26.13"}
+{"_id":{"$oid":"5b59caa1d51d2975aa65e2c8"},"name":"TUBERVAC Vaccine","composition":"Bacillus Calmette Guerin (Bcg)","manufacturer":"Serum Institute Of India Ltd","price":"Rs.60.27"}
+{"_id":{"$oid":"5b59caa3d51d2975aa65e2c9"},"name":"Typbar TCV PFS VACCINE 0.5ml","composition":"Typhoid+Tetanus Toxoid","manufacturer":"Bharat Biotech International Ltd","price":"Rs.1,799.00"}
+{"_id":{"$oid":"5b59caa5d51d2975aa65e2ca"},"name":"TYPHIM VI Injection 0.5ml","composition":"Salmonella Typhi Vaccine mg","manufacturer":"Sanofi India Ltd","price":"Rs.362.00"}
+{"_id":{"$oid":"5b59caa7d51d2975aa65e2cb"},"name":"TYPHO VI Injection 0.5ml","composition":"Salmonella Typhi Vaccine 25mcg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.525.00"}
+{"_id":{"$oid":"5b59caabd51d2975aa65e2cc"},"name":"VACTYPH Injection 0.5ml","composition":"Typhoid Vaccines ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.200.00"}
+{"_id":{"$oid":"5b59caadd51d2975aa65e2cd"},"name":"VARILRIX Vaccine 0.5ml","composition":"Varicella(Chickenpox)Vaccine ","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.1,682.00"}
+{"_id":{"$oid":"5b59cab0d51d2975aa65e2ce"},"name":"VARIPED Vaccine","composition":"Varicella(Chickenpox)Vaccine","manufacturer":"Msd Pharmaceuticals Pvt Ltd","price":"Rs.1,842.00"}
+{"_id":{"$oid":"5b59cab2d51d2975aa65e2cf"},"name":"VARIVAX Vaccine 0.5ml","composition":"Varicella(Chickenpox)Vaccine","manufacturer":"Vhb Pharma Pvt Ltd","price":"Rs.1,690.00"}
+{"_id":{"$oid":"5b59cab4d51d2975aa65e2d0"},"name":"VARIVAXO 0.5ml Injection 1's","composition":"Varicella Zoster Vaccine 0.5ml","manufacturer":"Panacea Biotec Ltd","price":"Rs.1,690.00"}
+{"_id":{"$oid":"5b59cab4d51d2975aa65e2d1"},"name":"VAXIGRIP PAEDIATRIC Injection 0.25ml","composition":"Influenza(H1N1) ","manufacturer":"Sanofi India Ltd","price":"Rs.805.00"}
+{"_id":{"$oid":"5b59cab5d51d2975aa65e2d2"},"name":"VAXIRAB N Injection","composition":"Rabies Vaccine","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.325.58"}
+{"_id":{"$oid":"5b59cab7d51d2975aa65e2d3"},"name":"VERORAB Injection 1's","composition":"RABIES VACCINE ","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.337.00"}
+{"_id":{"$oid":"5b59cab9d51d2975aa65e2d4"},"name":"VINOBULIN 100mg Injection","composition":"Human Normal Immunoglobulin 100mcg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.978.00"}
+{"_id":{"$oid":"5b59cabbd51d2975aa65e2d5"},"name":"VINOBULIN 300mcg Injection 2ml","composition":"Anti Rh D Immunoglobulin 300mcg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.2,299.50"}
+{"_id":{"$oid":"5b59cabdd51d2975aa65e2d6"},"name":"WINRHO SDF 300mcg Injection 1ml","composition":"Anti Rh D Immunoglobulin 300mcg","manufacturer":"Panacea Biotec Ltd","price":"Rs.4,990.00"}
+{"_id":{"$oid":"5b59cac0d51d2975aa65e2d7"},"name":"XPRAB Injection","composition":"Rabies Vaccine","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.347.27"}
+{"_id":{"$oid":"5b59cac2d51d2975aa65e2d8"},"name":"ZOSTAVAX Injection 0.65ml","composition":"Varicella Zoster Vaccine ","manufacturer":"Msd Pharmaceuticals Pvt Ltd","price":"Rs.7,650.00"}

@@ -1,0 +1,581 @@
+{"_id":{"$oid":"5b584405d51d2960194be4e0"},"name":"ACMED Face Wash 70gm","composition":"Face Wash ","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b584408d51d2960194be4e1"},"name":"ACNELAK UV SPF 30+ Cream 30gm","composition":"Sunscreen ","manufacturer":"Menarini India Pvt Ltd","price":"Rs.350.00"}
+{"_id":{"$oid":"5b58440ad51d2960194be4e2"},"name":"AGEIN Cream 25gm","composition":"Aloevera+Matrixyl+Squalane","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.630.00"}
+{"_id":{"$oid":"5b58440cd51d2960194be4e3"},"name":"AGEIN Cream 50gm","composition":"Aloe Vera+Matrixyl+Squalane","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.746.00"}
+{"_id":{"$oid":"5b584412d51d2960194be4e4"},"name":"AHAGLOW S FoamING FACE WASH 60ml","composition":"Aloe Vera+Glycolic Acid+Salicylic Acid","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.383.96"}
+{"_id":{"$oid":"5b584414d51d2960194be4e5"},"name":"AHAGLOW FACE WASH Gel 50gm","composition":"Aloe Vera 5 %W/W+Glycolic Acid 1%W/W+Tocopheryl(Vit E) 0.1%W/W","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.207.42"}
+{"_id":{"$oid":"5b58441bd51d2960194be4e6"},"name":"AHAGLOW FACE WASH Gel 100gm","composition":"Aloe Vera 5 %W/W+Glycolic Acid 1%W/W+Tocopheryl(Vit E) 0.1%W/W","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.358.61"}
+{"_id":{"$oid":"5b58441dd51d2960194be4e7"},"name":"AKMASQ COMPLEXION MASK CREAM 70gm","composition":"Face Wash Liq.","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.171.00"}
+{"_id":{"$oid":"5b58441ed51d2960194be4e8"},"name":"AKMASQ Face Mask CREAM 75gm","composition":"Face Wash Liq.","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b584420d51d2960194be4e9"},"name":"ALBERY Soap 75gm","composition":"Aloevera+Tocopheryl (Vit E)","manufacturer":"Zee Laboratories Ltd","price":"Rs.64.00"}
+{"_id":{"$oid":"5b584422d51d2960194be4ea"},"name":"ALBUSKIN Cream 20gm","composition":"Kojic Acid+Arbutin","manufacturer":"6TH SKIN PHARMACEUTICALS PVT LTD","price":"Rs.249.00"}
+{"_id":{"$oid":"5b584424d51d2960194be4eb"},"name":"ALDRY Lotion 100ml","composition":"Aluminium Chlorohydrate 20%","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b584426d51d2960194be4ec"},"name":"ALE Cream 50gm","composition":"Aloe Vera+Tocopheryl Acetate","manufacturer":"Zee Laboratories Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b584428d51d2960194be4ed"},"name":"ALLSUTH Lotion 100ml","composition":"Aloe Vera+Calamine+Liquid Paraffin","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.145.00"}
+{"_id":{"$oid":"5b58442ad51d2960194be4ee"},"name":"ALOEDERM Cream 150gm","composition":"Aloe Vera+Tocopheryl(Vit E)","manufacturer":"Fem Care Pharma Ltd","price":"Rs.215.00"}
+{"_id":{"$oid":"5b58442bd51d2960194be4ef"},"name":"ALOEDERM ALOE HYDRO Gel 50gm","composition":"Aloe Vera+Glycerine","manufacturer":"Fem Care Pharma Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b58442dd51d2960194be4f0"},"name":"ALOEDERM F Cream 10gm","composition":"Sodium Fusidate","manufacturer":"Fem Care Pharma Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b58442fd51d2960194be4f1"},"name":"ALOEDERM Cream 50gm","composition":"Aloe Vera+Tocopheryl(Vit E)","manufacturer":"Fem Care Pharma Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b584431d51d2960194be4f2"},"name":"ALOEKIN Lotion 50ml","composition":"Skin Care Preparation","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.130.31"}
+{"_id":{"$oid":"5b584433d51d2960194be4f3"},"name":"ALOEKIN Cream 50gm","composition":"ALOE VERA 10%+TOCOPHERYL(VIT E) 0.5%","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.83.50"}
+{"_id":{"$oid":"5b584435d51d2960194be4f4"},"name":"ALOESILK Cream 50gm","composition":"Skin Care Preparation","manufacturer":"Meyer Organics Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b584437d51d2960194be4f5"},"name":"ALOESOF Cream 60gm","composition":"Cosmetics","manufacturer":"Inex Medicaments Pvt Ltd","price":"Rs.159.60"}
+{"_id":{"$oid":"5b584437d51d2960194be4f6"},"name":"ALOGRACE Soap 75gm","composition":"Skin Care Soap","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b584439d51d2960194be4f7"},"name":"ALOGRACE Cream 50gm","composition":"Aloe Vera+Glycerine+Tocopheryl Acetate","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.138.00"}
+{"_id":{"$oid":"5b58443bd51d2960194be4f8"},"name":"ALOKEM 75% Gel 50gm","composition":"Aloe Vera","manufacturer":"Alkem Laboratories Ltd","price":"Rs.217.50"}
+{"_id":{"$oid":"5b58443dd51d2960194be4f9"},"name":"ALOKEM 75% Gel 15gm","composition":"Skin Care Preparation","manufacturer":"Alkem Laboratories Ltd","price":"Rs.148.68"}
+{"_id":{"$oid":"5b58443fd51d2960194be4fa"},"name":"ALOKEM Lotion 100ml","composition":"Aloe Vera","manufacturer":"Alkem Laboratories Ltd","price":"Rs.275.00"}
+{"_id":{"$oid":"5b584442d51d2960194be4fb"},"name":"ALOKEM Gel 20gm","composition":"Skin Care Preparation","manufacturer":"Alkem Laboratories Ltd","price":"Rs.0.12"}
+{"_id":{"$oid":"5b584444d51d2960194be4fc"},"name":"ALOKEM Cream 50gm","composition":"Aloevera+Chamomile+Glycerine+Hyaluronic Acid+Wheat Germ","manufacturer":"Alkem Laboratories Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b584446d51d2960194be4fd"},"name":"ALVOE Soap 75gm","composition":"ALOE VERA +GLYCERINE ","manufacturer":"Menarini India Pvt Ltd","price":"Rs.49.00"}
+{"_id":{"$oid":"5b584448d51d2960194be4fe"},"name":"AMYLAC Lotion 50ml","composition":"Ammonium","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.136.00"}
+{"_id":{"$oid":"5b58444ad51d2960194be4ff"},"name":"AMYLAC Cream 50gm","composition":"Lactic Acid 12%W/W","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.143.00"}
+{"_id":{"$oid":"5b58444cd51d2960194be500"},"name":"ANASTIM CONCENTRATE Lotion 7.5ml","composition":"COSMETICS","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.3,100.00"}
+{"_id":{"$oid":"5b58444ed51d2960194be501"},"name":"ANSOLAR SPF 60 Lotion 60ml","composition":"Sunscreen Lotion","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.650.00"}
+{"_id":{"$oid":"5b584450d51d2960194be502"},"name":"APIFIL Lotion 100ml","composition":"Vitamin E 1.5%W/V","manufacturer":"Apple Therapeutics Pvt Ltd","price":"Rs.309.00"}
+{"_id":{"$oid":"5b584452d51d2960194be503"},"name":"AQUADERM FACE \u0026 BODY WASH Liquid 200ml","composition":"Skin Preparation","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b584454d51d2960194be504"},"name":"AQUAMAX Cream 50gm","composition":"Maltobionic Acid +Hyaluronic Acid +Allantoin+Vitamin E","manufacturer":"Newtrimed","price":"Rs.250.00"}
+{"_id":{"$oid":"5b584456d51d2960194be505"},"name":"AQUAMAX Lotion 100ml","composition":"Maltobionic Acid+Hyaluronic+Allantoin+Glycerin","manufacturer":"Newtrimed","price":"Rs.425.00"}
+{"_id":{"$oid":"5b584458d51d2960194be506"},"name":"AQUAOAT MOISTURIZING Cream 100gm","composition":"Moisturiser ","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b58445ad51d2960194be507"},"name":"AQUAOAT MOISTURIZING Cream 50gm","composition":"Moisturiser ","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.195.00"}
+{"_id":{"$oid":"5b58445cd51d2960194be508"},"name":"AQUAOAT MOISTURIZING Lotion 100ml","composition":"Moisturiser ","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b58445ed51d2960194be509"},"name":"AQUASOFT MAX INTENSIVE MOISTURISING Cream 100gm","composition":"Skin Preparation","manufacturer":"Ajanta Pharma Ltd","price":"Rs.278.00"}
+{"_id":{"$oid":"5b584460d51d2960194be50a"},"name":"AQUASOFT 15% Cream 100gm","composition":"Glycerin 15%W/W","manufacturer":"Ajanta Pharma Ltd","price":"Rs.209.50"}
+{"_id":{"$oid":"5b584462d51d2960194be50b"},"name":"AQUASOFT EMOLLIENT Lotion 200ml","composition":"ISOPROPYL MYRISTATE+LIQUID PARAFFIN","manufacturer":"Ajanta Pharma Ltd","price":"Rs.281.00"}
+{"_id":{"$oid":"5b584464d51d2960194be50c"},"name":"AQUASOFT Facewash 50ml","composition":"Skin Care Preparation","manufacturer":"Ajanta Pharma Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b584466d51d2960194be50d"},"name":"AQUASOFT MOISTURISING Cream 100gm","composition":"Skin Preparation","manufacturer":"Ajanta Pharma Ltd","price":"Rs.191.50"}
+{"_id":{"$oid":"5b584467d51d2960194be50e"},"name":"AQUASOFT S Soap 75gm","composition":"Skin Preparation","manufacturer":"Ajanta Pharma Ltd","price":"Rs.131.00"}
+{"_id":{"$oid":"5b584469d51d2960194be50f"},"name":"AQUASOFT MOISTURISING Cream 60gm","composition":"Glycerin 15%W/W","manufacturer":"Ajanta Pharma Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b58446bd51d2960194be510"},"name":"AQUASOFT EMOLLIENT Soap 75","composition":"Calamine+Liquid Paraffin","manufacturer":"Ajanta Pharma Ltd","price":"Rs.107.75"}
+{"_id":{"$oid":"5b58446dd51d2960194be511"},"name":"AQUASOFT FC ADVANCED FACIAL MOISTURIZER Cream 60gm","composition":"Skin Preparation","manufacturer":"Ajanta Pharma Ltd","price":"Rs.172.00"}
+{"_id":{"$oid":"5b58446fd51d2960194be512"},"name":"AQUASOFT FC ADVANCED FACIAL MOISTURIZER Cream 100gm","composition":"Moisturiser ","manufacturer":"Ajanta Pharma Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b584471d51d2960194be513"},"name":"AQUASOFT MAX INTENSIVE MOISTURISING Cream 150gm","composition":"SKIN PREPARATION ","manufacturer":"Ajanta Pharma Ltd","price":"Rs.340.00"}
+{"_id":{"$oid":"5b584474d51d2960194be514"},"name":"AQUASOFT Moisturising Cream 50gm","composition":"Glycerine","manufacturer":"Ajanta Pharma Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584475d51d2960194be515"},"name":"AQUASOFT MOIST Lotion 200ml","composition":"Isopropyl Myristate+Liquid Paraffin","manufacturer":"Ajanta Pharma Ltd","price":"Rs.295.00"}
+{"_id":{"$oid":"5b584477d51d2960194be516"},"name":"AQUASOFT MOIST Lotion 100ml","composition":"Isopropyl Myristate+Liquid Paraffin","manufacturer":"Ajanta Pharma Ltd","price":"Rs.197.00"}
+{"_id":{"$oid":"5b584479d51d2960194be517"},"name":"AQUASOFT Moisturising Cream 150gm","composition":"Glycerine","manufacturer":"Ajanta Pharma Ltd","price":"Rs.265.00"}
+{"_id":{"$oid":"5b58447bd51d2960194be518"},"name":"ASTHESIA Cream 5gm","composition":"PRILOCAINE 2.5 MG","manufacturer":"Unichem Laboratories Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b58447cd51d2960194be519"},"name":"ASTRIA Cream 50gm","composition":"Lidocaine 2.5%W/W+Prilocaine 2.5%W/W","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.215.00"}
+{"_id":{"$oid":"5b58447ed51d2960194be51a"},"name":"ATOGLA Cream 100gm","composition":"Aloe Vera+Borago Officinalis Seed Oil+Ceramide+Wheat Germ Oil","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.275.00"}
+{"_id":{"$oid":"5b584480d51d2960194be51b"},"name":"ATOGLA Lotion 200ml","composition":"Aloe Vera+Borago Officinalis Seed Oil+Ceramide+Wheat Germ Oil","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b584483d51d2960194be51c"},"name":"ATOPICLAIR Lotion 30ml","composition":"SKIN PREPARATION","manufacturer":"Menarini India Pvt Ltd","price":"Rs.286.88"}
+{"_id":{"$oid":"5b584483d51d2960194be51d"},"name":"AVARTA Under Eye Cream 10gm","composition":"Cosmetics","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.452.00"}
+{"_id":{"$oid":"5b584486d51d2960194be51e"},"name":"AVARTA SPF ANTI AGEING Cream 50gm","composition":"Skin Preparation","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,390.00"}
+{"_id":{"$oid":"5b584487d51d2960194be51f"},"name":"AVEENO DAILY MOIST Lotion 354ml","composition":"SKIN PREPARATION ","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.850.00"}
+{"_id":{"$oid":"5b584489d51d2960194be520"},"name":"AVEENO DAILY MOISTURIZING Lotion 71ml","composition":"Skin Preparation","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.350.00"}
+{"_id":{"$oid":"5b58448bd51d2960194be521"},"name":"AVEENO SKIN RELIEF MOIST Lotion 354ml","composition":"Skin Preparation ","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.1,100.00"}
+{"_id":{"$oid":"5b58448dd51d2960194be522"},"name":"AVEENO SPF 30 SUNSCREEN Lotion 85ml","composition":"Sunscreen Lotion","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.885.00"}
+{"_id":{"$oid":"5b58448fd51d2960194be523"},"name":"BAN A TAN Cream 50gm","composition":"Sunscreen ","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.700.00"}
+{"_id":{"$oid":"5b584491d51d2960194be524"},"name":"BARIESUN SPF 50+ Cream 50ml","composition":"SUNSCREEN 0","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.1,400.00"}
+{"_id":{"$oid":"5b584493d51d2960194be525"},"name":"BLISE Cream 20gm","composition":"Arbutin 1%+Gluconolactone 2%+Lactobionic Acid 1%+Mequinol 2%","manufacturer":"Ajanta Pharma Ltd","price":"Rs.310.00"}
+{"_id":{"$oid":"5b584495d51d2960194be526"},"name":"BOXTLAK BL Cream 20gm","composition":"Skin Preparation","manufacturer":"Menarini India Pvt Ltd","price":"Rs.590.00"}
+{"_id":{"$oid":"5b584497d51d2960194be527"},"name":"CALACARE 8% Lotion 50ml","composition":"Calamine 8%","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b584499d51d2960194be528"},"name":"CALACARE Lotion 100ml","composition":"Calamine+Camphor+Diphenhydramine","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.42.00"}
+{"_id":{"$oid":"5b58449bd51d2960194be529"},"name":"CALACTO Lotion 100ml","composition":"Calamine 8%","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.24.00"}
+{"_id":{"$oid":"5b58449dd51d2960194be52a"},"name":"CALADEW Lotion 75ml","composition":"Skin Preparation","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b58449fd51d2960194be52b"},"name":"CALAK A Lotion 100ml","composition":"Aloe Vera+Calamine+Liquid Paraffin","manufacturer":"Menarini India Pvt Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b5844a1d51d2960194be52c"},"name":"CALAK A Lotion 50ml","composition":"Aloe Vera+Calamine+Liquid Paraffin","manufacturer":"Menarini India Pvt Ltd","price":"Rs.61.00"}
+{"_id":{"$oid":"5b5844a3d51d2960194be52d"},"name":"CALAPURE A Lotion 100ml","composition":"Aloe Vera+Calamine+Liquid Paraffin","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.147.50"}
+{"_id":{"$oid":"5b5844a5d51d2960194be52e"},"name":"CALAPURE A Lotion 50ml","composition":"Aloe Vera+Calamine+Liquid Paraffin","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5844a7d51d2960194be52f"},"name":"CALAPURE Lotion 50ml","composition":"Calamine+Liquid Paraffin","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b5844a9d51d2960194be530"},"name":"CALAPURE PLUS Lotion 100ml","composition":"ALOE VERA+TOCOPHERYL ACETATE","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b5844abd51d2960194be531"},"name":"CALAWIN Lotion 60ml","composition":"ALOE VERA+BENTONITE+CALAMINE+GLYCERIN+SODIUM CITRATE+TOCOPHERYL(VIT E)+ZINC","manufacturer":"Zee Laboratories Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b5844add51d2960194be532"},"name":"CALCHILL Lotion 45ml","composition":"Aloe Vera+Calamine+Liquid Paraffin","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.64.00"}
+{"_id":{"$oid":"5b5844aed51d2960194be533"},"name":"CALCHILL Lotion 100ml","composition":"Aloe Vera+Calamine+Liquid Paraffin","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.155.00"}
+{"_id":{"$oid":"5b5844b0d51d2960194be534"},"name":"CALLAN MOIST Lotion 100ml","composition":"Skin Preparation","manufacturer":"Adroit Healthcare Pvt Ltd","price":"Rs.320.00"}
+{"_id":{"$oid":"5b5844b2d51d2960194be535"},"name":"CALMSKIN Lotion 100ml","composition":"Calamine+Allantoin+Liquid+Olive Oil","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.166.00"}
+{"_id":{"$oid":"5b5844b6d51d2960194be536"},"name":"CALORA Lotion 60ml","composition":"Aloe Vera+Calamine+Liquid Paraffin","manufacturer":"Medlab Pharmaceuticals Pvt Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b5844b8d51d2960194be537"},"name":"CALOSOFT AF Lotion 50ml","composition":"Calamine 8 % W/W+Aloe Vera Gel 10 % W/W+Liquid Paraffin 10 % W/W","manufacturer":"Micro Labs Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5844bad51d2960194be538"},"name":"CALOSOFT AF Lotion 100ml","composition":"Calamine 8 % W/W+Aloe Vera Gel 10 % W/W+Liquid Paraffin 10 % W/W","manufacturer":"Micro Labs Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b5844bad51d2960194be539"},"name":"CALOSOFT PLUS Lotion 50ml","composition":"Aloe Vera+Calamine","manufacturer":"Micro Labs Ltd","price":"Rs.174.00"}
+{"_id":{"$oid":"5b5844bcd51d2960194be53a"},"name":"CAMOFLAGE Cream 60gm","composition":"Cosmetics","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b5844bed51d2960194be53b"},"name":"CAREMOIST Cream 100ml","composition":"Skin Care Preparation ","manufacturer":"Surecare Pharma Pvt Ltd","price":"Rs.210.00"}
+{"_id":{"$oid":"5b5844c0d51d2960194be53c"},"name":"CAROFIT LITE Cream 15gm","composition":"Kojic Acid 2%+Vitamin C 1%+Arbutin 1%+Lactic Acid 10%","manufacturer":"Ajanta Pharma Ltd","price":"Rs.161.90"}
+{"_id":{"$oid":"5b5844c2d51d2960194be53d"},"name":"CASIL Soap 75gm","composition":"Glycerin+Lanolin+Silicone","manufacturer":"Biomedica Life Science","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5844c4d51d2960194be53e"},"name":"CETAPHIL UVA/UVB DEFENSE Lotion 50ml","composition":"Skin Preparation","manufacturer":"Galderma India Pvt Ltd","price":"Rs.1,055.00"}
+{"_id":{"$oid":"5b5844c6d51d2960194be53f"},"name":"CETAPHIL DAYLONG SPF 50+ Gel 50ml","composition":"Sunscreen","manufacturer":"Galderma India Pvt Ltd","price":"Rs.1,499.00"}
+{"_id":{"$oid":"5b5844c8d51d2960194be540"},"name":"CETAPHIL MOISTURISING Cream 80gm","composition":"Cetyl Alcohol+Stearyl Alcohol","manufacturer":"Galderma India Pvt Ltd","price":"Rs.330.30"}
+{"_id":{"$oid":"5b5844cfd51d2960194be541"},"name":"CETAPHIL MOISTURISING Lotion 100ml","composition":"Cetyl Alcohol+Stearyl Alcohol","manufacturer":"Galderma India Pvt Ltd","price":"Rs.318.10"}
+{"_id":{"$oid":"5b5844d1d51d2960194be542"},"name":"CETAPHIL RESTORADERM BODY WASH Lotion 295ml","composition":"Skin Preparation","manufacturer":"Galderma India Pvt Ltd","price":"Rs.1,174.80"}
+{"_id":{"$oid":"5b5844d2d51d2960194be543"},"name":"CETAPHIL CLEANSING Lotion 60ml","composition":"Cetyl Alcohol+Stearyl Alcohol","manufacturer":"Galderma India Pvt Ltd","price":"Rs.345.00"}
+{"_id":{"$oid":"5b5844d3d51d2960194be544"},"name":"CETAPHIL SYNDET BAR 75gm","composition":"Cetyl Alcohol+Stearyl Alcohol","manufacturer":"Galderma India Pvt Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b5844d5d51d2960194be545"},"name":"CETAPHIL DAYLONG AFTER SUN REPAIR Lotion 100ml","composition":"Sunscreen","manufacturer":"Galderma India Pvt Ltd","price":"Rs.1,990.00"}
+{"_id":{"$oid":"5b5844d7d51d2960194be546"},"name":"CETAPHIL DAM Lotion 100gm","composition":"Cetyl Alcohol+Stearyl Alcohol","manufacturer":"Galderma India Pvt Ltd","price":"Rs.342.40"}
+{"_id":{"$oid":"5b5844d9d51d2960194be547"},"name":"CETAPHIL DAM Lotion 30gm","composition":"Cetyl Alcohol+Stearyl Alcohol","manufacturer":"Galderma India Pvt Ltd","price":"Rs.152.00"}
+{"_id":{"$oid":"5b5844dbd51d2960194be548"},"name":"CETAPHIL MOISTURISING Lotion 250ml","composition":"Tocopheryl Acetate 1%+Stearyl Alcohol 0.0004","manufacturer":"Galderma India Pvt Ltd","price":"Rs.683.80"}
+{"_id":{"$oid":"5b5844ded51d2960194be549"},"name":"CETAPHIL OILY SKIN CLEANSER Lotion 125ml","composition":"Skin Preparation","manufacturer":"Galderma India Pvt Ltd","price":"Rs.392.00"}
+{"_id":{"$oid":"5b5844e0d51d2960194be54a"},"name":"CETAPHIL RESTORADERM MOISTURIZER Cream 295ml","composition":"Skin Care Preparation ","manufacturer":"Galderma India Pvt Ltd","price":"Rs.1,514.60"}
+{"_id":{"$oid":"5b5844e2d51d2960194be54b"},"name":"CETRABEN Cream 50gm","composition":"Emollients \u0026 Keratolytics","manufacturer":"Hetero Healthcare Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b5844e4d51d2960194be54c"},"name":"CHAPTEX LIPCARE Cream 10gm","composition":"Skin Preparation","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.136.00"}
+{"_id":{"$oid":"5b5844e6d51d2960194be54d"},"name":"CORN CAPS MEDIGRIP Patch 4's","composition":"Salicylic Acid 40%W/W","manufacturer":"Carnation Pharmaceuticals I Pvt Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b5844e8d51d2960194be54e"},"name":"COTARYL AF Cream 50gm","composition":"LIQUID PARAFFIN +PARAFFIN ","manufacturer":"Fdc Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5844ead51d2960194be54f"},"name":"CREAME EXTRA SPF 50 Lotion 50gm","composition":"SUNSCREEN LOTION ","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.1,050.00"}
+{"_id":{"$oid":"5b5844ecd51d2960194be550"},"name":"CUTIMAX Cream 150gm","composition":"Skin","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.330.00"}
+{"_id":{"$oid":"5b5844eed51d2960194be551"},"name":"CUTIMAX Cream 50gm","composition":"Liquid Paraffin+White Soft Paraffin","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5844f0d51d2960194be552"},"name":"CUTINEX Cream 5gm","composition":"Skin Care Preparation","manufacturer":"Cipla Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b5844f2d51d2960194be553"},"name":"CUTINORM Cream 15gm","composition":"Skin Care Preparation","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.114.35"}
+{"_id":{"$oid":"5b5844f4d51d2960194be554"},"name":"CUTINORM Lotion 50ml","composition":"OTC ","manufacturer":"Ipca Laboratories Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b5844f6d51d2960194be555"},"name":"CUTINORM 15/6% Cream 5gm","composition":"Skin Care Preparation","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.16.01"}
+{"_id":{"$oid":"5b5844f8d51d2960194be556"},"name":"CUTINORM CLEANSING BATH BAR 100gm","composition":"Skin Care Soap","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.135.00"}
+{"_id":{"$oid":"5b5844f9d51d2960194be557"},"name":"CUTISERA TRANSLUCENT Liquid 30ml","composition":"Skincare Preparation","manufacturer":"Cipla Ltd","price":"Rs.2,995.00"}
+{"_id":{"$oid":"5b5844fcd51d2960194be558"},"name":"CUTIVERA Lotion 50ml","composition":"Aloe Vera+Calamine+Liquid Paraffin","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5844fed51d2960194be559"},"name":"CUTIVERA Lotion 100ml","composition":"Aloe Vera 0+Calamine 0+Liquid Paraffin 0","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b584500d51d2960194be55a"},"name":"CUTIWASH SOFT Gel 100","composition":"SKIN PREPARATION ","manufacturer":"Micro Labs Ltd","price":"Rs.360.00"}
+{"_id":{"$oid":"5b584501d51d2960194be55b"},"name":"CUVIA AQUAGel 50gm","composition":"Avobenzone 2%+Octinoxate(Octyl Methoxycinnamate) 0.075+Oxybenzone 0.03+ Zinc 2%W/W","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b584503d51d2960194be55c"},"name":"CUVIA SPF26 LOTION 50GM","composition":"AVOBENZONE 2%+OCTINOXATE(OCTYL METHOXYCINNAMATE) 7.5%+ZINC OXIDE 2%+OXYBENZONE 3%","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b584505d51d2960194be55d"},"name":"CUVIA XL Cream 50gm","composition":"AVOBENZONE +OCTINOXATE(OCTYL METHOXYCINNAMATE) +OXYBENZONE ","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.350.00"}
+{"_id":{"$oid":"5b584507d51d2960194be55e"},"name":"CYANOCOBALAMIN Injection 30ml","composition":"Cyanocobalamin+Phenol","manufacturer":"Impha Generics","price":"Rs.25.50"}
+{"_id":{"$oid":"5b584509d51d2960194be55f"},"name":"DEGREASING Lotion 200ml","composition":"Emollients ","manufacturer":"Cipla Ltd","price":"Rs.993.43"}
+{"_id":{"$oid":"5b58450bd51d2960194be560"},"name":"DEMELAN Cream 15gm","composition":"ARBUTIN+GLYCOLIC ACID+KOJIC ACID","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.318.50"}
+{"_id":{"$oid":"5b58450cd51d2960194be561"},"name":"DEMELAN LITE Lotion 50ml","composition":"Licorice Extract 40%","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.460.00"}
+{"_id":{"$oid":"5b58450ed51d2960194be562"},"name":"D DERCLEAN Gel 50gm","composition":"Skin Care Preparation","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.320.40"}
+{"_id":{"$oid":"5b584510d51d2960194be563"},"name":"DERMACIL Cream 50gm","composition":"Skin Care Preparation","manufacturer":"Cipla Ltd","price":"Rs.97.61"}
+{"_id":{"$oid":"5b584511d51d2960194be564"},"name":"DERMADEW BACT Soap 75gm","composition":"Skin Care Soap","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.165.00"}
+{"_id":{"$oid":"5b584513d51d2960194be565"},"name":"DERMADEW Cream 125gm","composition":"Skin Preparation","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.229.00"}
+{"_id":{"$oid":"5b584515d51d2960194be566"},"name":"DERMADEW BABY Cream 80gm","composition":"Baby Skin Cream ","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.145.00"}
+{"_id":{"$oid":"5b584517d51d2960194be567"},"name":"DERMADEW ALOE Lotion 50ml","composition":"Aloe Vera Gel 10 % W/W+Light Liquid Paraffin 7 % W/W+White Soft Paraffin 3 % W/W","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.180.00"}
+{"_id":{"$oid":"5b584519d51d2960194be568"},"name":"DERMADEW Soap 75gm","composition":"Skin Care Soap","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.142.00"}
+{"_id":{"$oid":"5b58451ad51d2960194be569"},"name":"DERMADEW SHOWER Gel 100ml","composition":"Aloe Vera+Glycerine","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.273.00"}
+{"_id":{"$oid":"5b58451bd51d2960194be56a"},"name":"DERMADEW DIAPER Cream 50gm","composition":"Skin Preparation","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.95.00"}
+{"_id":{"$oid":"5b58451dd51d2960194be56b"},"name":"DERMADEW ALOE Cream 50gm","composition":"Aloe Vera+Liquid Paraffin+White Soft Paraffin","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.180.00"}
+{"_id":{"$oid":"5b584520d51d2960194be56c"},"name":"DERMADEW ACNE Soap 75gm","composition":"Skin Care Soap","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.164.00"}
+{"_id":{"$oid":"5b584522d51d2960194be56d"},"name":"DERMADEW GLOW Cream 50gm","composition":"Aloe Vera+Liquid Paraffin+White Soft Paraffin","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.285.00"}
+{"_id":{"$oid":"5b584523d51d2960194be56e"},"name":"DERMADEW Lotion 50ml","composition":"SKIN CARE PREPARATION ","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.104.95"}
+{"_id":{"$oid":"5b584525d51d2960194be56f"},"name":"DERMADEW CALOE Lotion 50ml","composition":"Otc","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.129.00"}
+{"_id":{"$oid":"5b584527d51d2960194be570"},"name":"DERMADEW CALOE Lotion 100ml","composition":"Aloe Vera Gel, Light Liquid Paraffin, And Calamine","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.270.00"}
+{"_id":{"$oid":"5b584529d51d2960194be571"},"name":"DERMADEW SHOWER Gel 250ml","composition":"Aloevera+Glycerine","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.237.00"}
+{"_id":{"$oid":"5b58452bd51d2960194be572"},"name":"DERMASHIELD Cream 10gm","composition":"Skin Care Preparation","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.46.45"}
+{"_id":{"$oid":"5b58452dd51d2960194be573"},"name":"DERMASHIELD Cream 20gm","composition":"Skin Care Preparation","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.45.85"}
+{"_id":{"$oid":"5b58452ed51d2960194be574"},"name":"DERMAVIVE MOIST Lotion 250ml","composition":"Moisturising","manufacturer":"Uas Pharmaceuticals India Pvt Ltd","price":"Rs.580.00"}
+{"_id":{"$oid":"5b584531d51d2960194be575"},"name":"DERMAVIVE Cream 100gm","composition":"Skin Preparation","manufacturer":"Uas Pharmaceuticals India Pvt Ltd","price":"Rs.583.00"}
+{"_id":{"$oid":"5b584532d51d2960194be576"},"name":"DERMAVIVE Lotion 120ml","composition":"Moisturising","manufacturer":"Uas Pharmaceuticals India Pvt Ltd","price":"Rs.374.00"}
+{"_id":{"$oid":"5b584534d51d2960194be577"},"name":"DERMICIL Powder 150gm","composition":"Skincare Preparation","manufacturer":"Cipla Ltd","price":"Rs.33.75"}
+{"_id":{"$oid":"5b584536d51d2960194be578"},"name":"DERMICIL L Dusting Powder 150gm","composition":"Skincare Preparation","manufacturer":"Cipla Ltd","price":"Rs.44.00"}
+{"_id":{"$oid":"5b584537d51d2960194be579"},"name":"DERMICIL S Dusting Powder 150gm","composition":"Skincare Preparation","manufacturer":"Cipla Ltd","price":"Rs.44.00"}
+{"_id":{"$oid":"5b584539d51d2960194be57a"},"name":"DERMIDRYL Lotion 100ml","composition":"Calamine 8%","manufacturer":"Wockhardt Ltd","price":"Rs.28.75"}
+{"_id":{"$oid":"5b58453bd51d2960194be57b"},"name":"DERMOGARD Cream 20gm","composition":"Allantoin+Aloevera+Chlorhexidine+Silver Sulfadiazine","manufacturer":"Indi Pharma Pvt Ltd","price":"Rs.21.47"}
+{"_id":{"$oid":"5b58453dd51d2960194be57c"},"name":"DERMOLIFT Cream 15gm","composition":"Skin Preparation","manufacturer":"Remember India Medicos Pvt Ltd","price":"Rs.603.00"}
+{"_id":{"$oid":"5b58453fd51d2960194be57d"},"name":"DERMOYS Cream 50gm","composition":"LIQUID PARAFFIN 0","manufacturer":"Percos India Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b584541d51d2960194be57e"},"name":"DERMOYS Cream 200gm","composition":"Liquid Paraffin+White Soft Paraffin","manufacturer":"Percos India Pvt Ltd","price":"Rs.225.00"}
+{"_id":{"$oid":"5b584542d51d2960194be57f"},"name":"DERSHINE Lotion 100ml","composition":"Aloe Vera+Liquid Paraffin+White Soft Paraffin","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.176.00"}
+{"_id":{"$oid":"5b584544d51d2960194be580"},"name":"DERSHINE Cream 100gm","composition":"WHITE PETROLATUM 7%+LIQUID PARAFFIN 3%","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.167.00"}
+{"_id":{"$oid":"5b584546d51d2960194be581"},"name":"DERSHINE Cream 30gm","composition":"Liquid Paraffin+White Soft Paraffin","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.68.00"}
+{"_id":{"$oid":"5b584548d51d2960194be582"},"name":"DERSOL 6% Ointment 25gm","composition":"Salicylic Acid 6% W/W","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.43.84"}
+{"_id":{"$oid":"5b58454ad51d2960194be583"},"name":"DEWDERM Cream 30gm","composition":"Lactic Acid 5%+Urea 0.1+Vitamin E 0.01+Propylene Glycol 0.1","manufacturer":"Menarini India Pvt Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b58454cd51d2960194be584"},"name":"DEWDERM Soap 100gm","composition":"Glycerin+Vitamin E","manufacturer":"Menarini India Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b58454dd51d2960194be585"},"name":"DEWDERM MOISTURISING Lotion 100ml","composition":"Aloe Vera+Glycerine+Tocopheryl","manufacturer":"Menarini India Pvt Ltd","price":"Rs.133.68"}
+{"_id":{"$oid":"5b58454fd51d2960194be586"},"name":"DEWDERM Lotion 50ml","composition":"Aloe Vera+Glycerin+Tocopheryl(Vit E)","manufacturer":"Menarini India Pvt Ltd","price":"Rs.66.28"}
+{"_id":{"$oid":"5b584551d51d2960194be587"},"name":"DEWDERM Lotion 200ml","composition":"Aloe Vera+Glycerin+Tocopheryl(Vit E)","manufacturer":"Menarini India Pvt Ltd","price":"Rs.253.00"}
+{"_id":{"$oid":"5b584553d51d2960194be588"},"name":"DEWMIS Soap 75gm","composition":"Skin Care Preparation","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.94.40"}
+{"_id":{"$oid":"5b584555d51d2960194be589"},"name":"NEW DEWSOFT Lotion 100ml","composition":"Aloe Vera+Borago Officinalis Seed Oil+Ceramide+Wheat Germ Oil","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.272.50"}
+{"_id":{"$oid":"5b584557d51d2960194be58a"},"name":"DEWSOFT Cream 50gm","composition":"Skin Care Preparation","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b584559d51d2960194be58b"},"name":"DEWSOFT Lotion 50gm","composition":"Aloe Vera 0+Green Tea Extract 0","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.799.00"}
+{"_id":{"$oid":"5b58455bd51d2960194be58c"},"name":"NEW DEWSOFT Cream 50gm","composition":"Aloe Vera+Borago Officinalis Seed Oil+Ceramide+Wheat Germ Oil","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.191.47"}
+{"_id":{"$oid":"5b58455cd51d2960194be58d"},"name":"NEW DEWSOFT Soap 75gm","composition":"Skin Care Soap","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.146.50"}
+{"_id":{"$oid":"5b58455ed51d2960194be58e"},"name":"DEWSOFT Soap 100gm","composition":"Skin Care Preparation","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b584560d51d2960194be58f"},"name":"DEWSOFT PREMIA Lotion 50ml","composition":"Aloe Vera+Tea Tree Oil+Tocopheryl Acetate+Wheat Germ Oil","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.736.57"}
+{"_id":{"$oid":"5b584561d51d2960194be590"},"name":"DEWSOFT KID Lotion 100ml","composition":"ALOE VERA 0+TEA TREE OIL 0","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.272.50"}
+{"_id":{"$oid":"5b584563d51d2960194be591"},"name":"DEWSOFT KID Soap 75gm","composition":"ALOE VERA+TOCOPHERYL ACETATE","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.159.00"}
+{"_id":{"$oid":"5b584564d51d2960194be592"},"name":"DEWSOFT PREMIA Cream 50gm","composition":"Moisturiser 10%W/W","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.809.40"}
+{"_id":{"$oid":"5b584566d51d2960194be593"},"name":"DEXOMET 0.25%w/w Cream 15gm","composition":"DESOXIMETASONE 0.25%W/W","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.128.00"}
+{"_id":{"$oid":"5b584568d51d2960194be594"},"name":"DIAFC Lotion 200ml","composition":"Ayurvedic ","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.249.00"}
+{"_id":{"$oid":"5b584569d51d2960194be595"},"name":"DIAFOOT Cream 100gm","composition":"Allantoin+Dimethicone+Glycerin+Liquid Paraffin+Propylene Glycol+Urea","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b58456cd51d2960194be596"},"name":"DIAFOOT SB Cream 100gm","composition":"Shea Butter+Allantoin+Dimethicone","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b58456ed51d2960194be597"},"name":"DIAPOD FC Cream 150gm","composition":"Allantoin+Dimethicone+Glycerine+Liquid Paraffin+Propylene Glycol+Urea","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b58456fd51d2960194be598"},"name":"DIPROVATE PLUS G Cream 15gm","composition":"BETAMETHASONE+GENTAMICIN+ZINC","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.65.40"}
+{"_id":{"$oid":"5b584570d51d2960194be599"},"name":"DOUX MOIST Lotion 100ml","composition":"Skin Preparation","manufacturer":"Brinton Pharmaceuticals Ltd","price":"Rs.328.00"}
+{"_id":{"$oid":"5b584572d51d2960194be59a"},"name":"DOUX 24 Cream 100gm","composition":"Skin Preparation","manufacturer":"Brinton Pharmaceuticals Ltd","price":"Rs.339.00"}
+{"_id":{"$oid":"5b584574d51d2960194be59b"},"name":"DOUX ULTRA MOIST Soap 125gm","composition":"SKIN CARE SOAP","manufacturer":"Brinton Pharmaceuticals Ltd","price":"Rs.195.00"}
+{"_id":{"$oid":"5b584576d51d2960194be59c"},"name":"DUOLYS C E Intensive Anti Oxydant Serum 15ml","composition":"Skin Preparation","manufacturer":"Wockhardt Ltd","price":"Rs.2,500.00"}
+{"_id":{"$oid":"5b584578d51d2960194be59d"},"name":"EAU D NATURALE Soap 125gm","composition":"Skin Care Preparation","manufacturer":"Meyer Organics Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b58457ad51d2960194be59e"},"name":"EAU D NATURALE Soap 75gm","composition":"Skin Care Preparation","manufacturer":"Meyer Organics Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b58457cd51d2960194be59f"},"name":"EFADERM Cream 60gm","composition":"Skin Preparation","manufacturer":"Galderma India Pvt Ltd","price":"Rs.191.00"}
+{"_id":{"$oid":"5b58457ed51d2960194be5a0"},"name":"EFATOP PE Lotion 100ml","composition":"Sodium Pyrrolidone Carboxylic Acid+Sodium Lactate+Olive Oil+Vitamin E Acetate","manufacturer":"Cosme Farma Laboratories Ltd","price":"Rs.206.00"}
+{"_id":{"$oid":"5b584580d51d2960194be5a1"},"name":"EFATOP C Lotion 75ml","composition":"Calamine 8%W/W+Liquid Paraffin 10%W/W","manufacturer":"Cosme Farma Laboratories Ltd","price":"Rs.80.37"}
+{"_id":{"$oid":"5b584582d51d2960194be5a2"},"name":"EFATOP PE Cream 60gm","composition":"Emollient","manufacturer":"Cosme Farma Laboratories Ltd","price":"Rs.156.26"}
+{"_id":{"$oid":"5b584583d51d2960194be5a3"},"name":"EFATOP PE Cream 100gm","composition":"Moisturiser ","manufacturer":"Oaknet Healthcare Pvt Ltd","price":"Rs.253.52"}
+{"_id":{"$oid":"5b584585d51d2960194be5a4"},"name":"EFCORLIN 100mg Injection 1ml","composition":"Hydrocortisone 100mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.72.41"}
+{"_id":{"$oid":"5b584587d51d2960194be5a5"},"name":"EFCORLIN 2.5mg Pellets 10's","composition":"Hydrocortisone 2.5mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.72.37"}
+{"_id":{"$oid":"5b584589d51d2960194be5a6"},"name":"EFCORLIN 100mg Injection 2.5ml","composition":"Hydrocortisone 100mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.72.37"}
+{"_id":{"$oid":"5b58458bd51d2960194be5a7"},"name":"EFNITHIN 13.90% Cream 10gm","composition":"Eflornithine 13.9%","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.300.00"}
+{"_id":{"$oid":"5b58458dd51d2960194be5a8"},"name":"EGA Cream 30gm","composition":"Skin Preparation","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.1,300.00"}
+{"_id":{"$oid":"5b58458fd51d2960194be5a9"},"name":"EKRAN SPF 30 Lotion 50gm","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Octocrylene+Oxybenzone+Zinc","manufacturer":"Klm Laboratories Pvt Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b584595d51d2960194be5aa"},"name":"EKRAN SOFT SPF 50+ SUNSCREEN Gel 50gm","composition":"Sunscreen","manufacturer":"Klm Laboratories Pvt Ltd","price":"Rs.590.00"}
+{"_id":{"$oid":"5b584597d51d2960194be5ab"},"name":"EKRAN SPF 30 PA++++ SILICON SUNSCREEN Gel(Topical) 30gm","composition":"Sunscreen Spf30 Pa++++","manufacturer":"Klm Laboratories Pvt Ltd","price":"Rs.429.00"}
+{"_id":{"$oid":"5b584599d51d2960194be5ac"},"name":"ELA Cream 50gm","composition":"Aloe Vera+Tocopheryl Acetate","manufacturer":"Zee Laboratories Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b58459bd51d2960194be5ad"},"name":"ELAINE Cream 100gm","composition":"Aloevera+Liquid Paraffin+Squalane+Tocopheryl (Vit E)","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.327.00"}
+{"_id":{"$oid":"5b58459cd51d2960194be5ae"},"name":"ELASTODERM Cream 50gm","composition":"Antistretch Mark","manufacturer":"Apple Therapeutics Pvt Ltd","price":"Rs.477.00"}
+{"_id":{"$oid":"5b58459ed51d2960194be5af"},"name":"ELOSMOOTH Lotion 80ml","composition":"Calamine+Liquid Paraffin","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b5845a0d51d2960194be5b0"},"name":"ELOVERA Soap 75gm","composition":"Skin Care Preparation","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b5845a2d51d2960194be5b1"},"name":"ELOVERA IMF Cream 50gm","composition":"Aloe Vera+Tocopheryl Acetate","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b5845a4d51d2960194be5b2"},"name":"ELOVERA Cream 75gm","composition":"Aloe Vera+Tocopheryl Acetate","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.207.00"}
+{"_id":{"$oid":"5b5845a6d51d2960194be5b3"},"name":"ELOVERA Cream 60gm","composition":"Skin Care Preparation","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5845a8d51d2960194be5b4"},"name":"ELOVERA Cream 500gm","composition":"Aloe Vera+Vitamin E","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.899.00"}
+{"_id":{"$oid":"5b5845aad51d2960194be5b5"},"name":"ELOVERA Cream 150gm","composition":"Aloe Vera+Tocopheryl Acetate","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.286.00"}
+{"_id":{"$oid":"5b5845acd51d2960194be5b6"},"name":"ELOVERA Lotion 50ml","composition":"Skin Care Preparation","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b5845aed51d2960194be5b7"},"name":"ELOVERA Lotion 75ml","composition":"Aloe Vera+Tocopheryl Acetate","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.177.00"}
+{"_id":{"$oid":"5b5845afd51d2960194be5b8"},"name":"ELOVERA PLUS BAR 75gm","composition":"Aloe Vera+Glycerine","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b5845b1d51d2960194be5b9"},"name":"ELOVERA IMF Lotion 75ml","composition":"Skin Care Preparation","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.136.33"}
+{"_id":{"$oid":"5b5845b4d51d2960194be5ba"},"name":"EMESSA E Oil 25ml","composition":"Tocopheryl Acetate","manufacturer":"Menarini India Pvt Ltd","price":"Rs.57.16"}
+{"_id":{"$oid":"5b5845b6d51d2960194be5bb"},"name":"EMODEL Lotion 125ml","composition":"Cetyl Alcohol+Stearyl Alcohol","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b5845b8d51d2960194be5bc"},"name":"EMODERM Cream 50gm","composition":"Benzoic Acid","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.87.50"}
+{"_id":{"$oid":"5b5845b9d51d2960194be5bd"},"name":"EMOLENE Cream 50gm","composition":"Propylene Glycol","manufacturer":"Fulford India Ltd","price":"Rs.190.78"}
+{"_id":{"$oid":"5b5845bbd51d2960194be5be"},"name":"EMOLLIZ Cream 50gm","composition":"Skin Preparation","manufacturer":"Apple Therapeutics Pvt Ltd","price":"Rs.360.00"}
+{"_id":{"$oid":"5b5845bcd51d2960194be5bf"},"name":"ENTICE BAR 75gm","composition":"Skin Care Soap","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.122.00"}
+{"_id":{"$oid":"5b5845bed51d2960194be5c0"},"name":"ENTICE Lotion 100ml","composition":"Skin Preparation","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.194.00"}
+{"_id":{"$oid":"5b5845c0d51d2960194be5c1"},"name":"ENTOFOAM Cream 20.8gm","composition":"Hydrocortisone 10%","manufacturer":"Cipla Ltd","price":"Rs.713.50"}
+{"_id":{"$oid":"5b5845c1d51d2960194be5c2"},"name":"ENTOFOAM ENEMA Liquid 1ml","composition":"Hydrocortisone 10%","manufacturer":"Cipla Ltd","price":"Rs.713.50"}
+{"_id":{"$oid":"5b5845c4d51d2960194be5c3"},"name":"EPICLIN CLEANSING Lotion 125ml","composition":"Cetyl Alcohol+Stearyl Alcohol","manufacturer":"Ethinext Pharma","price":"Rs.159.00"}
+{"_id":{"$oid":"5b5845c6d51d2960194be5c4"},"name":"EPISHINE Serum 15ml","composition":"SKIN PREPARATION","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.1,399.00"}
+{"_id":{"$oid":"5b5845c7d51d2960194be5c5"},"name":"EPISOFT AMF Cream 100gm","composition":"Moisturizer ","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.339.00"}
+{"_id":{"$oid":"5b5845c9d51d2960194be5c6"},"name":"EVAREN Cream 50gm","composition":"Skin Care Preparation","manufacturer":"Indoco Remedies Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b5845cbd51d2960194be5c7"},"name":"EVER YUTH DERMA CARE Cream 50ml","composition":"Skin Care Preparation","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5845ccd51d2960194be5c8"},"name":"EVION Cream 20gm","composition":"Vitamin E 1%","manufacturer":"Merck Ltd","price":"Rs.63.80"}
+{"_id":{"$oid":"5b5845ced51d2960194be5c9"},"name":"EVION Cream 60gm","composition":"Vitamin E 1%","manufacturer":"Merck Ltd","price":"Rs.144.10"}
+{"_id":{"$oid":"5b5845d0d51d2960194be5ca"},"name":"EVION Cream 150gm","composition":"Aloevera+Tocopheryl (Vit E)","manufacturer":"Merck Ltd","price":"Rs.225.00"}
+{"_id":{"$oid":"5b5845d2d51d2960194be5cb"},"name":"EXOMEGA Cream 50ml","composition":"Skin Care Preparation","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.292.87"}
+{"_id":{"$oid":"5b5845d4d51d2960194be5cc"},"name":"EXOMEGA FOAMING Gel 100ml","composition":"Cosmetics","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.499.00"}
+{"_id":{"$oid":"5b5845d6d51d2960194be5cd"},"name":"EZINAPI Cream 50gm","composition":"Skin Preparation","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.179.00"}
+{"_id":{"$oid":"5b5845d8d51d2960194be5ce"},"name":"EZINAPI CREAM 10GM","composition":"SKIN PREPARATION","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b5845dad51d2960194be5cf"},"name":"EZINAPI Cream 40gm","composition":"Skin Preparation","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.92.50"}
+{"_id":{"$oid":"5b5845dcd51d2960194be5d0"},"name":"FACEMOIST Cream 50gm","composition":"Skin Care Preparation","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.375.00"}
+{"_id":{"$oid":"5b5845ddd51d2960194be5d1"},"name":"FAIN 0.50% Gel 10gm","composition":"Sodium Hyaluronate 0.5%","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.66.67"}
+{"_id":{"$oid":"5b5845e1d51d2960194be5d2"},"name":"FAIR EYE Cream 15gm","composition":"Skin Preparation","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.768.20"}
+{"_id":{"$oid":"5b5845e3d51d2960194be5d3"},"name":"FAIRLITE Cream 20gm","composition":"Skin Preparation","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.399.00"}
+{"_id":{"$oid":"5b5845e4d51d2960194be5d4"},"name":"FEM BOTANICA ANTI AGEING Cream 50gm","composition":"Cosmetics","manufacturer":"Fem Care Pharma Ltd","price":"Rs.500.00"}
+{"_id":{"$oid":"5b5845e7d51d2960194be5d5"},"name":"FIDEBONA Cream 150gm","composition":"Emollient ","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.430.00"}
+{"_id":{"$oid":"5b5845e8d51d2960194be5d6"},"name":"FIGGER Gel 175gm","composition":"Cosmetics","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.2,500.00"}
+{"_id":{"$oid":"5b5845ead51d2960194be5d7"},"name":"FISIOATIV AD Lotion 200gm","composition":"Moisturiser ","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.1,195.00"}
+{"_id":{"$oid":"5b5845ecd51d2960194be5d8"},"name":"FOLTENE Conditioner 150ml","composition":"Cosmetics ","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.700.00"}
+{"_id":{"$oid":"5b5845eed51d2960194be5d9"},"name":"FOOTSAVE Cream 30gm","composition":"Allantoin+Dimethicone+Urea","manufacturer":"Anthem Bio Pharma Pvt Ltd","price":"Rs.96.00"}
+{"_id":{"$oid":"5b5845f0d51d2960194be5da"},"name":"G V Paint 20ml","composition":"Skin Care Preparation","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.11.00"}
+{"_id":{"$oid":"5b5845f2d51d2960194be5db"},"name":"GLA AD Cream 50gm","composition":"Gamma Linolenic Acid","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5845f4d51d2960194be5dc"},"name":"GLADDEW 75gm Soap","composition":"Sodium+Glycerin+Argan+Sunflower","manufacturer":"Gladstone Pharma India Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b5845f5d51d2960194be5dd"},"name":"GLOGEOUS FACE WASH Gel 100gm","composition":"Aloe Vera+Glycolic Acid+Vitamin E","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.749.00"}
+{"_id":{"$oid":"5b5845f7d51d2960194be5de"},"name":"GLOMAX 20gm Lip Balm 1's","composition":"NIACENAMIDE 0+MANDELIC ACID 0","manufacturer":"Newtrimed","price":"Rs.390.00"}
+{"_id":{"$oid":"5b5845f8d51d2960194be5df"},"name":"GLOMAX Cream 30gm","composition":"ALPHA LIPOIC ACID +GLUTATHIONE +NIACINAMIDE(VIT B3) ","manufacturer":"Newtrimed","price":"Rs.300.00"}
+{"_id":{"$oid":"5b5845f9d51d2960194be5e0"},"name":"GLOWRIX Soap 75gm","composition":"Skin Care Preparation","manufacturer":"Roxter Laboratories","price":"Rs.115.00"}
+{"_id":{"$oid":"5b5845fbd51d2960194be5e1"},"name":"GLUTONE Tablet 10's","composition":"Glutathione 500mg+Alpha Lipoic Acid 100mg","manufacturer":"Adroit Healthcare Pvt Ltd","price":"Rs.995.00"}
+{"_id":{"$oid":"5b5845fdd51d2960194be5e2"},"name":"GLYCO 6% Cream 30gm","composition":"Glycolic Acid","manufacturer":"Micro Labs Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b5845ffd51d2960194be5e3"},"name":"GLYCO A 12% Cream 30gm","composition":"Glycolic Acid 12%W/W","manufacturer":"Micro Labs Ltd","price":"Rs.249.00"}
+{"_id":{"$oid":"5b584601d51d2960194be5e4"},"name":"GLYCOVEDA 35% Lotion 60ml","composition":"Glycolic Acid 35%","manufacturer":"Cipla Ltd","price":"Rs.4,444.43"}
+{"_id":{"$oid":"5b584603d51d2960194be5e5"},"name":"GLYCOVEDA 50% Lotion 60ml","composition":"Glycolic Acid 50%","manufacturer":"Cipla Ltd","price":"Rs.5,500.00"}
+{"_id":{"$oid":"5b584605d51d2960194be5e6"},"name":"GLYCOVIRA 6% Cream 30gm","composition":"GLYCOLIC ACID 6%","manufacturer":"Alkem Laboratories Ltd","price":"Rs.137.50"}
+{"_id":{"$oid":"5b584607d51d2960194be5e7"},"name":"GLYCOVIRA 12% Cream 30gm","composition":"GLYCOLIC ACID 12%","manufacturer":"Alkem Laboratories Ltd","price":"Rs.207.76"}
+{"_id":{"$oid":"5b584609d51d2960194be5e8"},"name":"GLYMED Lotion 100ml","composition":"Glycerin 15%+Olive Oil 0.5%","manufacturer":"Med Manor Organics Pvt Ltd","price":"Rs.189.00"}
+{"_id":{"$oid":"5b58460ad51d2960194be5e9"},"name":"GLYMED GLO Soap 100gm","composition":"Soap ","manufacturer":"Med Manor Organics Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b58460cd51d2960194be5ea"},"name":"GLYMOIST BAR 75gm","composition":"Mineral Oil","manufacturer":"Zyris Derma Care Pvt Ltd","price":"Rs.123.00"}
+{"_id":{"$oid":"5b58460ed51d2960194be5eb"},"name":"GLYSEB Soap 75gm","composition":"Glycerine","manufacturer":"Mark Pharmaceutical Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b584610d51d2960194be5ec"},"name":"GLYVERA Transparent Bar 75gm","composition":"Aloe Vera+Glycerine","manufacturer":"Remember India Medicos Pvt Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b584612d51d2960194be5ed"},"name":"GOLITE Cream 15gm","composition":"Consumer Products","manufacturer":"Usv Private Ltd","price":"Rs.468.00"}
+{"_id":{"$oid":"5b584614d51d2960194be5ee"},"name":"GOMOIST Cream 100gm","composition":"Skin Care Preparation","manufacturer":"Hetero Healthcare Ltd","price":"Rs.540.00"}
+{"_id":{"$oid":"5b584615d51d2960194be5ef"},"name":"GORGEUS BAR 75gm","composition":"Skin Preparation","manufacturer":"Ajanta Pharma Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b584616d51d2960194be5f0"},"name":"GORGEUS 20 PEEL Liquid 30ml","composition":"Skin Care Preparation","manufacturer":"Ajanta Pharma Ltd","price":"Rs.2,114.41"}
+{"_id":{"$oid":"5b58461ad51d2960194be5f1"},"name":"GORGEUS 35 PEEL Liquid 30ml","composition":"Skin Care Preparation","manufacturer":"Ajanta Pharma Ltd","price":"Rs.1,904.76"}
+{"_id":{"$oid":"5b58461bd51d2960194be5f2"},"name":"GRAVIDERM Cream 50gm","composition":"Skin Preparation","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.430.00"}
+{"_id":{"$oid":"5b58461dd51d2960194be5f3"},"name":"GROCAPIX Gel 100gm","composition":"Capixyl","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.1,790.00"}
+{"_id":{"$oid":"5b58461fd51d2960194be5f4"},"name":"HAFOOS Cream 75gm","composition":"Urea ","manufacturer":"Aureate Healthcare Pvt Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b584621d51d2960194be5f5"},"name":"HIDRATE Lotion 100ml","composition":"Aloe Vera+Liquid Paraffin+Squalane+Tocopheryl Acetate","manufacturer":"Unichem Laboratories Ltd","price":"Rs.241.00"}
+{"_id":{"$oid":"5b584623d51d2960194be5f6"},"name":"HIDRATE BAR 75gm","composition":"Glycerine","manufacturer":"Unichem Laboratories Ltd","price":"Rs.114.45"}
+{"_id":{"$oid":"5b584625d51d2960194be5f7"},"name":"HIDRATE Cream 50gm","composition":"Aloe Vera+Liquid Paraffin+Squalane+Tocopheryl Acetate","manufacturer":"Unichem Laboratories Ltd","price":"Rs.141.90"}
+{"_id":{"$oid":"5b584626d51d2960194be5f8"},"name":"HUMIDERM Cream 200gm","composition":"Skin Care Preparation","manufacturer":"Ajanta Pharma Ltd","price":"Rs.375.00"}
+{"_id":{"$oid":"5b584628d51d2960194be5f9"},"name":"HYAL ORAL Tablet 10's","composition":"Sodium Hyaluronate(Hylan Gf 20)","manufacturer":"Nouveau Medicament Pvt Ltd","price":"Rs.87.00"}
+{"_id":{"$oid":"5b58462ad51d2960194be5fa"},"name":"HYALOSYN 20mg Injection 2ml","composition":"Hyaluronic Acid 20mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,494.00"}
+{"_id":{"$oid":"5b58462dd51d2960194be5fb"},"name":"HYALUGel Gel(Topical) 30gm","composition":"Skin Preparation ","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b58462fd51d2960194be5fc"},"name":"HYALUGEL CREAM 30GM","composition":"skin preparation","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b584631d51d2960194be5fd"},"name":"HYALUGel PLUS Gel(Topical) 30gm","composition":"Hyaluronic Acid","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.349.00"}
+{"_id":{"$oid":"5b584633d51d2960194be5fe"},"name":"HYDROCORT 100mg Injection 10ml","composition":"Hydrocortisone 100mg","manufacturer":"Cipla Ltd","price":"Rs.20.81"}
+{"_id":{"$oid":"5b584635d51d2960194be5ff"},"name":"HYDROCORT SODIUM 100mg Injection 1's","composition":"Hydrocortisone 100mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.33.60"}
+{"_id":{"$oid":"5b584636d51d2960194be600"},"name":"HYDROFIL Cream 500gm","composition":"Skin Preparation","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.559.00"}
+{"_id":{"$oid":"5b584638d51d2960194be601"},"name":"HYDROLENT Lotion 50ml","composition":"Squalane 1 %+Aloe Vera 0.1+Vitamin E 0.5 %W/W","manufacturer":"Rytus Therapeutics Ltd","price":"Rs.154.00"}
+{"_id":{"$oid":"5b58463ad51d2960194be602"},"name":"HYDROMAX EMOLLIENT Lotion 100ml","composition":"Skin Care Preparation ","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b58463bd51d2960194be603"},"name":"HYGLOW Facewash 50ml","composition":"Skin Care Preparation","manufacturer":"Hetero Healthcare Ltd","price":"Rs.495.00"}
+{"_id":{"$oid":"5b58463dd51d2960194be604"},"name":"HYGLOW Cream 20gm","composition":"Skin Care Preparation","manufacturer":"Hetero Healthcare Ltd","price":"Rs.540.00"}
+{"_id":{"$oid":"5b58463fd51d2960194be605"},"name":"HYMOS Lotion 50ml","composition":"Skin Care Preparation","manufacturer":"Alkem Laboratories Ltd","price":"Rs.351.11"}
+{"_id":{"$oid":"5b584641d51d2960194be606"},"name":"HYMOS CLEANSING Lotion 100ml","composition":"Skin Preparation","manufacturer":"Alkem Laboratories Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b584643d51d2960194be607"},"name":"HYSEAC MASQUE GOMMANT Lotion 100ml","composition":"Cosmetics","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.1,100.00"}
+{"_id":{"$oid":"5b584644d51d2960194be608"},"name":"HYSEAC CLEANSING Gel 150gm","composition":"Cosmetics","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.1,100.00"}
+{"_id":{"$oid":"5b584647d51d2960194be609"},"name":"ILUMAX Cream 20gm","composition":"Liquorice Extract+Magnesium Ascorbyl Phosphate+Niacinamide","manufacturer":"Ajanta Pharma Ltd","price":"Rs.345.00"}
+{"_id":{"$oid":"5b584649d51d2960194be60a"},"name":"IMULAC Cream 100gm","composition":"Skin Care Preparation","manufacturer":"Ajanta Pharma Ltd","price":"Rs.225.00"}
+{"_id":{"$oid":"5b58464bd51d2960194be60b"},"name":"IMULAC Lotion 100ml","composition":"SKIN CARE PREPARATION ","manufacturer":"Ajanta Pharma Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b58464cd51d2960194be60c"},"name":"INSTREL 1% Gel 30gm","composition":"Skin Care Preparation","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.47.28"}
+{"_id":{"$oid":"5b58464ed51d2960194be60d"},"name":"ITCHCAM Lotion 60ml","composition":"Skin Preparation","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.392.30"}
+{"_id":{"$oid":"5b584650d51d2960194be60e"},"name":"JUENE Hair Oil 100ml","composition":"Hair Oil ","manufacturer":"Adroit Healthcare Pvt Ltd","price":"Rs.325.00"}
+{"_id":{"$oid":"5b584651d51d2960194be60f"},"name":"JUENE CREME 60gm","composition":"Biotinyl Ghk+Apigenin+Oleanolic Acid+Keravis+Glycerin-Lactitol-Xylitol","manufacturer":"Adroit Healthcare Pvt Ltd","price":"Rs.695.00"}
+{"_id":{"$oid":"5b584653d51d2960194be610"},"name":"KERACNYL MATIFYER Cream 30ml","composition":"zinc salicylate 0.5 % W/W","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.430.00"}
+{"_id":{"$oid":"5b584655d51d2960194be611"},"name":"KOJIGLO Gel 30gm","composition":"Allantoin+Arbutin+Kojic Acid+Octinoxate(Octyl Methoxycinnamate)+Pine Bark","manufacturer":"Alkem Laboratories Ltd","price":"Rs.357.50"}
+{"_id":{"$oid":"5b584657d51d2960194be612"},"name":"KOZILITE Lotion 50gm","composition":"Skin Preparation 10gm","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.399.00"}
+{"_id":{"$oid":"5b584659d51d2960194be613"},"name":"KOZILITE Lotion 100gm","composition":"Skin Preparation","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.599.00"}
+{"_id":{"$oid":"5b58465bd51d2960194be614"},"name":"KOZIMAX Cream 9gm","composition":"Skin Preparation","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.210.00"}
+{"_id":{"$oid":"5b58465dd51d2960194be615"},"name":"KOZIMAX Cream 15gm","composition":"Skin Preparation","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.310.00"}
+{"_id":{"$oid":"5b58465fd51d2960194be616"},"name":"LA SHIELD SUNSCREEN Gel 60gm","composition":"Sunscreen Lotion","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.673.00"}
+{"_id":{"$oid":"5b584661d51d2960194be617"},"name":"LA SHIELD LITE ANTI-TANNING SUNSCREEN Gel 30gm","composition":"Sunscreen Lotion","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.950.00"}
+{"_id":{"$oid":"5b584663d51d2960194be618"},"name":"LA SHIELD SUNSCREEN IR SPF30 Gel(Topical) 60gm","composition":"Sunscreen","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.820.00"}
+{"_id":{"$oid":"5b584665d51d2960194be619"},"name":"LA WASH 100ml","composition":"Skin Preparation","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b584666d51d2960194be61a"},"name":"LACSOFT Cream 50gm","composition":"Lactic Acid 12%W/W","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.154.00"}
+{"_id":{"$oid":"5b584668d51d2960194be61b"},"name":"LACSOFT Cream 140gm","composition":"Lactic Acid 12%W/W","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.350.00"}
+{"_id":{"$oid":"5b58466ad51d2960194be61c"},"name":"LACSOFT Lotion 50ml","composition":"Lactic Acid","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.192.50"}
+{"_id":{"$oid":"5b58466cd51d2960194be61d"},"name":"LACSOFT C Cream 30gm","composition":"Lactic Acid 0.05%/12%W/W","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.179.00"}
+{"_id":{"$oid":"5b58466ed51d2960194be61e"},"name":"LACSOFT C Gel 30gm","composition":"Lactic Acid 0.05%/12%W/W","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.207.90"}
+{"_id":{"$oid":"5b584670d51d2960194be61f"},"name":"LAGLO FACE WASH Gel 100gm","composition":"ALOE VERA 5%+GLYCOLIC ACID 1%","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b584672d51d2960194be620"},"name":"LIFTAGE Cream 15gm","composition":"Skin Preparation","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.259.00"}
+{"_id":{"$oid":"5b584674d51d2960194be621"},"name":"LINICAL Lotion 100ml","composition":"Calamine","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.137.00"}
+{"_id":{"$oid":"5b584676d51d2960194be622"},"name":"LINIMOIST Lotion 100ml","composition":"Aloe Vera 10%+Calamine 8%","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b584678d51d2960194be623"},"name":"LIPIDZ Cream 50gm","composition":"Skin Preparation","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b58467ad51d2960194be624"},"name":"LIPZ MOISTURIZER Cream 9gm","composition":"Skin Preparation","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b58467cd51d2960194be625"},"name":"LIVALITE Lotion 30ml","composition":"Skin Preparation","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.330.10"}
+{"_id":{"$oid":"5b58467ed51d2960194be626"},"name":"LOGIFEEL Cream 100gm","composition":"Skin Preparation","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.375.00"}
+{"_id":{"$oid":"5b58467fd51d2960194be627"},"name":"LOGIFEEL Cream 50gm","composition":"Skin Preparation","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b584681d51d2960194be628"},"name":"LOISTO Facewash 70ml","composition":"Skin Care Preparation","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.198.00"}
+{"_id":{"$oid":"5b584683d51d2960194be629"},"name":"LONGON Cream 30gm","composition":"Aloe Vera+Boric Acid+Zinc","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.163.50"}
+{"_id":{"$oid":"5b584685d51d2960194be62a"},"name":"LOZISOFT Cream 100gm","composition":"Liquid Paraffin+White Soft Paraffin","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b584687d51d2960194be62b"},"name":"LOZISOFT Lotion 200ml","composition":"Aloe Vera+Liquid Paraffin+White Soft Paraffin","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.215.00"}
+{"_id":{"$oid":"5b584689d51d2960194be62c"},"name":"LOZISOFT Soap 75gm","composition":"Skin Care Soap","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b58468ad51d2960194be62d"},"name":"LOZISOFT Cream 50gm","composition":"Aloe Vera+Liquid Paraffin+White Soft Paraffin","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b58468bd51d2960194be62e"},"name":"LUBRIDERM SF Cream 50gm","composition":"Skin Care Preparation","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b58468dd51d2960194be62f"},"name":"LUCIARA Cream 50gm","composition":"Cosmetics","manufacturer":"Bayer India Ltd","price":"Rs.456.00"}
+{"_id":{"$oid":"5b58468fd51d2960194be630"},"name":"LUCIDUM Lotion 100ml","composition":"STEARYL ALCOHOL 2.65MG+VITAMIN E 0.26MG","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.280.00"}
+{"_id":{"$oid":"5b584691d51d2960194be631"},"name":"LUCIDUM CLEANSING Lotion 150ml","composition":"Cetyl Alcohol+Stearyl Alcohol","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.235.00"}
+{"_id":{"$oid":"5b584693d51d2960194be632"},"name":"LUCIDUM MOISTURISING Lotion 100ml","composition":"Skin Preparation","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.280.00"}
+{"_id":{"$oid":"5b584695d51d2960194be633"},"name":"MAHALAC LACTOCALAMINE Lotion 100ml","composition":"Moisturising ","manufacturer":"Veritaz Health Care Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b584696d51d2960194be634"},"name":"MARKAL CALAMINE Lotion 60ml","composition":"Calamine","manufacturer":"Mark Pharmaceutical Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b584698d51d2960194be635"},"name":"MARKAL CALAMINE Lotion 100ml","composition":"Calamine","manufacturer":"Mark Pharmaceutical Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b584699d51d2960194be636"},"name":"MAXRICH Cream 150gm","composition":"Moisturiser ","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.380.00"}
+{"_id":{"$oid":"5b58469bd51d2960194be637"},"name":"MAXRICH INTENSIVE MOISTURIZING Lotion 250ml","composition":"Moisturiser ","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.525.00"}
+{"_id":{"$oid":"5b58469dd51d2960194be638"},"name":"MEDEPHIL Soap 75gm","composition":"Soap ","manufacturer":"Med Manor Organics Pvt Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b58469fd51d2960194be639"},"name":"MELAGARD Lotion 50ml","composition":"Benzophenone+Octyl Methoxycinnamate+Titanium Dioxide","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.235.00"}
+{"_id":{"$oid":"5b5846a0d51d2960194be63a"},"name":"MELAGARD 50+ Lotion 60ml","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Octocrylene+Oxybenzone+Zinc","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.453.50"}
+{"_id":{"$oid":"5b5846a3d51d2960194be63b"},"name":"MELAGLOW DAY Cream 15gm","composition":"Sunscreen ","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.350.00"}
+{"_id":{"$oid":"5b5846a4d51d2960194be63c"},"name":"MELASCREEN Lotion 100ml","composition":"Sunscreen Lotion","manufacturer":"Mark Pharmaceutical Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b5846a6d51d2960194be63d"},"name":"MELASCREEN Lotion 50ml","composition":"Sunscreen Lotion","manufacturer":"Mark Pharmaceutical Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5846a8d51d2960194be63e"},"name":"MELASCREEN Cream 70gm","composition":"Light Cream","manufacturer":"Mark Pharmaceutical Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b5846aad51d2960194be63f"},"name":"MELAWASH FACE WASH Lotion 60ml","composition":"Ayurvedic Medicine","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.158.00"}
+{"_id":{"$oid":"5b5846acd51d2960194be640"},"name":"MELFIL Cream 15gm","composition":"Sunscreen ","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b5846aed51d2960194be641"},"name":"MICELLAR Lotion 100ml","composition":"MOISTURISING LOTION ","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.681.00"}
+{"_id":{"$oid":"5b5846afd51d2960194be642"},"name":"MICRODERMBRASION Cream 200gm","composition":"Skincare Preparation ","manufacturer":"Cipla Ltd","price":"Rs.3,082.73"}
+{"_id":{"$oid":"5b5846b1d51d2960194be643"},"name":"MINOIL BAR 75gm","composition":"Almond Oil+Mineral Oil","manufacturer":"Nemus Pharmaceuticals Pvt Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b5846b3d51d2960194be644"},"name":"MIS D SUN SPF 30 Lotion 60ml","composition":"Sunscreen ","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.438.00"}
+{"_id":{"$oid":"5b5846b5d51d2960194be645"},"name":"MIS D SUN SPF 30 Lotion 100ml","composition":"Sunscreen ","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.900.00"}
+{"_id":{"$oid":"5b5846b7d51d2960194be646"},"name":"MIS D SUN SPF 50 Lotion 60ml","composition":"Sunscreen ","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.548.00"}
+{"_id":{"$oid":"5b5846b9d51d2960194be647"},"name":"MIS D SUN SPF 50 Lotion 100ml","composition":"Sunscreen ","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.1,100.00"}
+{"_id":{"$oid":"5b5846bbd51d2960194be648"},"name":"MISCELLAR Lotion 200ml","composition":"MOISTURISING LOTION ","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.1,262.00"}
+{"_id":{"$oid":"5b5846bdd51d2960194be649"},"name":"MOHA MOISTURIZING Lotion 200ml","composition":"AYURVEDIC ","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.215.00"}
+{"_id":{"$oid":"5b5846bfd51d2960194be64a"},"name":"MOISTAL Cream 75gm","composition":"Lactic Acid+Liquid Paraffin+Propylene Glycol+Urea","manufacturer":"Alka Pharmaceuticals","price":"Rs.45.00"}
+{"_id":{"$oid":"5b5846c1d51d2960194be64b"},"name":"MOISTDER Cream 40gm","composition":"Moisturising","manufacturer":"Mark Pharmaceutical Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b5846c2d51d2960194be64c"},"name":"MOISTDER Lotion 100ml","composition":"Moisturising","manufacturer":"Mark Pharmaceutical Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5846c4d51d2960194be64d"},"name":"MOISTDERM Cream 50gm","composition":"Skin Preparation","manufacturer":"Ziel Pharmaceuticals","price":"Rs.149.00"}
+{"_id":{"$oid":"5b5846c6d51d2960194be64e"},"name":"MOISTUREX Cream 100gm","composition":"Lactic Acid+Liquid Paraffin+Propylene Glycol+Urea","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.228.00"}
+{"_id":{"$oid":"5b5846c8d51d2960194be64f"},"name":"MOISTUREX CALM Lotion 50ml","composition":"Methylparaben+Propylparaben","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b5846c9d51d2960194be650"},"name":"MOISTUREX SOFT Lotion 100ml","composition":"Liquid Paraffin+White Soft Paraffin","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b5846cbd51d2960194be651"},"name":"MOISTUREX SOFT Cream 300gm","composition":"Liquid Paraffin+White Soft Paraffin","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.530.00"}
+{"_id":{"$oid":"5b5846cdd51d2960194be652"},"name":"MOISTUREX SOFT Cream 100gm","composition":"Liquid Paraffin+White Soft Paraffin","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b5846cfd51d2960194be653"},"name":"MOISTUREX AF Cream 50gm","composition":"Skin Care Preparation","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.64.00"}
+{"_id":{"$oid":"5b5846d0d51d2960194be654"},"name":"MOISTURING Cream 60gm","composition":"Skin Care Preparation","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.73.33"}
+{"_id":{"$oid":"5b5846d7d51d2960194be655"},"name":"MOIZ CLEANSING Lotion 125ml","composition":"Cetyl Alcohol+Stearyl Alcohol","manufacturer":"Glowderma Labs Pvt Ltd","price":"Rs.197.00"}
+{"_id":{"$oid":"5b5846d9d51d2960194be656"},"name":"MOYZEN PLUS Soap 100gm","composition":"Paraffin","manufacturer":"Icpa Laboratories Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b5846dbd51d2960194be657"},"name":"MOYZEN Liquid 100ml","composition":"Paraffin 63.4%","manufacturer":"Icpa Laboratories Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5846ddd51d2960194be658"},"name":"MOYZEN Liquid 200ml","composition":"Paraffin","manufacturer":"Icpa Laboratories Ltd","price":"Rs.87.00"}
+{"_id":{"$oid":"5b5846dfd51d2960194be659"},"name":"MOYZEN Cream 100gm","composition":"Liquid Paraffin+White Soft Paraffin","manufacturer":"Icpa Laboratories Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b5846e2d51d2960194be65a"},"name":"MUCIDAL 2% Ointment 5gm","composition":"Mupirocin 2%","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b5846e4d51d2960194be65b"},"name":"MUPINOVA 2% Ointment 3gm","composition":"Mupirocin 2%","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b5846e7d51d2960194be65c"},"name":"NERVZ FOOT Cream 50gm","composition":"Emollient With Glycerine","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.82.00"}
+{"_id":{"$oid":"5b5846ead51d2960194be65d"},"name":"NEUTRIDERM Skin Whitening Cream 50gm","composition":"Tetrahydrocurcum(Thc)","manufacturer":"Uas Pharmaceuticals India Pvt Ltd","price":"Rs.1,850.00"}
+{"_id":{"$oid":"5b5846ebd51d2960194be65e"},"name":"NEUTROLENT Lotion 70gm","composition":"Skin Preparation","manufacturer":"Remember India Medicos Pvt Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b5846efd51d2960194be65f"},"name":"NEVERAGE ANTI AGEING Cream 50gm","composition":"Skin Preparation","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.1,097.00"}
+{"_id":{"$oid":"5b5846f1d51d2960194be660"},"name":"NEVLON CALOE Lotion 60ml","composition":"Skin Preparation","manufacturer":"Klm Laboratories Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5846f3d51d2960194be661"},"name":"NIAMAX Gel(Paste) 15gm","composition":"Skin Care Preparation ","manufacturer":"Newcos Aesthetics","price":"Rs.495.00"}
+{"_id":{"$oid":"5b5846f4d51d2960194be662"},"name":"NIL BURN Cream 15gm","composition":"Hyaluronic Acid 1%+Silver Sulphadiazine 0.05%","manufacturer":"Laborate Pharmaceuticals India Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b5846f8d51d2960194be663"},"name":"NMF E Lotion 100ml","composition":"Aloe Vera+Tocopheryl Acetate","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.189.00"}
+{"_id":{"$oid":"5b5846fad51d2960194be664"},"name":"NMF E Cream 60gm","composition":"Aloe Vera+Tocopheryl Acetate","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b5846fbd51d2960194be665"},"name":"NMF E Lotion 200ml","composition":"Aloe Vera+Tocopheryl Acetate","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.275.00"}
+{"_id":{"$oid":"5b5846fdd51d2960194be666"},"name":"NMF E BAR 75gm","composition":"Aloe Vera+Tocopheryl Acetate","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b5846ffd51d2960194be667"},"name":"NMF E SKIN Cream 150gm","composition":"Aloe Vera 10%+Tocopheryl Acetate 0.005","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.308.00"}
+{"_id":{"$oid":"5b584701d51d2960194be668"},"name":"NMF E UREA Cream 150gm","composition":"Aloe+Urea","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.253.00"}
+{"_id":{"$oid":"5b584703d51d2960194be669"},"name":"NOSOAP Lotion 100ml","composition":"Cetyl Alcohol+Stearyl Alcohol","manufacturer":"Percos India Pvt Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b584704d51d2960194be66a"},"name":"NOURISH OAT Lotion 100ml","composition":"Emollients ","manufacturer":"Wockhardt Ltd","price":"Rs.364.00"}
+{"_id":{"$oid":"5b584706d51d2960194be66b"},"name":"NOURISH OAT Cream 50gm","composition":"Emollients ","manufacturer":"Wockhardt Ltd","price":"Rs.229.00"}
+{"_id":{"$oid":"5b584708d51d2960194be66c"},"name":"NOURISH OAT Cream 135gm","composition":"Emollients ","manufacturer":"Wockhardt Ltd","price":"Rs.551.00"}
+{"_id":{"$oid":"5b58470ad51d2960194be66d"},"name":"NUSOFT Soap 75gm","composition":"Glycerine","manufacturer":"Micro Labs Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b58470cd51d2960194be66e"},"name":"OILATUM KIDS Cream 40gm","composition":"Liquid Paraffin+White Soft Paraffin","manufacturer":"Stiefel Laboratories Inc","price":"Rs.96.15"}
+{"_id":{"$oid":"5b58470ed51d2960194be66f"},"name":"OILATUM Cream 40gm","composition":"Pliquid Araffin 6%+White Soft Paraffin 0.15","manufacturer":"Stiefel Laboratories Inc","price":"Rs.96.15"}
+{"_id":{"$oid":"5b584710d51d2960194be670"},"name":"OILATUM BAR 100gm","composition":"Paraffin","manufacturer":"Stiefel Laboratories Inc","price":"Rs.129.80"}
+{"_id":{"$oid":"5b584711d51d2960194be671"},"name":"OILATUM KIDS Lotion 100ml","composition":"Paraffin","manufacturer":"Stiefel Laboratories Inc","price":"Rs.198.25"}
+{"_id":{"$oid":"5b584713d51d2960194be672"},"name":"OILATUM Lotion 100ml","composition":"Paraffin 3%+White Soft Paraffin 0.08","manufacturer":"Stiefel Laboratories Inc","price":"Rs.230.90"}
+{"_id":{"$oid":"5b584715d51d2960194be673"},"name":"OILATUM KIDS BAR 50gm","composition":"Mineral Oil","manufacturer":"Stiefel Laboratories Inc","price":"Rs.76.50"}
+{"_id":{"$oid":"5b584717d51d2960194be674"},"name":"OILIB MEN TOPICAL Lotion 80ml","composition":"Skin Preparation","manufacturer":"Galderma India Pvt Ltd","price":"Rs.1,449.00"}
+{"_id":{"$oid":"5b584719d51d2960194be675"},"name":"OILIB WOMEN Topical Lotion 80ml","composition":"Skin Preparation","manufacturer":"Galderma India Pvt Ltd","price":"Rs.1,449.00"}
+{"_id":{"$oid":"5b58471bd51d2960194be676"},"name":"OLEMESSA BABY Soap 75gm","composition":"Liquid Paraffin+White Soft Paraffin","manufacturer":"Menarini India Pvt Ltd","price":"Rs.44.00"}
+{"_id":{"$oid":"5b58471cd51d2960194be677"},"name":"OLESOFT Lotion 60ml","composition":"Olive Oil+Sodium Lactate+Sodium Pyrrolidone","manufacturer":"Alkem Laboratories Ltd","price":"Rs.245.00"}
+{"_id":{"$oid":"5b58471ed51d2960194be678"},"name":"OLESOFT Cream 60gm","composition":"Olive Oil+Sodium Lactate+Sodium Pyrrolidone","manufacturer":"Alkem Laboratories Ltd","price":"Rs.143.00"}
+{"_id":{"$oid":"5b584720d51d2960194be679"},"name":"OLESOFT Cream 15gm","composition":"Skin Care Preparation","manufacturer":"Alkem Laboratories Ltd","price":"Rs.93.83"}
+{"_id":{"$oid":"5b584722d51d2960194be67a"},"name":"OLESOFT PH 5.5 Soap 75gm","composition":"Skin Care Soap","manufacturer":"Alkem Laboratories Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b584723d51d2960194be67b"},"name":"OLESOFT Lotion 200ml","composition":"Olive Oil+Sodium Lactate+Sodium Pyrrolidone","manufacturer":"Alkem Laboratories Ltd","price":"Rs.357.50"}
+{"_id":{"$oid":"5b584725d51d2960194be67c"},"name":"OLESOFT MAX Cream 150gm","composition":"Moisturiser ","manufacturer":"Alkem Laboratories Ltd","price":"Rs.350.00"}
+{"_id":{"$oid":"5b584727d51d2960194be67d"},"name":"OLESOFT MAX Cream 125gm","composition":"LIQUID PARAFFIN 0","manufacturer":"Alkem Laboratories Ltd","price":"Rs.284.00"}
+{"_id":{"$oid":"5b584729d51d2960194be67e"},"name":"OLVERA Cream 50gm","composition":"Skin Care Preparation","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b58472ad51d2960194be67f"},"name":"ONETONE 0.3% Cream 30gm","composition":"Skin Preparation 0.3%","manufacturer":"Micro Labs Ltd","price":"Rs.300.00"}
+{"_id":{"$oid":"5b58472cd51d2960194be680"},"name":"PAKNET C Gel(Topical) 15gm","composition":"ALLANTOIN 0.5%+CLINDAMYCIN 1%+NICOTINAMIDE 4%","manufacturer":"Percos India Pvt Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b58472ed51d2960194be681"},"name":"PARAFFIN Liquid 450ml","composition":"Unsure Default","manufacturer":"Bharat Pharmaceuticals","price":"Rs.200.00"}
+{"_id":{"$oid":"5b584730d51d2960194be682"},"name":"PEPTILYS CONTOUR DES YEUX Cream 15ml","composition":"Cosmetics","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.1,100.00"}
+{"_id":{"$oid":"5b584731d51d2960194be683"},"name":"PHOTOBAN 30 Aquagel Gel 60gm","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Octocrylene+Oxybenzone+Zinc","manufacturer":"Micro Labs Ltd","price":"Rs.287.50"}
+{"_id":{"$oid":"5b584733d51d2960194be684"},"name":"PHOTOBAN 30 AQUAGel Gel 100gm","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Octocrylene+Oxybenzone+Zinc","manufacturer":"Micro Labs Ltd","price":"Rs.339.50"}
+{"_id":{"$oid":"5b584738d51d2960194be685"},"name":"PHOTOBAN 30 Lotion 60ml","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Oxybenzone","manufacturer":"Micro Labs Ltd","price":"Rs.330.00"}
+{"_id":{"$oid":"5b58473ad51d2960194be686"},"name":"PHOTOBLOC Cream 50gm","composition":"General","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.460.00"}
+{"_id":{"$oid":"5b58473bd51d2960194be687"},"name":"PHOTOSTABLE Gel 75gm","composition":"Sunscreen Lotion Spf 40","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.519.00"}
+{"_id":{"$oid":"5b58473ed51d2960194be688"},"name":"PHYSIOGel AI Lotion 100ml","composition":"Skin Preparation","manufacturer":"Stiefel Laboratories Inc","price":"Rs.360.45"}
+{"_id":{"$oid":"5b58473fd51d2960194be689"},"name":"PHYSIOGEL Cream 50gm","composition":"Skin Preparation","manufacturer":"Stiefel Laboratories Inc","price":"Rs.307.40"}
+{"_id":{"$oid":"5b584743d51d2960194be68a"},"name":"PHYSIOGel Lotion 100ml","composition":"Skin Preparation","manufacturer":"Stiefel Laboratories Inc","price":"Rs.307.40"}
+{"_id":{"$oid":"5b584745d51d2960194be68b"},"name":"PHYSIOGEL AI Cream 50gm","composition":"SKIN PREPARATION ","manufacturer":"Stiefel Laboratories Inc","price":"Rs.391.00"}
+{"_id":{"$oid":"5b584747d51d2960194be68c"},"name":"PHYSIOLIFT DAY SMOOTHING LOTION 30ML","composition":"MOISTURIZING LOTION","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.2,489.00"}
+{"_id":{"$oid":"5b584749d51d2960194be68d"},"name":"PHYSIOLIFT EYES SPRAY 15ML","composition":"SKIN CARE PREPARATION ","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.2,304.00"}
+{"_id":{"$oid":"5b58474bd51d2960194be68e"},"name":"PHYSIOLIFT NIGHT SMOOTHING LOTION 30ML","composition":"MOISTURIZING LOTION","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.2,489.00"}
+{"_id":{"$oid":"5b58474dd51d2960194be68f"},"name":"PINKOO Soap 75gm","composition":"Skin Care Preparation","manufacturer":"Ajanta Pharma Ltd","price":"Rs.23.51"}
+{"_id":{"$oid":"5b58474ed51d2960194be690"},"name":"PRIMACORT 400mg Injection 5ml","composition":"Hydrocortisone 400mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.142.48"}
+{"_id":{"$oid":"5b584750d51d2960194be691"},"name":"PRUCAL Lotion 50ml","composition":"Emollient With Glycerine","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.86.00"}
+{"_id":{"$oid":"5b584752d51d2960194be692"},"name":"PRUCAL Lotion 100ml","composition":"Emollient With Glycerine","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.147.00"}
+{"_id":{"$oid":"5b584754d51d2960194be693"},"name":"QTEPY BABY Massage Oil 7x15ml","composition":"Emollient ","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.499.00"}
+{"_id":{"$oid":"5b584756d51d2960194be694"},"name":"RADIFFECT Cream 50gm","composition":"Skin Preparation","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.1,097.00"}
+{"_id":{"$oid":"5b584758d51d2960194be695"},"name":"RASHFREE NATURAL Cream 50gm","composition":"Ayurvedic ","manufacturer":"Abbott India Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b584759d51d2960194be696"},"name":"RAYBLOK Lotion 50ml","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Oxybenzone","manufacturer":"Nulife Pharmaceuticals Pvt Ltd","price":"Rs.274.00"}
+{"_id":{"$oid":"5b58475bd51d2960194be697"},"name":"RESTYLANE NIGHT Cream 50ml","composition":"Skin Preparation","manufacturer":"Galderma India Pvt Ltd","price":"Rs.2,600.00"}
+{"_id":{"$oid":"5b58475dd51d2960194be698"},"name":"RESTYLANE Prefilled Syringe 0.5ml","composition":"Hyaluronic Acid ","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.8,500.00"}
+{"_id":{"$oid":"5b58475fd51d2960194be699"},"name":"RESTYLANE Prefilled Syringe 1ml","composition":"Hyaluronic Acid ","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.16,500.00"}
+{"_id":{"$oid":"5b584761d51d2960194be69a"},"name":"RESTYLANE DAY Cream 50ml","composition":"Skin Preparation Spf 15","manufacturer":"Galderma India Pvt Ltd","price":"Rs.2,600.00"}
+{"_id":{"$oid":"5b584763d51d2960194be69b"},"name":"REXIMOIST Lotion 100ml","composition":"Skin Preparation","manufacturer":"Cosmirex Healthcare","price":"Rs.239.50"}
+{"_id":{"$oid":"5b584764d51d2960194be69c"},"name":"REXIMOIST Lotion 50ml","composition":"ALLANTOIN 0+ALOE VERA 0+AVOCADO SOYBEAN UNSAPONIFIABLES 0+CITRIC ACID 0","manufacturer":"Dermarex Healthcare India Pvt Ltd","price":"Rs.138.00"}
+{"_id":{"$oid":"5b584766d51d2960194be69d"},"name":"RICHMOIST CREAM 200GM","composition":"WHITE SOFT PARAFFIN 13.2%+LIGHT LIQUID PARAFFIN 10.2%","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b584768d51d2960194be69e"},"name":"RICHMOIST CREAM 75GM","composition":"WHITE SOFT PARAFFIN 13.2%+LIGHT LIQUID PARAFFIN 10.2%","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b58476ad51d2960194be69f"},"name":"RIVELA TINT SUNSCREEN Lotion 50ml","composition":"Bisoctrizole+Octinoxate(Octyl Methoxycinnamate)+Octocrylene+Oxybenzone","manufacturer":"Cipla Ltd","price":"Rs.505.00"}
+{"_id":{"$oid":"5b58476cd51d2960194be6a0"},"name":"RIVELA SUNSCREEN Lotion 50ml","composition":"Bisoctrizole+Octinoxate(Octyl Methoxycinnamate)+Octocrylene+Oxybenzone","manufacturer":"Cipla Ltd","price":"Rs.429.13"}
+{"_id":{"$oid":"5b58476dd51d2960194be6a1"},"name":"RIVELA Gel 60gm","composition":"Skin Preparation","manufacturer":"Cipla Ltd","price":"Rs.926.00"}
+{"_id":{"$oid":"5b58476ed51d2960194be6a2"},"name":"SABI GLOW Cream 15gm","composition":"Fairness Cream","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.415.00"}
+{"_id":{"$oid":"5b584770d51d2960194be6a3"},"name":"SABI GLOW ml Cream 30gm","composition":"Skin Preparation","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.599.00"}
+{"_id":{"$oid":"5b584772d51d2960194be6a4"},"name":"SALISIA 2% Soap 75gm","composition":"Salicylic Acid 2%","manufacturer":"Ajanta Pharma Ltd","price":"Rs.72.77"}
+{"_id":{"$oid":"5b584773d51d2960194be6a5"},"name":"SALISIA 2% Facewash 50gm","composition":"Salicylic Acid 2%","manufacturer":"Ajanta Pharma Ltd","price":"Rs.125.11"}
+{"_id":{"$oid":"5b584775d51d2960194be6a6"},"name":"SCREENE NEW SPF30 PA+++ Gel(Topical) 50gm","composition":"Sunscreen","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.510.00"}
+{"_id":{"$oid":"5b584777d51d2960194be6a7"},"name":"SEBAMED BABY Lip Balm 4.8gm","composition":"Lip Balm ","manufacturer":"Usv Private Ltd","price":"Rs.414.00"}
+{"_id":{"$oid":"5b584779d51d2960194be6a8"},"name":"Sebamed Baby Childrens Shampoo 50 ml","composition":"OTC","manufacturer":"Usv Private Ltd","price":"Rs.184.00"}
+{"_id":{"$oid":"5b58477bd51d2960194be6a9"},"name":"SEBAMED BABY CLEANSING Bar 150gm","composition":"Cosmetics","manufacturer":"Usv Private Ltd","price":"Rs.380.00"}
+{"_id":{"$oid":"5b58477dd51d2960194be6aa"},"name":"SEBAMED CLEAR FACE CLEANSING FOAM 50ML","composition":"FACE WASH","manufacturer":"Usv Private Ltd","price":"Rs.322.00"}
+{"_id":{"$oid":"5b58477fd51d2960194be6ab"},"name":"SEBAMED EXTRA SOFT BABY WASH 50ml","composition":"Skin Care Preparation ","manufacturer":"Usv Private Ltd","price":"Rs.161.00"}
+{"_id":{"$oid":"5b584781d51d2960194be6ac"},"name":"SEBAMED EXTRA SOFT BABY Cream 50gm","composition":"MOISTURISER ","manufacturer":"Usv Private Ltd","price":"Rs.214.00"}
+{"_id":{"$oid":"5b584783d51d2960194be6ad"},"name":"SEBOGEL Gel 30gm","composition":"Salicylic Acid","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b584785d51d2960194be6ae"},"name":"SECALIA Cream 50gm","composition":"Glycerin 15%W/W","manufacturer":"Micro Labs Ltd","price":"Rs.153.00"}
+{"_id":{"$oid":"5b584787d51d2960194be6af"},"name":"SECALIA Cream 100gm","composition":"Glycerin 15%W/W","manufacturer":"Micro Labs Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b58478ad51d2960194be6b0"},"name":"SECALIA Lotion 100ml","composition":"Glycerine","manufacturer":"Micro Labs Ltd","price":"Rs.194.50"}
+{"_id":{"$oid":"5b58478bd51d2960194be6b1"},"name":"SEFPIL Cream 30gm","composition":"Skin Preparation","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.249.00"}
+{"_id":{"$oid":"5b58478dd51d2960194be6b2"},"name":"SENSIPHASE Cream 40ml","composition":"Phenoxyethanol 0.35%W/W+Tocopheryl Acetate 0.3%W/W","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.400.00"}
+{"_id":{"$oid":"5b58478fd51d2960194be6b3"},"name":"SHADE Lotion 40ml","composition":"Avobenzone 7.5%W/W+Octinoxate(Octyl Methoxycinnamate) 3 %W/W+Oxybenzone 3 %W/W","manufacturer":"Fulford India Ltd","price":"Rs.148.00"}
+{"_id":{"$oid":"5b584791d51d2960194be6b4"},"name":"SHADOWZ SPF 30 Lotion 75gm","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Oxybenzone+ Zinc","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.415.00"}
+{"_id":{"$oid":"5b584793d51d2960194be6b5"},"name":"SISANTA Lotion 15ml","composition":"Antioxidant","manufacturer":"Ajanta Pharma Ltd","price":"Rs.985.00"}
+{"_id":{"$oid":"5b584795d51d2960194be6b6"},"name":"SKINBLESS LITE Cream 20gm","composition":"Skin Preparation","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.350.00"}
+{"_id":{"$oid":"5b584796d51d2960194be6b7"},"name":"SKINDEW Cream 50gm","composition":"Skin Care Preparation","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.104.99"}
+{"_id":{"$oid":"5b584798d51d2960194be6b8"},"name":"SKINN C Soap 75gm","composition":"Skin Care Soap","manufacturer":"Medlab Pharmaceuticals Pvt Ltd","price":"Rs.74.00"}
+{"_id":{"$oid":"5b58479ad51d2960194be6b9"},"name":"SKINSHINE SUNSCREEN SPF 30 Lotion 100ml","composition":"SUNSCREEN ","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b58479cd51d2960194be6ba"},"name":"SKINSPA BODY Lotion 100ml","composition":"Skin Preparation","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b58479ed51d2960194be6bb"},"name":"SOFDERM 10% Lotion 100ml","composition":"Skincare Preparation","manufacturer":"Cipla Ltd","price":"Rs.64.00"}
+{"_id":{"$oid":"5b5847a0d51d2960194be6bc"},"name":"SOFDERM Cream 50gm","composition":"Skin Care Preparation","manufacturer":"Cipla Ltd","price":"Rs.61.91"}
+{"_id":{"$oid":"5b5847a2d51d2960194be6bd"},"name":"SOFTHEAL Cream 100gm","composition":"Skin Care Preparation","manufacturer":"Cipla Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b5847a4d51d2960194be6be"},"name":"SOFTHEAL Cream 125gm","composition":"Skin Care Preparation","manufacturer":"Cipla Ltd","price":"Rs.72.46"}
+{"_id":{"$oid":"5b5847a6d51d2960194be6bf"},"name":"SOFTHEAL Cream 150gm","composition":"Skin Care Preparation","manufacturer":"Cipla Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b5847a7d51d2960194be6c0"},"name":"SOFTHEEL Cream 15gm","composition":"Skincare Preparation ","manufacturer":"Cipla Ltd","price":"Rs.17.12"}
+{"_id":{"$oid":"5b5847a9d51d2960194be6c1"},"name":"SOFTHEEL Cream 10gm","composition":"Skin Care Preparation","manufacturer":"Cipla Ltd","price":"Rs.80.95"}
+{"_id":{"$oid":"5b5847abd51d2960194be6c2"},"name":"SOFTHEEL Cream 5gm","composition":"Skin Care Preparation","manufacturer":"Cipla Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b5847add51d2960194be6c3"},"name":"SOFTSCREEN Gel 50gm","composition":"Sunscreen ","manufacturer":"INDIABULLS PHARMACEUTICALS LTD","price":"Rs.600.00"}
+{"_id":{"$oid":"5b5847afd51d2960194be6c4"},"name":"SOLECARE Cream 50gm","composition":"Aloe Vera+Glycerin+Isopropyl Alcohol+Wheat","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5847b1d51d2960194be6c5"},"name":"SPER SUNSCREEN Lotion 50ml","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Oxybenzone+ Zinc","manufacturer":"Wockhardt Ltd","price":"Rs.123.00"}
+{"_id":{"$oid":"5b5847b3d51d2960194be6c6"},"name":"SPER SUNSCREEN Lotion 100ml","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Oxybenzone+ Zinc","manufacturer":"Wockhardt Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b5847b5d51d2960194be6c7"},"name":"STRAIEOUT Cream 50gm","composition":"Polyglyceryl+Triglyceride","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.438.00"}
+{"_id":{"$oid":"5b5847b7d51d2960194be6c8"},"name":"STREA E5 Cream Vegicaps ","composition":"Tocopheryl (Vit E)","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,399.00"}
+{"_id":{"$oid":"5b5847b9d51d2960194be6c9"},"name":"STREA A15 CREAM VEGICAPS 28x0.5ml","composition":"Retinol","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,399.00"}
+{"_id":{"$oid":"5b5847bad51d2960194be6ca"},"name":"STRETCH NIL Lotion 100ml","composition":"Ayurvedic Medicine","manufacturer":"Gufic Biosciences Ltd","price":"Rs.399.00"}
+{"_id":{"$oid":"5b5847bdd51d2960194be6cb"},"name":"SUNBAN ULTRA Gel 60gm","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Oxybenzone","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.440.00"}
+{"_id":{"$oid":"5b5847bfd51d2960194be6cc"},"name":"SUNBAN Lotion 60ml","composition":"Octinoxate(Octyl Methoxycinnamate) Benzophenone Tio3 Silicon O","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.325.00"}
+{"_id":{"$oid":"5b5847c1d51d2960194be6cd"},"name":"SUNBAN FORTE Cream 60gm","composition":"Octyl Methoxycinnamate 8.5%+Oxybenzone 0.03","manufacturer":"Hegde \u0026 Hegde Pharmaceutica Llp","price":"Rs.495.00"}
+{"_id":{"$oid":"5b5847c3d51d2960194be6ce"},"name":"SUNBLOCK OC Gel 30gm","composition":"Sunscreen 30gm","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.594.00"}
+{"_id":{"$oid":"5b5847c5d51d2960194be6cf"},"name":"SUNBLOCK PLUS Lotion 60ml","composition":"Sunscreen 60ml","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.462.30"}
+{"_id":{"$oid":"5b5847c7d51d2960194be6d0"},"name":"SUNBLOCK SPF 26 Lotion 60ml","composition":"Sunscreen 0","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.320.00"}
+{"_id":{"$oid":"5b5847c9d51d2960194be6d1"},"name":"SUNCLIP SPF40 PA+++ Gel 50gm","composition":"SUNSCREEN ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.490.00"}
+{"_id":{"$oid":"5b5847cbd51d2960194be6d2"},"name":"SUNCOTE Gel 100gm","composition":"Sunscreen 0","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.390.00"}
+{"_id":{"$oid":"5b5847ced51d2960194be6d3"},"name":"SUNCROS SUNSCREEN SPF 26 Lotion 100ml","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Oxybenzone+ Zinc","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.335.00"}
+{"_id":{"$oid":"5b5847d0d51d2960194be6d4"},"name":"SUNCROS 50 SPF 50 AQUALotion 60ml","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Octocrylene+Oxybenzone+Zinc","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.395.00"}
+{"_id":{"$oid":"5b5847d2d51d2960194be6d5"},"name":"SUNCROS AQUAGel SPF 26 Gel 100gm","composition":"Octinoxate 7.5%+Avobenzone 2%+Oxybenzone 3%+Zinc Oxide 2%","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.359.00"}
+{"_id":{"$oid":"5b5847d3d51d2960194be6d6"},"name":"SUNCROS MATTE FINISH SOFT 50+ Gel 50gm (PROMO PACK)","composition":"Skin Care Preparation","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.575.00"}
+{"_id":{"$oid":"5b5847d6d51d2960194be6d7"},"name":"SUNCROS SOFT SPF50+ Gel 20gm","composition":"Skin Care Preparation ","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.249.00"}
+{"_id":{"$oid":"5b5847d7d51d2960194be6d8"},"name":"SUNCROS TINT SPF 50+ SUNPROTECT Gel 50gm","composition":"Sunscreen","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.724.00"}
+{"_id":{"$oid":"5b5847dad51d2960194be6d9"},"name":"SUNGRACE Lotion 100ml","composition":"Bisoctrizole+Octinoxate(Octyl Methoxycinnamate)+Octocrylene+Oxybenzone","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.415.00"}
+{"_id":{"$oid":"5b5847dbd51d2960194be6da"},"name":"SUNGRACE TOTAL Lotion 60ml","composition":"Bisoctrizole+Octinoxate(Octyl Methoxycinnamate)+Octocrylene+Oxybenzone","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.607.00"}
+{"_id":{"$oid":"5b5847ded51d2960194be6db"},"name":"SUNHEAL Cream 50gm","composition":"Sunscreen Lotion","manufacturer":"Alkem Laboratories Ltd","price":"Rs.875.00"}
+{"_id":{"$oid":"5b5847e0d51d2960194be6dc"},"name":"SUNKARE SPF 26 Lotion 100ml","composition":"Sunscreen Lotion","manufacturer":"Unichem Laboratories Ltd","price":"Rs.315.00"}
+{"_id":{"$oid":"5b5847e2d51d2960194be6dd"},"name":"SUNKARE SPF 50 AQUALotion Lotion 60ml","composition":"Sunscreen Lotion","manufacturer":"Unichem Laboratories Ltd","price":"Rs.345.50"}
+{"_id":{"$oid":"5b5847e4d51d2960194be6de"},"name":"SUNKARE SPF 26 AQUAGEL Gel 100gm","composition":"Sunscreen Lotion","manufacturer":"Unichem Laboratories Ltd","price":"Rs.345.25"}
+{"_id":{"$oid":"5b5847e6d51d2960194be6df"},"name":"SUNKON 30 Gel(Topical) 50gm","composition":"Sunscreen","manufacturer":"Eskon Pharma","price":"Rs.230.00"}
+{"_id":{"$oid":"5b5847e8d51d2960194be6e0"},"name":"SUNMATE SPF 30+ Cream 30gm","composition":"Sunscreen Lotion Spf 30","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.435.00"}
+{"_id":{"$oid":"5b5847e9d51d2960194be6e1"},"name":"SUNMATE SPF 30+ Cream 50gm","composition":"SUNSCREEN LOTION SPF 30","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.625.00"}
+{"_id":{"$oid":"5b5847ebd51d2960194be6e2"},"name":"SUNSTOP 30 Lotion 60gm","composition":"Octinoxate(Octyl Methoxycinnamate)+Zinc","manufacturer":"Ajanta Pharma Ltd","price":"Rs.330.00"}
+{"_id":{"$oid":"5b5847edd51d2960194be6e3"},"name":"SUNSTOP ULTRA SPF 60 Cream 60gm","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Oxybenzone+ Zinc","manufacturer":"Ajanta Pharma Ltd","price":"Rs.425.00"}
+{"_id":{"$oid":"5b5847efd51d2960194be6e4"},"name":"SUNSTOP 19 Cream 60gm","composition":"Micronized Zinc Oxide","manufacturer":"Ajanta Pharma Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b5847f1d51d2960194be6e5"},"name":"SUNSTOP SPF 30 Cream 50gm","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Oxybenzone+ Zinc","manufacturer":"Ajanta Pharma Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b5847f4d51d2960194be6e6"},"name":"SUNSTOP 30 AQUAGel Gel 60gm","composition":"Octinoxate(Octyl Methoxycinnamate)+Zinc","manufacturer":"Ajanta Pharma Ltd","price":"Rs.340.00"}
+{"_id":{"$oid":"5b5847f6d51d2960194be6e7"},"name":"SUNVIVE SPF 30 Cream 120ml","composition":"Cosmetics","manufacturer":"Uas Pharmaceuticals India Pvt Ltd","price":"Rs.575.00"}
+{"_id":{"$oid":"5b5847f8d51d2960194be6e8"},"name":"SUNVIVE SPF 30 Cream 45ml","composition":"Cosmetics","manufacturer":"Uas Pharmaceuticals India Pvt Ltd","price":"Rs.374.00"}
+{"_id":{"$oid":"5b5847fad51d2960194be6e9"},"name":"TAIYU SILK MOISTURISING Cream 50gm","composition":"Aloe Vera+Glycolic Acid+Tocopheryl Acetate","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b5847fcd51d2960194be6ea"},"name":"TAIYU Lotion 100ml","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Oxybenzone+Zinc Oxide","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.398.00"}
+{"_id":{"$oid":"5b5847fed51d2960194be6eb"},"name":"TAIYU SILK MOISTURISING Cream 150gm","composition":"Aloe Vera+Shea Butter+Glycerine","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.326.00"}
+{"_id":{"$oid":"5b584800d51d2960194be6ec"},"name":"TAIYU SPF50 PA+++ SUNSCREEN AQUA Gel(Topical) 60gm","composition":"0","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.501.00"}
+{"_id":{"$oid":"5b584802d51d2960194be6ed"},"name":"TARRY SHINE Lotion 100ml","composition":"COAL TAR 2%+KETOCONAZOLE 2%","manufacturer":"Kaizen Pharmaceuticals Pvt Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b584804d51d2960194be6ee"},"name":"TRIOBLOC Cream 25gm","composition":"Skin Preparation","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.295.00"}
+{"_id":{"$oid":"5b584806d51d2960194be6ef"},"name":"TRIWHITE Cream 10gm","composition":"Skin Preparation","manufacturer":"Micro Labs Ltd","price":"Rs.317.50"}
+{"_id":{"$oid":"5b584808d51d2960194be6f0"},"name":"TRUMIST Lotion 60ml","composition":"Skin Preparation","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.306.00"}
+{"_id":{"$oid":"5b58480ad51d2960194be6f1"},"name":"TRYSES Kit 30's","composition":"Skincare Preparation","manufacturer":"Cipla Ltd","price":"Rs.1,524.90"}
+{"_id":{"$oid":"5b58480dd51d2960194be6f2"},"name":"TRYSES Cream 36gm","composition":"Skincare Preparation ","manufacturer":"Cipla Ltd","price":"Rs.8,518.12"}
+{"_id":{"$oid":"5b58480ed51d2960194be6f3"},"name":"TVAKSH FACE GUARD Gel 30gm","composition":"Face Wash Liq.","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.405.00"}
+{"_id":{"$oid":"5b584810d51d2960194be6f4"},"name":"UBICAR Cream 30gm","composition":"Coenzyme Q10(Ubidecarenone)+Diosmin+Magnesium","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.183.00"}
+{"_id":{"$oid":"5b584812d51d2960194be6f5"},"name":"UTHBLESS Cream 40gm","composition":"Skin Preparation","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.809.40"}
+{"_id":{"$oid":"5b584814d51d2960194be6f6"},"name":"UV AVO Lotion 30gm","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Oxybenzone+Titanium Dioxide","manufacturer":"Menarini India Pvt Ltd","price":"Rs.198.00"}
+{"_id":{"$oid":"5b584817d51d2960194be6f7"},"name":"UV AVO Lotion 75gm","composition":"Avobenzone+Octinoxate(Octyl Methoxycinnamate)+Oxybenzone+Titanium Dioxide","manufacturer":"Menarini India Pvt Ltd","price":"Rs.318.05"}
+{"_id":{"$oid":"5b584819d51d2960194be6f8"},"name":"UV AVO PRO SPF 50+ Gel 50gm","composition":"Skin Care Preparation","manufacturer":"Menarini India Pvt Ltd","price":"Rs.414.86"}
+{"_id":{"$oid":"5b58481bd51d2960194be6f9"},"name":"UV CARE BIO Lotion 60ml","composition":"Sunscreen Lotion","manufacturer":"Adroit Healthcare Pvt Ltd","price":"Rs.890.00"}
+{"_id":{"$oid":"5b58481dd51d2960194be6fa"},"name":"UV CARE LITE Lotion 60ml","composition":"Sunscreen Lotion","manufacturer":"Adroit Healthcare Pvt Ltd","price":"Rs.680.00"}
+{"_id":{"$oid":"5b58481fd51d2960194be6fb"},"name":"UV CARE LITE DAY Lotion 50gm","composition":"Sunscreen Lotion","manufacturer":"Adroit Healthcare Pvt Ltd","price":"Rs.820.00"}
+{"_id":{"$oid":"5b584821d51d2960194be6fc"},"name":"UV CARE LITE NIGHT Lotion 25gm","composition":"TYROSTAT +MELATONIN +OCTINOXATE +AVOBENZONE ","manufacturer":"Adroit Healthcare Pvt Ltd","price":"Rs.550.00"}
+{"_id":{"$oid":"5b584823d51d2960194be6fd"},"name":"UV DEW 15 PLUS Lotion 30gm","composition":"Octinoxate(Octyl Methoxycinnamate) Spf 15","manufacturer":"Menarini India Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584825d51d2960194be6fe"},"name":"UV DEW Lotion 50ml","composition":"Octinoxate(Octyl Methoxycinnamate) Spf 10","manufacturer":"Menarini India Pvt Ltd","price":"Rs.108.50"}
+{"_id":{"$oid":"5b584827d51d2960194be6ff"},"name":"UV DEW 15 PLUS Lotion 75gm","composition":"Octinoxate(Octyl Methoxycinnamate) Spf 15","manufacturer":"Menarini India Pvt Ltd","price":"Rs.89.50"}
+{"_id":{"$oid":"5b584829d51d2960194be700"},"name":"UV DEW 34 PLUS Lotion 30gm","composition":"Bisoctrizole Spf 34","manufacturer":"Menarini India Pvt Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b58482bd51d2960194be701"},"name":"UVAVO PRO SUNSCREEN SPF30+ Gel(Topical) 50gm","composition":"Sunscreen ","manufacturer":"Menarini India Pvt Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b58482dd51d2960194be702"},"name":"UVHOLD ULTRA Gel 100ml","composition":"Sunscreen ","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.590.00"}
+{"_id":{"$oid":"5b58482fd51d2960194be703"},"name":"UVMED SPF 50 Gel(Topical) 50ml","composition":"Sunscreen Lotion","manufacturer":"Ethicare Remedies Pvt Ltd","price":"Rs.349.00"}
+{"_id":{"$oid":"5b584831d51d2960194be704"},"name":"UVRID NF SPF30 PA+++ Lotion 100ml","composition":"Sunscreen ","manufacturer":"Alkem Laboratories Ltd","price":"Rs.302.50"}
+{"_id":{"$oid":"5b584833d51d2960194be705"},"name":"VC 15 Serum 5ml","composition":"Vitamin C 15%","manufacturer":"Cipla Ltd","price":"Rs.700.00"}
+{"_id":{"$oid":"5b584835d51d2960194be706"},"name":"VC 15 Serum 15ml","composition":"Vitamin C Serum ","manufacturer":"Cipla Ltd","price":"Rs.1,963.13"}
+{"_id":{"$oid":"5b584837d51d2960194be707"},"name":"VC X Serum 10ml","composition":"Ascorbic Acid (Vit C) +Tocopheryl(Vit E) +Ferulic Acid ","manufacturer":"Cipla Ltd","price":"Rs.2,119.39"}
+{"_id":{"$oid":"5b584839d51d2960194be708"},"name":"VENUSIA MAX Cream 150gm","composition":"Skin Preparation","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.355.00"}
+{"_id":{"$oid":"5b58483ad51d2960194be709"},"name":"VENUSIA Cleanser 200ml","composition":"Skin Care Preparation","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b58483dd51d2960194be70a"},"name":"VENUSIA Cream 75gm","composition":"Aloe Vera+Squalane+Tocopheryl Acetate","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.265.00"}
+{"_id":{"$oid":"5b58483fd51d2960194be70b"},"name":"VENUSIA SOFT Lotion 75ml","composition":"Aloe Vera+Liquid Paraffin+Squalane+Tocopheryl Acetate","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.275.00"}
+{"_id":{"$oid":"5b584841d51d2960194be70c"},"name":"VENUSIA SYNDET BAR 75gm","composition":"Skin Care Soap","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.142.00"}
+{"_id":{"$oid":"5b584842d51d2960194be70d"},"name":"VENUSIA MAX Lotion 300gm","composition":"Aloe Vera +Shea Butter +Glycerin ","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.468.00"}
+{"_id":{"$oid":"5b584844d51d2960194be70e"},"name":"VENUSIA MAX Cream 1gm","composition":"Skin Care Preparation","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.308.32"}
+{"_id":{"$oid":"5b584845d51d2960194be70f"},"name":"VENUSIA SOFT+ MOISTURIZING Lotion 100ml","composition":"Moisturising Lotion ","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.275.00"}
+{"_id":{"$oid":"5b584847d51d2960194be710"},"name":"VITADERM C SCAR THERAPY Cream 20gm","composition":"Aloe Vera+Glycerine","manufacturer":"Apple Therapeutics Pvt Ltd","price":"Rs.378.00"}
+{"_id":{"$oid":"5b58484ad51d2960194be711"},"name":"WEMENZ Bar Soap 75gm","composition":"Soap ","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b58484cd51d2960194be712"},"name":"WHITE OBJECTIVE SERUM Lotion 30ml","composition":"Glycolic Acid","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.2,350.00"}
+{"_id":{"$oid":"5b58484ed51d2960194be713"},"name":"WRINCLAR Cream 15gm","composition":"Methylparaben+Propylparaben","manufacturer":"Ajanta Pharma Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b584850d51d2960194be714"},"name":"XCEPTIONAL 2% Lotion 100ml","composition":"Moisturiser ","manufacturer":"Biocon Ltd","price":"Rs.226.08"}
+{"_id":{"$oid":"5b584852d51d2960194be715"},"name":"XCEPTIONAL Cream 60gm","composition":"Moisturiser ","manufacturer":"Biocon Ltd","price":"Rs.135.37"}
+{"_id":{"$oid":"5b584853d51d2960194be716"},"name":"XCEPTIONAL 2% Lotion 200ml","composition":"Moisturiser 0","manufacturer":"Biocon Ltd","price":"Rs.413.03"}
+{"_id":{"$oid":"5b584856d51d2960194be717"},"name":"XCEPTIONAL Cream 120gm","composition":"Moisturiser ","manufacturer":"Biocon Ltd","price":"Rs.227.07"}
+{"_id":{"$oid":"5b584857d51d2960194be718"},"name":"XCEPTIONAL MOIST Cream 200gm","composition":"Moisturising","manufacturer":"Biocon Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b584859d51d2960194be719"},"name":"XERINA Lotion 100ml","composition":"Glycolic Acid","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.580.00"}
+{"_id":{"$oid":"5b58485bd51d2960194be71a"},"name":"XERINA Cream 50gm","composition":"Glycolic Acid","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.381.00"}
+{"_id":{"$oid":"5b58485dd51d2960194be71b"},"name":"XEROCARE Cream 50gm","composition":"Aloevera+Squalene+Tocopheryl (Vit E)","manufacturer":"Menarini India Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b58485fd51d2960194be71c"},"name":"XINBEST Cream 15gm","composition":"Skin Preparation","manufacturer":"Lupin Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b584861d51d2960194be71d"},"name":"YAHER HERBAL Soap 75gm","composition":"Ayurvedic Medicine","manufacturer":"Yaher Pharma","price":"Rs.70.00"}
+{"_id":{"$oid":"5b584863d51d2960194be71e"},"name":"ZEN's HEEL SOFT Cream 25gm","composition":"Lactic Acid 10%+Liquid Paraffin 0.1+Propylene Glycol 0.1+Urea 0.1","manufacturer":"Zen Pharma Pvt Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b584865d51d2960194be71f"},"name":"ZINIKAM Cream 200gm","composition":"Moisturiser ","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.520.00"}
+{"_id":{"$oid":"5b584866d51d2960194be720"},"name":"ZITMOIST Gel 50gm","composition":"Skin Preparation","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.300.00"}
+{"_id":{"$oid":"5b584868d51d2960194be721"},"name":"ZORAY SUNSCREEN Lotion 60ml","composition":"Octinoxate(Octyl Methoxycinnamate)+Oxybenzone+Zinc","manufacturer":"Cosme Farma Laboratories Ltd","price":"Rs.207.25"}
+{"_id":{"$oid":"5b58486ad51d2960194be722"},"name":"ZORAY SPF30 AQUAGel 60gm","composition":"Avobenzone 2%W/W+Octocrylene 3%W/W+Octyl Methoxycinnamate 7.5%W/W+Oxybenzone 3%W/W+Zinc Oxide 2%W/W","manufacturer":"Cosme Farma Laboratories Ltd","price":"Rs.307.85"}
+{"_id":{"$oid":"5b58486cd51d2960194be723"},"name":"ZYNDET Bar 150gm","composition":"Skin Preparation","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b58486ed51d2960194be724"},"name":"ZYNDET Bar 100gm","composition":"General","manufacturer":"Curatio Healthcare India Pvt Ltd","price":"Rs.135.00"}

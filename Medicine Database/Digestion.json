@@ -1,0 +1,111 @@
+{"_id":{"$oid":"5b584339d51d295fef355d97"},"name":"AGNA 25000 Capsule 10's","composition":"Pancreatin 350mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b58433bd51d295fef355d98"},"name":"AGNA 10000 Capsule 10's","composition":"Pancreatin 170mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.193.00"}
+{"_id":{"$oid":"5b58433dd51d295fef355d99"},"name":"AL5ZYME 100ml Liquid","composition":"Alpha-Galactosidase 25mg+Fungal Diastase 50mg+Lipase 10mg+Pepsin 10mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.134.00"}
+{"_id":{"$oid":"5b58433fd51d295fef355d9a"},"name":"AL5ZYME EFFERVESCENT Tablet 10's","composition":"Diastase+Pepsin+Simethicone","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.64.10"}
+{"_id":{"$oid":"5b584341d51d295fef355d9b"},"name":"AL5ZYME Capsule 10's","composition":"Alpha Amylase+Alpha Galactosidase+Lactase+Lipase+Protease","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.84.10"}
+{"_id":{"$oid":"5b584343d51d295fef355d9c"},"name":"AL5ZYME Syrup 100ml","composition":"Alpha Galactosidase+Diastase+Lipase+Pepsin","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.133.00"}
+{"_id":{"$oid":"5b584344d51d295fef355d9d"},"name":"ALICTOZYME Capsule 10's","composition":"Alpha Amylase 50mg+Alpha Galactosidase 150mg+Lactase 7mg+Lipase 3mg+Protease 25mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.41.25"}
+{"_id":{"$oid":"5b584346d51d295fef355d9e"},"name":"ANZYME Syrup 200ml","composition":"Diastase 50mg+Pepsin 10mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.73.13"}
+{"_id":{"$oid":"5b584348d51d295fef355d9f"},"name":"APTIVATE Syrup 400ml","composition":"Ayurvedic","manufacturer":"Lupin Ltd","price":"Rs.98.06"}
+{"_id":{"$oid":"5b58434ad51d295fef355da0"},"name":"ARISTOZYME FIZZ Tablet 4's","composition":"Enzymes+ Digestive Supplements","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.375.00"}
+{"_id":{"$oid":"5b58434cd51d295fef355da1"},"name":"ARISTOZYME Drops 15ml","composition":"Diastase+Pepsin","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.38.80"}
+{"_id":{"$oid":"5b58434dd51d295fef355da2"},"name":"ARISTOZYME Liquid 200ml","composition":"Pepsin 10mg+Diastase 50mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.81.00"}
+{"_id":{"$oid":"5b58434fd51d295fef355da3"},"name":"ARISTOZYME Capsule 15's","composition":"Diastase+Pepsin","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.51.70"}
+{"_id":{"$oid":"5b584351d51d295fef355da4"},"name":"ASTA 1mg Capsule 10's","composition":"Astaxanthin 20mg+Bilberry Extract 40mg+Lycopene 200mg","manufacturer":"Sunways India Pvt Ltd","price":"Rs.195.00"}
+{"_id":{"$oid":"5b584353d51d295fef355da5"},"name":"ASTOZYME SYRUP 200ML","composition":"DIASTASE 50MG+PEPSIN 10MG","manufacturer":"Laborate Pharmaceuticals India Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b584355d51d295fef355da6"},"name":"BALENO EZ Capsule 10's","composition":"Alpha Amylase 50mg+Alpha Galactosidase 200mg+Lactase 7mg+Lipase 3mg+Protease 25mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.92.04"}
+{"_id":{"$oid":"5b584357d51d295fef355da7"},"name":"BESTOZYME PAEDIATRIC Syrup 60ml","composition":"Alpha Amylase+Papain","manufacturer":"Biological Evans Ltd","price":"Rs.61.11"}
+{"_id":{"$oid":"5b584359d51d295fef355da8"},"name":"BESTOZYME Drops 15ml","composition":"Enzymes+ Digestive Supplements","manufacturer":"Biological Evans Ltd","price":"Rs.46.92"}
+{"_id":{"$oid":"5b58435ad51d295fef355da9"},"name":"BESTOZYME Syrup 200ml","composition":"Enzymes+ Digestive Supplements","manufacturer":"Biological Evans Ltd","price":"Rs.74.14"}
+{"_id":{"$oid":"5b58435dd51d295fef355daa"},"name":"BESTOZYME Capsule 15's","composition":"Enzymes+ Digestive Supplements","manufacturer":"Biological Evans Ltd","price":"Rs.39.35"}
+{"_id":{"$oid":"5b58435ed51d295fef355dab"},"name":"BESTOZYME PAEDIATRIC Syrup 30ml","composition":"Enzymes+ Digestive Supplements","manufacturer":"Biological Evans Ltd","price":"Rs.50.95"}
+{"_id":{"$oid":"5b584361d51d295fef355dac"},"name":"CARMICIDE ADULT Syrup 100ml","composition":"Enzymes+ Digestive Supplements","manufacturer":"Abn Drugs","price":"Rs.70.35"}
+{"_id":{"$oid":"5b584362d51d295fef355dad"},"name":"CARMICIDE EZ Syrup 200ml","composition":"Diastase+Pepsin","manufacturer":"Indoco Remedies Ltd","price":"Rs.84.70"}
+{"_id":{"$oid":"5b584364d51d295fef355dae"},"name":"CARMICIDE PAED Liquid 100ml","composition":"Enzymes+ Digestive Supplements","manufacturer":"Indoco Remedies Ltd","price":"Rs.53.20"}
+{"_id":{"$oid":"5b584366d51d295fef355daf"},"name":"CARMOPEPTIN Syrup 100ml","composition":"Alpha Amylase 100mg+Papain 50mg","manufacturer":"Med Manor Organics Pvt Ltd","price":"Rs.83.00"}
+{"_id":{"$oid":"5b584367d51d295fef355db0"},"name":"CARMOPEPTIN Drops 15ml","composition":"Alpha Amylase+Anise Oil+Caraway Oil+Dill Oil+Papain","manufacturer":"Medlab Pharmaceuticals Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b584369d51d295fef355db1"},"name":"COLICAID EZ Drops 15ml","composition":"Fungal Diastase 33.33mg+Pepsin 5mg+Simethicone 40mg","manufacturer":"Meyer Organics Ltd","price":"Rs.73.00"}
+{"_id":{"$oid":"5b58436bd51d295fef355db2"},"name":"CREON 10000 Capsule 10's","composition":"Pancreatin Minimicrospheres 150mg","manufacturer":"Abbott India Ltd","price":"Rs.329.85"}
+{"_id":{"$oid":"5b58436dd51d295fef355db3"},"name":"CREON 25000 Capsule 10's","composition":"Pancreatin Minimicrospheres 300mg","manufacturer":"Abbott India Ltd","price":"Rs.744.36"}
+{"_id":{"$oid":"5b58436fd51d295fef355db4"},"name":"CREON 40000 Capsule 10's","composition":"Pancreatin Minimicrospheres 400mg","manufacturer":"Abbott India Ltd","price":"Rs.950.46"}
+{"_id":{"$oid":"5b584370d51d295fef355db5"},"name":"DIGEMAX Tablet 10's","composition":"Amylase 62250U+Lipase 20000U+Protease 93750U","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.300.05"}
+{"_id":{"$oid":"5b584372d51d295fef355db6"},"name":"DIGEPLEX Syrup 100ml","composition":"Pepsin 20mg+Alpha Amylase 62.5mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.62.50"}
+{"_id":{"$oid":"5b584374d51d295fef355db7"},"name":"DIGEPLEX T Tablet 10's","composition":"Amylase+Lipase+Protease","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.102.22"}
+{"_id":{"$oid":"5b584376d51d295fef355db8"},"name":"DIGEPLEX Liquid 200ml","composition":"Pepsin 20mg+Alpha Amylase 62.5mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.90.52"}
+{"_id":{"$oid":"5b584378d51d295fef355db9"},"name":"DIGEPLEX Drops 15ml","composition":"Cardamom 0.4mg+Cinnamon 0.4mg+Diastase 31.25mg+Pepsin 10mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.60.27"}
+{"_id":{"$oid":"5b58437ad51d295fef355dba"},"name":"DIGEPLEX REDIMIX Syrup 200ml","composition":"Pepsin 20mg+Fungal Diastase 62.5mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.82.67"}
+{"_id":{"$oid":"5b58437cd51d295fef355dbb"},"name":"DIGESTA SYRUP 200ML","composition":"DIASTASE 50MG+PEPSIN 10MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.43.75"}
+{"_id":{"$oid":"5b58437dd51d295fef355dbc"},"name":"DIGESTAL NM Capsule 10's","composition":"Digestive Enzyme ","manufacturer":"Nouveau Medicament Pvt Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b58437fd51d295fef355dbd"},"name":"DIGESTOMEN Syrup 200ml","composition":"Alpha Amylase+Papain","manufacturer":"Menarini India Pvt Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b584381d51d295fef355dbe"},"name":"DIGIPEN JUNIOR Syrup 60ml","composition":"Alpha Amylase 100mg+Papain 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b584383d51d295fef355dbf"},"name":"DIPEP Capsule 10's","composition":"Fungal Diastase 50mg+Lipase 112.5mg+Papain 112.5mg+Pepsin 25mg","manufacturer":"Serum Institute Of India Ltd","price":"Rs.57.40"}
+{"_id":{"$oid":"5b584385d51d295fef355dc0"},"name":"DIPEP Suspension 150ml","composition":"Diastase 31.25mg+Pepsin 10mg","manufacturer":"Serum Institute Of India Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b584387d51d295fef355dc1"},"name":"ECONORM 250mg Capsule 10's","composition":"Saccharomyces Boulardii 250mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.256.32"}
+{"_id":{"$oid":"5b584388d51d295fef355dc2"},"name":"ECONORM 250mg Capsule 4's","composition":"Saccharomyces Boulardii 250mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.108.20"}
+{"_id":{"$oid":"5b58438bd51d295fef355dc3"},"name":"ENDOS Capsule 10's","composition":"PANCREATIN","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.30.75"}
+{"_id":{"$oid":"5b58438dd51d295fef355dc4"},"name":"ENTROFLORA 250mg Sachet 765mg","composition":"Saccharomyces Boulardii 250mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b58438fd51d295fef355dc5"},"name":"ENUFF XTRA Sachet 1gm","composition":"Lacto Bacillus+Racecadotril+Saccharomyces Boulardii","manufacturer":"Hetero Healthcare Ltd","price":"Rs.21.95"}
+{"_id":{"$oid":"5b584391d51d295fef355dc6"},"name":"ENZAR FORTE Tablet 15's","composition":"Sodium Tauroglycocholate+Pancreatin","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.112.30"}
+{"_id":{"$oid":"5b584393d51d295fef355dc7"},"name":"ENZAR Syrup 150ml","composition":"Fungal Diastase 50mg+Pepsin 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.76.90"}
+{"_id":{"$oid":"5b584395d51d295fef355dc8"},"name":"ENZAR 10000 Capsule 10's","composition":"Pancreatin 10000","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b584396d51d295fef355dc9"},"name":"ENZAR 40000 Capsule 10's","composition":"Pancreatin 40000Units","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.699.00"}
+{"_id":{"$oid":"5b584397d51d295fef355dca"},"name":"ENZAR HS CAPSULE 10's","composition":"Pancreatin 25000IU","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.437.40"}
+{"_id":{"$oid":"5b584399d51d295fef355dcb"},"name":"ENZASE 20mg Tablet 10's","composition":"Pancreatin 20mg","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b58439bd51d295fef355dcc"},"name":"ENZOX FORTE Tablet 10's","composition":"Pancreatin ","manufacturer":"Tidal Laboratories Pvt Ltd","price":"Rs.130.68"}
+{"_id":{"$oid":"5b58439dd51d295fef355dcd"},"name":"ENZOX PLUS Tablet 10's","composition":"Enzymes+ Digestive Supplements","manufacturer":"Tidal Laboratories Pvt Ltd","price":"Rs.67.50"}
+{"_id":{"$oid":"5b58439fd51d295fef355dce"},"name":"ENZOY Capsule 10's","composition":"Enzymes+ Digestive Supplements","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b5843a1d51d295fef355dcf"},"name":"ENZYMER LIQUID 200ML","composition":"DIASTASE 50MG+PEPSIN 10MG","manufacturer":" NA ","price":"Rs.26.25"}
+{"_id":{"$oid":"5b5843a3d51d295fef355dd0"},"name":"FARIZYME Tablet 10's","composition":"Pancreatin ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.73.00"}
+{"_id":{"$oid":"5b5843a5d51d295fef355dd1"},"name":"FESTAL N Tablet 10's","composition":"Enzymes+ Digestive Supplements","manufacturer":"Sanofi India Ltd","price":"Rs.92.98"}
+{"_id":{"$oid":"5b5843a7d51d295fef355dd2"},"name":"GALTO PLUS Tablet 10's","composition":"Alpha Amylase +Papain ","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5843a8d51d295fef355dd3"},"name":"GERIDYS Capsule 10's","composition":"Enzyme Combinations ","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.58.10"}
+{"_id":{"$oid":"5b5843aad51d295fef355dd4"},"name":"GERIDYS Syrup 200ml","composition":"Enzyme Combinations ","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.73.77"}
+{"_id":{"$oid":"5b5843acd51d295fef355dd5"},"name":"GESTIVE LIQUID 150ML","composition":"DIASTASE 50MG+PEPSIN 10MG","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.55.23"}
+{"_id":{"$oid":"5b5843aed51d295fef355dd6"},"name":"HIZYME Drops 15ml","composition":" Fungal Diastase + Pepsin","manufacturer":"Hibiscus Pharmaceuticals Pvt Ltd","price":"Rs.57.60"}
+{"_id":{"$oid":"5b5843afd51d295fef355dd7"},"name":"LUPIZYME SYRUP 200ML","composition":"DIASTASE 18.75MG PEPSIN 12.5MG","manufacturer":"Lupin Ltd","price":"Rs.104.00"}
+{"_id":{"$oid":"5b5843b1d51d295fef355dd8"},"name":"MAXIZYM Capsule 10's","composition":"Diastase+Pepsin+Simethicone","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.203.00"}
+{"_id":{"$oid":"5b5843b3d51d295fef355dd9"},"name":"MAXIZYM Syrup 200ml","composition":"Fungal Diastase 50mg+Pepsin 10mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.112.00"}
+{"_id":{"$oid":"5b5843b5d51d295fef355dda"},"name":"MERIZYME Drops 15ml","composition":"Enzymes+ Digestive Supplements","manufacturer":"Mercury Laboratories Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b5843b7d51d295fef355ddb"},"name":"MERIZYME Liquid 200ml","composition":"Enzymes+ Digestive Supplements","manufacturer":"Mercury Laboratories Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5843b9d51d295fef355ddc"},"name":"MERIZYME Tablet 10's","composition":"Enzymes+ Digestive Supplements","manufacturer":"Mercury Laboratories Ltd","price":"Rs.38.50"}
+{"_id":{"$oid":"5b5843bbd51d295fef355ddd"},"name":"MEYERZYME Liquid 200ml","composition":"Fungal Diastase 50mg+Pepsin 10mg","manufacturer":"Meyer Organics Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b5843bdd51d295fef355dde"},"name":"MULTIZYME (ALKEM) 40/20mg Capsule 10's","composition":"Pepsin 40mg+Diastase 20mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.12.50"}
+{"_id":{"$oid":"5b5843bfd51d295fef355ddf"},"name":"NEOPEPTINE Drops 15ml","composition":"Alpha Amylase+Papain","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.84.00"}
+{"_id":{"$oid":"5b5843c0d51d295fef355de0"},"name":"NEOPEPTINE Syrup 100ml","composition":"Alpha Amylase+Papain","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.130.80"}
+{"_id":{"$oid":"5b5843c3d51d295fef355de1"},"name":"NEOPEPTINE Syrup 60ml","composition":"Alpha Amylase+Papain","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.82.00"}
+{"_id":{"$oid":"5b5843c5d51d295fef355de2"},"name":"NEW AGLOZYME DROPS 15ML","composition":"DIASTASE 50MG PEPSIN 20MG","manufacturer":"Aglowmed Pharmaceuticals Ltd","price":"Rs.29.70"}
+{"_id":{"$oid":"5b5843c7d51d295fef355de3"},"name":"NEW AGLOZYME CAPSULE 15'S","composition":"DIASTASE 50MG+PEPSIN 20MG","manufacturer":"Aglowmed Pharmaceuticals Ltd","price":"Rs.59.33"}
+{"_id":{"$oid":"5b5843c9d51d295fef355de4"},"name":"NUTROZYME Syrup 200ml","composition":"Papain+Diastase ","manufacturer":"Cipla Ltd","price":"Rs.27.22"}
+{"_id":{"$oid":"5b5843cbd51d295fef355de5"},"name":"OVERZYME Syrup 100ml","composition":"Diastase 50mg+Alpha Galactosidase 25mg+Pepsin 10mg+Lipase 10mg","manufacturer":"Wockhardt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5843cdd51d295fef355de6"},"name":"PANKREOFLAT Tablet 10's","composition":"Dimethicone 80mg+Pancreatin 170mg","manufacturer":"Abbott India Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b5843cfd51d295fef355de7"},"name":"PANKREOFLAT Liquid 100ml","composition":"Digestive Enzyme","manufacturer":"Abbott India Ltd","price":"Rs.132.00"}
+{"_id":{"$oid":"5b5843d1d51d295fef355de8"},"name":"PANLIPASE Capsule 10's","composition":"Pancreatin 10000IU","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b5843d3d51d295fef355de9"},"name":"PANLIPASE 25000iu Capsule 10's","composition":"PANCREATIN 25000IU","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b5843d5d51d295fef355dea"},"name":"PANSTAL Capsule 10's","composition":"Pancreatin","manufacturer":"Cipla Ltd","price":"Rs.160.50"}
+{"_id":{"$oid":"5b5843d9d51d295fef355deb"},"name":"PANZYNORM HS Tablet 10's","composition":"Pancreatin 360mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.431.10"}
+{"_id":{"$oid":"5b5843dbd51d295fef355dec"},"name":"PANZYNORM N Tablet 10's","composition":"Pancreatin 180mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.196.25"}
+{"_id":{"$oid":"5b5843ddd51d295fef355ded"},"name":"PAPYTAZYME Tablet 10's","composition":"Pancreatin","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.52.58"}
+{"_id":{"$oid":"5b5843dfd51d295fef355dee"},"name":"PEPFIZ EVT Tablet 2's","composition":"Enzymes ","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.12.00"}
+{"_id":{"$oid":"5b5843e1d51d295fef355def"},"name":"Q NEXT Capsule 10's","composition":"Coenzyme Q10(Ubidecarenone)+Lycopene+Riboflavin+Pyridoxine+Thiamine+Tocopheryl Acetate","manufacturer":"Zee Laboratories Ltd","price":"Rs.400.00"}
+{"_id":{"$oid":"5b5843e3d51d295fef355df0"},"name":"SERUTAN 215mg Tablet 10's","composition":"PANCREATIN 215MG","manufacturer":"Ttk Healthcare Ltd","price":"Rs.87.56"}
+{"_id":{"$oid":"5b5843e5d51d295fef355df1"},"name":"SERUTAN 215mg Tablet 30's","composition":"Pancreatin 215mg","manufacturer":"Ttk Healthcare Ltd","price":"Rs.262.68"}
+{"_id":{"$oid":"5b5843e9d51d295fef355df2"},"name":"SOFTOLAX SF Powder 100gm","composition":"Isabgol Husk 70%W/W","manufacturer":"Lupin Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b5843ebd51d295fef355df3"},"name":"SWIZYME SYRUP 200ML","composition":"DIASTASE 50MG+PEPSIN 10MG","manufacturer":"Ind Swift Ltd","price":"Rs.23.75"}
+{"_id":{"$oid":"5b5843edd51d295fef355df4"},"name":"TAGON 2mg Tablet 10's","composition":"Tegaserod 2mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b5843edd51d295fef355df5"},"name":"TEGOD 6mg Tablet 10's","composition":"Tegaserod 6mg","manufacturer":"Cipla Ltd","price":"Rs.55.67"}
+{"_id":{"$oid":"5b5843eed51d295fef355df6"},"name":"TUMMY SOFT Dry Syrup 50ml","composition":"Alpha Amylase 25mg+Bacillus Coagulans 500 Million Spores+Lipase 1.5mg+Pepsin 10mg/5ml","manufacturer":"Tablets India Ltd","price":"Rs.186.90"}
+{"_id":{"$oid":"5b5843f0d51d295fef355df7"},"name":"ULTRAZYME SYRUP 200ML","composition":"DIASTASE 50MG+PEPSIN 10MG","manufacturer":"Wockhardt Ltd","price":"Rs.41.25"}
+{"_id":{"$oid":"5b5843f2d51d295fef355df8"},"name":"UNIENZYME Drops 15ml","composition":"Diastase+Pepsin","manufacturer":"Unichem Laboratories Ltd","price":"Rs.63.30"}
+{"_id":{"$oid":"5b5843f4d51d295fef355df9"},"name":"UNIENZYME Liquid 200ml","composition":"Diastase+Pepsin","manufacturer":"Unichem Laboratories Ltd","price":"Rs.87.50"}
+{"_id":{"$oid":"5b5843f6d51d295fef355dfa"},"name":"UNIENZYME Tablet 15's","composition":"Diastase+Pepsin","manufacturer":"Unichem Laboratories Ltd","price":"Rs.48.40"}
+{"_id":{"$oid":"5b5843f8d51d295fef355dfb"},"name":"UTIPAC Capsule 10's","composition":"Pancreatin","manufacturer":"Sundyota Numandis Pharmaceuticals Pvt Ltd","price":"Rs.209.29"}
+{"_id":{"$oid":"5b5843f9d51d295fef355dfc"},"name":"VITAZYME Drops 15ml","composition":"Enzymes+ Digestive Supplements","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.64.00"}
+{"_id":{"$oid":"5b5843fbd51d295fef355dfd"},"name":"VITAZYME Liquid 200ml","composition":"Enzymes+ Digestive Supplements","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b5843fdd51d295fef355dfe"},"name":"VITAZYME Capsule 10's","composition":"Diastase+Lactobacillus","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b5843ffd51d295fef355dff"},"name":"WINPERT 10000IU Capsule 10's","composition":"Pancreatin 10000IU","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.205.00"}
+{"_id":{"$oid":"5b584401d51d295fef355e00"},"name":"WINPERT 25000IU Capsule 10's","composition":"Pancreatin 25000IU","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.474.00"}
+{"_id":{"$oid":"5b584402d51d295fef355e01"},"name":"XYMEX Drops 15ml","composition":"Enzymes+ Digestive Supplements","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b584404d51d295fef355e02"},"name":"XYMEX Syrup 200ml","composition":"Enzymes+ Digestive Supplements","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b584406d51d295fef355e03"},"name":"XYMEX MPS Tablet 10's","composition":"Diastase+Pepsin","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.29.50"}
+{"_id":{"$oid":"5b584408d51d295fef355e04"},"name":"ZYHEP 100/150mg Tablet 10's","composition":"Pancreatin 100mg+L Ornithine L Aspartate 150mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.48.01"}
+{"_id":{"$oid":"5b58440ad51d295fef355e05"},"name":"ZYMNET Syrup 200ml","composition":"Ayurvedic Medicine ","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.154.00"}

@@ -1,0 +1,80 @@
+{"_id":{"$oid":"5b5840fcd51d295fbbabe1c0"},"name":"ASMITA Tablet 21's","composition":"Drospirenone+Estradiol","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.485.00"}
+{"_id":{"$oid":"5b5840fdd51d295fbbabe1c1"},"name":"CARPELA Tablet 21's","composition":"Cyproterone 2mg+Estradiol 0.035mg","manufacturer":"Others","price":"Rs.264.00"}
+{"_id":{"$oid":"5b5840ffd51d295fbbabe1c2"},"name":"CERAZETTE Tablet 28's","composition":"Desogestrel 0.075mg","manufacturer":"Organon India Ltd","price":"Rs.434.00"}
+{"_id":{"$oid":"5b584101d51d295fbbabe1c3"},"name":"CIPGEST Tablet 10's","composition":"DIENOGEST 2MG","manufacturer":"Cipla Ltd","price":"Rs.520.00"}
+{"_id":{"$oid":"5b584103d51d295fbbabe1c4"},"name":"CRISANTA Tablet 21's","composition":"Drospirenone 3mg+Estradiol(Ethinyl Estradiol) 0.03mg","manufacturer":"Cipla Ltd","price":"Rs.381.50"}
+{"_id":{"$oid":"5b584105d51d295fbbabe1c5"},"name":"CRISANTA LS Tablet 24's","composition":"Drospirenone 3mg+Estradiol(Ethinyl Estradiol) 0.02mg","manufacturer":"Cipla Ltd","price":"Rs.272.00"}
+{"_id":{"$oid":"5b584107d51d295fbbabe1c6"},"name":"CYTOLOG 200MCG TABLET 4'S","composition":"MISOPROSTOL 200MCG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.65.06"}
+{"_id":{"$oid":"5b584109d51d295fbbabe1c7"},"name":"DESCON Tablet 21's","composition":"Ethinyl Estradiol 0.03mg+Desogestrel 0.15mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.164.00"}
+{"_id":{"$oid":"5b58410bd51d295fbbabe1c8"},"name":"DESTROGEN 0.03/0.15mg Tablet 21's","composition":"Ethinyl Estradiol 0.03mg+Desogestrel 0.15mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b58410dd51d295fbbabe1c9"},"name":"DIANE 35mg Tablet 21's","composition":"Cyproterone 2mg+Estradiol 0.035mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.295.00"}
+{"_id":{"$oid":"5b58410fd51d295fbbabe1ca"},"name":"DIENOFEM 2mg Tablet 10's","composition":"Dienogest 2mg","manufacturer":"Ttk Healthcare Ltd","price":"Rs.480.00"}
+{"_id":{"$oid":"5b584111d51d295fbbabe1cb"},"name":"DINOFIRST 2mg Tablet 10's","composition":"Dienogest 2mg","manufacturer":"Plenteous Pharmaceuticals Pvt Ltd","price":"Rs.548.00"}
+{"_id":{"$oid":"5b584113d51d295fbbabe1cc"},"name":"DINOFIRST Capsule 10's","composition":"DIENOGEST 2MG","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.499.00"}
+{"_id":{"$oid":"5b584115d51d295fbbabe1cd"},"name":"DINOGEST 2mg Capsule 10's","composition":"DIENOGEST 2MG","manufacturer":"Koye Pharmaceuticals Pvt Ltd","price":"Rs.499.00"}
+{"_id":{"$oid":"5b584117d51d295fbbabe1ce"},"name":"DINOGEST 2mg Tablet 10's","composition":"Dienogest 2mg","manufacturer":"Koye Pharmaceuticals Pvt Ltd","price":"Rs.548.00"}
+{"_id":{"$oid":"5b584119d51d295fbbabe1cf"},"name":"DINOR 2mg Tablet 15's","composition":"DIENOGEST 2MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.792.00"}
+{"_id":{"$oid":"5b58411ad51d295fbbabe1d0"},"name":"DINOTOP 2mg Tablet 10's","composition":"DIENOGEST 2MG","manufacturer":"Delcure Lifesciences Ltd","price":"Rs.499.00"}
+{"_id":{"$oid":"5b58411cd51d295fbbabe1d1"},"name":"DIVACON 0.03/0.15mg Tablet 21's","composition":"Ethinyl Estradiol 0.03mg+Levonorgestrel 0.15mg","manufacturer":"Jagsonpal Pharmaceuticals Ltd","price":"Rs.60.17"}
+{"_id":{"$oid":"5b58411cd51d295fbbabe1d2"},"name":"DORIS Tablet 21's","composition":"Drospirenone 3mg+Estradiol 0.03mg","manufacturer":"Pfizer Limited","price":"Rs.421.04"}
+{"_id":{"$oid":"5b58411fd51d295fbbabe1d3"},"name":"DRONIS 30mcg Tablet 21's","composition":"Drospirenone 3mg+Estradiol(Ethinyl Estradiol) 0.03mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.417.00"}
+{"_id":{"$oid":"5b584121d51d295fbbabe1d4"},"name":"DRONIS 20mcg Tablet 24's","composition":"Drospirenone 3mg+Estradiol(Ethinyl Estradiol) 0.02mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.303.00"}
+{"_id":{"$oid":"5b584121d51d295fbbabe1d5"},"name":"DROSPY 30mcg Tablet 21's","composition":"Drospirenone+Estradiol(Ethinyl Estradiol)","manufacturer":"Organon India Ltd","price":"Rs.408.00"}
+{"_id":{"$oid":"5b584123d51d295fbbabe1d6"},"name":"DROSTOL Tablet 21's","composition":"Drospirenone 3mg+Estradiol(Ethinyl Estradiol) 0.03mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.290.00"}
+{"_id":{"$oid":"5b584125d51d295fbbabe1d7"},"name":"DUOLUTON L Tablet 21's","composition":"Estradiol 0.05+Levonorgestrel 0.25","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.153.00"}
+{"_id":{"$oid":"5b584127d51d295fbbabe1d8"},"name":"DYNOCAD 2mg Tablet 10's","composition":"DIENOGEST 2MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.499.00"}
+{"_id":{"$oid":"5b584129d51d295fbbabe1d9"},"name":"EDVAL 2mg Tablet 28's","composition":"ESTRADIOL(ETHINYL ESTRADIOL) 2MG","manufacturer":"Svizera Healthcare","price":"Rs.278.30"}
+{"_id":{"$oid":"5b58412bd51d295fbbabe1da"},"name":"ELESTRA Tablet 21's","composition":"Cyproterone 2mg+Estradiol 0.035mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.377.00"}
+{"_id":{"$oid":"5b58412dd51d295fbbabe1db"},"name":"ENDOFIT 2mg Tablet 10's","composition":"Dienogest 2mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.548.00"}
+{"_id":{"$oid":"5b58412fd51d295fbbabe1dc"},"name":"ENDOHEAL 2mg Tablet 10's","composition":"Dienogest 2mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.548.00"}
+{"_id":{"$oid":"5b584131d51d295fbbabe1dd"},"name":"ENDOREG 2mg Tablet 15's","composition":"DIENOGEST 2MG","manufacturer":"Jagsonpal Pharmaceuticals Ltd","price":"Rs.675.00"}
+{"_id":{"$oid":"5b584133d51d295fbbabe1de"},"name":"ENDOREG Tablet 14's","composition":"DIENOGEST 2MG","manufacturer":"Jagsonpal Pharmaceuticals Ltd","price":"Rs.630.00"}
+{"_id":{"$oid":"5b584134d51d295fbbabe1df"},"name":"ENDOSIS Capsule 10's","composition":"Dienogest 2mg","manufacturer":"Pharmanova Specialties Pvt Ltd","price":"Rs.549.00"}
+{"_id":{"$oid":"5b584136d51d295fbbabe1e0"},"name":"ENDOSIS Tablet 10's","composition":"DIENOGEST 2MG","manufacturer":"Pharmanova Specialties Pvt Ltd","price":"Rs.549.00"}
+{"_id":{"$oid":"5b584137d51d295fbbabe1e1"},"name":"ESTRANON Tablet 21's","composition":"Ethinyl Estradiol 0.035mg+Cyproterone 2mg","manufacturer":"Organic Laboratories","price":"Rs.285.00"}
+{"_id":{"$oid":"5b584139d51d295fbbabe1e2"},"name":"FAMYCEPT Tablet 21's","composition":"Desogestrel 0.02mg+Estradiol 0.15mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.192.00"}
+{"_id":{"$oid":"5b58413bd51d295fbbabe1e3"},"name":"FEMILON Tablet 21's","composition":"Desogestrel 0.15mg+Estradiol 0.02mg","manufacturer":"Organon India Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b58413dd51d295fbbabe1e4"},"name":"FIBRESHEA 5mg Tablet 10's","composition":"Ulipristal Acetate 5mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.1,499.00"}
+{"_id":{"$oid":"5b58413fd51d295fbbabe1e5"},"name":"FREWIL Tablet 21's","composition":"CYPROTERONE 2MG+ETHINYL ESTRADIOL 0.035MG","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.192.00"}
+{"_id":{"$oid":"5b584141d51d295fbbabe1e6"},"name":"GINETTE 35mg Tablet 21's","composition":"Cyproterone Acetate 2mg+Estradiol(Ethinyl Estradiol) 0.035mg","manufacturer":"Cipla Ltd","price":"Rs.310.50"}
+{"_id":{"$oid":"5b584143d51d295fbbabe1e7"},"name":"HARMONI F Tablet 21's","composition":"Cyproterone Acetate+Estradiol(Ethinyl Estradiol)+Folic Acid","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.337.35"}
+{"_id":{"$oid":"5b584145d51d295fbbabe1e8"},"name":"HERVOTE Tablet 21's","composition":"Drospirenone 3mg+Estradiol(Ethinyl Estradiol) 0.03mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.318.00"}
+{"_id":{"$oid":"5b584147d51d295fbbabe1e9"},"name":"IBINEST 2mg Capsule 14's","composition":"Dienogest 2mg","manufacturer":"INDIABULLS PHARMACEUTICALS LTD","price":"Rs.499.00"}
+{"_id":{"$oid":"5b584149d51d295fbbabe1ea"},"name":"INTIMACY PLUS 3mg Tablet 21's","composition":"Desogestrel 0.15mg+Estradiol(Ethinyl Estradiol) 0.03mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.96.00"}
+{"_id":{"$oid":"5b58414bd51d295fbbabe1eb"},"name":"INTIMACY 0.075mg Tablet 28's","composition":"Desogestrel 0.075mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.171.93"}
+{"_id":{"$oid":"5b58414dd51d295fbbabe1ec"},"name":"INTIMACY PLUS 2mg Tablet 21's","composition":"Desogestrel 0.15mg+Estradiol(Ethinyl Estradiol) 0.02mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.109.33"}
+{"_id":{"$oid":"5b58414ed51d295fbbabe1ed"},"name":"JULIANA Tablet 21's","composition":"Desogestrel+Estradiol(Ethinyl Estradiol)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.145.00"}
+{"_id":{"$oid":"5b584151d51d295fbbabe1ee"},"name":"KRIMSON 35mg Tablet 21's","composition":"Cyproterone Acetate 2mg+Estradiol(Ethinyl Estradiol) 0.035mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.297.00"}
+{"_id":{"$oid":"5b584153d51d295fbbabe1ef"},"name":"LOETTE Tablet 21's","composition":"Estradiol+Levonorgestrel","manufacturer":"Pfizer Limited","price":"Rs.194.81"}
+{"_id":{"$oid":"5b584154d51d295fbbabe1f0"},"name":"MILIANA Tablet 21's","composition":"Desogestrel 0.15mg+Estradiol 0.03mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.145.00"}
+{"_id":{"$oid":"5b584158d51d295fbbabe1f1"},"name":"MIRENA Intrauterine Delivery System 1's","composition":"LEVONORGESTREL 20MCG","manufacturer":"Bayer India Ltd","price":"Rs.3,509.00"}
+{"_id":{"$oid":"5b58415ad51d295fbbabe1f2"},"name":"MIRUMIGEST Tablet 10's","composition":"DIENOGEST 2MG","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.569.40"}
+{"_id":{"$oid":"5b58415cd51d295fbbabe1f3"},"name":"NOGESTOL Tablet 21's","composition":"Levonorgestrel 0.15mg+Ethinyl Oestradiol 0.03mg","manufacturer":"Hll Lifecare Ltd","price":"Rs.66.50"}
+{"_id":{"$oid":"5b58415fd51d295fbbabe1f4"},"name":"NOVELON Tablet 21's","composition":"Desogestrel 0.15mg+Estradiol 0.03mg","manufacturer":"Organon India Ltd","price":"Rs.183.00"}
+{"_id":{"$oid":"5b584161d51d295fbbabe1f5"},"name":"NOVEX Tablet 10's","composition":"Ormeloxifene 30mg","manufacturer":"Hll Lifecare Ltd","price":"Rs.121.00"}
+{"_id":{"$oid":"5b584163d51d295fbbabe1f6"},"name":"NOVEX DS 60mg Tablet 15's","composition":"Ormeloxifene 60mg","manufacturer":"Hll Lifecare Ltd","price":"Rs.210.00"}
+{"_id":{"$oid":"5b584165d51d295fbbabe1f7"},"name":"ORMETECT 60mg Capsule 10's","composition":"ORMELOXIFENE 60MG","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.218.00"}
+{"_id":{"$oid":"5b584167d51d295fbbabe1f8"},"name":"OVRAL L Tablet 21's","composition":"Estradiol 0.03mg+Levonorgestrel 0.15mg","manufacturer":"Pfizer Limited","price":"Rs.65.73"}
+{"_id":{"$oid":"5b584169d51d295fbbabe1f9"},"name":"OVRAL Tablet 21's","composition":"Estradiol 0.05mg+Levonorgestrel 0.25mg","manufacturer":"Pfizer Limited","price":"Rs.65.73"}
+{"_id":{"$oid":"5b58416bd51d295fbbabe1fa"},"name":"OVRAL G Tablet 20's","composition":"Ethinyl Estradiol 0.05mg+Norgestrel 0.5mg","manufacturer":"Pfizer Limited","price":"Rs.176.81"}
+{"_id":{"$oid":"5b58416dd51d295fbbabe1fb"},"name":"OVULOC Tablet 21's","composition":"Desogestrel+Ethinyl Estradiol","manufacturer":"Serum Institute Of India Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b58416fd51d295fbbabe1fc"},"name":"OVULOC LD Tablet 21's","composition":"Desogestrel 0.15mg+Estradiol 0.02mg","manufacturer":"Serum Institute Of India Ltd","price":"Rs.127.00"}
+{"_id":{"$oid":"5b584171d51d295fbbabe1fd"},"name":"PADMINI Tablet 21's","composition":"Drospirenone 30mcg+Estradiol(Ethinyl Estradiol) 0.03mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.381.50"}
+{"_id":{"$oid":"5b584173d51d295fbbabe1fe"},"name":"POSTPONE 72 Tablet 1's","composition":"Levonorgestrel 1.5mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.14.25"}
+{"_id":{"$oid":"5b584175d51d295fbbabe1ff"},"name":"RASMIN Tablet 28's","composition":"Drospirenone 3mg+Estradiol(Ethinyl Estradiol) 0.03mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b584176d51d295fbbabe200"},"name":"RASMIN 0.03/3mg Tablet 28's","composition":"Ethinyl Estradiol 0.03mg+Drospirenone 3mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b584179d51d295fbbabe201"},"name":"RUMIGEST 2mg Capsule 10's","composition":"DIENOGEST 2MG","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.569.40"}
+{"_id":{"$oid":"5b58417bd51d295fbbabe202"},"name":"SEVISTA 60mg Tablet 10's","composition":"Ormeloxifene 60mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.195.60"}
+{"_id":{"$oid":"5b58417dd51d295fbbabe203"},"name":"SEVISTA 30mg Tablet 15's","composition":"Ormeloxifene 30mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.216.75"}
+{"_id":{"$oid":"5b58417fd51d295fbbabe204"},"name":"SEVISTA 30mg Tablet 10's","composition":"Ormeloxifene 30mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.131.50"}
+{"_id":{"$oid":"5b584180d51d295fbbabe205"},"name":"TARANA Tablet 28's","composition":"Drospirenone 3mg+Estradiol(Ethinyl Estradiol) 0.03mg","manufacturer":"Natco Pharma Ltd","price":"Rs.295.00"}
+{"_id":{"$oid":"5b584182d51d295fbbabe206"},"name":"TIUP Device 1's","composition":"Device ","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.260.00"}
+{"_id":{"$oid":"5b584185d51d295fbbabe207"},"name":"TODAY REGULAR Pessarie 5's","composition":"NONOXYNOL 0.05%","manufacturer":"Bliss Chemicals \u0026 Pharma Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b584186d51d295fbbabe208"},"name":"TRIQUILAR Tablet 21's","composition":"Estradiol(Ethinyl Estradiol)+Levonorgestrel","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.109.35"}
+{"_id":{"$oid":"5b584188d51d295fbbabe209"},"name":"VERONICA Tablet 28's","composition":"Ethinyl Estradiol 0.03mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.699.00"}
+{"_id":{"$oid":"5b58418ad51d295fbbabe20a"},"name":"XGINETTE Tablet 28's","composition":"Unsure Default","manufacturer":"General Pharmaceuticals Ltd","price":"Rs.282.50"}
+{"_id":{"$oid":"5b58418bd51d295fbbabe20b"},"name":"YAMINI LS Tablet 24's","composition":"Drospirenone 3mg+Estradiol(Ethinyl Estradiol) 0.02mg","manufacturer":"Lupin Ltd","price":"Rs.257.00"}
+{"_id":{"$oid":"5b58418dd51d295fbbabe20c"},"name":"YAMINI Tablet 21's","composition":"Drospirenone 3mg+Estradiol(Ethinyl Estradiol) 0.03mg","manufacturer":"Lupin Ltd","price":"Rs.448.60"}
+{"_id":{"$oid":"5b58418ed51d295fbbabe20d"},"name":"YASMIN Tablet 21's","composition":"Drospirenone 3mg+Estradiol(Ethinyl Estradiol) 0.03mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.434.00"}
+{"_id":{"$oid":"5b584190d51d295fbbabe20e"},"name":"YAZ Tablet 28's","composition":"Drospirenone 3mg+Estradiol(Ethinyl Estradiol) 0.O2mg","manufacturer":"Bayer India Ltd","price":"Rs.390.00"}
+{"_id":{"$oid":"5b584191d51d295fbbabe20f"},"name":"ZEROGEN Tablet 28's","composition":"Desogestrel 0.075mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.223.40"}

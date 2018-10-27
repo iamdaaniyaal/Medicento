@@ -1,0 +1,128 @@
+{"_id":{"$oid":"5b58402dd51d295fa8c097b6"},"name":"ACTIBILE 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Albert David Ltd","price":"Rs.285.10"}
+{"_id":{"$oid":"5b58402ed51d295fa8c097b7"},"name":"ACTIBILE Child Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 75mg","manufacturer":"Albert David Ltd","price":"Rs.96.70"}
+{"_id":{"$oid":"5b58402fd51d295fa8c097b8"},"name":"ACTIBILE CHILD DT 75mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 75mg","manufacturer":"Albert David Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b584032d51d295fa8c097b9"},"name":"ACTIBILE 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Albert David Ltd","price":"Rs.147.30"}
+{"_id":{"$oid":"5b584034d51d295fa8c097ba"},"name":"ACTIBILE SR 450mg Tablet 10's","composition":"URSODEOXYCHOLIC ACID(URSODIOL) 450MG","manufacturer":"Others","price":"Rs.316.00"}
+{"_id":{"$oid":"5b584036d51d295fa8c097bb"},"name":"ACTIMARIN 75/150mg Tablet 10's","composition":"Silymarin 70mg+Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Albert David Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b584038d51d295fa8c097bc"},"name":"ACTIMARIN FORTE Tablet 10's","composition":"SILYMARIN 140MG+URSODEOXYCHOLIC ACID(URSODIOL) 300MG","manufacturer":"Albert David Ltd","price":"Rs.350.00"}
+{"_id":{"$oid":"5b58403ad51d295fa8c097bd"},"name":"ANALIV Tablet 10's","composition":"Pancreatin 100mg+L Ornithine L Aspartate 150mg","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b58403cd51d295fa8c097be"},"name":"B LIV Tablet 10's","composition":"Metadoxine 250Units+Silymarin 70mg","manufacturer":"Med Manor Organics Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b58403ed51d295fa8c097bf"},"name":"BILEFIX 300mg Tablet 14's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.407.00"}
+{"_id":{"$oid":"5b584040d51d295fa8c097c0"},"name":"BILEFIX 600mg Tablet 14's","composition":"Ursodeoxycholic Acid(Ursodiol) 600mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.631.00"}
+{"_id":{"$oid":"5b584043d51d295fa8c097c1"},"name":"CHOLIDOL 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"SALUD CARE PVT LTD","price":"Rs.225.00"}
+{"_id":{"$oid":"5b584045d51d295fa8c097c2"},"name":"CHOLIDOL 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"SALUD CARE PVT LTD","price":"Rs.145.00"}
+{"_id":{"$oid":"5b584047d51d295fa8c097c3"},"name":"ESTUCHOL 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Lupin Ltd","price":"Rs.261.15"}
+{"_id":{"$oid":"5b584049d51d295fa8c097c4"},"name":"ESTUCHOL 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Lupin Ltd","price":"Rs.155.50"}
+{"_id":{"$oid":"5b58404bd51d295fa8c097c5"},"name":"FORTIBILE 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Deys Medical Stores Mfg Ltd","price":"Rs.209.00"}
+{"_id":{"$oid":"5b58404fd51d295fa8c097c6"},"name":"FORTIBILE 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Deys Medical Stores Mfg Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b584050d51d295fa8c097c7"},"name":"GB LIV 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.349.00"}
+{"_id":{"$oid":"5b584052d51d295fa8c097c8"},"name":"GB LIV 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b584055d51d295fa8c097c9"},"name":"GENURSO 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Aprica Pharmaceuticals Pvt Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b584058d51d295fa8c097ca"},"name":"GENURSO 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Aprica Pharmaceuticals Pvt Ltd","price":"Rs.232.00"}
+{"_id":{"$oid":"5b58405bd51d295fa8c097cb"},"name":"GOLBI 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.146.00"}
+{"_id":{"$oid":"5b58405cd51d295fa8c097cc"},"name":"GOLBI SR 450mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 450mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.334.00"}
+{"_id":{"$oid":"5b58405fd51d295fa8c097cd"},"name":"GOLBI 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.276.00"}
+{"_id":{"$oid":"5b584061d51d295fa8c097ce"},"name":"HEPACOR Sachet 5gm","composition":"L Ornithine L Aspartate","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.129.50"}
+{"_id":{"$oid":"5b584064d51d295fa8c097cf"},"name":"HEPACOR Tablet 10's","composition":"L ORNITHINE L ASPARTATE 150MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.74.50"}
+{"_id":{"$oid":"5b584066d51d295fa8c097d0"},"name":"HEPAKIND 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584068d51d295fa8c097d1"},"name":"HEPAKIND 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b58406ad51d295fa8c097d2"},"name":"HEPAMERZ OA Syrup 100ml","composition":"L ORNITHINE L ASPARTATE","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.239.00"}
+{"_id":{"$oid":"5b58406cd51d295fa8c097d3"},"name":"HEPARID 50mg Syrup 100ml","composition":"Silymarin 50mg","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.81.60"}
+{"_id":{"$oid":"5b58406ed51d295fa8c097d4"},"name":"HEPEXA 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Others","price":"Rs.226.27"}
+{"_id":{"$oid":"5b584070d51d295fa8c097d5"},"name":"HEPEXA M Tablet 10's","composition":"Metformin 500mg+Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Others","price":"Rs.169.40"}
+{"_id":{"$oid":"5b584072d51d295fa8c097d6"},"name":"HEPEXA 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Others","price":"Rs.121.00"}
+{"_id":{"$oid":"5b584074d51d295fa8c097d7"},"name":"KUPFFER TONE Syrup 200ml","composition":"SILYMARIN 35MG","manufacturer":"Theia Healthcare","price":"Rs.138.00"}
+{"_id":{"$oid":"5b584076d51d295fa8c097d8"},"name":"KUPFFER TONE Tablet 10's","composition":"FOLIC ACID+L ORNITHINE L ASPARTATE+METADOXIL+PYRIDOXINE+SILYMARIN","manufacturer":"Theia Healthcare","price":"Rs.171.00"}
+{"_id":{"$oid":"5b584078d51d295fa8c097d9"},"name":"LEVALON 150mg Tablet 10's","composition":"URSODEOXYCHOLIC ACID(URSODIOL) 150MG","manufacturer":"Micro Labs Ltd","price":"Rs.103.00"}
+{"_id":{"$oid":"5b58407ad51d295fa8c097da"},"name":"LEVALON 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Micro Labs Ltd","price":"Rs.180.50"}
+{"_id":{"$oid":"5b58407cd51d295fa8c097db"},"name":"LEVALON SR 450mg Tablet 10's","composition":"URSODEOXYCHOLIC ACID(URSODIOL) 450MG","manufacturer":"Micro Labs Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b58407ed51d295fa8c097dc"},"name":"LIVAPT Tablet 15's","composition":"Choline 30mg+Inositol 8mg+L Ornithine L Aspartate 75mg+Metadoxine 250mg+S-Adenosyl Methionine(Ademetionine) 50mg+Silymarin 70mg+Taurine 50mg+Ursodeoxycholic Acid(Ursodiol) 50mg","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.410.00"}
+{"_id":{"$oid":"5b584080d51d295fa8c097dd"},"name":"LIVETONE Syrup 225ml","composition":"LIVER EXTRACT +VITAMIN B12 ","manufacturer":"Cipla Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b584082d51d295fa8c097de"},"name":"LIVGENE 9 Tablet 15's","composition":"CHOLINE 30MG+INOSITOL 8MG+L METHYLFOLATE CALCIUM 200MCG+L ORNITHINE L ASPARTATE 75MG+METADOXINE 250MG+S-ADENOSYL METHIONINE(ADEMETIONINE) 50MG+SILYMARIN 70MG+TAURINE 50MG+URSODEOXYCHOLIC ACID(URSODIOL) 50MG","manufacturer":"Fountil Life Sciences Pvt Ltd","price":"Rs.462.00"}
+{"_id":{"$oid":"5b584084d51d295fa8c097df"},"name":"LIVIZ Tablet 10's","composition":"Folic Acid+Metadoxine+Pyridoxine+Silymarin","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.189.00"}
+{"_id":{"$oid":"5b584086d51d295fa8c097e0"},"name":"LIVOKIND 250mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 250mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.42.94"}
+{"_id":{"$oid":"5b584088d51d295fa8c097e1"},"name":"LIVOPILL UD Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.265.00"}
+{"_id":{"$oid":"5b58408ad51d295fa8c097e2"},"name":"METADOXIL 500MG TABLET 10'S","composition":"METADOXIL 500MG","manufacturer":"Micro Labs Ltd","price":"Rs.153.82"}
+{"_id":{"$oid":"5b58408bd51d295fa8c097e3"},"name":"PIPCOL Drops 10ml","composition":"Dicyclomine 10mg+Simethicone 40mg","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b58408dd51d295fa8c097e4"},"name":"RUDOSIL 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Rb Pharmaceuticals","price":"Rs.395.00"}
+{"_id":{"$oid":"5b58408fd51d295fa8c097e5"},"name":"SORBIDIOL 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.219.60"}
+{"_id":{"$oid":"5b584091d51d295fa8c097e6"},"name":"SORBIDIOL 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.130.43"}
+{"_id":{"$oid":"5b584093d51d295fa8c097e7"},"name":"UCIRO 300mg Tablet 10's","composition":"Ursodeoxycholic Acid 300mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.168.00"}
+{"_id":{"$oid":"5b584095d51d295fa8c097e8"},"name":"UCIRO 150mg Tablet 10's","composition":"Ursodeoxycholic Acid 150mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b584097d51d295fa8c097e9"},"name":"UDA 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.128.00"}
+{"_id":{"$oid":"5b584099d51d295fa8c097ea"},"name":"UDA 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.235.00"}
+{"_id":{"$oid":"5b58409bd51d295fa8c097eb"},"name":"UDA SR 450mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 450mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.320.00"}
+{"_id":{"$oid":"5b58409dd51d295fa8c097ec"},"name":"UDCAMENT Suspension 100ml","composition":"Ursodeoxycholic Acid(Ursodiol) 125mg","manufacturer":"Delcure Lifesciences Ltd","price":"Rs.324.00"}
+{"_id":{"$oid":"5b58409fd51d295fa8c097ed"},"name":"UDCHAMP 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.77.40"}
+{"_id":{"$oid":"5b5840a1d51d295fa8c097ee"},"name":"UDCHAMP 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.192.92"}
+{"_id":{"$oid":"5b5840a3d51d295fa8c097ef"},"name":"UDCROS 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.202.50"}
+{"_id":{"$oid":"5b5840a6d51d295fa8c097f0"},"name":"UDCROS 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.107.50"}
+{"_id":{"$oid":"5b5840a6d51d295fa8c097f1"},"name":"UDEBILE 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Life Medicare \u0026 Biotech Pvt Ltd","price":"Rs.89.05"}
+{"_id":{"$oid":"5b5840a8d51d295fa8c097f2"},"name":"UDEBILE 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Life Medicare \u0026 Biotech Pvt Ltd","price":"Rs.155.42"}
+{"_id":{"$oid":"5b5840aad51d295fa8c097f3"},"name":"UDGRACE SR 450mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 450mg","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.361.90"}
+{"_id":{"$oid":"5b5840acd51d295fa8c097f4"},"name":"UDICOL 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.222.49"}
+{"_id":{"$oid":"5b5840add51d295fa8c097f5"},"name":"UDICOL 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.138.27"}
+{"_id":{"$oid":"5b5840b0d51d295fa8c097f6"},"name":"UDIGOLD 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Pharmed Limited","price":"Rs.225.00"}
+{"_id":{"$oid":"5b5840b2d51d295fa8c097f7"},"name":"UDIGOLD 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Pharmed Limited","price":"Rs.129.00"}
+{"_id":{"$oid":"5b5840b4d51d295fa8c097f8"},"name":"UDIGRAND 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Others","price":"Rs.273.33"}
+{"_id":{"$oid":"5b5840b6d51d295fa8c097f9"},"name":"UDIHEP FORTE Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.302.00"}
+{"_id":{"$oid":"5b5840b8d51d295fa8c097fa"},"name":"UDIHEP 150MG TABLET 30'S","composition":"URSODEOXYCHOLIC ACID(URSODIOL) 150MG","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.594.00"}
+{"_id":{"$oid":"5b5840bad51d295fa8c097fb"},"name":"UDIHEP Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.198.00"}
+{"_id":{"$oid":"5b5840bcd51d295fa8c097fc"},"name":"UDILIV 300mg Tablet 10's","composition":"URSODEOXYCHOLIC ACID(URSODIOL) 300MG","manufacturer":"Abbott India Ltd","price":"Rs.474.16"}
+{"_id":{"$oid":"5b5840bfd51d295fa8c097fd"},"name":"UDILIV 75mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 75mg","manufacturer":"Abbott India Ltd","price":"Rs.72.50"}
+{"_id":{"$oid":"5b5840c0d51d295fa8c097fe"},"name":"UDILIV 600mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 600mg","manufacturer":"Abbott India Ltd","price":"Rs.474.98"}
+{"_id":{"$oid":"5b5840c2d51d295fa8c097ff"},"name":"UDILIV 150mg Tablet 15's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Abbott India Ltd","price":"Rs.270.48"}
+{"_id":{"$oid":"5b5840c5d51d295fa8c09800"},"name":"UDILIV 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Abbott India Ltd","price":"Rs.164.00"}
+{"_id":{"$oid":"5b5840c7d51d295fa8c09801"},"name":"UDILIV 450mg Tablet 10's","composition":"URSODEOXYCHOLIC ACID(URSODIOL) 450MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.370.00"}
+{"_id":{"$oid":"5b5840c8d51d295fa8c09802"},"name":"UDIMARIN Syrup 100ml","composition":"Silymarin 35mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.226.00"}
+{"_id":{"$oid":"5b5840cbd51d295fa8c09803"},"name":"UDIMARIN 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.322.00"}
+{"_id":{"$oid":"5b5840cdd51d295fa8c09804"},"name":"UDIMARIN FORTE SR 450mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 450mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.431.00"}
+{"_id":{"$oid":"5b5840cfd51d295fa8c09805"},"name":"UDIPLUS Tablet 10's","composition":"Silymarin 140mg+Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Pharmed Limited","price":"Rs.351.00"}
+{"_id":{"$oid":"5b5840d0d51d295fa8c09806"},"name":"UDIRON 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Others","price":"Rs.114.52"}
+{"_id":{"$oid":"5b5840d3d51d295fa8c09807"},"name":"UDIRON 300mg Tablet 10's","composition":"URSODEOXYCHOLIC ACID(URSODIOL) 300MG","manufacturer":"Others","price":"Rs.229.43"}
+{"_id":{"$oid":"5b5840d5d51d295fa8c09808"},"name":"UDIWOK 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Wockhardt Ltd","price":"Rs.144.50"}
+{"_id":{"$oid":"5b5840d8d51d295fa8c09809"},"name":"UDIWOK 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Wockhardt Ltd","price":"Rs.240.50"}
+{"_id":{"$oid":"5b5840dad51d295fa8c0980a"},"name":"UDXIC 450mg Capsule 15's","composition":"Ursodeoxycholic Acid(Ursodiol) 450mg","manufacturer":"Zee Laboratories Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b5840dbd51d295fa8c0980b"},"name":"ULYSES 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Lupin Ltd","price":"Rs.135.40"}
+{"_id":{"$oid":"5b5840dcd51d295fa8c0980c"},"name":"ULYSES 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Lupin Ltd","price":"Rs.260.50"}
+{"_id":{"$oid":"5b5840ddd51d295fa8c0980d"},"name":"ULYSES PLUS Tablet 10's","composition":"Silymarin 140mg+Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Lupin Ltd","price":"Rs.370.55"}
+{"_id":{"$oid":"5b5840dfd51d295fa8c0980e"},"name":"URDIOGEM 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.241.10"}
+{"_id":{"$oid":"5b5840e1d51d295fa8c0980f"},"name":"URDIOGEM 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.133.35"}
+{"_id":{"$oid":"5b5840e3d51d295fa8c09810"},"name":"URDOHEP 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b5840e5d51d295fa8c09811"},"name":"URDOHEP SL Tablet 10's","composition":"Silymarin 140mg+Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.273.90"}
+{"_id":{"$oid":"5b5840e8d51d295fa8c09812"},"name":"URIJON 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.286.00"}
+{"_id":{"$oid":"5b5840ead51d295fa8c09813"},"name":"UROCAP 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Capital Pharma","price":"Rs.325.00"}
+{"_id":{"$oid":"5b5840ecd51d295fa8c09814"},"name":"URS 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Synokem Pharmaceuticals Ltd","price":"Rs.236.50"}
+{"_id":{"$oid":"5b5840eed51d295fa8c09815"},"name":"URS 150mg Tablet 4'S","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Synokem Pharmaceuticals Ltd","price":"Rs.34.62"}
+{"_id":{"$oid":"5b5840f0d51d295fa8c09816"},"name":"URSETOR 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.245.10"}
+{"_id":{"$oid":"5b5840f2d51d295fa8c09817"},"name":"URSETOR 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.118.10"}
+{"_id":{"$oid":"5b5840f4d51d295fa8c09818"},"name":"URSETOR PLUS Tablet 10's","composition":"Silymarin 140mg+Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.306.61"}
+{"_id":{"$oid":"5b5840f7d51d295fa8c09819"},"name":"URSETOR SR 450MG TABLET 10'S","composition":"Ursodeoxycholic Acid(Ursodiol) 450mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.328.50"}
+{"_id":{"$oid":"5b5840f8d51d295fa8c0981a"},"name":"URSOBILE 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.115.50"}
+{"_id":{"$oid":"5b5840fbd51d295fa8c0981b"},"name":"URSOCOL 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5840fdd51d295fa8c0981c"},"name":"URSOCOL 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b5840ffd51d295fa8c0981d"},"name":"URSOCOL SR 600mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 600mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.394.00"}
+{"_id":{"$oid":"5b584101d51d295fa8c0981e"},"name":"URSOCOL SR 450mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 450mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.300.00"}
+{"_id":{"$oid":"5b584104d51d295fa8c0981f"},"name":"URSODIL SR 500mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.479.40"}
+{"_id":{"$oid":"5b584106d51d295fa8c09820"},"name":"URSODIL Suspension 100ml","composition":"Ursodeoxycholic Acid(Ursodiol) 450mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.300.00"}
+{"_id":{"$oid":"5b584108d51d295fa8c09821"},"name":"URSODIL 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.261.00"}
+{"_id":{"$oid":"5b58410ad51d295fa8c09822"},"name":"URSODOX 250mg Syrup 100ml","composition":"Ursodeoxycholic Acid(Ursodiol) 250mg","manufacturer":"Signova Pharma Pvt Ltd","price":"Rs.285.71"}
+{"_id":{"$oid":"5b58410dd51d295fa8c09823"},"name":"URSODOX 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Signova Pharma Pvt Ltd","price":"Rs.127.00"}
+{"_id":{"$oid":"5b58410fd51d295fa8c09824"},"name":"URSODOX 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Signova Pharma Pvt Ltd","price":"Rs.272.00"}
+{"_id":{"$oid":"5b584111d51d295fa8c09825"},"name":"URSODOX SR 450mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 450mg","manufacturer":"Signova Pharma Pvt Ltd","price":"Rs.300.00"}
+{"_id":{"$oid":"5b584113d51d295fa8c09826"},"name":"URSOFORD 500mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 500mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b584115d51d295fa8c09827"},"name":"URSOFORD 300MG TABLET 10'S","composition":"URSODEOXYCHOLIC ACID(URSODIOL) 300MG","manufacturer":"Leeford Healthcare Ltd","price":"Rs.290.00"}
+{"_id":{"$oid":"5b584117d51d295fa8c09828"},"name":"URSOFORD 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b584119d51d295fa8c09829"},"name":"URSOKEM 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.231.00"}
+{"_id":{"$oid":"5b58411bd51d295fa8c0982a"},"name":"URSOKEM 600mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 600mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.247.62"}
+{"_id":{"$oid":"5b58411dd51d295fa8c0982b"},"name":"URSOKEM 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.137.50"}
+{"_id":{"$oid":"5b58411fd51d295fa8c0982c"},"name":"URSOKEM DT 75mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 75mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b584121d51d295fa8c0982d"},"name":"URSOKEM PLUS Tablet 10's","composition":"Silymarin 140mg+Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.375.00"}
+{"_id":{"$oid":"5b584123d51d295fa8c0982e"},"name":"URSOL 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b584126d51d295fa8c0982f"},"name":"URSOL 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.160.95"}
+{"_id":{"$oid":"5b584128d51d295fa8c09830"},"name":"URSOLIC 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.221.15"}
+{"_id":{"$oid":"5b58412cd51d295fa8c09831"},"name":"URSOLIC 150mg Tablet 10's","composition":"URSODEOXYCHOLIC ACID(URSODIOL) 150MG","manufacturer":"Stadmed Pvt Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b58412ed51d295fa8c09832"},"name":"URSOLIC PLUS Tablet 10's","composition":"Silymarin +Ursodeoxycholic Acid(Ursodiol) ","manufacturer":"Stadmed Pvt Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b584130d51d295fa8c09833"},"name":"URSOLID 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b584132d51d295fa8c09834"},"name":"URSOMAX 300mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 300mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.203.40"}
+{"_id":{"$oid":"5b584134d51d295fa8c09835"},"name":"URSOMAX 150mg Tablet 10's","composition":"Ursodeoxycholic Acid(Ursodiol) 150mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.113.00"}

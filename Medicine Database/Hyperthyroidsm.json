@@ -1,0 +1,15 @@
+{"_id":{"$oid":"5b584d65d51d29617389521d"},"name":"ANTI THYROX 5mg Tablet 100's","composition":"Carbimazole 5mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.192.64"}
+{"_id":{"$oid":"5b584d68d51d29617389521e"},"name":"ANTI THYROX 20mg Tablet 100's","composition":"Carbimazole 20mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.796.00"}
+{"_id":{"$oid":"5b584d69d51d29617389521f"},"name":"ANTI THYROX 10mg Tablet 100's","composition":"Carbimazole 10mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.375.20"}
+{"_id":{"$oid":"5b584d6cd51d296173895220"},"name":"LETHYROX 125mcg Tablet 100's","composition":"Thyroxine Sodium 125mcg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.155.68"}
+{"_id":{"$oid":"5b584d6ed51d296173895221"},"name":"METHIMEZ 10mg Tablet 10's","composition":"Methimazole 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.82.00"}
+{"_id":{"$oid":"5b584d70d51d296173895222"},"name":"METHIMEZ 5mg Tablet 10's","composition":"Methimazole 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.46.00"}
+{"_id":{"$oid":"5b584d72d51d296173895223"},"name":"NEO MERCAZOLE 20mg Tablet 100's","composition":"Carbimazole 20mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.879.80"}
+{"_id":{"$oid":"5b584d74d51d296173895224"},"name":"NEO MERCAZOLE 10mg Tablet 100's","composition":"Carbimazole 10mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.374.41"}
+{"_id":{"$oid":"5b584d76d51d296173895225"},"name":"NEO MERCAZOLE 5mg Tablet 100's","composition":"Carbimazole 5mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.192.18"}
+{"_id":{"$oid":"5b584d78d51d296173895226"},"name":"PTU 50mg Tablet 100's","composition":"Propylthiouracil 50mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.492.00"}
+{"_id":{"$oid":"5b584d7ad51d296173895227"},"name":"REDISPAR 2.5mcg Capsule 10's","composition":"Doxercalciferol","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b584d7cd51d296173895228"},"name":"THYROCAB 5mg Tablet 100's","composition":"Carbimazole 5mg","manufacturer":"Abbott India Ltd","price":"Rs.187.95"}
+{"_id":{"$oid":"5b584d7ed51d296173895229"},"name":"THYROCAB 10mg Tablet 100's","composition":"Carbimazole 10mg","manufacturer":"Abbott India Ltd","price":"Rs.374.41"}
+{"_id":{"$oid":"5b584d80d51d29617389522a"},"name":"THYROCAB 20mg Tablet 100's","composition":"Carbimazole 20mg","manufacturer":"Abbott India Ltd","price":"Rs.779.00"}
+{"_id":{"$oid":"5b584d82d51d29617389522b"},"name":"THYRODIP 5mg Tablet 100's","composition":"Carbimazole 5mg","manufacturer":"Lupin Ltd","price":"Rs.204.75"}

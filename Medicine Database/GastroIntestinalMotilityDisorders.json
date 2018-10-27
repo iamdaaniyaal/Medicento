@@ -1,0 +1,59 @@
+{"_id":{"$oid":"5b5847cdd51d2960bd091955"},"name":"ACIDIN Gel(ORAL) 200ml","composition":"Aluminium+Dimethicone+Magnesium+Sorbitol","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b5847cfd51d2960bd091956"},"name":"AL5ZYME Drops 15ml","composition":"Alpha Galactosidase+Diastase+Lipase+Pepsin","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.71.15"}
+{"_id":{"$oid":"5b5847d1d51d2960bd091957"},"name":"BALACOL Capsule 10's","composition":"Balsalazide","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5847d3d51d2960bd091958"},"name":"CINMOVE OD Tablet 10's","composition":"Cinitapride 3mg (OD)","manufacturer":"Cipla Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5847d5d51d2960bd091959"},"name":"CINTAFLUX Tablet 10's","composition":"Cinitapride 1mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b5847d7d51d2960bd09195a"},"name":"CINTAPRO 1mg Tablet 10's","composition":"Cinitapride 1mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.98.90"}
+{"_id":{"$oid":"5b5847d9d51d2960bd09195b"},"name":"CINTAPRO OD 3mg Tablet 10's","composition":"Cinitapride 3mg (OD)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.210.10"}
+{"_id":{"$oid":"5b5847dbd51d2960bd09195c"},"name":"CIZA 5mg Tablet 10's","composition":"Cisapride 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.27.20"}
+{"_id":{"$oid":"5b5847ded51d2960bd09195d"},"name":"CLEBOPRO Tablet 10's","composition":"Clebopride 0.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.54.90"}
+{"_id":{"$oid":"5b5847e1d51d2960bd09195e"},"name":"COLICAID Syrup 100ml","composition":"SIMETHICONE 40MG+DILL OIL 0.025ML+FENNEL OIL 0.0035ML","manufacturer":"Meyer Organics Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5847e3d51d2960bd09195f"},"name":"DOBETIC Capsule 10's","composition":"CALCIUM DOBESILATE 500MG","manufacturer":"Calren Care Lifesciences Pvt Ltd","price":"Rs.154.00"}
+{"_id":{"$oid":"5b5847e5d51d2960bd091960"},"name":"DOMSTAL BABY Drops 5ml","composition":"Domperidone","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.52.20"}
+{"_id":{"$oid":"5b5847e7d51d2960bd091961"},"name":"DOMSTAL 10mg Tablet 10's","composition":"Domperidone 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.24.49"}
+{"_id":{"$oid":"5b5847e9d51d2960bd091962"},"name":"DOMSTAL MT 10mg Tablet 10's","composition":"Domperidone 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.23.52"}
+{"_id":{"$oid":"5b5847ebd51d2960bd091963"},"name":"DOMSTAL DT 10mg Tablet 10's","composition":"Domperidone 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.24.49"}
+{"_id":{"$oid":"5b5847edd51d2960bd091964"},"name":"DOMSTAL Suspension 30ml","composition":"Domperidone 1mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.32.85"}
+{"_id":{"$oid":"5b5847efd51d2960bd091965"},"name":"DOMSTAL DT 5mg Tablet 10's","composition":"Domperidone 5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b5847f1d51d2960bd091966"},"name":"EMENIL 10mg Tablet 10's","composition":"Metoclopramide 10mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.21.48"}
+{"_id":{"$oid":"5b5847f3d51d2960bd091967"},"name":"ENTROFLORA Powder 1gm","composition":"Saccharomyces Boulardii 282.5mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b5847f5d51d2960bd091968"},"name":"GANATON 50mg Tablet 10's","composition":"Itopride 50mg","manufacturer":"Abbott India Ltd","price":"Rs.104.00"}
+{"_id":{"$oid":"5b5847f7d51d2960bd091969"},"name":"GANATON OD 150mg Capsule 10's","composition":"Itopride 150mg (OD)","manufacturer":"Abbott India Ltd","price":"Rs.313.36"}
+{"_id":{"$oid":"5b5847f9d51d2960bd09196a"},"name":"GASPAZ Capsule 10's","composition":"Domperidone+Omeprazole","manufacturer":"Biological Evans Ltd","price":"Rs.21.85"}
+{"_id":{"$oid":"5b5847fbd51d2960bd09196b"},"name":"GASPAZ 150mg Tablet 10's","composition":"DOMPERIDONE 10MG+RANITIDINE 150MG","manufacturer":"Biological Evans Ltd","price":"Rs.39.86"}
+{"_id":{"$oid":"5b5847fdd51d2960bd09196c"},"name":"GASTICA FIZ Tablet 4's","composition":"Alpha Amylase+Papain+Simethicone","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.24.00"}
+{"_id":{"$oid":"5b5847fed51d2960bd09196d"},"name":"GASTRO MPS 125/10mg Tablet 10's","composition":"Simethicone 125mg+Cisapride 10mg","manufacturer":"Cipla Ltd","price":"Rs.4.33"}
+{"_id":{"$oid":"5b584801d51d2960bd09196e"},"name":"GASTROBACT CAPSULE 10'S","composition":"Prebiotic+Probiotic+ Zinc","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.110.40"}
+{"_id":{"$oid":"5b584803d51d2960bd09196f"},"name":"GIT 50mg Tablet 10's","composition":"Itopride 50mg","manufacturer":"Kaizen Pharmaceuticals Pvt Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b584805d51d2960bd091970"},"name":"GLUTAZENE SACHET 3X0.67gm","composition":"Azulene 2.01mg","manufacturer":"Tablets India Ltd","price":"Rs.36.00"}
+{"_id":{"$oid":"5b584807d51d2960bd091971"},"name":"ITOPAN SR 40/150mg Capsule 10's","composition":"Pantoprazole 40mg+Itopride 150mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.119.52"}
+{"_id":{"$oid":"5b584809d51d2960bd091972"},"name":"ITZA 50mg Tablet 10's","composition":"Itopride 50mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.71.50"}
+{"_id":{"$oid":"5b58480bd51d2960bd091973"},"name":"ITZA OD Tablet 10's","composition":"Itopride 50mg (OD)","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b58480dd51d2960bd091974"},"name":"KINPRIDE 1mg Tablet 10's","composition":"Cinitapride 1mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.86.00"}
+{"_id":{"$oid":"5b58480fd51d2960bd091975"},"name":"KINPRIDE SR 3mg Tablet 10's","composition":"Cinitapride 3mg (SR)","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.196.50"}
+{"_id":{"$oid":"5b584811d51d2960bd091976"},"name":"LUPIDOM Tablet 10's","composition":"Domperidone","manufacturer":"Medlab Pharmaceuticals Pvt Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b584813d51d2960bd091977"},"name":"LUPIZYME PLUS PINEAPPLE FLAVOUR Syrup 200ml","composition":"Fungal Diastase 18.75mg+Pepsin 12.5mg","manufacturer":"Lupin Ltd","price":"Rs.104.00"}
+{"_id":{"$oid":"5b584815d51d2960bd091978"},"name":"METACLOPRAMIDE Injection 2ml","composition":"Metoclopramide 10mg","manufacturer":"Cipla Ltd","price":"Rs.3.75"}
+{"_id":{"$oid":"5b584817d51d2960bd091979"},"name":"METOCLOPRAMIDE 10mg Tablet 10's","composition":"Metoclopramide 10mg","manufacturer":"Cipla Ltd","price":"Rs.3.75"}
+{"_id":{"$oid":"5b58481ad51d2960bd09197a"},"name":"MOSID OD Tablet 10's","composition":"Mosapride","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.88.30"}
+{"_id":{"$oid":"5b58481cd51d2960bd09197b"},"name":"MOSID MPS Tablet 10's","composition":"Mosapride 5mg+Dimethicone 125mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.38.45"}
+{"_id":{"$oid":"5b58481ed51d2960bd09197c"},"name":"MOSID MT 5mg Tablet 10's","composition":"Mosapride 5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.42.35"}
+{"_id":{"$oid":"5b58481fd51d2960bd09197d"},"name":"MOTIZA Tablet 10's","composition":"Itopride","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.79.71"}
+{"_id":{"$oid":"5b584822d51d2960bd09197e"},"name":"MOZA 5mg Tablet 10's","composition":"Mosapride 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b584824d51d2960bd09197f"},"name":"MOZA 2.5mg Tablet 10's","composition":"Mosapride 2.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b584826d51d2960bd091980"},"name":"NUPRIDE 10mg Tablet 10's","composition":"Cisapride 10mg","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.35.94"}
+{"_id":{"$oid":"5b584828d51d2960bd091981"},"name":"O2 PRO Oral Suspension 5ml","composition":"Bacillus Clausii 2Billion Spores","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b58482ad51d2960bd091982"},"name":"OCID IT 40/150mg Capsule 10's","composition":"Omeprazole 40mg+Itopride 150mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.92.50"}
+{"_id":{"$oid":"5b58482bd51d2960bd091983"},"name":"P OD PLUS Capsule 10's","composition":"PANTOPAZOLE 40MG+DOMPERIDONE 30MG","manufacturer":"Shrrishti Health Care Products Pvt Ltd","price":"Rs.67.00"}
+{"_id":{"$oid":"5b58482dd51d2960bd091984"},"name":"PANSEC L Capsule 10's","composition":"Pantoprazole 40mg+Levosulpiride 75mg","manufacturer":"Cipla Ltd","price":"Rs.104.50"}
+{"_id":{"$oid":"5b58482fd51d2960bd091985"},"name":"PERINORM Tablet 10's","composition":"Metoclopramide 10mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.11.39"}
+{"_id":{"$oid":"5b584831d51d2960bd091986"},"name":"PERINORM CD Capsule 10's","composition":"Metoclopramide 15mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.69.50"}
+{"_id":{"$oid":"5b584832d51d2960bd091987"},"name":"PERINORM Injection 2ml","composition":"Metoclopramide 5mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.4.76"}
+{"_id":{"$oid":"5b584834d51d2960bd091988"},"name":"PERINORM Injection 10ml","composition":"Metoclopramide 5mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.14.45"}
+{"_id":{"$oid":"5b584836d51d2960bd091989"},"name":"PERINORM Syrup 30ml","composition":"Metoclopramide 5mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.12.99"}
+{"_id":{"$oid":"5b584838d51d2960bd09198a"},"name":"PROCILLUS Granules 1gm","composition":"Bacillus Clausii 2Billion Spores","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.27.50"}
+{"_id":{"$oid":"5b584839d51d2960bd09198b"},"name":"PROCILLUS Oral Suspension 5ml","composition":"Bacillus Clausii 2Billion Spores","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.27.50"}
+{"_id":{"$oid":"5b58483bd51d2960bd09198c"},"name":"PRODOM Tablet 10's","composition":"Domperidone 10mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.20.00"}
+{"_id":{"$oid":"5b58483dd51d2960bd09198d"},"name":"PROGERMINA Suspension 5ml","composition":"Bacillus Clausii 2Billion Spores","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.29.90"}
+{"_id":{"$oid":"5b58483ed51d2960bd09198e"},"name":"RAIM 30mg Capsule 10's","composition":"DOMPERIDONE 10MG+OMEPRAZOLE 20MG","manufacturer":"Helios Pharmaceuticals","price":"Rs.44.73"}
+{"_id":{"$oid":"5b584840d51d2960bd09198f"},"name":"TUMSUP Drops 30ml","composition":"Dill Oil 0.5mg+Fennel Oil 0.7mg+Simethicone 40mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.6.94"}

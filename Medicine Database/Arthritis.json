@@ -1,0 +1,178 @@
+{"_id":{"$oid":"5b583a0fd51d295f31bb3f9f"},"name":"ACTEMRA 400mg Injection 1's","composition":"Tocilizumab 400mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.40,600.00"}
+{"_id":{"$oid":"5b583a11d51d295f31bb3fa0"},"name":"ACTEMRA 80mg Injection 1's","composition":"Tocilizumab 80mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.8,112.00"}
+{"_id":{"$oid":"5b583a12d51d295f31bb3fa1"},"name":"ACTEMRA 200mg Injection 1's","composition":"Tocilizumab 200mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.20,436.00"}
+{"_id":{"$oid":"5b583a14d51d295f31bb3fa2"},"name":"ACTIS C2 Tablet 10's","composition":"Collagen Peptide 300mg+Glucosamine 750mg+Methyl Sulfonyl Methane 200mg+Sodium Hyaluronate 10mg+Vitamin C 35mg+Vitamin D3 25mcg","manufacturer":"Pharmed Limited","price":"Rs.214.00"}
+{"_id":{"$oid":"5b583a16d51d295f31bb3fa3"},"name":"ARAMACT 100mg Tablet 10's","composition":"Actarit 100mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b583a1ad51d295f31bb3fa4"},"name":"ARAVA 10mg Tablet 30's","composition":"Leflunomide","manufacturer":"Sanofi India Ltd","price":"Rs.292.95"}
+{"_id":{"$oid":"5b583a1cd51d295f31bb3fa5"},"name":"ARAVA 20mg Tablet 30's","composition":"LEFLUNOMIDE","manufacturer":"Sanofi India Ltd","price":"Rs.571.10"}
+{"_id":{"$oid":"5b583a1ed51d295f31bb3fa6"},"name":"ARTH 500/400mg Tablet 10's","composition":"Glucosamine 500mg+Chondroitin 400mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b583a20d51d295f31bb3fa7"},"name":"ARTHOCERIN G Tablet 10's","composition":"Diacerein+Glucosamine+Methyl Sulfonyl Methane(Msm)","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.128.00"}
+{"_id":{"$oid":"5b583a22d51d295f31bb3fa8"},"name":"ARTHRELLA Ointment 30gm","composition":"Ayurvedic Product","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b583a24d51d295f31bb3fa9"},"name":"ARTHROMUV Capsule 10's","composition":"Diacerein 50mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.47.62"}
+{"_id":{"$oid":"5b583a24d51d295f31bb3faa"},"name":"ARTILAGE Tablet 10's","composition":"Diacerein+Glucosamine Sulphate+Methyl Sulfonyl Methane","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.183.02"}
+{"_id":{"$oid":"5b583a25d51d295f31bb3fab"},"name":"BESTLIN Liniment 60ml","composition":"Ayurvedic","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.114.00"}
+{"_id":{"$oid":"5b583a27d51d295f31bb3fac"},"name":"BIOJOYNT Tablet 10's","composition":"Diacerein 50mg+Glucosamine Sulphate 750mg+Methyl Sulfonyl Methane 250mg","manufacturer":"Biovitamins Pvt Ltd","price":"Rs.127.00"}
+{"_id":{"$oid":"5b583a29d51d295f31bb3fad"},"name":"BIOQUIN 200mg Tablet 10's","composition":"Hydroxychloroquine 200mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.65.92"}
+{"_id":{"$oid":"5b583a2bd51d295f31bb3fae"},"name":"BLAZTERE 4mg Injection 1's","composition":"ZOLEDRONATE 4MG","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.3,212.00"}
+{"_id":{"$oid":"5b583a2dd51d295f31bb3faf"},"name":"BONHEAL 250mg Syrup 200ml","composition":"Cissus Quadrangularis 250mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.28.00"}
+{"_id":{"$oid":"5b583a2fd51d295f31bb3fb0"},"name":"BONHEAL MAX Tablet 10's","composition":"Cissus Quadrangularis 500mg+Elemental Calcium 250mg+Vitamin D3 1000IU","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b583a31d51d295f31bb3fb1"},"name":"CARTIDIN 50mg Capsule 10's","composition":"Diacerein 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.89.25"}
+{"_id":{"$oid":"5b583a32d51d295f31bb3fb2"},"name":"CARTIGEN DN Tablet 10's","composition":"Diacerein+Glucosamine+Methyl Sulfonyl Methane","manufacturer":"Pharmed Limited","price":"Rs.204.00"}
+{"_id":{"$oid":"5b583a34d51d295f31bb3fb3"},"name":"CARTISAFE D Tablet 10's","composition":"Diacerein+Glucosamine Sulphate+Methyl Sulfonyl Methane","manufacturer":"Jenburkt Pharmaceuticals Ltd","price":"Rs.174.00"}
+{"_id":{"$oid":"5b583a36d51d295f31bb3fb4"},"name":"CARTISAFE D OD Tablet 10's","composition":"Diacerein+Glucosamine Sulphate+Methyl Sulfonyl Methane","manufacturer":"Jenburkt Pharmaceuticals Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b583a38d51d295f31bb3fb5"},"name":"CARTIZOX Tablet 10's","composition":"Diacerein+Glucosamine Sulphate+Methyl Sulfonyl Methane","manufacturer":"Aretaeus Pharmaceuticals Pvt Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b583a3ad51d295f31bb3fb6"},"name":"CELEDOL 200mg Capsule 10's","composition":"Celecoxib 200mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.61.60"}
+{"_id":{"$oid":"5b583a3cd51d295f31bb3fb7"},"name":"CELEDOL 100mg Capsule 10's","composition":"Celecoxib 100mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.39.16"}
+{"_id":{"$oid":"5b583a3ed51d295f31bb3fb8"},"name":"CERIN 50mg Capsule 10's","composition":"Diacerein 50mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.82.00"}
+{"_id":{"$oid":"5b583a40d51d295f31bb3fb9"},"name":"CERTANE FORTE 25mg Tablet 10's","composition":"Rofecoxib 25mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.29.00"}
+{"_id":{"$oid":"5b583a43d51d295f31bb3fba"},"name":"CILAMIN 250mg Capsule 10's","composition":"Penicillamine 250mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.146.30"}
+{"_id":{"$oid":"5b583a47d51d295f31bb3fbb"},"name":"CLEFT 10mg Tablet 10's","composition":"Leflunomide","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.101.80"}
+{"_id":{"$oid":"5b583a49d51d295f31bb3fbc"},"name":"CLEFT 20mg Tablet 10's","composition":"Leflunomide 20mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.190.36"}
+{"_id":{"$oid":"5b583a4bd51d295f31bb3fbd"},"name":"COLLASHOT 10gm Oral Solution 25ml","composition":"COLLAGEN PEPTIDE 10GM","manufacturer":"Innovcare Lifesciences Pvt Ltd","price":"Rs.74.50"}
+{"_id":{"$oid":"5b583a4dd51d295f31bb3fbe"},"name":"CQ HEAL 500mg Capsule 10's","composition":"Cissus Quadrangularis 500mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b583a4fd51d295f31bb3fbf"},"name":"DECERIN CM Tablet 10's","composition":"Cetyl Myristoleate+Diacerein+Glucosamine+Methyl Sulfonyl Methane(Msm)","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.159.00"}
+{"_id":{"$oid":"5b583a51d51d295f31bb3fc0"},"name":"DFRIZ Tablet 10's","composition":"Diacerein 50mg+Glucosamine 750mg+Methyl Sulfonyl Methane(Msm) 250mg","manufacturer":"Sinsan Pharmaceuticals Pvt Ltd","price":"Rs.132.00"}
+{"_id":{"$oid":"5b583a53d51d295f31bb3fc1"},"name":"DG 3 Tablet 10's","composition":"Diacerein 50mg+Glucosamine 750mg+Methyl Sulfonyl Methane(Msm) 250mg","manufacturer":"Race Pharmaceuticals Pvt Ltd","price":"Rs.164.45"}
+{"_id":{"$oid":"5b583a55d51d295f31bb3fc2"},"name":"Dgm PLUS CAPSULE 10's","composition":"Diacerein+Glucosamine Sulphate+Methyl Sulfonyl Methane","manufacturer":"Capital Pharma","price":"Rs.189.00"}
+{"_id":{"$oid":"5b583a57d51d295f31bb3fc3"},"name":"DIAJOINT 50mg Tablet 10's","composition":"Diacerein 50mg","manufacturer":"Meyer Organics Ltd","price":"Rs.79.50"}
+{"_id":{"$oid":"5b583a59d51d295f31bb3fc4"},"name":"DIAJOINT Tablet 10's","composition":"Diacerein 50mg","manufacturer":"Meyer Organics Ltd","price":"Rs.75.90"}
+{"_id":{"$oid":"5b583a5bd51d295f31bb3fc5"},"name":"DIAL PLUS Capsule 10's","composition":"Diacerein+Glucosamine Sulphate+Methyl Sulfonyl Methane(Msm)","manufacturer":"Alka Pharmaceuticals","price":"Rs.39.90"}
+{"_id":{"$oid":"5b583a5bd51d295f31bb3fc6"},"name":"DIASOL 50mg Capsule 10's","composition":"Diacerein 50mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.50.47"}
+{"_id":{"$oid":"5b583a5dd51d295f31bb3fc7"},"name":"DIASTEN gm 500/50/250mg Tablet 10's","composition":"Diacerein 50mg+Glucosamine 500mg+Methyl Sulfonyl Methane 250mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b583a5fd51d295f31bb3fc8"},"name":"DISTAMIN 250mg Capsule 10's","composition":"Penicillamine 250mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.1,240.20"}
+{"_id":{"$oid":"5b583a61d51d295f31bb3fc9"},"name":"DURAJOINT 50mg Capsule 10's","composition":"Diacerein 50mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.91.00"}
+{"_id":{"$oid":"5b583a63d51d295f31bb3fca"},"name":"DURAJOINT gm Tablet 10's","composition":"Diacerein 50mg+Glucosamine 750mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.168.50"}
+{"_id":{"$oid":"5b583a64d51d295f31bb3fcb"},"name":"DYCERIN A Tablet 10's","composition":"Aceclofenac 100mg+Diacerein 50mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.206.00"}
+{"_id":{"$oid":"5b583a66d51d295f31bb3fcc"},"name":"DYCERIN 50mg Capsule 10's","composition":"Diacerein 50mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.111.00"}
+{"_id":{"$oid":"5b583a67d51d295f31bb3fcd"},"name":"DYCERIN gm Tablet 10's","composition":"Diacerein 50mg+Glucosamine 500mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.228.00"}
+{"_id":{"$oid":"5b583a69d51d295f31bb3fce"},"name":"ELJOINT Capsule 10's","composition":"Chondroitin+Glucosamine","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b583a6bd51d295f31bb3fcf"},"name":"EltrODAR Capsule 10's","composition":"Diacerein 50mg","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.106.70"}
+{"_id":{"$oid":"5b583a6dd51d295f31bb3fd0"},"name":"ENDEAVOURS MIO FREE 4mg Tablet 10's","composition":"THIOCOLCHICOSIDE 4MG","manufacturer":"Lupin Ltd","price":"Rs.106.65"}
+{"_id":{"$oid":"5b583a6fd51d295f31bb3fd1"},"name":"ESPIDASE 5mg Tablet 10's","composition":"Serratiopeptidase 5mg","manufacturer":"Others","price":"Rs.49.50"}
+{"_id":{"$oid":"5b583a71d51d295f31bb3fd2"},"name":"ETOFLU ER Tablet 10's","composition":"Etodolac","manufacturer":"Auftritt Healthcare Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b583a73d51d295f31bb3fd3"},"name":"ETOFORD 120mg Tablet 10's","composition":"Etoricoxib 120mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b583a75d51d295f31bb3fd4"},"name":"ETOFREE 400mg Tablet 10's","composition":"Etodolac 400mg","manufacturer":"Lupin Ltd","price":"Rs.67.50"}
+{"_id":{"$oid":"5b583a77d51d295f31bb3fd5"},"name":"ETOFREE ER 600mg Tablet 10's","composition":"Etodolac 600mg (ER)","manufacturer":"Lupin Ltd","price":"Rs.150.10"}
+{"_id":{"$oid":"5b583a79d51d295f31bb3fd6"},"name":"ETOFREE P Tablet 10's","composition":"Etodolac 400mg+Paracetamol 500mg","manufacturer":"Lupin Ltd","price":"Rs.85.50"}
+{"_id":{"$oid":"5b583a7ad51d295f31bb3fd7"},"name":"ETOGESIC MR 8mg Tablet 10's","composition":"Etodolac 8mg+Thiocolchicoside Na","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.160.70"}
+{"_id":{"$oid":"5b583a7cd51d295f31bb3fd8"},"name":"ETOGESIC ER 600mg Tablet 10's","composition":"Etodolac 600mg (ER)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.148.70"}
+{"_id":{"$oid":"5b583a7dd51d295f31bb3fd9"},"name":"ETOGESIC MR 4mg Tablet 10's","composition":"Etodolac 400mg+Thiocolchicoside 4mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.176.60"}
+{"_id":{"$oid":"5b583a7fd51d295f31bb3fda"},"name":"ETOGESIC 400mg Tablet 10's","composition":"Etodolac 400mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.66.90"}
+{"_id":{"$oid":"5b583a81d51d295f31bb3fdb"},"name":"ETOLIFE 400mg Tablet 10's","composition":"Etodolac 400mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.49.00"}
+{"_id":{"$oid":"5b583a83d51d295f31bb3fdc"},"name":"ETOLOAD ER 400mg Tablet 10's","composition":"Etodolac 400mg (ER)","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b583a85d51d295f31bb3fdd"},"name":"ETOMAX 400mg Tablet 10's","composition":"Etodolac 400mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.78.65"}
+{"_id":{"$oid":"5b583a87d51d295f31bb3fde"},"name":"ETORNEXT ER 600mg Tablet 10's","composition":"Etodolac 600mg (ER)","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.151.00"}
+{"_id":{"$oid":"5b583a89d51d295f31bb3fdf"},"name":"ETOSAFE ER Tablet 10's","composition":"Etodolac 600mg (ER)","manufacturer":"Wanbury Ltd","price":"Rs.148.90"}
+{"_id":{"$oid":"5b583a8bd51d295f31bb3fe0"},"name":"ETOVA MR 400/4mg Tablet 10's","composition":"Etodolac 400mg+Thiocolchicoside 4mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.189.75"}
+{"_id":{"$oid":"5b583a8dd51d295f31bb3fe1"},"name":"ETOVA 300mg Tablet 10's","composition":"Etodolac 300mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.60.00"}
+{"_id":{"$oid":"5b583a8ed51d295f31bb3fe2"},"name":"ETOVA MR FORTE Tablet 10's","composition":"Etodolac 400mg+Thiocolchicoside 8mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.249.15"}
+{"_id":{"$oid":"5b583a90d51d295f31bb3fe3"},"name":"ETOVA ER 600mg Tablet 10's","composition":"Etodolac 600mg (ER)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.146.30"}
+{"_id":{"$oid":"5b583a92d51d295f31bb3fe4"},"name":"ETOVA 200mg Tablet 10's","composition":"Etodolac 200mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.42.00"}
+{"_id":{"$oid":"5b583a96d51d295f31bb3fe5"},"name":"ETOVA 400mg Tablet 10's","composition":"Etodolac 400mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.72.60"}
+{"_id":{"$oid":"5b583a98d51d295f31bb3fe6"},"name":"ETOVA ER 400mg Tablet 10's","composition":"Etodolac 400mg (ER)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.108.80"}
+{"_id":{"$oid":"5b583a9ad51d295f31bb3fe7"},"name":"ETURA P Tablet 10's","composition":"Etodolac 300mg+Paracetamol 500mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b583a9cd51d295f31bb3fe8"},"name":"FITJOINT Capsule 10's","composition":"Diacerein","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.139.50"}
+{"_id":{"$oid":"5b583a9ed51d295f31bb3fe9"},"name":"FLEXTOR 50mg Capsule 10's","composition":"Diacerein 50mg","manufacturer":"Aksigen Pharmaceuticals Pvt Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b583aa0d51d295f31bb3fea"},"name":"FREEUP 400mg Tablet 10's","composition":"Etodolac 400mg","manufacturer":"Universal Medicare Pvt Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b583aa2d51d295f31bb3feb"},"name":"FREEUP ER Tablet 10's","composition":"Etodolac","manufacturer":"Universal Medicare Pvt Ltd","price":"Rs.109.00"}
+{"_id":{"$oid":"5b583aa4d51d295f31bb3fec"},"name":"GEMCERIN 50mg Tablet 10's","composition":"Diacerein 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.133.00"}
+{"_id":{"$oid":"5b583aa6d51d295f31bb3fed"},"name":"GEMCERIN 50mg Capsule 10's","composition":"Glucosamine 750mg+Diacerein 50mg+Msm 200mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b583aa8d51d295f31bb3fee"},"name":"GEMCERIN G Tablet 10's","composition":"Glucosamine 750mg+Diacerein 50mg+Msm 200mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b583aaad51d295f31bb3fef"},"name":"GENCART Tablet 10's","composition":"Diacerein+Glucosamine+Methyl Sulfonyl Methane(Msm)","manufacturer":"Oaknet Healthcare Pvt Ltd","price":"Rs.146.29"}
+{"_id":{"$oid":"5b583aaad51d295f31bb3ff0"},"name":"GENCART 500mg Tablet 10's","composition":"Glucosamine 500mg","manufacturer":"Cosme Farma Laboratories Ltd","price":"Rs.146.29"}
+{"_id":{"$oid":"5b583aacd51d295f31bb3ff1"},"name":"GLUCOZONE Tablet 10's","composition":"Glucosamine 750mg+Diacerein 50mg+Methyl Sulfonyl Methane 250mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b583aaed51d295f31bb3ff2"},"name":"GOLSALIC Tablet 10's","composition":"Boswellin+Chondroitin Sulfate+Curcumin+Glucosamine+Hyaluronic Acid+Methylsulfonylmethane","manufacturer":"Golgi Usa Research Laboratories Ltd","price":"Rs.189.00"}
+{"_id":{"$oid":"5b583ab0d51d295f31bb3ff3"},"name":"GUDCERIN 50mg Capsule 10's","composition":"Diacerein 50mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.99.90"}
+{"_id":{"$oid":"5b583ab2d51d295f31bb3ff4"},"name":"HA KEM Injection","composition":"Sodium Hyaluronate(Hylan Gf 20)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.17,300.00"}
+{"_id":{"$oid":"5b583ab4d51d295f31bb3ff5"},"name":"HALONIX ONE Injection(PFS) 6ml","composition":"Sodium Hyaluronate(Hylan Gf 20)","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.13,000.00"}
+{"_id":{"$oid":"5b583ab6d51d295f31bb3ff6"},"name":"HALONIX Injection (PFS) 1ml","composition":"Sodium Hyaluronate(Hylan Gf 20)","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.1,595.00"}
+{"_id":{"$oid":"5b583ab7d51d295f31bb3ff7"},"name":"HILIN gm Tablet 10's","composition":"Diacerein+Glucosamine","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.143.00"}
+{"_id":{"$oid":"5b583ab9d51d295f31bb3ff8"},"name":"HILIN 50mg Capsule 10's","composition":"Diacerein 50mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b583abbd51d295f31bb3ff9"},"name":"HILIN ACE Tablet 10's","composition":"Aceclofenac+Diacerein","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.105.50"}
+{"_id":{"$oid":"5b583abed51d295f31bb3ffa"},"name":"HILIN PLUS Capsule 10's","composition":"Glucosamine 750mg+Diacerein 50mg+Msm 200mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.95.23"}
+{"_id":{"$oid":"5b583ac0d51d295f31bb3ffb"},"name":"HYALONE 60mg Injection 4ml","composition":"Hyaluronic Acid 60mg","manufacturer":"Lupin Ltd","price":"Rs.16,470.00"}
+{"_id":{"$oid":"5b583ac1d51d295f31bb3ffc"},"name":"HYLASTO ONE Injection(PFS) 6ml","composition":"Sodium Hyaluronate 48mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.6,499.00"}
+{"_id":{"$oid":"5b583ac3d51d295f31bb3ffd"},"name":"HYTASONE 8mg Injection(Pfs) 6ml","composition":"HYALURONIC ACID 8MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.10,714.00"}
+{"_id":{"$oid":"5b583ac5d51d295f31bb3ffe"},"name":"IAL SYSTEM Injection(PFS) 1.1ml","composition":"Hyaluronic Acid","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.12,550.00"}
+{"_id":{"$oid":"5b583ac7d51d295f31bb3fff"},"name":"JOINCERIN M Tablet 10's","composition":"Diacerein 50mg+Glucosamine 750mg+Methyl Sulfonyl Methane(Msm) 250mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.156.10"}
+{"_id":{"$oid":"5b583ac8d51d295f31bb4000"},"name":"JOINTACE DN Tablet 15's","composition":"Diacerein+Glucosamine Sulphate+Methyl Sulfonyl Methane","manufacturer":"Meyer Organics Ltd","price":"Rs.280.00"}
+{"_id":{"$oid":"5b583acad51d295f31bb4001"},"name":"JOINTACE DN SUPER Tablet 10's","composition":"Diacerein+Glucosamine","manufacturer":"Meyer Organics Ltd","price":"Rs.241.50"}
+{"_id":{"$oid":"5b583accd51d295f31bb4002"},"name":"JOINTACE BS 750/250/250mg Tablet 15's","composition":"Glucosamine 750mg+Diacerein 50mg+Msm 200mg","manufacturer":"Meyer Organics Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b583aced51d295f31bb4003"},"name":"JOINTACE DN 750/50/200mg Tablet 10's","composition":"Glucosamine 750mg+Diacerein 50mg+Msm 200mg","manufacturer":"Meyer Organics Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b583ad0d51d295f31bb4004"},"name":"JOINTACE FORTE 750/400mg Tablet 30's","composition":"Glucosamine 750mg+Chondroitin 400mg","manufacturer":"Meyer Organics Ltd","price":"Rs.646.25"}
+{"_id":{"$oid":"5b583ad2d51d295f31bb4005"},"name":"JOINTACE FORTE 400mg Tablet 6's","composition":"Glucosamine 750mg+Chondroitin 400mg","manufacturer":"Meyer Organics Ltd","price":"Rs.129.25"}
+{"_id":{"$oid":"5b583ad4d51d295f31bb4006"},"name":"JOINTACE PLUS Tablet 15's","composition":"Glucosamine 750mg+Diacerein 50mg+Msm 200mg","manufacturer":"Meyer Organics Ltd","price":"Rs.79.17"}
+{"_id":{"$oid":"5b583ad5d51d295f31bb4007"},"name":"KONDRO ACUTE Tablet 10's","composition":"Diacerein+Glucosamine","manufacturer":"Panacea Biotec Ltd","price":"Rs.271.40"}
+{"_id":{"$oid":"5b583ad6d51d295f31bb4008"},"name":"KONDRO CERIN 50mg Tablet 10's","composition":"Diacerein 50mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b583ad8d51d295f31bb4009"},"name":"KOXIFLAM 12.5mg Tablet 10's","composition":"Rofecoxib 12.5mg","manufacturer":"Biological Evans Ltd","price":"Rs.6.50"}
+{"_id":{"$oid":"5b583adad51d295f31bb400a"},"name":"LEFNO 10mg Tablet 10's","composition":"Lefulnomide 10mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.105.28"}
+{"_id":{"$oid":"5b583adcd51d295f31bb400b"},"name":"LEFNO 20mg Tablet 10's","composition":"Lefulnomide 20mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.198.57"}
+{"_id":{"$oid":"5b583aded51d295f31bb400c"},"name":"LEFNO 5mg Tablet 10's","composition":"Leflunomide 5mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.98.16"}
+{"_id":{"$oid":"5b583ae0d51d295f31bb400d"},"name":"LEFRA 20mg Tablet 10's","composition":"Lefulnomide 20mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.198.57"}
+{"_id":{"$oid":"5b583ae2d51d295f31bb400e"},"name":"LEFRA 10mg Tablet 10's","composition":"Lefulnomide 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.101.81"}
+{"_id":{"$oid":"5b583ae4d51d295f31bb400f"},"name":"LEFUMA 10mg Tablet 10's","composition":"Leflunomide","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b583ae6d51d295f31bb4010"},"name":"LEFUMA 20mg Tablet 10's","composition":"Lefulnomide 20mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.191.66"}
+{"_id":{"$oid":"5b583ae7d51d295f31bb4011"},"name":"LEFUMIDE 10mg Tablet 10's","composition":"Lefulnomide 10mg","manufacturer":"Cipla Ltd","price":"Rs.105.28"}
+{"_id":{"$oid":"5b583ae9d51d295f31bb4012"},"name":"LEFUMIDE 20mg Tablet 10's","composition":"Lefulnomide 20mg","manufacturer":"Cipla Ltd","price":"Rs.198.58"}
+{"_id":{"$oid":"5b583aead51d295f31bb4013"},"name":"LUBRIJOINT Tablet 60's","composition":"Diacerein+Glucosamine+Methyl Sulfonyl Methane(Msm)","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.285.05"}
+{"_id":{"$oid":"5b583aecd51d295f31bb4014"},"name":"LUBRIJOINT PLUS Tablet 60's","composition":"Glucosamine 444mg+Methyl Sulfonyl Methane 200mg+Zinc 3mg+Manganese 2.5mg+Boron 0.5mg+Copper 0.5mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.371.00"}
+{"_id":{"$oid":"5b583aeed51d295f31bb4015"},"name":"LUBRIONE 20mg Injection(Pfs) 1's","composition":"Hyaluronic Acid 20mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.16,500.00"}
+{"_id":{"$oid":"5b583af0d51d295f31bb4016"},"name":"LUBRY gm Tablet 10's","composition":"Diacerein 50mg+Glucosamine 750mg+Methyl Sulfonyl Methane 250mg","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.160.50"}
+{"_id":{"$oid":"5b583af2d51d295f31bb4017"},"name":"MACVESTIN PLUS SACHET 15gm","composition":"Chondroitin+Collagen+Msm+Sodium Hyaluronate+Univestin","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b583af4d51d295f31bb4018"},"name":"MAXCEPROL CAPSULE 10'S","composition":"OXACEPROL 200MG","manufacturer":"Lupin Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b583af5d51d295f31bb4019"},"name":"MOBIGOLD DGM Capsule 10's","composition":"DIACEREIN 0+GLUCOSAMINE SULPHATE 0+METHYL SULFONYL METHANE 0","manufacturer":"Alkem Laboratories Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b583af7d51d295f31bb401a"},"name":"NEXRIN PLUS Tablet 10's","composition":"Diacerein+Glucosamine","manufacturer":"Zee Laboratories Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b583af9d51d295f31bb401b"},"name":"NUROKIND ORTHO Tablet 10's","composition":"Glucosamine 750mg+Diacerein 50mg+Msm 200mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b583afbd51d295f31bb401c"},"name":"NUROKIND ORTHO Tablet 6's","composition":"Glucosamine 750mg+Diacerein 50mg+Msm 200mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.66.66"}
+{"_id":{"$oid":"5b583afcd51d295f31bb401d"},"name":"ORCERIN 50mg Capsule 10's","composition":"Diacerein 50mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.96.40"}
+{"_id":{"$oid":"5b583afdd51d295f31bb401e"},"name":"ORCERIN gm Tablet 10's","composition":"Diacerein 50mg+Glucosamine 750mg+Methyl Sulfonyl Methane(Msm) 250mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.198.00"}
+{"_id":{"$oid":"5b583affd51d295f31bb401f"},"name":"ORTHOKIND 200mg Tablet 10's","composition":"Hydroxychloroquine 200mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.69.90"}
+{"_id":{"$oid":"5b583b01d51d295f31bb4020"},"name":"ORTHOLIX OD Tablet 10's","composition":"Diacerein 150mg+Glucosamine 50mg (OD)","manufacturer":"Strides Shasun Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b583b03d51d295f31bb4021"},"name":"ORTHOMIN D Tablet 10's","composition":"Diacerein+Glucosamine+Methylsulfonylmethane","manufacturer":"Biogenics India Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b583b05d51d295f31bb4022"},"name":"ORTHOWOCK Tablet 10's","composition":"Glucosamine 750mg+Diacerein 50mg+Methyl Sulfonyl Methane 250mg","manufacturer":"Wockhardt Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b583b07d51d295f31bb4023"},"name":"OSICARE PLUS Tablet 10's","composition":"Diacerein 50mg+Glucosamine 443.9mg","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b583b09d51d295f31bb4024"},"name":"OSTEASE 50mg Tablet 10's","composition":"Diacerein 50mg","manufacturer":"Maneesh Pharmaceuticals Ltd","price":"Rs.75.96"}
+{"_id":{"$oid":"5b583b0bd51d295f31bb4025"},"name":"OSTEASE PLUS 50/750mg Tablet 10's","composition":"Diacerein 50mg+Glucosamine 750mg","manufacturer":"Maneesh Pharmaceuticals Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b583b0dd51d295f31bb4026"},"name":"OSTIGARD 100mg Capsule 10's","composition":"Celecoxib 100mg+Diacerein 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.111.50"}
+{"_id":{"$oid":"5b583b0fd51d295f31bb4027"},"name":"OSTIGARD 200mg Capsule 10's","composition":"Celecoxib 200mg+Diacerein 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.114.70"}
+{"_id":{"$oid":"5b583b10d51d295f31bb4028"},"name":"OSTOGARD 50mg Capsule 10's","composition":"Diacerein 50mg","manufacturer":"Micro Labs Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b583b12d51d295f31bb4029"},"name":"OSTOLIEF Tablet 30's","composition":"Ayurvedic ","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b583b14d51d295f31bb402a"},"name":"OSTOMOD 50mg Capsule 10's","composition":"Diacerein 50mg","manufacturer":"Cipla Ltd","price":"Rs.56.25"}
+{"_id":{"$oid":"5b583b16d51d295f31bb402b"},"name":"OSTOVIT DM Tablet 10's","composition":"Diacerein 50mg+Glucosamine 750mg+Methyl Sulfonyl Methane(Msm) 250mg","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b583b18d51d295f31bb402c"},"name":"PENICITIN 250mg Capsule 10's","composition":"Penicillamine 250mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.141.64"}
+{"_id":{"$oid":"5b583b1ad51d295f31bb402d"},"name":"PROXYM Gel 30gm","composition":"S Etodolac+Camphor+ Menthol+Methyl Salicylate+Linseed Oil","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.131.30"}
+{"_id":{"$oid":"5b583b1cd51d295f31bb402e"},"name":"PROXYM 300mg Tablet 10's","composition":"S Etodolac 300mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.214.30"}
+{"_id":{"$oid":"5b583b1ed51d295f31bb402f"},"name":"PROXYM 200mg Tablet 10's","composition":"S ETODOLAC 200MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.163.90"}
+{"_id":{"$oid":"5b583b1fd51d295f31bb4030"},"name":"PROXYM MR FORTE Tablet 10's","composition":"Etodolac+Thiocolchicoside","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b583b21d51d295f31bb4031"},"name":"RECART PLUS Tablet 10's","composition":"Glucosamine 750mg+Diacerein 50mg+Methyl Sulfonyl Methane 250mg","manufacturer":"Cachet Pharmaceuticals Pvt Ltd","price":"Rs.137.44"}
+{"_id":{"$oid":"5b583b23d51d295f31bb4032"},"name":"RECARTIX PLUS Tablet 10's","composition":"Diacerein+Glucosamine Sulphate+Methyl Sulfonyl Methane","manufacturer":"Comed Chemicals Pvt Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b583b26d51d295f31bb4033"},"name":"REFLEX Powder 3.6gm","composition":"Rosehip 3.6gm","manufacturer":"Fulllife Healthcare Pvt Ltd","price":"Rs.36.00"}
+{"_id":{"$oid":"5b583b27d51d295f31bb4034"},"name":"REPARE 750/250mg Capsule 6's","composition":"Glucosamine 750mg+Diacerein 50mg+Msm 200mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.39.22"}
+{"_id":{"$oid":"5b583b29d51d295f31bb4035"},"name":"RUMALEF 20mg Tablet 10's","composition":"Leflunomide 20mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.135.15"}
+{"_id":{"$oid":"5b583b2bd51d295f31bb4036"},"name":"RUMALEF 10mg Tablet 30's","composition":"Lefulnomide 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.229.23"}
+{"_id":{"$oid":"5b583b2dd51d295f31bb4037"},"name":"RUMALEF 20mg Tablet 30's","composition":"Lefulnomide 20mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.443.21"}
+{"_id":{"$oid":"5b583b30d51d295f31bb4038"},"name":"RUMALEF 100mg Tablet 3's","composition":"Lefulnomide 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.177.00"}
+{"_id":{"$oid":"5b583b34d51d295f31bb4039"},"name":"RUMALEF 10mg Tablet 10's","composition":"Leflunomide 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.63.52"}
+{"_id":{"$oid":"5b583b36d51d295f31bb403a"},"name":"SETOLAC ER 300mg Tablet 10's","composition":"Etodolac 300mg (ER)","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.186.00"}
+{"_id":{"$oid":"5b583b38d51d295f31bb403b"},"name":"SPON 50mg Tablet 10's","composition":"Diacerein 50mg+Glucosamine 750mg+Methyl Sulfonyl Methane(Msm) 200mg","manufacturer":"Icarus Health Care Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b583b39d51d295f31bb403c"},"name":"SPON 50mg Capsule 10's","composition":"Diacerein 50mg+Glucosamine 750mg+Sulphacetamide 200mg","manufacturer":"Icarus Health Care Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b583b3ad51d295f31bb403d"},"name":"TENDOCARE Tablet 15's","composition":"Chondroitin 200mg+Collagen 40mg+Sodium Hyaluronate 30mg+Vitamin C 35mg","manufacturer":"Pharmed Limited","price":"Rs.275.00"}
+{"_id":{"$oid":"5b583b3cd51d295f31bb403e"},"name":"TENDOFIRM Capsule 15's","composition":"Chondroitin 100mg+Collagen 200mg+Hyaluronic Acid 75mg+Mucopolysaccharide Polysulphate 50","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.262.50"}
+{"_id":{"$oid":"5b583b3ed51d295f31bb403f"},"name":"TENDOFIT Tablet 15's","composition":"Chondroitin Sulfate+Collagen Peptide+Sodium Hyaluronate+Vitamin C","manufacturer":"Pharmed Limited","price":"Rs.275.00"}
+{"_id":{"$oid":"5b583b41d51d295f31bb4040"},"name":"TENDOKING Tablet 15's","composition":"Collagen Peptide 40mg+Rosehip Extract 50mg+Sodium Hyaluronate 30mg+Vitamin C 35mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b583b42d51d295f31bb4041"},"name":"TENDONEX Capsule 10's","composition":"Chondroitin Sulfate+Collagen Peptide+Rose Hip Extract+Sodium Hyaluronate+Vitamin C","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.249.00"}
+{"_id":{"$oid":"5b583b44d51d295f31bb4042"},"name":"TOLDIN ER 600mg Tablet 10's","composition":"Etodolac 600mg (ER)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.131.00"}
+{"_id":{"$oid":"5b583b46d51d295f31bb4043"},"name":"TOLDIN 400mg Tablet 10's","composition":"Etodolac 400mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.65.90"}
+{"_id":{"$oid":"5b583b48d51d295f31bb4044"},"name":"TOVOK Tablet 10's","composition":"Diacerein+Glucosamine Sulphate+Methyl Sulfonyl Methane","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.179.00"}
+{"_id":{"$oid":"5b583b4ad51d295f31bb4045"},"name":"UNIJOINT DN Tablet 10's","composition":"Diacerein+Glucosamine+Methylsulfonylmethane","manufacturer":"Roman Health Care Pvt Ltd","price":"Rs.169.00"}
+{"_id":{"$oid":"5b583b4bd51d295f31bb4046"},"name":"UNIWALK 300mg Capsule 10's","composition":"Uniflexin 300mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.139.00"}
+{"_id":{"$oid":"5b583b4dd51d295f31bb4047"},"name":"UPKIP 50mg Capsule 10's","composition":"Diacerein 50mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b583b4fd51d295f31bb4048"},"name":"WAKFREE Tablet 10's","composition":"DIACEREIN+GLUCOSAMINE SULPHATE+METHYL SULFONYL METHANE","manufacturer":"Akesiss Pharma Pvt Ltd","price":"Rs.106.00"}
+{"_id":{"$oid":"5b583b50d51d295f31bb4049"},"name":"WALKHO Tablet 10's","composition":"Boswellia Serrata+Chondroitin Sulfate+Curcumin+Elemental Magnesium+Elemental Zinc+Glucosamine+Hyaluronic Acid+Methylsulfonylmethane+Vitamin D3+Vitamin K2 7","manufacturer":"Lia Life Sciences Pvt Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b583b52d51d295f31bb404a"},"name":"ZERINE G OD Tablet 10's","composition":"Diacerein+Glucosamine Sulphate+Methyl Sulfonyl Methane(Msm)","manufacturer":"Universal Medicare Pvt Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b583b54d51d295f31bb404b"},"name":"ZEROSTIFF SACHET 10.5gm","composition":"Collagen Peptide+Sodium Hyaluronate","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b583b56d51d295f31bb404c"},"name":"ZY Q 400mg Tablet 2's","composition":"Hydroxychloroquine 400mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.89.00"}
+{"_id":{"$oid":"5b583b58d51d295f31bb404d"},"name":"ZY Q Tablet 1's","composition":"Hydroxychloroquine ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.136.50"}
+{"_id":{"$oid":"5b583b5ad51d295f31bb404e"},"name":"ZY Q 400mg Tablet 10's","composition":"Hydroxychloroquine 400mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.97.40"}
+{"_id":{"$oid":"5b583b5cd51d295f31bb404f"},"name":"ZYCEL 200mg Capsule 10's","composition":"Celecoxib 200mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.173.30"}
+{"_id":{"$oid":"5b583b5ed51d295f31bb4050"},"name":"ZYCEL 100mg Capsule 10's","composition":"Celecoxib 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.100.20"}

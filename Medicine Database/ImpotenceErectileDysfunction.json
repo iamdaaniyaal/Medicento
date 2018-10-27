@@ -1,0 +1,226 @@
+{"_id":{"$oid":"5b584928d51d2960e45b83b8"},"name":"1 2 3 25mg Tablet 5's","composition":"Sildenafil Citrate 25mg","manufacturer":"Aglowmed Pharmaceuticals Ltd","price":"Rs.42.00"}
+{"_id":{"$oid":"5b58492ad51d2960e45b83b9"},"name":"1 2 3 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Aglowmed Pharmaceuticals Ltd","price":"Rs.10.95"}
+{"_id":{"$oid":"5b58492cd51d2960e45b83ba"},"name":"1 2 3 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Aglowmed Pharmaceuticals Ltd","price":"Rs.68.75"}
+{"_id":{"$oid":"5b58492ed51d2960e45b83bb"},"name":"36 HOURS 10mg Tablet 4'S","composition":"Tadalafil 10mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.82.60"}
+{"_id":{"$oid":"5b584930d51d2960e45b83bc"},"name":"90E 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Khandelwal Laboratories Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b584933d51d2960e45b83bd"},"name":"AIOGRA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b584935d51d2960e45b83be"},"name":"AIOGRA 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b584937d51d2960e45b83bf"},"name":"ALIVHER 25mg Tablet 10's","composition":"Sildenafil Citrate 25mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.163.00"}
+{"_id":{"$oid":"5b584939d51d2960e45b83c0"},"name":"ALIVHER ES Tablet 10's","composition":"Estradiol 1mg+Sildenafil 25mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.218.00"}
+{"_id":{"$oid":"5b58493bd51d2960e45b83c1"},"name":"ALIVHER ES 2mg Tablet 10's","composition":"SILDENAFIL CITRATE 25MG+ESTRADIOL VALERATE 2MG","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.225.00"}
+{"_id":{"$oid":"5b58493dd51d2960e45b83c2"},"name":"ALPOSTIN 500mcg Injection 1ml","composition":"Alprostadil 500mcg","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.5,517.27"}
+{"_id":{"$oid":"5b584940d51d2960e45b83c3"},"name":"ALSIGRA 50mg Tablet 4's","composition":"Sildenafil 50mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.7.08"}
+{"_id":{"$oid":"5b584942d51d2960e45b83c4"},"name":"ALSIGRA 100mg Tablet 4's","composition":"Sildenafil 100mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.10.90"}
+{"_id":{"$oid":"5b584944d51d2960e45b83c5"},"name":"AMJOY 60mg Tablet 4's","composition":"Dapoxetine 60mg","manufacturer":"Albert David Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b584946d51d2960e45b83c6"},"name":"AMJOY 30mg Tablet 6's","composition":"Dapoxetine 30mg","manufacturer":"Albert David Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b584948d51d2960e45b83c7"},"name":"ARGISIDIL KIT","composition":"L-Arginine 3Gm+Sildenafil 50mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.61.50"}
+{"_id":{"$oid":"5b58494ad51d2960e45b83c8"},"name":"ASSURANS Tablet 10's","composition":"Sildenafil Citrate","manufacturer":"Cipla Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b58494cd51d2960e45b83c9"},"name":"BIGFUN 36mg Tablet 4's","composition":"Sildenafil Citrate 36mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b584950d51d2960e45b83ca"},"name":"BIGFUN 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b584952d51d2960e45b83cb"},"name":"BIGFUN 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.8.75"}
+{"_id":{"$oid":"5b584954d51d2960e45b83cc"},"name":"BIGFUN 100mg Jelly 5gm","composition":"Sildenafil Citrate 100mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b58495bd51d2960e45b83cd"},"name":"CAVERTA 50mg Tablet 4's","composition":"Sildenafil Citrate","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.134.00"}
+{"_id":{"$oid":"5b58495dd51d2960e45b83ce"},"name":"CAVERTA 100mg Tablet 4's","composition":"Sildenafil Citrate","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.257.00"}
+{"_id":{"$oid":"5b584964d51d2960e45b83cf"},"name":"CAVERTA 25mg Tablet 4's","composition":"Sildenafil Citrate","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b584966d51d2960e45b83d0"},"name":"CIALIS 10mg Tablet 4'S","composition":"Tadalafil 10mg","manufacturer":"Lupin Ltd","price":"Rs.1,996.00"}
+{"_id":{"$oid":"5b584968d51d2960e45b83d1"},"name":"CIALIS 20mg Tablet 1's","composition":"Tadalafil 20mg","manufacturer":"Eli Lilly And Company","price":"Rs.499.00"}
+{"_id":{"$oid":"5b58496ad51d2960e45b83d2"},"name":"DA SUTRA 30 X Tablet 4's","composition":"Dapoxetine 30mg+Sildenafil 50mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b58496cd51d2960e45b83d3"},"name":"DAPOSURE Tablet 4's","composition":"Dapoxetine 30mg+Sildenafil 50mg","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b58496ed51d2960e45b83d4"},"name":"DEJAC T Tablet 4's","composition":"Tadalafil 10mg+Dapoxetine 30mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.213.00"}
+{"_id":{"$oid":"5b584970d51d2960e45b83d5"},"name":"DRX 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Galpha Laboratories Ltd","price":"Rs.58.50"}
+{"_id":{"$oid":"5b584972d51d2960e45b83d6"},"name":"DURAFORCE 50/30mg Tablet 4's","composition":"Sildenafil 50mg+Dapoxetine 30mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.189.52"}
+{"_id":{"$oid":"5b584974d51d2960e45b83d7"},"name":"DURAGA 50mg Tablet 1's","composition":"Sildenafil Citrate 50mg","manufacturer":"Torque Pharmaceuticals Pvt Ltd","price":"Rs.13.36"}
+{"_id":{"$oid":"5b584976d51d2960e45b83d8"},"name":"DURAGA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Torque Pharmaceuticals Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584978d51d2960e45b83d9"},"name":"DURAPLUS 10/30mg Tablet 4's","composition":"Tadafil 10mg+Dapoxetine 30mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.239.00"}
+{"_id":{"$oid":"5b58497ad51d2960e45b83da"},"name":"ED SAVE 20MG STRIPS 1'S","composition":"Tadalafil 20mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b58497cd51d2960e45b83db"},"name":"ED SAVE PLUS 10/30mg Tablet 4's","composition":"Tadalafil 10mg+Dapoxetine 30mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.256.00"}
+{"_id":{"$oid":"5b58497dd51d2960e45b83dc"},"name":"EDALIS 20mg Tablet 10's","composition":"Tadalafil 20mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.440.00"}
+{"_id":{"$oid":"5b58497fd51d2960e45b83dd"},"name":"EDALIS 10mg Tablet 10's","composition":"Tadalafil 10mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b584981d51d2960e45b83de"},"name":"EDSAVE Tablet 10's","composition":"Tadalafil 5mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b584983d51d2960e45b83df"},"name":"EFIL 2.5mg Tablet 10's","composition":"Tadalafil 2.5mg","manufacturer":"Sanzyme Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b584985d51d2960e45b83e0"},"name":"EFIL 10mg Tablet 10's","composition":"Tadafil 10mg","manufacturer":"Sanzyme Pvt Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b584987d51d2960e45b83e1"},"name":"EFIL 5mg Tablet 10's","composition":"Tadalafil 5mg","manufacturer":"Sanzyme Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b584989d51d2960e45b83e2"},"name":"ENDOTHIK ES Tablet 10's","composition":"Estradiol 1mg+Sildenafil 25mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.218.00"}
+{"_id":{"$oid":"5b58498ad51d2960e45b83e3"},"name":"ENTHUSIA 100MG TABLET 4'S","composition":"Sildenafil Citrate","manufacturer":"Lupin Ltd","price":"Rs.142.00"}
+{"_id":{"$oid":"5b58498dd51d2960e45b83e4"},"name":"ENTHUSIA 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Lupin Ltd","price":"Rs.103.00"}
+{"_id":{"$oid":"5b58498ed51d2960e45b83e5"},"name":"ERECTEM Tablet 4's","composition":"Dapoxetine 30mg+Sildenafil 50mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b584991d51d2960e45b83e6"},"name":"EREVA 25mg Tablet 10's","composition":"Sildenafil Citrate 25mg","manufacturer":"Others","price":"Rs.165.00"}
+{"_id":{"$oid":"5b584993d51d2960e45b83e7"},"name":"EREVA E2 Tablet 10's","composition":"Sildenafil Citrate ","manufacturer":"Others","price":"Rs.240.00"}
+{"_id":{"$oid":"5b584996d51d2960e45b83e8"},"name":"ERIACTA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.14.06"}
+{"_id":{"$oid":"5b584998d51d2960e45b83e9"},"name":"ERIACTA 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.9.62"}
+{"_id":{"$oid":"5b58499ad51d2960e45b83ea"},"name":"ERIX 50mg Tablet 4's","composition":"Sildenafil 50mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.61.57"}
+{"_id":{"$oid":"5b58499cd51d2960e45b83eb"},"name":"ERIX 25mg Tablet 1's","composition":"Sildenafil 25mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.61.57"}
+{"_id":{"$oid":"5b58499ed51d2960e45b83ec"},"name":"EUNICE 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Novartis India Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b58499ed51d2960e45b83ed"},"name":"EUNICE 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Novartis India Ltd","price":"Rs.11.25"}
+{"_id":{"$oid":"5b5849a0d51d2960e45b83ee"},"name":"EXGRA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b5849a2d51d2960e45b83ef"},"name":"EXIGRA 50mg Tablet 4's","composition":"Sildenafil 50mg","manufacturer":"Wockhardt Ltd","price":"Rs.10.28"}
+{"_id":{"$oid":"5b5849a4d51d2960e45b83f0"},"name":"EXTADIL 20mg Granule 1gm","composition":"Tadalafil 20mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b5849a6d51d2960e45b83f1"},"name":"EXYGRA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Morepen Laboratories Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b5849a8d51d2960e45b83f2"},"name":"EXYGRA 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Morepen Laboratories Ltd","price":"Rs.73.11"}
+{"_id":{"$oid":"5b5849aad51d2960e45b83f3"},"name":"FENGRA 50mg Tablet 9's","composition":"Sildenafil Citrate 50mg","manufacturer":"Franklin Pharma","price":"Rs.11.50"}
+{"_id":{"$oid":"5b5849add51d2960e45b83f4"},"name":"FENGRA 100mg Tablet 5's","composition":"Sildenafil Citrate 100mg","manufacturer":"Franklin Pharma","price":"Rs.14.25"}
+{"_id":{"$oid":"5b5849aed51d2960e45b83f5"},"name":"FILFIRE 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.7.61"}
+{"_id":{"$oid":"5b5849b0d51d2960e45b83f6"},"name":"FORCIGRA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.167.00"}
+{"_id":{"$oid":"5b5849b2d51d2960e45b83f7"},"name":"FORCIGRA 50mg Tablet 9's","composition":"Sildenafil Citrate 50mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.205.71"}
+{"_id":{"$oid":"5b5849b4d51d2960e45b83f8"},"name":"FORZEST 20mg Tablet 4","composition":"TADALAFIL 20MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.393.75"}
+{"_id":{"$oid":"5b5849b6d51d2960e45b83f9"},"name":"FORZEST 20mg Tablet 7's","composition":"Tadalafil 20mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.393.75"}
+{"_id":{"$oid":"5b5849b7d51d2960e45b83fa"},"name":"FUNTIME 100mg Tablet 4's","composition":"SILDENAFIL CITRATE 100MG","manufacturer":"Leeford Healthcare Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b5849b9d51d2960e45b83fb"},"name":"FUNTIME 100mg Capsule 10's","composition":"Sildenafil Citrate 100mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.320.00"}
+{"_id":{"$oid":"5b5849bdd51d2960e45b83fc"},"name":"GETGO 20mg Tablet 4'S","composition":"Tadalafil 20mg","manufacturer":"Overseas Healthcare Pvt Ltd","price":"Rs.122.50"}
+{"_id":{"$oid":"5b5849bed51d2960e45b83fd"},"name":"GETGO 10mg Tablet 4'S","composition":"Tadalafil 10mg","manufacturer":"Overseas Healthcare Pvt Ltd","price":"Rs.68.00"}
+{"_id":{"$oid":"5b5849c1d51d2960e45b83fe"},"name":"INISER 20mg Tablet 4'S","composition":"Tadalafil 20mg","manufacturer":"Others","price":"Rs.118.00"}
+{"_id":{"$oid":"5b5849c3d51d2960e45b83ff"},"name":"INISER 10mg Tablet 4'S","composition":"Tadalafil 10mg","manufacturer":"Others","price":"Rs.84.00"}
+{"_id":{"$oid":"5b5849c4d51d2960e45b8400"},"name":"INTAGRA 50MG TABLET 4'S","composition":"SILDENAFIL CITRATE 50MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.82.50"}
+{"_id":{"$oid":"5b5849c6d51d2960e45b8401"},"name":"INTAGRA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b5849c8d51d2960e45b8402"},"name":"JEAN SIAGRA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Laborate Pharmaceuticals India Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5849cad51d2960e45b8403"},"name":"JEAN SIAGRA 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Laborate Pharmaceuticals India Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b5849ccd51d2960e45b8404"},"name":"JUAN 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.243.00"}
+{"_id":{"$oid":"5b5849ced51d2960e45b8405"},"name":"JUAN 100mg Tablet 1's","composition":"Sildenafil Citrate 100mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.27.70"}
+{"_id":{"$oid":"5b5849d0d51d2960e45b8406"},"name":"JUAN 25mg Tablet 1's","composition":"Sildenafil Citrate 25mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.12.00"}
+{"_id":{"$oid":"5b5849d3d51d2960e45b8407"},"name":"JUAN 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.140.20"}
+{"_id":{"$oid":"5b5849d5d51d2960e45b8408"},"name":"JUAN 50mg Tablet 1's","composition":"Sildenafil Citrate 50mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.74.01"}
+{"_id":{"$oid":"5b5849d7d51d2960e45b8409"},"name":"JUAN 100mg Tablet 10's","composition":"Sildenafil Citrate 100mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.179.33"}
+{"_id":{"$oid":"5b5849d9d51d2960e45b840a"},"name":"JUAN 25mg Tablet 10's","composition":"Sildenafil Citrate 25mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.113.03"}
+{"_id":{"$oid":"5b5849dbd51d2960e45b840b"},"name":"LIBIDOL Tablet 10's","composition":"Ayurvedic","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.104.76"}
+{"_id":{"$oid":"5b5849dcd51d2960e45b840c"},"name":"LIBIDOL Tablet 30's","composition":"Ayurvedic","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.67.69"}
+{"_id":{"$oid":"5b5849e3d51d2960e45b840d"},"name":"MANFORCE 50mg Tablet 9's","composition":"Sildenafil Citrate 50mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b5849e5d51d2960e45b840e"},"name":"MANFORCE 20mg Tablet 2'S","composition":"Tadalafil 20mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5849e7d51d2960e45b840f"},"name":"MANPIL 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Psychotropics India Limited","price":"Rs.70.00"}
+{"_id":{"$oid":"5b5849e9d51d2960e45b8410"},"name":"MANPIL 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Psychotropics India Limited","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5849ebd51d2960e45b8411"},"name":"MAXBULL 50mg Tablet 10's","composition":"Sildenafil Citrate 50mg","manufacturer":"INDIABULLS PHARMACEUTICALS LTD","price":"Rs.300.00"}
+{"_id":{"$oid":"5b5849eed51d2960e45b8412"},"name":"MAXBULL 25mg Tablet 10's","composition":"Sildenafil Citrate 25mg","manufacturer":"INDIABULLS PHARMACEUTICALS LTD","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5849efd51d2960e45b8413"},"name":"MAXBULL 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"INDIABULLS PHARMACEUTICALS LTD","price":"Rs.235.00"}
+{"_id":{"$oid":"5b5849f1d51d2960e45b8414"},"name":"MAXBULL ORAL DISINTEGRATING 50mg Strip 10's","composition":"Sildenafil 50mg","manufacturer":"INDIABULLS PHARMACEUTICALS LTD","price":"Rs.300.00"}
+{"_id":{"$oid":"5b5849f3d51d2960e45b8415"},"name":"MAXBULL ORAL DISINTEGRATING 25mg Strip 5's","composition":"SILDENAFIL CITRATE 25MG","manufacturer":"INDIABULLS PHARMACEUTICALS LTD","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5849f5d51d2960e45b8416"},"name":"MEGALIS 10mg Tablet 4's","composition":"Tadalafil 10mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.142.00"}
+{"_id":{"$oid":"5b5849fbd51d2960e45b8417"},"name":"MEGALIS 20mg Tablet 4's","composition":"Tadalafil 20mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.295.00"}
+{"_id":{"$oid":"5b5849fdd51d2960e45b8418"},"name":"MILDFIL Tablet 10's","composition":"Tadalafil 5mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b5849ffd51d2960e45b8419"},"name":"MODULA 5mg Tablet 10's","composition":"Tadalafil 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.167.00"}
+{"_id":{"$oid":"5b584a01d51d2960e45b841a"},"name":"MODULA 5mg Tablet 14'S","composition":"Tadalafil 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.184.77"}
+{"_id":{"$oid":"5b584a03d51d2960e45b841b"},"name":"OMNIGRA 50mg Spray 12gm","composition":"Sildenafil 50mg","manufacturer":"Cipla Ltd","price":"Rs.78.12"}
+{"_id":{"$oid":"5b584a06d51d2960e45b841c"},"name":"OMNIGRA 50mg Tablet 4's","composition":"Sildenafil 50mg","manufacturer":"Cipla Ltd","price":"Rs.72.68"}
+{"_id":{"$oid":"5b584a09d51d2960e45b841d"},"name":"OPTITHIK Tablet 10's","composition":"Sildenafil Citrate 25mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.163.00"}
+{"_id":{"$oid":"5b584a0cd51d2960e45b841e"},"name":"PAH 20mg Tablet 10's","composition":"Sildenafil Citrate 20mg","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584a0ed51d2960e45b841f"},"name":"PENEGRA 25mg Tablet 4's","composition":"Sildenafil Citrate 25mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.115.30"}
+{"_id":{"$oid":"5b584a11d51d2960e45b8420"},"name":"PENEGRA 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.125.00"}
+{"_id":{"$oid":"5b584a18d51d2960e45b8421"},"name":"PENEGRA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.221.00"}
+{"_id":{"$oid":"5b584a1bd51d2960e45b8422"},"name":"PENEGRA XPRESS 50mg Tablet 4''s","composition":"Sildenafil Citrate 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.146.00"}
+{"_id":{"$oid":"5b584a1dd51d2960e45b8423"},"name":"PENEGRA XPRESS 25mg Tablet 4's","composition":"Sildenafil Citrate 25mg","manufacturer":"Others","price":"Rs.146.00"}
+{"_id":{"$oid":"5b584a1fd51d2960e45b8424"},"name":"PLAYGARD 50mg Tablet 12's","composition":"SILDENAFIL CITRATE 50MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.253.66"}
+{"_id":{"$oid":"5b584a20d51d2960e45b8425"},"name":"PLAYGARD 100mg Tablet 8's","composition":"SILDENAFIL CITRATE 100MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b584a22d51d2960e45b8426"},"name":"POWERFORCE Tablet 2's","composition":"Dapoxetine+Sildenafil","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.74.40"}
+{"_id":{"$oid":"5b584a25d51d2960e45b8427"},"name":"POWERMAN 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Psychotropics India Limited","price":"Rs.11.25"}
+{"_id":{"$oid":"5b584a26d51d2960e45b8428"},"name":"POWERMAN 50mg Tablet 4's","composition":"Sildenafil 50mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.6.31"}
+{"_id":{"$oid":"5b584a29d51d2960e45b8429"},"name":"POWERMAN 50mg Tablet 1's","composition":"Sildenafil Citrate 50mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.23.83"}
+{"_id":{"$oid":"5b584a2bd51d2960e45b842a"},"name":"POWEROMIN Tablet 20's","composition":"Ayurvedic ","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.360.00"}
+{"_id":{"$oid":"5b584a2dd51d2960e45b842b"},"name":"PRIMIWAL Tablet 10's","composition":"Estradiol 2mg+Sildenafil 25mg","manufacturer":"Ttk Healthcare Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b584a2fd51d2960e45b842c"},"name":"PRIMIWAL S 25mg Tablet 10's","composition":"Sildenafil Citrate 25mg","manufacturer":"Ttk Healthcare Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b584a31d51d2960e45b842d"},"name":"PULMODAY 20mg Tablet 3's","composition":"Sildenafil Citrate 20mg","manufacturer":"Aprica Pharmaceuticals Pvt Ltd","price":"Rs.103.00"}
+{"_id":{"$oid":"5b584a33d51d2960e45b842e"},"name":"PULMOFREE 10mg Injection 1's","composition":"Sildenafil 10mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.2,000.00"}
+{"_id":{"$oid":"5b584a35d51d2960e45b842f"},"name":"PULMOPRES Tablet 10's","composition":"Tadalafil 20mg","manufacturer":"Cipla Ltd","price":"Rs.308.50"}
+{"_id":{"$oid":"5b584a37d51d2960e45b8430"},"name":"PULMOSIL 10mg Injection 12.5ml","composition":"Sildenafil Citrate 0.8mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.1,900.00"}
+{"_id":{"$oid":"5b584a39d51d2960e45b8431"},"name":"RISEUP 10MG TABLET 4'S","composition":"Tadalafil 10mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.104.00"}
+{"_id":{"$oid":"5b584a3bd51d2960e45b8432"},"name":"RISEUP 20mg Tablet 4'S","composition":"Tadalafil 20mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.161.61"}
+{"_id":{"$oid":"5b584a3dd51d2960e45b8433"},"name":"ROCKY 50mg Tablet 4's","composition":"Sildenafil 50mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.75.96"}
+{"_id":{"$oid":"5b584a3fd51d2960e45b8434"},"name":"S FILM Strip 5's","composition":"Sildenafil Citrate 50mg","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.174.00"}
+{"_id":{"$oid":"5b584a42d51d2960e45b8435"},"name":"SATISFACTION 100mg Tablet 10's","composition":"Sildenafil Citrate 100mg","manufacturer":"Moraceae Pharmaceuticals Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b584a44d51d2960e45b8436"},"name":"SD PILL Tablet 4's","composition":"Dapoxetine 30mg+Sildenafil 50mg","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b584a47d51d2960e45b8437"},"name":"SDF 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.10.62"}
+{"_id":{"$oid":"5b584a49d51d2960e45b8438"},"name":"SELEG 25 mg Tablet 1's","composition":"Sildenafil 25mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b584a4ad51d2960e45b8439"},"name":"SEXIGRA 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b584a4dd51d2960e45b843a"},"name":"SEXIGRA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.8.37"}
+{"_id":{"$oid":"5b584a4fd51d2960e45b843b"},"name":"SIDNAKIND 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584a51d51d2960e45b843c"},"name":"SILAGRESS 50mg Tablet 10's","composition":"Sildenafil Citrate 50mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b584a53d51d2960e45b843d"},"name":"SILAGRESS 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.69.38"}
+{"_id":{"$oid":"5b584a55d51d2960e45b843e"},"name":"SILDAFLOW 20mg Tablet 10's","composition":"Sildenafil Citrate 20mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b584a56d51d2960e45b843f"},"name":"SILDRATE 25mg Tablet 10's","composition":"Sildenafil 25mg","manufacturer":"Xeno Pharmaceuticals Pvt Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b584a58d51d2960e45b8440"},"name":"SILNAFIL Tablet 10's","composition":"Sildenafil Citrate 25mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.217.25"}
+{"_id":{"$oid":"5b584a5ad51d2960e45b8441"},"name":"SPEGRA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b584a5cd51d2960e45b8442"},"name":"SPEGRA 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b584a63d51d2960e45b8443"},"name":"SUHAGRA 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Cipla Ltd","price":"Rs.121.00"}
+{"_id":{"$oid":"5b584a64d51d2960e45b8444"},"name":"SUHAGRA 25mg Tablet 4's","composition":"Sildenafil Citrate 25mg","manufacturer":"Cipla Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b584a6ad51d2960e45b8445"},"name":"SUHAGRA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Cipla Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b584a6cd51d2960e45b8446"},"name":"SUHAGRA DURALONG 10% Spray 20gm","composition":"Lidocaine 10%","manufacturer":"Cipla Ltd","price":"Rs.264.00"}
+{"_id":{"$oid":"5b584a6fd51d2960e45b8447"},"name":"SUHAGRA FORCE 50MG Tablet 4's","composition":"Dapoxetine 30mg+Sildenafil 50mg","manufacturer":"Cipla Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b584a71d51d2960e45b8448"},"name":"SUPER MANFORCE 20mg Tablet 2'S","composition":"Tadalafil 20mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b584a73d51d2960e45b8449"},"name":"SUPER MANFORCE 20mg Tablet 4'S","composition":"Tadafil 20mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b584a75d51d2960e45b844a"},"name":"T FIL 5mg Tablet 4's","composition":"Tadalafil 5mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.60.00"}
+{"_id":{"$oid":"5b584a76d51d2960e45b844b"},"name":"T FIL 10mg Tablet 10's","composition":"Tadalafil 10mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.98.00"}
+{"_id":{"$oid":"5b584a78d51d2960e45b844c"},"name":"T FIL 20mg Tablet 4's","composition":"Tadalafil 20mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.180.00"}
+{"_id":{"$oid":"5b584a7ad51d2960e45b844d"},"name":"T FIL 10mg Tablet 4's","composition":"Tadalafil 10mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.106.00"}
+{"_id":{"$oid":"5b584a7cd51d2960e45b844e"},"name":"T FILM Strip 20mg Film 5's","composition":"Tadalafil 20mg","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.216.00"}
+{"_id":{"$oid":"5b584a7ed51d2960e45b844f"},"name":"T FILM 20mg FILM 1'S","composition":"Tadalafil 20mg","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.38.01"}
+{"_id":{"$oid":"5b584a80d51d2960e45b8450"},"name":"T Film 10mg Disintegrating Strips 5's","composition":"Tadalafil 10mg","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b584a81d51d2960e45b8451"},"name":"T FILM 10mg FILM 1'S","composition":"Tadalafil 10mg","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.30.48"}
+{"_id":{"$oid":"5b584a82d51d2960e45b8452"},"name":"TADACIP 20mg Tablet 4's","composition":"Tadalafil 20mg","manufacturer":"Cipla Ltd","price":"Rs.164.00"}
+{"_id":{"$oid":"5b584a85d51d2960e45b8453"},"name":"TADACIP 20mg Tablet 10's","composition":"Tadalafil 20mg","manufacturer":"Cipla Ltd","price":"Rs.162.05"}
+{"_id":{"$oid":"5b584a86d51d2960e45b8454"},"name":"TADACIP 10mg Tablet 10's","composition":"Tadalafil 10mg","manufacturer":"Cipla Ltd","price":"Rs.73.86"}
+{"_id":{"$oid":"5b584a88d51d2960e45b8455"},"name":"TADACT 20mg Tablet 10's","composition":"Tadalafil 20mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.181.50"}
+{"_id":{"$oid":"5b584a8ad51d2960e45b8456"},"name":"TADACT 10mg Tablet 10's","composition":"Tadalafil 10mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.106.48"}
+{"_id":{"$oid":"5b584a8cd51d2960e45b8457"},"name":"TADAFIL 20mg Tablet 4's","composition":"Tadalafil 20mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b584a8fd51d2960e45b8458"},"name":"TADAFIL 10mg Tablet 4's","composition":"Tadalafil 10mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.71.42"}
+{"_id":{"$oid":"5b584a90d51d2960e45b8459"},"name":"TADALGRESS 20mg Tablet 10's","composition":"Tadalafil 20mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.136.00"}
+{"_id":{"$oid":"5b584a93d51d2960e45b845a"},"name":"TADALIS 10mg Tablet 4's","composition":"Tadalafil 10mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b584a94d51d2960e45b845b"},"name":"TADALIS 20mg Tablet 4's","composition":"Tadalafil 20mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.133.75"}
+{"_id":{"$oid":"5b584a97d51d2960e45b845c"},"name":"TADASURE 10MG STRIPS 10'S","composition":"TADALAFIL 10MG","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.29.50"}
+{"_id":{"$oid":"5b584a99d51d2960e45b845d"},"name":"TADASURE 5mg Tablet 10's","composition":"Tadalafil 5mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b584a9bd51d2960e45b845e"},"name":"TADASURE 20mg STRIPS 10's","composition":"Tadalafil 20mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.39.50"}
+{"_id":{"$oid":"5b584a9dd51d2960e45b845f"},"name":"TADAZA Tablet 4'S","composition":"Dapoxetine Hydrocloride 30mg+Tadalafil 10mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.203.00"}
+{"_id":{"$oid":"5b584a9ed51d2960e45b8460"},"name":"TADGO 5mg Tablet 10's","composition":"Tadalafil 5mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b584aa0d51d2960e45b8461"},"name":"TADGO 10mg Tablet 4's","composition":"Tadalafil 10mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b584aa2d51d2960e45b8462"},"name":"TADGO 20mg Tablet 4's","composition":"Tadalafil 20mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.320.00"}
+{"_id":{"$oid":"5b584aa4d51d2960e45b8463"},"name":"TADORA 20mg Tablet 4'S","composition":"Tadalafil 20mg","manufacturer":"Others","price":"Rs.105.00"}
+{"_id":{"$oid":"5b584aa6d51d2960e45b8464"},"name":"TADOVAS 20mg Tablet 10's","composition":"Tadalafil 20mg","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b584aa8d51d2960e45b8465"},"name":"TAFIL 5mg Tablet 10's","composition":"Tadalafil 5mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584aaad51d2960e45b8466"},"name":"TAZZLE 10mg Tablet 10's","composition":"Tadalafil 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.275.70"}
+{"_id":{"$oid":"5b584aacd51d2960e45b8467"},"name":"TAZZLE 10mg Tablet 30's","composition":"Tadalafil 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.752.00"}
+{"_id":{"$oid":"5b584aaed51d2960e45b8468"},"name":"TAZZLE 20mg Tablet 10's","composition":"Tadalafil 20mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.490.90"}
+{"_id":{"$oid":"5b584ab0d51d2960e45b8469"},"name":"TAZZLE 20mg Tablet 30's","composition":"Tadalafil 20mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,339.00"}
+{"_id":{"$oid":"5b584ab2d51d2960e45b846a"},"name":"TAZZLE 10FM 10mg SACHET 1'S","composition":"Tadalafil 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b584ab4d51d2960e45b846b"},"name":"TAZZLE 20FM 20mg SACHET 1'S","composition":"Tadalafil 20mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.68.00"}
+{"_id":{"$oid":"5b584ab6d51d2960e45b846c"},"name":"TAZZLE 5FM 5mg SACHET 10's","composition":"Tadalafil 5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b584ab8d51d2960e45b846d"},"name":"TD PILL Tablet 4's","composition":"Tadalafil 10mg+Dapoxetine 30mg","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b584abbd51d2960e45b846e"},"name":"TFIL 10mg Tablet 2'S","composition":"Tadalafil 10mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.38.57"}
+{"_id":{"$oid":"5b584abdd51d2960e45b846f"},"name":"TFIL 20mg Tablet 2'S","composition":"Tadalafil 20mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.76.03"}
+{"_id":{"$oid":"5b584abfd51d2960e45b8470"},"name":"TTAB 5MG TABLET 10'S","composition":"TADALAFIL 5MG","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.129.00"}
+{"_id":{"$oid":"5b584ac1d51d2960e45b8471"},"name":"UDZIRE 100mg Tablet 2's","composition":"Udenafil 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.1,150.00"}
+{"_id":{"$oid":"5b584ac3d51d2960e45b8472"},"name":"UPHOLD Tablet 4's","composition":"Tadalafil+Dapoxetine","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.256.00"}
+{"_id":{"$oid":"5b584ac5d51d2960e45b8473"},"name":"UPWARDZ 20mg Tablet 4'S","composition":"Tadalafil 20mg","manufacturer":"Ttk Healthcare Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b584ac7d51d2960e45b8474"},"name":"UPWARDZ 10mg Tablet 4'S","composition":"Tadalafil 10mg","manufacturer":"Ttk Healthcare Ltd","price":"Rs.96.00"}
+{"_id":{"$oid":"5b584ac8d51d2960e45b8475"},"name":"VALIF 10mg Tablet 10's","composition":"Verdenafil 10mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.20.18"}
+{"_id":{"$oid":"5b584acad51d2960e45b8476"},"name":"VALIF 20mg Tablet 10's","composition":"Verdenafil 20mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.34.90"}
+{"_id":{"$oid":"5b584acdd51d2960e45b8477"},"name":"VASOSURE 20mg Tablet 10's","composition":"Sildenafil Citrate 20mg","manufacturer":"Lupin Ltd","price":"Rs.180.50"}
+{"_id":{"$oid":"5b584ad3d51d2960e45b8478"},"name":"VIAGRA 100mg Tablet 2's","composition":"Sildenafil Citrate 100mg","manufacturer":"Pfizer Limited","price":"Rs.1,055.00"}
+{"_id":{"$oid":"5b584ad5d51d2960e45b8479"},"name":"VIAGRA 100mg Tablet 1's","composition":"SILDENAFIL 100MG","manufacturer":"Pfizer Limited","price":"Rs.621.85"}
+{"_id":{"$oid":"5b584ad6d51d2960e45b847a"},"name":"VIAGRA 50mg Tablet 1's","composition":"SILDENAFIL CITRATE 50MG","manufacturer":"Pfizer Limited","price":"Rs.484.69"}
+{"_id":{"$oid":"5b584addd51d2960e45b847b"},"name":"VIAGRA 50mg Tablet 2's","composition":"Sildenafil Citrate 50mg","manufacturer":"Pfizer Limited","price":"Rs.822.00"}
+{"_id":{"$oid":"5b584adfd51d2960e45b847c"},"name":"VIGOMAX Capsule 10's","composition":"Ayurvedic ","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b584ae6d51d2960e45b847d"},"name":"VIGORA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"German Remedies Ltd","price":"Rs.116.00"}
+{"_id":{"$oid":"5b584aedd51d2960e45b847e"},"name":"VIGORA 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"German Remedies Ltd","price":"Rs.77.70"}
+{"_id":{"$oid":"5b584aefd51d2960e45b847f"},"name":"VIGORE 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Others","price":"Rs.77.70"}
+{"_id":{"$oid":"5b584af1d51d2960e45b8480"},"name":"VIGORE 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Others","price":"Rs.116.00"}
+{"_id":{"$oid":"5b584af4d51d2960e45b8481"},"name":"VIGREKS 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.59.60"}
+{"_id":{"$oid":"5b584af6d51d2960e45b8482"},"name":"VIGREKS 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584af8d51d2960e45b8483"},"name":"VIGRON 50mg Tablet 10's","composition":"Sildenafil Citrate 50mg","manufacturer":"Agron Remedies Pvt Ltd","price":"Rs.11.87"}
+{"_id":{"$oid":"5b584afad51d2960e45b8484"},"name":"VIRAHA 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Micro Labs Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b584afcd51d2960e45b8485"},"name":"VIRAHA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Micro Labs Ltd","price":"Rs.112.00"}
+{"_id":{"$oid":"5b584afed51d2960e45b8486"},"name":"VIRAHA 50mg Tablet 6's","composition":"Sildenafil Citrate 50mg","manufacturer":"Micro Labs Ltd","price":"Rs.107.40"}
+{"_id":{"$oid":"5b584b00d51d2960e45b8487"},"name":"VISTAGRA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.2,200.00"}
+{"_id":{"$oid":"5b584b02d51d2960e45b8488"},"name":"WAVEGRA 100mg Tablet 4's","composition":"Sildenafil 100mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.12.30"}
+{"_id":{"$oid":"5b584b03d51d2960e45b8489"},"name":"WAVEGRA 50mg Tablet 4's","composition":"Sildenafil 50mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.7.31"}
+{"_id":{"$oid":"5b584b06d51d2960e45b848a"},"name":"WINGORA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Meyer Organics Ltd","price":"Rs.173.20"}
+{"_id":{"$oid":"5b584b09d51d2960e45b848b"},"name":"WINGORA 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Meyer Organics Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b584b0bd51d2960e45b848c"},"name":"WINGORA 50mg Spray 15gm","composition":"Sildenafil Citrate 50mg","manufacturer":"Meyer Organics Ltd","price":"Rs.143.86"}
+{"_id":{"$oid":"5b584b0dd51d2960e45b848d"},"name":"WOW 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.67.00"}
+{"_id":{"$oid":"5b584b0fd51d2960e45b848e"},"name":"XTAFIL 5mg Tablet 10's","composition":"Tadalafil 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b584b12d51d2960e45b848f"},"name":"ZAGORE 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.128.00"}
+{"_id":{"$oid":"5b584b15d51d2960e45b8490"},"name":"ZENEGRA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.148.00"}
+{"_id":{"$oid":"5b584b17d51d2960e45b8491"},"name":"ZENEGRA 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b584b19d51d2960e45b8492"},"name":"ZENEGRA RED Tablet 4's","composition":"Sildenafil 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b584b1bd51d2960e45b8493"},"name":"ZERECT 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Fdc Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b584b1dd51d2960e45b8494"},"name":"ZERECT 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Fdc Ltd","price":"Rs.153.00"}
+{"_id":{"$oid":"5b584b1fd51d2960e45b8495"},"name":"ZESTOGRA 100mg Tablet 4's","composition":"Sildenafil Citrate 100mg","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.118.70"}
+{"_id":{"$oid":"5b584b21d51d2960e45b8496"},"name":"ZESTOGRA 50mg Tablet 4's","composition":"Sildenafil Citrate 50mg","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.76.50"}
+{"_id":{"$oid":"5b584b23d51d2960e45b8497"},"name":"ZYDALIS 10mg Tablet 4'S","composition":"Tadalafil 10mg","manufacturer":"Others","price":"Rs.83.68"}
+{"_id":{"$oid":"5b584b25d51d2960e45b8498"},"name":"ZYDALIS MD 20mg Tablet 4's","composition":"Tadalafil 20mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.225.40"}
+{"_id":{"$oid":"5b584b27d51d2960e45b8499"},"name":"ZYDALIS MD 10mg Tablet 4's","composition":"TADALAFIL 10MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.126.70"}

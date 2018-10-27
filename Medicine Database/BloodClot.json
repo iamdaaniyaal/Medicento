@@ -1,0 +1,342 @@
+{"_id":{"$oid":"5b583d17d51d295f7748b0e8"},"name":"ACENOMAC 2mg Tablet 10's","composition":"NICOUMALONE(ACENOCOUMARO) 2MG","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b583d19d51d295f7748b0e9"},"name":"ACENOMAC 4mg Tablet 10's","composition":"NICOUMALONE(ACENOCOUMARO) 4MG","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.91.00"}
+{"_id":{"$oid":"5b583d1cd51d295f7748b0ea"},"name":"ACENOMAC 3mg Tablet 10's","composition":"NICOUMALONE(ACENOCOUMARO) 3MG","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b583d1dd51d295f7748b0eb"},"name":"ACETYL SALICYLIC ACID 50mg Tablet 14's","composition":"Aspirin 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.3.27"}
+{"_id":{"$oid":"5b583d1fd51d295f7748b0ec"},"name":"ACITROM 4mg Tablet 20's","composition":"Acenocoumarol 4mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.147.70"}
+{"_id":{"$oid":"5b583d21d51d295f7748b0ed"},"name":"ACITROM 3mg Tablet 10's","composition":"Acenocoumarol 3mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.60.70"}
+{"_id":{"$oid":"5b583d23d51d295f7748b0ee"},"name":"ACITROM 2mg Tablet 10's","composition":"Acenocoumarol 2mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.49.88"}
+{"_id":{"$oid":"5b583d25d51d295f7748b0ef"},"name":"ACITROM 1mg Tablet 20's","composition":"Acenocoumarol 1mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.69.24"}
+{"_id":{"$oid":"5b583d27d51d295f7748b0f0"},"name":"ACITROM 4mg Tablet 10's","composition":"Acenocoumarol 4mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.64.00"}
+{"_id":{"$oid":"5b583d29d51d295f7748b0f1"},"name":"ACITROM 2mg Tablet 20's","composition":"Acenocoumarol 2mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.109.64"}
+{"_id":{"$oid":"5b583d2bd51d295f7748b0f2"},"name":"ACITROM 3mg Tablet 20's","composition":"Acenocoumarol 3mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.140.10"}
+{"_id":{"$oid":"5b583d2cd51d295f7748b0f3"},"name":"ADGRIL A PLUS 75/150mg Capsule 10's","composition":"Aspirin 150mg+Clopidogrel 75mg","manufacturer":"Aretaeus Pharmaceuticals Pvt Ltd","price":"Rs.27.22"}
+{"_id":{"$oid":"5b583d2fd51d295f7748b0f4"},"name":"ADIURETIN 0.2mg Tablet 30's","composition":"Desmopressin 0.2mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.1,247.40"}
+{"_id":{"$oid":"5b583d30d51d295f7748b0f5"},"name":"ADIURETIN 0.1mg Tablet 10's","composition":"Desmopressin 0.1mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.420.42"}
+{"_id":{"$oid":"5b583d32d51d295f7748b0f6"},"name":"ADIURETIN 0.25mg Tablet 10's","composition":"Desmopressin 0.25mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.1,247.00"}
+{"_id":{"$oid":"5b583d34d51d295f7748b0f7"},"name":"ADIURETIN 0.1mg Tablet 15's","composition":"Desmopressin 0.1mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.382.30"}
+{"_id":{"$oid":"5b583d36d51d295f7748b0f8"},"name":"ADIURETIN 0.25mg Nasal Spray 2.5ml","composition":"Desmopressin 0.25mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.420.00"}
+{"_id":{"$oid":"5b583d38d51d295f7748b0f9"},"name":"AFOGATRAN 75mg Capsule 10's","composition":"DABIGATRAN ETEXILATE 75MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b583d39d51d295f7748b0fa"},"name":"AFOGATRAN 110mg Capsule 10's","composition":"Dabigatran Etexilate 110mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b583d3ad51d295f7748b0fb"},"name":"AFOGATRAN 150mg Capsule 10's","composition":"Dabigatran Etexilate 150mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.300.00"}
+{"_id":{"$oid":"5b583d3cd51d295f7748b0fc"},"name":"AGGRENOX 200/25mg Capsule 60's","composition":"Aspirin 25mg+Dipyridamole 200mg","manufacturer":"Boehringer Ingelheim India Pvt Ltd","price":"Rs.2,847.00"}
+{"_id":{"$oid":"5b583d3ed51d295f7748b0fd"},"name":"AGGRILEK Infusion 100ml","composition":"Tirofiban ","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.3,832.86"}
+{"_id":{"$oid":"5b583d40d51d295f7748b0fe"},"name":"AGRABAN Infusion 100ml","composition":"Tirofiban 5mg+Sodium Chloride 0.9%W/V","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.5,435.90"}
+{"_id":{"$oid":"5b583d42d51d295f7748b0ff"},"name":"ANGIONOX 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.431.76"}
+{"_id":{"$oid":"5b583d44d51d295f7748b100"},"name":"ANGIONOX 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.599.00"}
+{"_id":{"$oid":"5b583d46d51d295f7748b101"},"name":"ANOXILIN 60mg Injection(Pfs) 1ml","composition":"Enoxaparin 60mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.510.00"}
+{"_id":{"$oid":"5b583d48d51d295f7748b102"},"name":"ANTIXA 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.454.28"}
+{"_id":{"$oid":"5b583d4ad51d295f7748b103"},"name":"ANTIXA 300mg Injection 3ml","composition":"Enoxaparin 300mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.2,610.00"}
+{"_id":{"$oid":"5b583d4cd51d295f7748b104"},"name":"ANTIXA 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.557.50"}
+{"_id":{"$oid":"5b583d4ed51d295f7748b105"},"name":"APAGREL 5mg Tablet 10's","composition":"Prasugrel 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b583d4fd51d295f7748b106"},"name":"APAGREL 10mg Tablet 6's","composition":"Prasugrel 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b583d51d51d295f7748b107"},"name":"APLET 10mg Tablet 10's","composition":"PRASUGREL","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b583d53d51d295f7748b108"},"name":"APLET 5mg Tablet 10's","composition":"PREBIOTIC 5MG","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b583d55d51d295f7748b109"},"name":"APROGEN 14mg Infusion 50ml","composition":"Aprotinin 14mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.1,045.46"}
+{"_id":{"$oid":"5b583d57d51d295f7748b10a"},"name":"APROGEN 14mg Injection 10ml","composition":"Aprotinin 14mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.297.00"}
+{"_id":{"$oid":"5b583d59d51d295f7748b10b"},"name":"APROSTAT 500000IU Injection 50ml","composition":"Aprotinin 500000IU","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.1,378.10"}
+{"_id":{"$oid":"5b583d5bd51d295f7748b10c"},"name":"ARRENO Capsule 10's","composition":"Aspirin 25mg+Dipyridamole 200mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b583d5dd51d295f7748b10d"},"name":"ARTIFLO 4mg Tablet 10's","composition":"Nicoumalone(Acenocoumaro) 4mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.106.60"}
+{"_id":{"$oid":"5b583d5fd51d295f7748b10e"},"name":"ARTIFLO 3mg Tablet 10's","composition":"Nicoumalone(Acenocoumaro) 3mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.109.90"}
+{"_id":{"$oid":"5b583d60d51d295f7748b10f"},"name":"ARTIFLO 1mg Tablet 10's","composition":"Nicoumalone(Acenocoumaro) 1mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.54.90"}
+{"_id":{"$oid":"5b583d62d51d295f7748b110"},"name":"ARTIFLO 2mg Tablet 10's","composition":"Nicoumalone(Acenocoumaro) 2mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.86.05"}
+{"_id":{"$oid":"5b583d64d51d295f7748b111"},"name":"ASAMAG Tablet 10's","composition":"Magnesium Oxide 400mg+Aspirin 75mg","manufacturer":"Healers Nutraceuticals Pvt Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b583d66d51d295f7748b112"},"name":"ASPIN DT 300mg Tablet 10's","composition":"Aspirin 150mg","manufacturer":"Cipla Ltd","price":"Rs.22.67"}
+{"_id":{"$oid":"5b583d68d51d295f7748b113"},"name":"ASPIRIN 75mg Tablet 14's","composition":"Aspirin 75mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.3.30"}
+{"_id":{"$oid":"5b583d6ad51d295f7748b114"},"name":"AZUVAS GOLD 10mg Capsule 10's","composition":"Rosuvastatin 10mg+Aspirin 75mg+Clopidogrel 75mg","manufacturer":"Azkka Pharmaceuticals Pvt Ltd","price":"Rs.109.90"}
+{"_id":{"$oid":"5b583d6cd51d295f7748b115"},"name":"AZUVAS GOLD 20mg Capsule 10's","composition":"Rosuvastatin 20mg+Aspirin 75mg+Clopidogrel 75mg","manufacturer":"Azkka Pharmaceuticals Pvt Ltd","price":"Rs.109.90"}
+{"_id":{"$oid":"5b583d6ed51d295f7748b116"},"name":"BEPARINE Cream 15gm","composition":"Beparin Sodium 50IU+Benzyl Nicotinate 3mg","manufacturer":"Biological Evans Ltd","price":"Rs.33.48"}
+{"_id":{"$oid":"5b583d70d51d295f7748b117"},"name":"BEPARINE Cream 10gm","composition":"Beparin Sodium 50IU+Benzyl Nicotinate 3mg","manufacturer":"Cachet Pharmaceuticals Pvt Ltd","price":"Rs.89.50"}
+{"_id":{"$oid":"5b583d71d51d295f7748b118"},"name":"BIOKINASE 1500000IU Injection 1's","composition":"Streptokinase 1500000IU","manufacturer":"Biological Evans Ltd","price":"Rs.3,400.00"}
+{"_id":{"$oid":"5b583d72d51d295f7748b119"},"name":"BIVACS 250mg Injection 1's","composition":"Bivalirudin 250mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.9,198.23"}
+{"_id":{"$oid":"5b583d74d51d295f7748b11a"},"name":"BIVASAVE 250mg Injection 1's","composition":"Bivalirudin 250mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.11,490.00"}
+{"_id":{"$oid":"5b583d76d51d295f7748b11b"},"name":"BOTROSTAT Tablet 10's","composition":"ETHAMSYLATE 10MG","manufacturer":"Juggat Pharma Ltd","price":"Rs.109.00"}
+{"_id":{"$oid":"5b583d77d51d295f7748b11c"},"name":"BRILINTA 90mg Tablet 14's","composition":"Ticagrelor 90mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.700.00"}
+{"_id":{"$oid":"5b583d79d51d295f7748b11d"},"name":"BRILINTA 60mg Tablet 14's","composition":"Ticagrelor 60mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.560.00"}
+{"_id":{"$oid":"5b583d7bd51d295f7748b11e"},"name":"CERUVIN 150mg Tablet 10's","composition":"Clopidogrel 150mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b583d7dd51d295f7748b11f"},"name":"CERUVIN A 75/75mg Tablet 10's","composition":"Aspirin 75mg+Clopidogrel 75mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.28.60"}
+{"_id":{"$oid":"5b583d81d51d295f7748b120"},"name":"CLASPRIN 150/75mg Capsule 10's","composition":"Aspirin 150mg+Clopidogrel 75mg","manufacturer":"Biocon Ltd","price":"Rs.29.35"}
+{"_id":{"$oid":"5b583d84d51d295f7748b121"},"name":"CLASPRIN 75/75mg Capsule 10's","composition":"Aspirin 75mg+Clopidogrel 75mg","manufacturer":"Biocon Ltd","price":"Rs.28.90"}
+{"_id":{"$oid":"5b583d87d51d295f7748b122"},"name":"CLAVIX AS 150/75mg Tablet 10's","composition":"Aspirin 150mg+Clopidogrel 75mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.39.28"}
+{"_id":{"$oid":"5b583d88d51d295f7748b123"},"name":"CLAVIX GOLD 10mg Capsule 15's","composition":"ATORVASTATIN 10MG+CLOPIDOGREL 75MG+ASPIRIN 75MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.56.53"}
+{"_id":{"$oid":"5b583d8ad51d295f7748b124"},"name":"CLAVIX GOLD 20mg Capsule 15's","composition":"ATORVASTATIN 20MG+CLOPIDOGREL 75MG+ASPIRIN 75MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.76.30"}
+{"_id":{"$oid":"5b583d8dd51d295f7748b125"},"name":"CLIVARINE 1432IU Injection 0.25ml","composition":"Reviparin 1432IU","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.255.00"}
+{"_id":{"$oid":"5b583d8fd51d295f7748b126"},"name":"CLOFLOW PLUS 75/75mg Capsule 10's","composition":"ASPIRIN 75MG+CLOPIDOGREL 75MG","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.34.80"}
+{"_id":{"$oid":"5b583d91d51d295f7748b127"},"name":"CLOPACT 75mg Tablet 10's","composition":"CLOPIDOGREL","manufacturer":"Ipca Laboratories Ltd","price":"Rs.55.04"}
+{"_id":{"$oid":"5b583d93d51d295f7748b128"},"name":"CLOPACT A 75mg Capsule 10's","composition":"ASPIRIN+CLOPIDOGREL","manufacturer":"Ipca Laboratories Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b583d95d51d295f7748b129"},"name":"CLOPICARD 75mg Tablet 15's","composition":"CLOPIDOGREL 75MG","manufacturer":"Cipla Ltd","price":"Rs.86.95"}
+{"_id":{"$oid":"5b583d97d51d295f7748b12a"},"name":"CLOPICARD AP 75mg Tablet 15's","composition":"CLOPIDOGREL 75MG+ASPIRIN 75MG","manufacturer":"Cipla Ltd","price":"Rs.53.50"}
+{"_id":{"$oid":"5b583d99d51d295f7748b12b"},"name":"CLOPIDOL 75mg Tablet 10's","composition":"Clopidogrel 75mg","manufacturer":"Biogenics India Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b583d9bd51d295f7748b12c"},"name":"CLOPIFAST 75mg Tablet 10's","composition":"Clopidogrel 75mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b583d9dd51d295f7748b12d"},"name":"CLOPIFASTAS 75/75mg Capsule 10's","composition":"Aspirin 75mg+Clopidogrel 75mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.28.50"}
+{"_id":{"$oid":"5b583d9fd51d295f7748b12e"},"name":"CLOPIGARD 75mg Tablet 10's","composition":"Clopidogrel 75mg","manufacturer":"Cipla Ltd","price":"Rs.86.95"}
+{"_id":{"$oid":"5b583da1d51d295f7748b12f"},"name":"CLOPIGARD AP 75/75mg Tablet 10's","composition":"Aspirin 75mg+Clopidogrel 75mg","manufacturer":"Cipla Ltd","price":"Rs.53.50"}
+{"_id":{"$oid":"5b583da3d51d295f7748b130"},"name":"CLOPIGARD AP 75mg/75mg Tablet 15's","composition":"Aspirin 75mg+Clopidogrel 75mg","manufacturer":"Cipla Ltd","price":"Rs.58.50"}
+{"_id":{"$oid":"5b583da6d51d295f7748b131"},"name":"CLOPIKIND AS 75mg Tablet 10's","composition":"ASPIRIN+CLOPIDOGREL","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.34.41"}
+{"_id":{"$oid":"5b583da9d51d295f7748b132"},"name":"CLOPIKIND AS 150/75mg Tablet 10's","composition":"Aspirin 150mg+Clopidogrel 75mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.29.00"}
+{"_id":{"$oid":"5b583dabd51d295f7748b133"},"name":"CLOPIKLOT 75mg Tablet 10's","composition":"Clopidogrel 75mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.60.73"}
+{"_id":{"$oid":"5b583dacd51d295f7748b134"},"name":"CLOPIROS AP Tablet 10's","composition":"ASPIRIN+CLOPIDOGREL","manufacturer":"Maxford Healthcare","price":"Rs.30.00"}
+{"_id":{"$oid":"5b583dafd51d295f7748b135"},"name":"CLOPITAB 75mg Tablet 10's","composition":"Clopidogrel 75mg","manufacturer":"Lupin Ltd","price":"Rs.70.50"}
+{"_id":{"$oid":"5b583db0d51d295f7748b136"},"name":"CLOPITOR A 75/10/75mg Capsule 10's","composition":"Aspirin 75mg+Atorvastatin 10mg+Clopidogrel 75mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.112.00"}
+{"_id":{"$oid":"5b583db2d51d295f7748b137"},"name":"CLOPITOR A 150/20/75mg Capsule 10's","composition":"Aspirin 150mg+Atorvastatin 20mg+Clopidogrel 75mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b583db4d51d295f7748b138"},"name":"CLOPIVAS AP 75/75mg Tablet 10's","composition":"Aspirin 75mg+Clopidogrel 75mg","manufacturer":"Cipla Ltd","price":"Rs.29.83"}
+{"_id":{"$oid":"5b583db6d51d295f7748b139"},"name":"CLOPIVAS AP 150/75mg Tablet 10's","composition":"Aspirin 150mg+Clopidogrel 75mg","manufacturer":"Cipla Ltd","price":"Rs.30.10"}
+{"_id":{"$oid":"5b583db8d51d295f7748b13a"},"name":"CLOPREZ 75mg Tablet 10's","composition":"Clopidogrel 75mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b583dbbd51d295f7748b13b"},"name":"CLOTAWIN 250mg Injection 2ml","composition":"Ethamsylate 250mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.26.28"}
+{"_id":{"$oid":"5b583dbdd51d295f7748b13c"},"name":"CLOTAWIN MF Tablet 10's","composition":"Mefenamic Acid 500mg+Tranexamic 250mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b583dbfd51d295f7748b13d"},"name":"CLOTAWIN T 100mg Injection 5ml","composition":"Tranexamic Acid 100mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.37.25"}
+{"_id":{"$oid":"5b583dc2d51d295f7748b13e"},"name":"CLOTAWIN T Tablet 10's","composition":"Tranexamic Acid 250mg+Ethamsylate 250mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.170.26"}
+{"_id":{"$oid":"5b583dc4d51d295f7748b13f"},"name":"CLOTAWIN T FORTE Tablet 10's","composition":"Tranexamic Acid 500mg+Ethamsylate 250mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.179.58"}
+{"_id":{"$oid":"5b583dc6d51d295f7748b140"},"name":"CLOTIDE 75mg Infusion 100ml","composition":"Eptifibatide 75mg","manufacturer":"Biocon Ltd","price":"Rs.8,095.20"}
+{"_id":{"$oid":"5b583dc8d51d295f7748b141"},"name":"CORPARIN 60mg Injection(Pfs) 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.590.00"}
+{"_id":{"$oid":"5b583dcad51d295f7748b142"},"name":"CORPARIN 40mg Injection(Pfs) 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.379.90"}
+{"_id":{"$oid":"5b583dccd51d295f7748b143"},"name":"CUTENOX 40mg PREFILLED Syringe 0.4ml","composition":"ENOXAPARIN 40MG","manufacturer":"Gland Pharma Limited","price":"Rs.387.00"}
+{"_id":{"$oid":"5b583dced51d295f7748b144"},"name":"CUTENOX 80mg Injection 0.8ml","composition":"Enoxaparin 80mg","manufacturer":"Gland Pharma Limited","price":"Rs.609.52"}
+{"_id":{"$oid":"5b583dd0d51d295f7748b145"},"name":"CUTENOX 20mg Injection 0.2ml","composition":"Enoxaparin 20mg","manufacturer":"Gland Pharma Limited","price":"Rs.201.00"}
+{"_id":{"$oid":"5b583dd2d51d295f7748b146"},"name":"CUTENOX 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Gland Pharma Limited","price":"Rs.552.37"}
+{"_id":{"$oid":"5b583dd4d51d295f7748b147"},"name":"DABANEX 110mg Capsule 10's","composition":"DABIGATRAN ETEXILATE 110MG","manufacturer":"Ajanta Pharma Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b583dd6d51d295f7748b148"},"name":"DABIGAT 150mg Capsule 10's","composition":"Dabigatran Etexilate 150mg","manufacturer":"Natco Pharma Ltd","price":"Rs.290.00"}
+{"_id":{"$oid":"5b583dd8d51d295f7748b149"},"name":"DABIGAT 110mg Capsule 10's","composition":"Dabigatran Etexilate 110mg","manufacturer":"Natco Pharma Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b583ddad51d295f7748b14a"},"name":"DABIGAT 75mg Capsule 10's","composition":"Dabigatran Etexilate 75mg","manufacturer":"Natco Pharma Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b583ddbd51d295f7748b14b"},"name":"DABIGO 110mg Capsule 10's","composition":"DABIGATRAN ETEXILATE 110MG","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b583ddcd51d295f7748b14c"},"name":"DABIGZA 150mg Capsule 10's","composition":"Dabigatran Etexilate 150mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.275.00"}
+{"_id":{"$oid":"5b583dddd51d295f7748b14d"},"name":"DABIGZA 110mg Capsule 10's","composition":"Dabigatran Etexilate 110mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b583ddfd51d295f7748b14e"},"name":"DABIPLA 150mg Capsule 10's","composition":"DABIGATRAN ETEXILATE 150MG","manufacturer":"Cipla Ltd","price":"Rs.260.00"}
+{"_id":{"$oid":"5b583de1d51d295f7748b14f"},"name":"DABIPLA 110mg Capsule 10's","composition":"DABIGATRAN ETEXILATE 110MG","manufacturer":"Cipla Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b583de3d51d295f7748b150"},"name":"DABITRA 110mg Capsule 10's","composition":"DABIGATRAN ETEXILATE 110MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b583de6d51d295f7748b151"},"name":"DABITRA 75mg Capsule 10's","composition":"DABIGATRAN ETEXILATE 75MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.169.93"}
+{"_id":{"$oid":"5b583de8d51d295f7748b152"},"name":"DABITRA 150mg Capsule 10's","composition":"DABIGATRAN ETEXILATE 150MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.290.00"}
+{"_id":{"$oid":"5b583dead51d295f7748b153"},"name":"DEPLATT A 75/75mg Tablet 10's","composition":"Aspirin 75mg+Clopidogrel 75mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.34.00"}
+{"_id":{"$oid":"5b583decd51d295f7748b154"},"name":"DEPLATT A 150/75mg Tablet 10's","composition":"Aspirin 150mg+Clopidogrel 75mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.37.60"}
+{"_id":{"$oid":"5b583deed51d295f7748b155"},"name":"DICYNENE 500mg Tablet 10's","composition":"Ethamsylate 500mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.218.00"}
+{"_id":{"$oid":"5b583df0d51d295f7748b156"},"name":"DOSPIN 75mg Tablet 10's","composition":"Aspirin+Clopidogrel","manufacturer":"Ajanta Pharma Ltd","price":"Rs.35.20"}
+{"_id":{"$oid":"5b583df2d51d295f7748b157"},"name":"DOSPIN 150mg Tablet 10's","composition":"Aspirin+Clopidogrel","manufacturer":"Ajanta Pharma Ltd","price":"Rs.35.50"}
+{"_id":{"$oid":"5b583df4d51d295f7748b158"},"name":"DUBATRAN 500mg Tablet 10's","composition":"Tranexamic Acid 500mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.91.26"}
+{"_id":{"$oid":"5b583df6d51d295f7748b159"},"name":"DUBATRAN 75mg Capsule 10's","composition":"DABIGATRAN ETEXILATE 75MG","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.235.00"}
+{"_id":{"$oid":"5b583df8d51d295f7748b15a"},"name":"DUBATRAN 150mg Capsule 10's","composition":"DABIGATRAN ETEXILATE 150MG","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.415.00"}
+{"_id":{"$oid":"5b583dfad51d295f7748b15b"},"name":"DUKINASE 500000IU Injection 10ml","composition":"Urokinase 500000IU","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.4,952.30"}
+{"_id":{"$oid":"5b583dfcd51d295f7748b15c"},"name":"DYNALIX 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Biocon Ltd","price":"Rs.557.30"}
+{"_id":{"$oid":"5b583dfed51d295f7748b15d"},"name":"DYNALIX 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Biocon Ltd","price":"Rs.461.30"}
+{"_id":{"$oid":"5b583e01d51d295f7748b15e"},"name":"E PRIN 150mg Tablet 14's","composition":"Aspirin 150mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.6.03"}
+{"_id":{"$oid":"5b583e03d51d295f7748b15f"},"name":"E PRIN 75mg Tablet 14's","composition":"Aspirin 75mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.3.72"}
+{"_id":{"$oid":"5b583e05d51d295f7748b160"},"name":"E PRIN 150mg Tablet 10's","composition":"Aspirin 150mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.6.03"}
+{"_id":{"$oid":"5b583e06d51d295f7748b161"},"name":"ECOGREL 10mg Tablet 10's","composition":"Prasugrel 10mg","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.228.57"}
+{"_id":{"$oid":"5b583e08d51d295f7748b162"},"name":"ECOGREL 5mg Tablet 10's","composition":"Prasugrel Hydrochloride 5mg","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.56.72"}
+{"_id":{"$oid":"5b583e0ad51d295f7748b163"},"name":"ECOGREL 2.5mg Tablet 10's","composition":"Prasugrel 2.5mg","manufacturer":"Delvin Formulations Pvt Ltd","price":"Rs.228.57"}
+{"_id":{"$oid":"5b583e0cd51d295f7748b164"},"name":"ECOSPRIN 150mg Tablet 30's","composition":"Aspirin 150mg","manufacturer":"Usv Private Ltd","price":"Rs.7.00"}
+{"_id":{"$oid":"5b583e0fd51d295f7748b165"},"name":"ECOSPRIN 650mg Tablet 10's","composition":"Aspirin 650mg","manufacturer":"Usv Private Ltd","price":"Rs.19.56"}
+{"_id":{"$oid":"5b583e12d51d295f7748b166"},"name":"ECOSPRIN AV 150/20mg Tablet 15's","composition":"ATORVASTATIN 150MG+ASPIRIN 20MG","manufacturer":"Usv Private Ltd","price":"Rs.26.90"}
+{"_id":{"$oid":"5b583e12d51d295f7748b167"},"name":"ECOSPRIN AV 150mg Capsule 10's","composition":"ASPIRIN+ATORVASTATIN","manufacturer":"Usv Private Ltd","price":"Rs.24.50"}
+{"_id":{"$oid":"5b583e14d51d295f7748b168"},"name":"ECOSPRIN AV 150/20mg Tablet 10's","composition":"Atorvastatin 20MG+Aspirin 150MG","manufacturer":"Usv Private Ltd","price":"Rs.26.90"}
+{"_id":{"$oid":"5b583e16d51d295f7748b169"},"name":"ECOSPRIN AV 75/20mg Capsule 15's","composition":"Aspirin+Atorvastatin","manufacturer":"Usv Private Ltd","price":"Rs.34.30"}
+{"_id":{"$oid":"5b583e18d51d295f7748b16a"},"name":"ECOSPRIN AV 75mg Capsule 10's","composition":"ASPIRIN+ATORVASTATIN","manufacturer":"Usv Private Ltd","price":"Rs.34.30"}
+{"_id":{"$oid":"5b583e1ad51d295f7748b16b"},"name":"ECOSPRIN C 75/75mg Tablet 15's","composition":"Aspirin 75mg+Clopidogrel 75mg","manufacturer":"Usv Private Ltd","price":"Rs.40.02"}
+{"_id":{"$oid":"5b583e1cd51d295f7748b16c"},"name":"ECOSPRIN C 150/75mg Tablet 15's","composition":"Aspirin 150mg+Clopidogrel 75mg","manufacturer":"Usv Private Ltd","price":"Rs.40.69"}
+{"_id":{"$oid":"5b583e1ed51d295f7748b16d"},"name":"ECOSPRIN GOLD 10mg Capsule 10's","composition":"Aspirin+Atorvastatin+Clopidogrel","manufacturer":"Usv Private Ltd","price":"Rs.74.50"}
+{"_id":{"$oid":"5b583e20d51d295f7748b16e"},"name":"ECOSPRIN GOLD 150/20mg Capsule 10's","composition":"Aspirin 150mg+Atorvastatin 20mg+Clopidogrel 75mg","manufacturer":"Usv Private Ltd","price":"Rs.58.42"}
+{"_id":{"$oid":"5b583e22d51d295f7748b16f"},"name":"ECOSPRIN GOLD 20mg Capsule 10's","composition":"Aspirin+Atorvastatin+Clopidogrel","manufacturer":"Usv Private Ltd","price":"Rs.100.50"}
+{"_id":{"$oid":"5b583e24d51d295f7748b170"},"name":"ECOSPRIN GOLD FORTE MG CAPSULE 20mg Capsule 10's","composition":"Aspirin+Atorvastatin+Clopidogrel","manufacturer":"Usv Private Ltd","price":"Rs.53.00"}
+{"_id":{"$oid":"5b583e25d51d295f7748b171"},"name":"ECOSPRIN GOLD FORTE 20mg Capsule 15's","composition":"aspirin+atorvastatin+clopidogrel","manufacturer":"Usv Private Ltd","price":"Rs.100.50"}
+{"_id":{"$oid":"5b583e27d51d295f7748b172"},"name":"EFFIENT 10mg Tablet 14's","composition":"Prasugrel 10mg","manufacturer":"Eli Lilly And Company","price":"Rs.2,002.00"}
+{"_id":{"$oid":"5b583e29d51d295f7748b173"},"name":"EFFIENT 5mg Tablet 14's","composition":"Prasugrel 5mg","manufacturer":"Eli Lilly And Company","price":"Rs.3,680.00"}
+{"_id":{"$oid":"5b583e2bd51d295f7748b174"},"name":"EFIPLAT 10mg Tablet 10's","composition":"Prasugrel 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b583e2dd51d295f7748b175"},"name":"EFIPLAT 5mg Tablet 10's","composition":"Prasugrel 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b583e2ed51d295f7748b176"},"name":"ELAXIM 50mg Injection 1's","composition":"Tenecteplase 50mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.39,500.00"}
+{"_id":{"$oid":"5b583e31d51d295f7748b177"},"name":"ENOXACARE 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.433.12"}
+{"_id":{"$oid":"5b583e33d51d295f7748b178"},"name":"ENOXACARE 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.200.00"}
+{"_id":{"$oid":"5b583e35d51d295f7748b179"},"name":"ENOXAFLO 60mg Injection 0.6ml","composition":"ENOXAPARIN 60MG","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.581.11"}
+{"_id":{"$oid":"5b583e37d51d295f7748b17a"},"name":"ENOXAFLO 40mg Injection 0.4ml","composition":"ENOXAPARIN 40MG","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.387.41"}
+{"_id":{"$oid":"5b583e39d51d295f7748b17b"},"name":"ENOXAFLO 80mg Injection 0.8ml","composition":"ENOXAPARIN 80MG","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.774.82"}
+{"_id":{"$oid":"5b583e3bd51d295f7748b17c"},"name":"ENOXAFLO 20mg Injection 0.2ml","composition":"ENOXAPARIN 20MG","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.193.70"}
+{"_id":{"$oid":"5b583e3dd51d295f7748b17d"},"name":"ENOXARIN 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.387.39"}
+{"_id":{"$oid":"5b583e3fd51d295f7748b17e"},"name":"ENOXARIN 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.569.85"}
+{"_id":{"$oid":"5b583e41d51d295f7748b17f"},"name":"ENOXARIN 20mg Injection 1ml","composition":"Enoxaparin 20mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.325.00"}
+{"_id":{"$oid":"5b583e43d51d295f7748b180"},"name":"ENOXATROY 40MG INJECTION 0.4ML","composition":"ENOXAPARIN 40MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.387.35"}
+{"_id":{"$oid":"5b583e45d51d295f7748b181"},"name":"ENOXATROY 20mg Injection 0.2ml","composition":"Enoxaparin 20mg","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.325.00"}
+{"_id":{"$oid":"5b583e47d51d295f7748b182"},"name":"ENOXATROY 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.581.00"}
+{"_id":{"$oid":"5b583e49d51d295f7748b183"},"name":"ENOXION 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.379.50"}
+{"_id":{"$oid":"5b583e4ad51d295f7748b184"},"name":"ENOXION 80mg Injection 0.8ml","composition":"Enoxaparin 80mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.826.00"}
+{"_id":{"$oid":"5b583e4cd51d295f7748b185"},"name":"ENOXION 20mg Injection 0.2ml","composition":"Enoxaparin 20mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.325.00"}
+{"_id":{"$oid":"5b583e4fd51d295f7748b186"},"name":"ENOXION 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.569.50"}
+{"_id":{"$oid":"5b583e50d51d295f7748b187"},"name":"ENOXSAVE 20mg Injection 0.2ml","composition":"Enoxaparin 20mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.214.28"}
+{"_id":{"$oid":"5b583e53d51d295f7748b188"},"name":"EPTIBA 20mg Injection 10ml","composition":"Eptifibatide 20mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.2,500.00"}
+{"_id":{"$oid":"5b583e54d51d295f7748b189"},"name":"EPTIFAB 20MG INJECTION 10ML","composition":"EPTIFIBATIDE 20MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.3,870.00"}
+{"_id":{"$oid":"5b583e56d51d295f7748b18a"},"name":"EPTIFAB 75mg Infusion 100ml","composition":"Eptifibatide 75mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.13,550.00"}
+{"_id":{"$oid":"5b583e58d51d295f7748b18b"},"name":"EPTIGRILIN 20mg Injection 10ml","composition":"Eptifibatide 20mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.2,657.50"}
+{"_id":{"$oid":"5b583e5ad51d295f7748b18c"},"name":"EPTIGRILIN 75mg Infusion 100ml","composition":"Eptifibatide 75mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.8,843.76"}
+{"_id":{"$oid":"5b583e5cd51d295f7748b18d"},"name":"ETHAMCIP 250MG TABLET 10'S","composition":"ETHAMSYLATE 250MG","manufacturer":"Cipla Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b583e60d51d295f7748b18e"},"name":"ETHAMSTAT (ZYDUS) 500mg Tablet 10's","composition":"Ethamsylate 500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.25.00"}
+{"_id":{"$oid":"5b583e62d51d295f7748b18f"},"name":"ETHATOL 250/250mg Tablet 10's","composition":"Ethamsylate 250mg+Tranexamic Acid 250mg","manufacturer":"Biological Evans Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b583e63d51d295f7748b190"},"name":"ETHAWK 125mg Injection 2ml","composition":"Ethamsylate 125mg","manufacturer":"Wockhardt Ltd","price":"Rs.25.18"}
+{"_id":{"$oid":"5b583e65d51d295f7748b191"},"name":"ETHAWK 500mg Tablet 10's","composition":"Ethamsylate 500mg","manufacturer":"Wockhardt Ltd","price":"Rs.17.50"}
+{"_id":{"$oid":"5b583e67d51d295f7748b192"},"name":"ETHAWK 250mg Tablet 10's","composition":"ETHAMSYLATE 250MG","manufacturer":"Wockhardt Ltd","price":"Rs.46.62"}
+{"_id":{"$oid":"5b583e69d51d295f7748b193"},"name":"ETHORED 500mg Tablet 10's","composition":"Ethamsylate 500mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.166.00"}
+{"_id":{"$oid":"5b583e6bd51d295f7748b194"},"name":"ETHORED TX 250/250mg Tablet 10's","composition":"Tranexamic Acid 250mg+Ethamsylate 250mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b583e6dd51d295f7748b195"},"name":"EVAPARIN 300mg Injection 3ml","composition":"Enoxaparin 300mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.2,849.30"}
+{"_id":{"$oid":"5b583e6ed51d295f7748b196"},"name":"EXHEP 20mg Injection 0.2ml","composition":"Enoxaparin 20mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.329.50"}
+{"_id":{"$oid":"5b583e70d51d295f7748b197"},"name":"FACILOC 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.581.10"}
+{"_id":{"$oid":"5b583e72d51d295f7748b198"},"name":"FACILOC 20mg Injection 0.2ml","composition":"ENOXAPARIN 20MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.200.00"}
+{"_id":{"$oid":"5b583e74d51d295f7748b199"},"name":"FAXIMAB Injection 5ml","composition":"Abciximab 10mg","manufacturer":"Lupin Ltd","price":"Rs.9,300.00"}
+{"_id":{"$oid":"5b583e76d51d295f7748b19a"},"name":"FIDENOX 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Fidelity Lifesciences","price":"Rs.581.00"}
+{"_id":{"$oid":"5b583e78d51d295f7748b19b"},"name":"FIDENOX 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Fidelity Lifesciences","price":"Rs.383.50"}
+{"_id":{"$oid":"5b583e7ad51d295f7748b19c"},"name":"FLETA BOLUS 20mg Injection 10ml","composition":"Eptifibatide 20mg","manufacturer":"Lupin Ltd","price":"Rs.2,500.00"}
+{"_id":{"$oid":"5b583e7cd51d295f7748b19d"},"name":"FLETA 75mg Infusion 100ml","composition":"Eptifibatide 75mg","manufacturer":"Lupin Ltd","price":"Rs.8,500.00"}
+{"_id":{"$oid":"5b583e7ed51d295f7748b19e"},"name":"FONDAZEST 7.5mg Injection 0.6ml","composition":"Fondaparinux 7.5mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.1,450.00"}
+{"_id":{"$oid":"5b583e80d51d295f7748b19f"},"name":"GLORISTAT TRIO Capsule 10's","composition":"ASPIRIN 75MG+CLOPIDOGREL 75MG+ROSUVASTATIN 10MG","manufacturer":"Oaknet Healthcare Pvt Ltd","price":"Rs.142.94"}
+{"_id":{"$oid":"5b583e82d51d295f7748b1a0"},"name":"GRA 82mg Tablet 14's","composition":"ASPIRIN 82MG","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.20.70"}
+{"_id":{"$oid":"5b583e82d51d295f7748b1a1"},"name":"GRAFEEL Injection(PFS) 1ml","composition":"Filgrastim 300mcg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,336.94"}
+{"_id":{"$oid":"5b583e84d51d295f7748b1a2"},"name":"GREFAC 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.489.50"}
+{"_id":{"$oid":"5b583e86d51d295f7748b1a3"},"name":"GREFAC 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.350.00"}
+{"_id":{"$oid":"5b583e88d51d295f7748b1a4"},"name":"HAMOSTAT 500mg Injection 1's","composition":"Aminocaproic Acid 500mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.83.67"}
+{"_id":{"$oid":"5b583e8ad51d295f7748b1a5"},"name":"HAMOSTAT 125mg Injection 20ml","composition":"Aminocaproic Acid 125mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.142.75"}
+{"_id":{"$oid":"5b583e8cd51d295f7748b1a6"},"name":"HEMOLATE 250mg Tablet 10's","composition":"Ethamsylate 250mg","manufacturer":"Micro Labs Ltd","price":"Rs.56.25"}
+{"_id":{"$oid":"5b583e8dd51d295f7748b1a7"},"name":"HEPARIN 5000iu Injection ","composition":"HEPARIN 5000IU","manufacturer":"Gland Pharma Limited","price":"Rs.187.00"}
+{"_id":{"$oid":"5b583e8ed51d295f7748b1a8"},"name":"HETHIN F 1000IU Injection 1's","composition":"Heparin 1000IU","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.58.33"}
+{"_id":{"$oid":"5b583e91d51d295f7748b1a9"},"name":"INDOPARINE 40mg Injection 1's","composition":"Enoxaparin 40mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.358.40"}
+{"_id":{"$oid":"5b583e93d51d295f7748b1aa"},"name":"INMELA 250mg Tablet 10's","composition":"Tranexamic Acid 250mg","manufacturer":"Veritaz Health Care Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b583e94d51d295f7748b1ab"},"name":"INTIFLO 2mg Injection 10ml","composition":"Eptifibatide 2mg","manufacturer":"Cipla Ltd","price":"Rs.2,398.00"}
+{"_id":{"$oid":"5b583e97d51d295f7748b1ac"},"name":"INTIFLO 0.75mg Injection 100ml","composition":"Eptifibatide 0.75mg","manufacturer":"Cipla Ltd","price":"Rs.6,570.00"}
+{"_id":{"$oid":"5b583e9ad51d295f7748b1ad"},"name":"KLOTFREE 150MG TABLET 10'S","composition":"CLOPIDOGREL 150MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.67.62"}
+{"_id":{"$oid":"5b583e9ed51d295f7748b1ae"},"name":"KLOTFREE A 75mg Tablet 10's","composition":"ASPIRIN 75MG+CLOPIDOGREL 75MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.28.80"}
+{"_id":{"$oid":"5b583ea0d51d295f7748b1af"},"name":"KLOTIN 500mg Injection 5X5ml","composition":"TRANEXAMIC","manufacturer":"Neon Laboratories Ltd","price":"Rs.346.00"}
+{"_id":{"$oid":"5b583ea2d51d295f7748b1b0"},"name":"LIFENOX 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Aprica Pharmaceuticals Pvt Ltd","price":"Rs.379.00"}
+{"_id":{"$oid":"5b583ea4d51d295f7748b1b1"},"name":"LIFENOX 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Aprica Pharmaceuticals Pvt Ltd","price":"Rs.580.21"}
+{"_id":{"$oid":"5b583ea6d51d295f7748b1b2"},"name":"LINSOL IV Injection 100ml","composition":"Glycerin 10Gm+Mannitol?10Gm","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b583ea8d51d295f7748b1b3"},"name":"LMWX 80mg Injection 0.8ml","composition":"Enoxaparin 80mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.805.71"}
+{"_id":{"$oid":"5b583eaad51d295f7748b1b4"},"name":"LOFH 5000IU Injection 1's","composition":"Heparin 5000IU","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.77.70"}
+{"_id":{"$oid":"5b583eacd51d295f7748b1b5"},"name":"LOMOH 80mg Injection 0.8ml","composition":"Enoxaparin 80mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.619.05"}
+{"_id":{"$oid":"5b583eadd51d295f7748b1b6"},"name":"LOMOPARIN 3500IU Injection 1ml","composition":"Ardeparin 3500IU","manufacturer":"Biological Evans Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b583eb0d51d295f7748b1b7"},"name":"LOPARIN 80mg PREFILLED SYRINGE 0.8ml","composition":"Enoxaparin 80mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.577.00"}
+{"_id":{"$oid":"5b583eb2d51d295f7748b1b8"},"name":"LOPARIN 20mg PREFILLED SYRINGE 0.2ml","composition":"Enoxaparin 20mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.167.42"}
+{"_id":{"$oid":"5b583eb3d51d295f7748b1b9"},"name":"LOWCAP 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.569.80"}
+{"_id":{"$oid":"5b583eb5d51d295f7748b1ba"},"name":"LOWCAP 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.379.80"}
+{"_id":{"$oid":"5b583eb7d51d295f7748b1bb"},"name":"LOWER CVD Capsule 10's","composition":"Aspirin 75mg+Atorvastatin 10mg+Clopidogrel 75mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b583eb9d51d295f7748b1bc"},"name":"LUPIFLO 750000IU Injection 10ml","composition":"Streptokinase 750000IU","manufacturer":"Lupin Ltd","price":"Rs.1,400.00"}
+{"_id":{"$oid":"5b583ebbd51d295f7748b1bd"},"name":"MACPARIN 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.520.95"}
+{"_id":{"$oid":"5b583ebdd51d295f7748b1be"},"name":"MACPARIN 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.409.53"}
+{"_id":{"$oid":"5b583ebed51d295f7748b1bf"},"name":"MANOGYL 10% Infusion 100ml","composition":"Mannitol 10%","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.171.09"}
+{"_id":{"$oid":"5b583ec0d51d295f7748b1c0"},"name":"MAXGALIP AT Tablet 10's","composition":"Amitriptyline Hydrochloride 10mg+Pregabalin 75mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b583ec2d51d295f7748b1c1"},"name":"MEDIFIL Injection 5ml","composition":"Hepflush 50Units","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b583ec4d51d295f7748b1c2"},"name":"MEDIFIL Injection 15ml","composition":"Hepflush 150Units","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.490.00"}
+{"_id":{"$oid":"5b583ec6d51d295f7748b1c3"},"name":"MEDIFIL Injection 10ml","composition":"Hepflush 100Units","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.355.00"}
+{"_id":{"$oid":"5b583ec8d51d295f7748b1c4"},"name":"MEGAPARIN 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"VENUS REMEDIES LIMITED","price":"Rs.580.00"}
+{"_id":{"$oid":"5b583ecad51d295f7748b1c5"},"name":"MEGAPARIN 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"VENUS REMEDIES LIMITED","price":"Rs.427.88"}
+{"_id":{"$oid":"5b583eccd51d295f7748b1c6"},"name":"MINIRIN 0.1mg Tablet 15's","composition":"Desmopressin 0.1mg","manufacturer":"Ferring Pharmaceuticals Pvt Ltd","price":"Rs.515.97"}
+{"_id":{"$oid":"5b583ecfd51d295f7748b1c7"},"name":"MINIRIN 0.2mg Tablet 30's","composition":"Desmopressin 0.2mg","manufacturer":"Ferring Pharmaceuticals Pvt Ltd","price":"Rs.1,457.40"}
+{"_id":{"$oid":"5b583ed1d51d295f7748b1c8"},"name":"MINIRIN MELT 120mcg Tablet 10's","composition":"Desmopressin 120mcg","manufacturer":"Ferring Pharmaceuticals Pvt Ltd","price":"Rs.814.67"}
+{"_id":{"$oid":"5b583ed3d51d295f7748b1c9"},"name":"MINIRIN MELT 60mcg Tablet 10's","composition":"Desmopressin 60mcg","manufacturer":"Ferring Pharmaceuticals Pvt Ltd","price":"Rs.484.67"}
+{"_id":{"$oid":"5b583ed4d51d295f7748b1ca"},"name":"MYOKINASE 1500000IU Injection 1's","composition":"Streptokinase 1500000IU","manufacturer":"Biocon Ltd","price":"Rs.2,135.70"}
+{"_id":{"$oid":"5b583ed6d51d295f7748b1cb"},"name":"NADROPAR 2850IU Injection 0.3ml","composition":"Nadroparin 2850IU","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.215.17"}
+{"_id":{"$oid":"5b583ed8d51d295f7748b1cc"},"name":"NEPORIN 5000IU Injection 1's","composition":"Heparin 5000IU","manufacturer":"Biocon Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b583edbd51d295f7748b1cd"},"name":"NOKLOT 300mg Tablet 10's","composition":"Clopidogrel 300mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.91.05"}
+{"_id":{"$oid":"5b583eddd51d295f7748b1ce"},"name":"NOKLOT CV 150/10/75mg Capsule 10's","composition":"Aspirin 150mg+Atorvastatin 10mg+Clopidogrel 75mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.43.08"}
+{"_id":{"$oid":"5b583edfd51d295f7748b1cf"},"name":"NOKLOT CV 75/10/75mg Capsule 10's","composition":"Aspirin 75mg+Atorvastatin 10mg+Clopidogrel 75mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.36.84"}
+{"_id":{"$oid":"5b583ee1d51d295f7748b1d0"},"name":"NOPLAQ 75mg Tablet 10's","composition":"Clopidogrel 75mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.33.80"}
+{"_id":{"$oid":"5b583ee3d51d295f7748b1d1"},"name":"NOPLAQ A 75/75mg Capsule 10's","composition":"Aspirin 75mg+Clopidogrel 75mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.29.71"}
+{"_id":{"$oid":"5b583ee5d51d295f7748b1d2"},"name":"NOPLAQ AS 150/75mg Capsule 10's","composition":"Aspirin 150mg+Clopidogrel 75mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.28.81"}
+{"_id":{"$oid":"5b583ee7d51d295f7748b1d3"},"name":"NOPLAQ AS 75/75mg Capsule 10's","composition":"Aspirin 75mg+Clopidogrel 75mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.28.66"}
+{"_id":{"$oid":"5b583ee9d51d295f7748b1d4"},"name":"NOXAPARIN 20mg Injection 0.2ml","composition":"Enoxaparin 20mg","manufacturer":"United Biotech Pvt Ltd","price":"Rs.261.90"}
+{"_id":{"$oid":"5b583eedd51d295f7748b1d5"},"name":"OXPRIN 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Micro Labs Ltd","price":"Rs.581.11"}
+{"_id":{"$oid":"5b583eefd51d295f7748b1d6"},"name":"PANGREL 10mg Tablet 10's","composition":"Prasugrel 10mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b583ef3d51d295f7748b1d7"},"name":"PANGREL 5mg Tablet 10's","composition":"Prasugrel 5mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b583ef5d51d295f7748b1d8"},"name":"PASUGEN 5mg Tablet 10's","composition":"Prasugrel 5mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.86.00"}
+{"_id":{"$oid":"5b583ef7d51d295f7748b1d9"},"name":"PASUGEN 10mg Tablet 10's","composition":"Prasugrel 10mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b583ef9d51d295f7748b1da"},"name":"PAUSE 1000mg Tablet 6's","composition":"Tranexamic Acid 1000mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.217.57"}
+{"_id":{"$oid":"5b583efad51d295f7748b1db"},"name":"PAUSE 250mg Tablet 10's","composition":"Tranexamic Acid 250mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.120.37"}
+{"_id":{"$oid":"5b583efdd51d295f7748b1dc"},"name":"PLATLOC AS 75MG TABLET 10'S","composition":"Aspirin+Clopidogrel","manufacturer":"Unichem Laboratories Ltd","price":"Rs.35.70"}
+{"_id":{"$oid":"5b583efed51d295f7748b1dd"},"name":"PLATLOC AS 162.5/75mg Tablet 10's","composition":"Aspirin 162.5mg+Clopidogrel 75mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.39.75"}
+{"_id":{"$oid":"5b583f00d51d295f7748b1de"},"name":"PLAVIC 75mg Tablet 10's","composition":"Clopidogrel 75mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.38.50"}
+{"_id":{"$oid":"5b583f02d51d295f7748b1df"},"name":"PLAVIX 75mg Tablet 28's","composition":"Clopidogrel 75mg","manufacturer":"Sanofi India Ltd","price":"Rs.302.62"}
+{"_id":{"$oid":"5b583f04d51d295f7748b1e0"},"name":"PRASACT 5mg Tablet 10's","composition":"Prasugrel Hydrochloride 5mg","manufacturer":"Biocon Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b583f07d51d295f7748b1e1"},"name":"PRASITA 10mg Tablet 10's","composition":"Prasugrel 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.197.50"}
+{"_id":{"$oid":"5b583f09d51d295f7748b1e2"},"name":"PRASO 10mg Tablet 10's","composition":"Prasugrel Hydrochloride 10mg","manufacturer":"Vilberry Healthcare Pvt Ltd","price":"Rs.161.90"}
+{"_id":{"$oid":"5b583f0bd51d295f7748b1e3"},"name":"PRASUDIN 5mg Tablet 10's","composition":"Prasugrel 5mg","manufacturer":"Others","price":"Rs.120.50"}
+{"_id":{"$oid":"5b583f0dd51d295f7748b1e4"},"name":"PRASUDIN 10mg Tablet 10's","composition":"Prasugrel 10mg","manufacturer":"Others","price":"Rs.120.50"}
+{"_id":{"$oid":"5b583f0ed51d295f7748b1e5"},"name":"PRASUDOC 5mg Tablet 10's","composition":"Prasugrel Hydrochloride 5mg","manufacturer":"Lupin Ltd","price":"Rs.104.60"}
+{"_id":{"$oid":"5b583f10d51d295f7748b1e6"},"name":"PRASUDOC 10mg Tablet 10's","composition":"Prasugrel 10mg","manufacturer":"Lupin Ltd","price":"Rs.145.10"}
+{"_id":{"$oid":"5b583f12d51d295f7748b1e7"},"name":"PRASUGRIN 10mg Tablet 10's","composition":"Prasugrel 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.303.90"}
+{"_id":{"$oid":"5b583f16d51d295f7748b1e8"},"name":"PRASUGRIN 5mg Tablet 10's","composition":"Prasugrel 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.109.18"}
+{"_id":{"$oid":"5b583f18d51d295f7748b1e9"},"name":"PRASULET 5mg Tablet 10's","composition":"Prasugrel Hydrochloride 5mg","manufacturer":"Micro Labs Ltd","price":"Rs.64.76"}
+{"_id":{"$oid":"5b583f1ad51d295f7748b1ea"},"name":"PRASULET 10mg Tablet 10's","composition":"Prasugrel Hydrochloride 10mg","manufacturer":"Micro Labs Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b583f1cd51d295f7748b1eb"},"name":"PRASUREL 5mg Tablet 10's","composition":"Prasugrel Hydrochloride 5mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.95.28"}
+{"_id":{"$oid":"5b583f1ed51d295f7748b1ec"},"name":"PRASUREL 10mg Tablet 10's","composition":"Prasugrel Hydrochloride 10mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.118.92"}
+{"_id":{"$oid":"5b583f21d51d295f7748b1ed"},"name":"PRASUSAFE 5mg Tablet 10's","composition":"PRASUGREL 5MG","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.71.43"}
+{"_id":{"$oid":"5b583f23d51d295f7748b1ee"},"name":"PRASUTAB 5mg Tablet 10's","composition":"Prasugrel Hydrochloride 5mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.60.95"}
+{"_id":{"$oid":"5b583f25d51d295f7748b1ef"},"name":"PRASUTAB 10MG TABLET 10'S","composition":"PRASUGREL 10MG","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b583f26d51d295f7748b1f0"},"name":"PRASUVAS 10mg Tablet 10's","composition":"Prasugrel","manufacturer":"Cipla Ltd","price":"Rs.196.50"}
+{"_id":{"$oid":"5b583f28d51d295f7748b1f1"},"name":"PRASUVIX 10mg Tablet 10's","composition":"Prasugrel 10mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.94.88"}
+{"_id":{"$oid":"5b583f2ad51d295f7748b1f2"},"name":"PRASUVIX 5mg Tablet 10's","composition":"Prasugrel 5mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.65.21"}
+{"_id":{"$oid":"5b583f2cd51d295f7748b1f3"},"name":"PRAX 5mg Tablet 10's","composition":"Prasugrel 5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.114.00"}
+{"_id":{"$oid":"5b583f2dd51d295f7748b1f4"},"name":"PRAX 10mg Tablet 10's","composition":"Prasugrel 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.223.10"}
+{"_id":{"$oid":"5b583f2fd51d295f7748b1f5"},"name":"PRETHROMB 5mg Tablet 10's","composition":"Prasugrel Hydrochloride 5mg","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.80.95"}
+{"_id":{"$oid":"5b583f31d51d295f7748b1f6"},"name":"PRETHROMB 10mg Tablet 10's","composition":"Prasugrel Hydrochloride 10mg","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b583f33d51d295f7748b1f7"},"name":"PREVA AS 150/75mg Tablet 10's","composition":"Aspirin 150mg+Clopidogrel 75mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.33.50"}
+{"_id":{"$oid":"5b583f35d51d295f7748b1f8"},"name":"PREVA GOLD 10mg Tablet 10's","composition":"Aspirin 75mg+Clopidogrel 75mg+Rosuvastatin 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.109.30"}
+{"_id":{"$oid":"5b583f37d51d295f7748b1f9"},"name":"PREVACLOT 5000IU Injection 1ml","composition":"Heparin 5000IU","manufacturer":"Biological Evans Ltd","price":"Rs.100.05"}
+{"_id":{"$oid":"5b583f39d51d295f7748b1fa"},"name":"PULMOZA Tablet 10's","composition":"Ozagrel Hydrochloride 200mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b583f3bd51d295f7748b1fb"},"name":"QUALINOX 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Lupin Ltd","price":"Rs.533.00"}
+{"_id":{"$oid":"5b583f3dd51d295f7748b1fc"},"name":"QUALINOX 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Lupin Ltd","price":"Rs.439.20"}
+{"_id":{"$oid":"5b583f3fd51d295f7748b1fd"},"name":"RAZEL GOLD 20mg Capsule 15's","composition":"ROSUVASTATIN 20MG+CLOPIDOGREL 75MG+ASPIRIN 75MG","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.251.25"}
+{"_id":{"$oid":"5b583f41d51d295f7748b1fe"},"name":"REDIGREL 5mg Tablet 10's","composition":"Prasugrel 5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b583f43d51d295f7748b1ff"},"name":"REDIGREL 10mg Tablet 10's","composition":"Prasugrel 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b583f45d51d295f7748b200"},"name":"REOPRO 10mg Injection 5ml","composition":"Abciximab 10mg","manufacturer":"Eli Lilly And Company","price":"Rs.21,552.00"}
+{"_id":{"$oid":"5b583f47d51d295f7748b201"},"name":"REOPRO 2mg Injection 5ml","composition":"Abciximab 2mg","manufacturer":"Eli Lilly And Company","price":"Rs.21,896.80"}
+{"_id":{"$oid":"5b583f48d51d295f7748b202"},"name":"REVOLADE 50mg Tablet 7's","composition":"Eltrombopag 50mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.14,200.00"}
+{"_id":{"$oid":"5b583f48d51d295f7748b203"},"name":"REVOLADE 25mg Tablet 7's","composition":"Eltrombopag 25mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.7,100.00"}
+{"_id":{"$oid":"5b583f4ad51d295f7748b204"},"name":"ROLNOX 60mg Injection 1's","composition":"Enoxaparin 60mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.325.00"}
+{"_id":{"$oid":"5b583f4cd51d295f7748b205"},"name":"ROLNOX 40mg Injection 1's","composition":"Enoxaparin 40mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b583f4ed51d295f7748b206"},"name":"SEVOCIP 800mg Tablet 10's","composition":"SEVELAMER 800MG","manufacturer":"Cipla Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b583f51d51d295f7748b207"},"name":"SIgmACHROME 5mg Injection 10ml","composition":"Adrenochrome 5mg","manufacturer":"Maneesh Pharmaceuticals Ltd","price":"Rs.31.16"}
+{"_id":{"$oid":"5b583f52d51d295f7748b208"},"name":"SIRILEPT 25mg Tablet 10's","composition":"Zotepine 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.45.30"}
+{"_id":{"$oid":"5b583f54d51d295f7748b209"},"name":"SIRILEPT 100mg Tablet 10's","composition":"Zotepine 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b583f56d51d295f7748b20a"},"name":"SIRILEPT 50mg Tablet 10's","composition":"Zotepine 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b583f58d51d295f7748b20b"},"name":"SOFARIN 2mg Tablet 10's","composition":"Warfarin 2mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.19.83"}
+{"_id":{"$oid":"5b583f5ad51d295f7748b20c"},"name":"SOFARIN 5mg Tablet 10's","composition":"Warfarin 5mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.29.72"}
+{"_id":{"$oid":"5b583f5cd51d295f7748b20d"},"name":"SOFRAMYCIN 0.50% Powder 10gm","composition":"Framycetin 0.5%","manufacturer":"Sanofi India Ltd","price":"Rs.23.72"}
+{"_id":{"$oid":"5b583f5ed51d295f7748b20e"},"name":"SPRIN 75mg Tablet 10's","composition":"Aspirin 75mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.2.05"}
+{"_id":{"$oid":"5b583f60d51d295f7748b20f"},"name":"SPRINTAS 75mg Tablet 28's","composition":"Aspirin 75mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.5.72"}
+{"_id":{"$oid":"5b583f62d51d295f7748b210"},"name":"STENER 60mg Injection 0.6ml","composition":"Enoxaparin 60mg","manufacturer":"Claris Lifesciences Ltd","price":"Rs.509.36"}
+{"_id":{"$oid":"5b583f64d51d295f7748b211"},"name":"STENER 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Claris Lifesciences Ltd","price":"Rs.392.50"}
+{"_id":{"$oid":"5b583f66d51d295f7748b212"},"name":"STREPTOKINASE 1500mcg Injection 1's","composition":"Streptokinase 1500mcg","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.2,945.95"}
+{"_id":{"$oid":"5b583f68d51d295f7748b213"},"name":"STROZAGEL 80mg Injection ","composition":"Ozagrel Hydrochloride 80mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.350.00"}
+{"_id":{"$oid":"5b583f6ad51d295f7748b214"},"name":"STUKINASE 1500000IU Injection 2ml","composition":"Streptokinase 1500000IU","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.1,819.00"}
+{"_id":{"$oid":"5b583f6cd51d295f7748b215"},"name":"STYPTOVIT K Tablet 10's","composition":"Haemocoagulase ","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.34.80"}
+{"_id":{"$oid":"5b583f6dd51d295f7748b216"},"name":"SURPARIN 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.399.00"}
+{"_id":{"$oid":"5b583f6ed51d295f7748b217"},"name":"SYLATE 250mg Injection 1's","composition":"Ethamsylate 250mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.52.31"}
+{"_id":{"$oid":"5b583f71d51d295f7748b218"},"name":"SYNPLATT 150/75mg Capsule 10's","composition":"Aspirin 150mg+Clopidogrel 75mg","manufacturer":"Fdc Ltd","price":"Rs.28.30"}
+{"_id":{"$oid":"5b583f73d51d295f7748b219"},"name":"SYNPLATT 75/75mg Capsule 10's","composition":"Aspirin 75mg+Clopidogrel75mg","manufacturer":"Fdc Ltd","price":"Rs.27.78"}
+{"_id":{"$oid":"5b583f75d51d295f7748b21a"},"name":"TAMSTATE 250mg Tablet 10's","composition":"Ethamsylate 250mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.18.75"}
+{"_id":{"$oid":"5b583f77d51d295f7748b21b"},"name":"TAMSTATE 500mg Tablet 10's","composition":"Ethamsylate 500mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.9.62"}
+{"_id":{"$oid":"5b583f79d51d295f7748b21c"},"name":"TENACID 500mg Injection 5ml","composition":"Tranexamic Acid 500mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.23.75"}
+{"_id":{"$oid":"5b583f7bd51d295f7748b21d"},"name":"TENACID MF Tablet 10's","composition":"Tranexamic 500mg+Mefenamic Acid 250mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b583f7dd51d295f7748b21e"},"name":"TENDOCARE FORTE Tablet 15's","composition":"Chondroitin Sulfate 200mg+Collagen Peptide 40mg+L-Arginine 500mg+Sodium Hyaluronate 30mg+Vitamin C 35mg","manufacturer":"Pharmed Limited","price":"Rs.385.00"}
+{"_id":{"$oid":"5b583f7fd51d295f7748b21f"},"name":"TERLISTAT 1mg Injection 10ml","composition":"Terlipressin 1mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.1,160.50"}
+{"_id":{"$oid":"5b583f80d51d295f7748b220"},"name":"TEROFIB Syrup 100ml","composition":"Tirofiban ","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.3,697.40"}
+{"_id":{"$oid":"5b583f82d51d295f7748b221"},"name":"THINLA 5000IU Injection 5ml","composition":"Heparin 5000IU","manufacturer":"Biocon Ltd","price":"Rs.46.18"}
+{"_id":{"$oid":"5b583f84d51d295f7748b222"},"name":"THINLA 25000IU Injection 5ml","composition":"Heparin 25000IU","manufacturer":"Biocon Ltd","price":"Rs.192.80"}
+{"_id":{"$oid":"5b583f87d51d295f7748b223"},"name":"THINRIN 150mg Tablet 10's","composition":"Clopidogrel 150mg","manufacturer":"Biocon Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b583f89d51d295f7748b224"},"name":"THINRIN 75mg Tablet 10's","composition":"Clopidogrel 75mg","manufacturer":"Biocon Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b583f8bd51d295f7748b225"},"name":"TICLOP 250mg Tablet 10's","composition":"Ticlopidine 250mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.132.60"}
+{"_id":{"$oid":"5b583f8cd51d295f7748b226"},"name":"TICLOPID 250mg Tablet 10's","composition":"Ticlopidine 250mg","manufacturer":"Cipla Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b583f8ed51d295f7748b227"},"name":"TIKLEEN 250mg Tablet 10's","composition":"Ticlopidine 250mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.80.00"}
+{"_id":{"$oid":"5b583f90d51d295f7748b228"},"name":"TIKLEEN 100mg Tablet 10's","composition":"Ticlopidine 100mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.80.00"}
+{"_id":{"$oid":"5b583f92d51d295f7748b229"},"name":"TIROZEST Infusion 100ml","composition":"Tirofiban 5mg","manufacturer":"Biocon Ltd","price":"Rs.4,000.00"}
+{"_id":{"$oid":"5b583f95d51d295f7748b22a"},"name":"TORVIGRESS 20mg Tablet 10's","composition":"Torasemide 20mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b583f97d51d295f7748b22b"},"name":"TORVIGRESS 40mg Tablet 10's","composition":"TORASEMIDE 40MG","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b583f99d51d295f7748b22c"},"name":"TRANESMA PLUS 250mg Tablet 10's","composition":"Tranexamic Acid 250mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.229.00"}
+{"_id":{"$oid":"5b583f9bd51d295f7748b22d"},"name":"TRANFIB 500mg Injection 5ml","composition":"Tranexamic Acid 500mg","manufacturer":"Cipla Ltd","price":"Rs.40.25"}
+{"_id":{"$oid":"5b583f9cd51d295f7748b22e"},"name":"TRANFIB 500mg Tablet 10's","composition":"Tranexamic Acid 500mg","manufacturer":"Cipla Ltd","price":"Rs.105.25"}
+{"_id":{"$oid":"5b583f9fd51d295f7748b22f"},"name":"TRANSOL 500mg Tablet 10's","composition":"Tranexamic Acid 500mg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b583fa0d51d295f7748b230"},"name":"TRESIL 1mg Injection 1's","composition":"Terlipressin 1mg","manufacturer":"SERUM INSTITUTE OF INDIA LTD","price":"Rs.625.00"}
+{"_id":{"$oid":"5b583fa2d51d295f7748b231"},"name":"TRIOLITE 250mg Tablet 10's","composition":"Proanthocyanidin 75mg+Tranexamic 250mg","manufacturer":"Ethinext Pharma","price":"Rs.130.00"}
+{"_id":{"$oid":"5b583fa4d51d295f7748b232"},"name":"TRIPREZ 1mg Injection 10ml","composition":"Terlipressin 1mg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.1,319.37"}
+{"_id":{"$oid":"5b583fa6d51d295f7748b233"},"name":"TROYNOXA 60MG INJECTION 0.6ML","composition":"Enoxaparin 60mg","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.569.80"}
+{"_id":{"$oid":"5b583fa8d51d295f7748b234"},"name":"TROYPLATT 5mg Tablet 10's","composition":"Prasugrel Hydrochloride 5mg","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.94.95"}
+{"_id":{"$oid":"5b583faad51d295f7748b235"},"name":"TROYPLATT 10mg Tablet 10's","composition":"Prasugrel Hydrochloride 10mg","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.189.00"}
+{"_id":{"$oid":"5b583facd51d295f7748b236"},"name":"TSYL 500mg Injection 5ml","composition":"Tranexamic Acid 500mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.27.57"}
+{"_id":{"$oid":"5b583fafd51d295f7748b237"},"name":"TYRODIN 250mg Tablet 10's","composition":"Tranexamic Acid 250mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b583fb1d51d295f7748b238"},"name":"UNIWARFIN 2mg Tablet 10's","composition":"Warfarin 2mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.23.60"}
+{"_id":{"$oid":"5b583fb3d51d295f7748b239"},"name":"WARF 2.5mg Tablet 10's","composition":"Warfarin 2.5mg","manufacturer":"Cipla Ltd","price":"Rs.28.57"}
+{"_id":{"$oid":"5b583fb6d51d295f7748b23a"},"name":"WARF 4mg Tablet 10's","composition":"Warfarin 4mg","manufacturer":"Cipla Ltd","price":"Rs.32.16"}
+{"_id":{"$oid":"5b583fb8d51d295f7748b23b"},"name":"WARF 10mg Tablet 100's","composition":"Warfarin 10mg","manufacturer":"Cipla Ltd","price":"Rs.24.13"}
+{"_id":{"$oid":"5b583fbbd51d295f7748b23c"},"name":"XARELTO 15mg Tablet 14's","composition":"RIVAROXABAN 15MG","manufacturer":"Bayer India Ltd","price":"Rs.2,030.00"}
+{"_id":{"$oid":"5b583fbdd51d295f7748b23d"},"name":"ZEROKLOT 40mg Injection 0.4ml","composition":"Enoxaparin 40mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.379.80"}

@@ -1,0 +1,244 @@
+{"_id":{"$oid":"5b5842b9d51d295fe72f4b39"},"name":"ACTIGUT Sachet 4gm","composition":"Lactobacillus 150Million Spores","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.7.13"}
+{"_id":{"$oid":"5b5842bbd51d295fe72f4b3a"},"name":"ACTIGUT Capsule 10's","composition":"Bifidobacterium Bifidum+Bifidobacterium Longum+Fructooligosaccharides(Fos)+Lactobacillus Acidophilus+Lactobacillus Rhamnosus+Saccharomyces Boulardii+Streptococcus Thermophilus","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.124.95"}
+{"_id":{"$oid":"5b5842bdd51d295fe72f4b3b"},"name":"ACTIGUT Sachet 1gm","composition":"Lactobacillus 150Million Spores","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.5.53"}
+{"_id":{"$oid":"5b5842bdd51d295fe72f4b3c"},"name":"ACTIPEEL Gel 100ml","composition":"Lactic Acid 82%","manufacturer":"Cipla Ltd","price":"Rs.7,000.00"}
+{"_id":{"$oid":"5b5842bfd51d295fe72f4b3d"},"name":"ACTIPEEL Gel 30ml","composition":"Lactic Acid 82%","manufacturer":"Cipla Ltd","price":"Rs.2,750.00"}
+{"_id":{"$oid":"5b5842c2d51d295fe72f4b3e"},"name":"AD 100mg Capsule 10's","composition":"Racecadotril 100mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b5842c4d51d295fe72f4b3f"},"name":"ALLERBIO Sachet 1's","composition":"Lactobacillus 4Billion Spores","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b5842c6d51d295fe72f4b40"},"name":"AMICOLON SB 1gm SACHET","composition":"Saccharomyces Boulardii 500 Million Cells","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b5842c7d51d295fe72f4b41"},"name":"AMILAC 60MIU Tablet 10's","composition":"Lactobacillus Acedophilus 60MIU","manufacturer":"Wockhardt Ltd","price":"Rs.5.00"}
+{"_id":{"$oid":"5b5842c9d51d295fe72f4b42"},"name":"AMYDIO FORTE Syrup 100ml","composition":"Ayurvedic Medicine ","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.96.00"}
+{"_id":{"$oid":"5b5842cbd51d295fe72f4b43"},"name":"ANDIAL 2mg Tablet 10's","composition":"Loperamide 2mg","manufacturer":"Citadel Fine Pharmaceuticals Pvt Ltd","price":"Rs.20.04"}
+{"_id":{"$oid":"5b5842cdd51d295fe72f4b44"},"name":"AUXIPRO FORTE Capsule 10's","composition":"STREPTOCOCCUS THERMOPHILUS 30BILLION SPORES+LACTOBACILLUS ACIDOPHILUS 30BILLION SPORES+BIFIDOBACTERIUM LONGUM 30BILLION SPORES+FRUCTOOLIGOSACCHARIDES(FOS) 200MG","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.1,800.00"}
+{"_id":{"$oid":"5b5842cfd51d295fe72f4b45"},"name":"BABY HYDRAL 10mg Powder 1gm","composition":"Racecadotril 10mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.151.90"}
+{"_id":{"$oid":"5b5842d1d51d295fe72f4b46"},"name":"BACIGYL N Syrup 30ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.16.00"}
+{"_id":{"$oid":"5b5842d3d51d295fe72f4b47"},"name":"BACIGYL N Syrup 60ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.26.05"}
+{"_id":{"$oid":"5b5842d5d51d295fe72f4b48"},"name":"BECELAC PB Capsule 10's","composition":"Prebiotic+Probiotic","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.102.00"}
+{"_id":{"$oid":"5b5842d7d51d295fe72f4b49"},"name":"BECELAC PL Capsule 10's","composition":"Lactobacillus Acidophilus ","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.16.65"}
+{"_id":{"$oid":"5b5842d8d51d295fe72f4b4a"},"name":"BENEFLORA Capsule 10's","composition":"Probiotic","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.96.35"}
+{"_id":{"$oid":"5b5842dad51d295fe72f4b4b"},"name":"BENEFLORA S Capsule 10's","composition":"PREBIOTIC+PROBIOTIC","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.96.35"}
+{"_id":{"$oid":"5b5842dcd51d295fe72f4b4c"},"name":"BENEGUT SUSPENSION 12x5ML","composition":"Bacillus Clausii","manufacturer":"Abbott India Ltd","price":"Rs.362.76"}
+{"_id":{"$oid":"5b5842ded51d295fe72f4b4d"},"name":"BIFILAC SACHET 15's","composition":"Lactobacillus","manufacturer":"Tablets India Ltd","price":"Rs.189.60"}
+{"_id":{"$oid":"5b5842e0d51d295fe72f4b4e"},"name":"BIFILAC DRY Syrup 50ml","composition":"Prebiotic+Probiotic","manufacturer":"Tablets India Ltd","price":"Rs.94.55"}
+{"_id":{"$oid":"5b5842e2d51d295fe72f4b4f"},"name":"BIFILAC ZN 1gm Powder 15's","composition":"BACILLUS MESENTERICUS 1 +CLOSTRIDIUM BUTYRICUM 2 +ELEMENTAL ZINC 7MG+L GLUTAMIC ACID 50MG+LACTOBACILLUS 50 +STREPTOCOCCUS THERMOPHILUS 30 ","manufacturer":"Tablets India Ltd","price":"Rs.268.35"}
+{"_id":{"$oid":"5b5842e4d51d295fe72f4b50"},"name":"BIFILAC HP Capsule 10's","composition":"Lactobacillus Sporogenes+Streptococcus Faecalis","manufacturer":"Tablets India Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b5842e6d51d295fe72f4b51"},"name":"BIFILAC Capsule 10's","composition":"Lactobacillus Sporogenes+Streptococcus Faecalis","manufacturer":"Tablets India Ltd","price":"Rs.99.50"}
+{"_id":{"$oid":"5b5842e8d51d295fe72f4b52"},"name":"BIFILIN Sachet 1gm","composition":"Probiotic","manufacturer":"Cipla Ltd","price":"Rs.36.48"}
+{"_id":{"$oid":"5b5842e9d51d295fe72f4b53"},"name":"BIFILIN Capsule 10's","composition":"Probiotic","manufacturer":"Cipla Ltd","price":"Rs.68.45"}
+{"_id":{"$oid":"5b5842ebd51d295fe72f4b54"},"name":"BINIFIT Sachet 3gm","composition":"Probiotic ","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.7.01"}
+{"_id":{"$oid":"5b5842edd51d295fe72f4b55"},"name":"BIO 4mg Capsule 10's","composition":"Lactobacillus 4mg","manufacturer":"Tablets India Ltd","price":"Rs.94.18"}
+{"_id":{"$oid":"5b5842efd51d295fe72f4b56"},"name":"BIOGLIDE 40mg Tablet 10's","composition":"Gliclazide 40mg","manufacturer":"Biological Evans Ltd","price":"Rs.19.60"}
+{"_id":{"$oid":"5b5842f1d51d295fe72f4b57"},"name":"BIOKRAFT Capsule 10's","composition":"Probiotic","manufacturer":"Saffron Therapeutics Pvt Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b5842f3d51d295fe72f4b58"},"name":"BIOLAC Capsule 10's","composition":"Prebiotic+Probiotic","manufacturer":"Zee Laboratories Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5842f4d51d295fe72f4b59"},"name":"BIOZORA Powder 1gm","composition":"Probiotic","manufacturer":"Cipla Ltd","price":"Rs.28.00"}
+{"_id":{"$oid":"5b5842f6d51d295fe72f4b5a"},"name":"BIOZORA Capsule 10's","composition":"Probiotic","manufacturer":"Cipla Ltd","price":"Rs.62.51"}
+{"_id":{"$oid":"5b5842f8d51d295fe72f4b5b"},"name":"BRIOGUT Syrup 30ml","composition":"Saccharomyces 282.5mg ","manufacturer":"Brio Bliss Life Science Pvt Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b5842fad51d295fe72f4b5c"},"name":"BRONCHO VAXOM 7mg Capsule 10's","composition":"Probiotic 7mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.460.10"}
+{"_id":{"$oid":"5b5842fcd51d295fe72f4b5d"},"name":"CADBIOS Capsule 10's","composition":"Prebiotic+Probiotic","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5842fed51d295fe72f4b5e"},"name":"CADILOSE GREEN Powder 15gm","composition":"Ispaghula+Lactitol","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.32.70"}
+{"_id":{"$oid":"5b5842ffd51d295fe72f4b5f"},"name":"CADOTRIL 15mg Powder SACHET 10x1gm","composition":"Racecadotril 15mg","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.133.10"}
+{"_id":{"$oid":"5b584301d51d295fe72f4b60"},"name":"CADOTRIL Capsule 10's","composition":"Racecadotril 100mg","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.163.60"}
+{"_id":{"$oid":"5b584303d51d295fe72f4b61"},"name":"CALPROTIK FORTE Capsule 10's","composition":"BIFIDOBACTERIUM LONGUM 15BILLION CFU+FRUCTOOLIGOSACCHARIDES(FOS) 100MG+LACTOBACILLUS ACEDOPHILUS 15BILLION CFU+STREPTOCOCCUS THERMOPHILUS 15BILLION CFU","manufacturer":"Calren Care Lifesciences Pvt Ltd","price":"Rs.1,360.00"}
+{"_id":{"$oid":"5b584305d51d295fe72f4b62"},"name":"CITI 500/600mg Tablet 10's","composition":"CIPROFLOXACIN 500MG+TINIDAZOLE 600MG","manufacturer":"Dwd Pharmaceuticals Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b584306d51d295fe72f4b63"},"name":"CLOBEN WIPES Sachet 1's","composition":"Lactic Acid ","manufacturer":"Indoco Remedies Ltd","price":"Rs.17.46"}
+{"_id":{"$oid":"5b584308d51d295fe72f4b64"},"name":"COLONISE FORTE Capsule 10's","composition":"Bifidobacterium Bifidum+Bifidobacterium Longum+Fructooligosaccharide+Lactobacillus Acidophilus+Lactobacillus Rhamnosus+Saccharomyces Boulardii","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.183.50"}
+{"_id":{"$oid":"5b58430ad51d295fe72f4b65"},"name":"COLONISE FORTE Capsule 6's","composition":"Bifidobacterium Bifidum+Bifidobacterium Longum+Fructooligosaccharide+Lactobacillus Acidophilus+Lactobacillus Rhamnosus+Saccharomyces Boulardii","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.152.66"}
+{"_id":{"$oid":"5b58430bd51d295fe72f4b66"},"name":"COMBINORM Capsule 10's","composition":"LACTOBACILLUS ACIDOPHILUS 2 BILLION CFU+LACTOBACILLUS RHAMNOSUS 2 BILLION CFU+LACTOBACILLUS REUTERI 2 BILLION CFU+LACTOBACILLUS PLANTARUM 1 BILLION CFU+LACTOBACILLUS CASEI 1 BILLION CFU+LACTOBACILLUS COMBINATIONS 1 BILLION CFU+BIFIDOBACTERIUM BIFIDUM 1 BI","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b58430dd51d295fe72f4b67"},"name":"CUDO FORTE Capsule 10's","composition":"Streptococcus Thermophilus-Lactobacillus Acidophilus-Bifidobacterium Longum 90Billion Cells","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.1,800.00"}
+{"_id":{"$oid":"5b58430fd51d295fe72f4b68"},"name":"CYFOLAC DT Tablet 10's","composition":"Folic Acid 1.5mg+Lactobacillus 120 Million Cells+Vitamin B12 15mcg","manufacturer":"Karnataka Antibiotic \u0026 Phamaceuticals Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b584311d51d295fe72f4b69"},"name":"CYFOLAC Capsule 10's","composition":"Folic Acid 1.5mg+Lactobacillus 120 Million Cells+Vitamin B12 15mcg","manufacturer":"Karnataka Antibiotic \u0026 Phamaceuticals Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b584313d51d295fe72f4b6a"},"name":"DAROLAC IBS Capsule 10's","composition":"Lactobacillus","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.298.61"}
+{"_id":{"$oid":"5b584315d51d295fe72f4b6b"},"name":"DAROLAC Injection 5ml","composition":"Probiotic Microbes ","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.24.00"}
+{"_id":{"$oid":"5b584317d51d295fe72f4b6c"},"name":"DAROLAC Capsule 10's","composition":"Lactobacillus Acidophilus+Lactobacillus Rhamnosus+Bifidobacterium Longum+Saccharomyces Boulardii.","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b584319d51d295fe72f4b6d"},"name":"DAROLAC Powder 10X1gm","composition":"Lactobacillus Acidophilus+Lactobacillus Rhamnosus+Bifidobacterium Longum+Saccharomyces Boulardii","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b58431bd51d295fe72f4b6e"},"name":"DAROLAC Powder 10X2gm","composition":"PROBIOTIC ","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b58431dd51d295fe72f4b6f"},"name":"DAROLAC Syrup 30ml","composition":"Bacillus Subtilis 2 Billion Spores","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b58431fd51d295fe72f4b70"},"name":"DAROLAC PLUS Powder 1.3gm","composition":"Lactobacillus 150Million Spores","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.6.25"}
+{"_id":{"$oid":"5b584321d51d295fe72f4b71"},"name":"DAROLAC Z Powder 10x2gm","composition":"Lactobacillus 1Billion Spores+Zinc 20mg+Saccharomyces Boulardii 125mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b584323d51d295fe72f4b72"},"name":"DAROLAC Z Sachet 2gm","composition":"LACTOBACILLUS RHAMNOSUS 125MG+ELEMENTAL ZINC 20MG","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.15.50"}
+{"_id":{"$oid":"5b584325d51d295fe72f4b73"},"name":"DIABA M Syrup 30ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.26.20"}
+{"_id":{"$oid":"5b584328d51d295fe72f4b74"},"name":"DIARLOP 2mg Capsule 10's","composition":"Loperamide 2mg","manufacturer":"Jagsonpal Pharmaceuticals Ltd","price":"Rs.17.18"}
+{"_id":{"$oid":"5b58432ad51d295fe72f4b75"},"name":"DIAROL 100/100mg Capsule 10's","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.65.71"}
+{"_id":{"$oid":"5b58432cd51d295fe72f4b76"},"name":"DIOSMEC Sachet 3gm","composition":"Dioctrohedral Smectite 3gm","manufacturer":"Ajanta Pharma Ltd","price":"Rs.17.42"}
+{"_id":{"$oid":"5b58432ed51d295fe72f4b77"},"name":"DOTRIL 100mg Capsule 10's","composition":"Racecadotril 100mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b584330d51d295fe72f4b78"},"name":"DUPHALAC FIBER Solution 100ml","composition":"LACTULOSE","manufacturer":"Abbott India Ltd","price":"Rs.102.90"}
+{"_id":{"$oid":"5b584332d51d295fe72f4b79"},"name":"ECOBION BC Suspension 5ml","composition":"Bacillus Clausii 2 Billion Spores","manufacturer":"Merck Ltd","price":"Rs.32.50"}
+{"_id":{"$oid":"5b584333d51d295fe72f4b7a"},"name":"ECOBION Capsule 10's","composition":"Fructo Oligosaccharide+Prebiotic+Probiotics","manufacturer":"Merck Ltd","price":"Rs.122.54"}
+{"_id":{"$oid":"5b584334d51d295fe72f4b7b"},"name":"ECOFLORA Capsule 30's","composition":"Lactobacillus 1 Billion Cells","manufacturer":"Tablets India Ltd","price":"Rs.1,604.00"}
+{"_id":{"$oid":"5b584337d51d295fe72f4b7c"},"name":"ECOFLORA Capsule 10's","composition":"Lactobacillus 1 Billion Cells","manufacturer":"Tablets India Ltd","price":"Rs.619.50"}
+{"_id":{"$oid":"5b584339d51d295fe72f4b7d"},"name":"ECONORM Capsule 4's","composition":"Saccharomyces","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b58433ad51d295fe72f4b7e"},"name":"ECONORM Capsule 5's","composition":"Saccharomyces 250mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b58433cd51d295fe72f4b7f"},"name":"EDITOR SACHET 1gm","composition":"Lactobacillus 40 Million Cells+Racecadotril 15mg","manufacturer":"Biomiicron Pharma India Pvt Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b58433ed51d295fe72f4b80"},"name":"ELDOPER Suspension 30ml","composition":"Loperamide 2mg","manufacturer":"Micro Labs Ltd","price":"Rs.0.62"}
+{"_id":{"$oid":"5b584340d51d295fe72f4b81"},"name":"ELDOPER Capsule 10's","composition":"Loperamide 2mg","manufacturer":"Micro Labs Ltd","price":"Rs.33.40"}
+{"_id":{"$oid":"5b584342d51d295fe72f4b82"},"name":"ELDOPER PLUS Tablet 10's","composition":"Loperamide 2mg+Simethicone 125mg","manufacturer":"Micro Labs Ltd","price":"Rs.28.00"}
+{"_id":{"$oid":"5b584344d51d295fe72f4b83"},"name":"ELECTRAL Powder 7gm","composition":"Otc","manufacturer":"Fdc Ltd","price":"Rs.4.13"}
+{"_id":{"$oid":"5b584346d51d295fe72f4b84"},"name":"ELECTROKIND L LEMON Liquid 200ml","composition":"OTC","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b584348d51d295fe72f4b85"},"name":"ELECTROKIND Z Powder 21.5gm","composition":"DEXTROSE 13.5GM+SODIUM CHLORIDE 2.6GM+POTASSIUM CHLORIDE 1.5GM+SODIUM CITRATE 2.9GM+ZINC SULPHATE 0.11GM","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.16.02"}
+{"_id":{"$oid":"5b584349d51d295fe72f4b86"},"name":"ENBIOS Suspension 5ml","composition":"Bacillus Clausii 2 Billion Spores","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.24.00"}
+{"_id":{"$oid":"5b58434bd51d295fe72f4b87"},"name":"ENBIOS 250mg Powder ","composition":"Saccharomyces Boulardii 250mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b58434dd51d295fe72f4b88"},"name":"ENTAMIZOLE O Tablet 10's","composition":"Ofloxacin 200mg+Ornidazole 500mg","manufacturer":"Abbott India Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b58434fd51d295fe72f4b89"},"name":"ENTERO PLUS 1000mg Sachet 1's","composition":"Lactobacillus Rhamnosus 3Billion Cfu","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b584351d51d295fe72f4b8a"},"name":"ENTEROGERMINA Suspension 5ml","composition":"Bacillus Clausi","manufacturer":"Sanofi India Ltd","price":"Rs.46.19"}
+{"_id":{"$oid":"5b584353d51d295fe72f4b8b"},"name":"ENTEROGERMINA Suspension 10X5ml","composition":"BACILLUS CLAUSII 2 BILLION SPORES","manufacturer":"Sanofi India Ltd","price":"Rs.461.90"}
+{"_id":{"$oid":"5b584355d51d295fe72f4b8c"},"name":"ENTEROGERMINA Capsule 4's","composition":"Bacillus Clausii","manufacturer":"Sanofi India Ltd","price":"Rs.121.95"}
+{"_id":{"$oid":"5b584356d51d295fe72f4b8d"},"name":"ENTEROLIFE Sachet 1gm","composition":"BACILLUS CLAUSI","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.32.61"}
+{"_id":{"$oid":"5b584358d51d295fe72f4b8e"},"name":"ENTEROQUINOL Tablet 20's","composition":"Quiniodochlor 250mg","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.33.50"}
+{"_id":{"$oid":"5b58435ad51d295fe72f4b8f"},"name":"ENTROFLORA Capsule 10's","composition":"Prebiotic+Probiotic","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.193.00"}
+{"_id":{"$oid":"5b58435cd51d295fe72f4b90"},"name":"ENTROFLORA Suspension 5ml","composition":"BACILLUS CLAUSI 2BILLION SPORES","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.26.40"}
+{"_id":{"$oid":"5b58435ed51d295fe72f4b91"},"name":"ENTROGYL 100/100mg Syrup 30ml","composition":"Norfloxacin 100mg+Metronidazole 100mg","manufacturer":"Cipla Ltd","price":"Rs.33.00"}
+{"_id":{"$oid":"5b584360d51d295fe72f4b92"},"name":"ENUFF 30mg Powder SACHET 20x3gm","composition":"Racecadotril 30mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b584362d51d295fe72f4b93"},"name":"ENUFF 10MG SACHET 1GM","composition":"RACECADOTRIL 10MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.9.25"}
+{"_id":{"$oid":"5b584364d51d295fe72f4b94"},"name":"ENUFF DT 30mg Tablet 10's","composition":"Racecadotril 30mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b584366d51d295fe72f4b95"},"name":"ENUFF 15mg Powder 1.5gm","composition":"Racecadotril 15mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.9.00"}
+{"_id":{"$oid":"5b584368d51d295fe72f4b96"},"name":"ENUFF 10mg POWDER SACHET 20x1gm","composition":"Racecadotril 10mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b58436ad51d295fe72f4b97"},"name":"ENUFF DT 10mg Tablet 10's","composition":"Racecadotril 10mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b58436bd51d295fe72f4b98"},"name":"ENZISPOR Capsule 10's","composition":"Bacillus Clausii 2 Billion Spores","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.308.00"}
+{"_id":{"$oid":"5b58436dd51d295fe72f4b99"},"name":"EUBIOZ Capsule 10's","composition":"Fructo Oligosaccharides+Lactobacillus","manufacturer":"Lupin Ltd","price":"Rs.123.00"}
+{"_id":{"$oid":"5b58436fd51d295fe72f4b9a"},"name":"EUGI Sachet 1gm","composition":"Probiotics","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.12.00"}
+{"_id":{"$oid":"5b584371d51d295fe72f4b9b"},"name":"EUGI Capsule 10's","composition":"Probiotic","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.108.55"}
+{"_id":{"$oid":"5b584373d51d295fe72f4b9c"},"name":"FEMBIO Capsule 10's","composition":"Lactobacillus","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.406.60"}
+{"_id":{"$oid":"5b584375d51d295fe72f4b9d"},"name":"FLOMET O Syrup 30ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Others","price":"Rs.29.97"}
+{"_id":{"$oid":"5b584377d51d295fe72f4b9e"},"name":"FLORA BC DRY Syrup 60ml","composition":"Folic Acid+Lacto Bacillus+Niacinamide+Pyridoxine+Zinc","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.37.92"}
+{"_id":{"$oid":"5b584378d51d295fe72f4b9f"},"name":"FLORA BC Capsule 10's","composition":"Folic Acid+Lacto Bacillus+Niacinamide+Pyridoxine","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.27.50"}
+{"_id":{"$oid":"5b58437ad51d295fe72f4ba0"},"name":"FLORA Tablet 10's","composition":"Lactobacillus Acidophilus ","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.9.90"}
+{"_id":{"$oid":"5b58437dd51d295fe72f4ba1"},"name":"FLORA DT Tablet 10's","composition":"Lactobacillus Acidophilus ","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.9.90"}
+{"_id":{"$oid":"5b58437fd51d295fe72f4ba2"},"name":"FLORISTORE Capsule 10's","composition":"Lactobacillus","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.152.00"}
+{"_id":{"$oid":"5b584381d51d295fe72f4ba3"},"name":"FLOROBACT Capsule 10's","composition":"Probiotic","manufacturer":"Icarus Health Care Pvt Ltd","price":"Rs.108.90"}
+{"_id":{"$oid":"5b584382d51d295fe72f4ba4"},"name":"GASTROGYL M 100/100mg Suspension 30ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Biological Evans Ltd","price":"Rs.23.95"}
+{"_id":{"$oid":"5b584384d51d295fe72f4ba5"},"name":"GLENDOPER 2mg Capsule 10's","composition":"Loperamide 2mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.18.00"}
+{"_id":{"$oid":"5b584386d51d295fe72f4ba6"},"name":"GNORM Capsule 6's","composition":"Saccharomyces 282.5mg","manufacturer":"Nouveau Medicament Pvt Ltd","price":"Rs.111.00"}
+{"_id":{"$oid":"5b584388d51d295fe72f4ba7"},"name":"GOODBELLY Capsule 10's","composition":"BACILLUS CLAUSI ","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b58438ad51d295fe72f4ba8"},"name":"GRAMOGYL Suspension 30ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.15.61"}
+{"_id":{"$oid":"5b58438cd51d295fe72f4ba9"},"name":"GRAMOGYL Tablet 10's","composition":"Metronidazole 500mg+Norfloxacin 400mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b58438ed51d295fe72f4baa"},"name":"GRAMOGYL Syrup 60ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.25.40"}
+{"_id":{"$oid":"5b584390d51d295fe72f4bab"},"name":"GUT OK Dry Syrup 50ml","composition":"PROBIOTIC ","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b584392d51d295fe72f4bac"},"name":"GUT OK NF Capsule 10's","composition":"PREBIOTIC +PROBIOTIC ","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.109.50"}
+{"_id":{"$oid":"5b584393d51d295fe72f4bad"},"name":"GUT RENEW Capsule 10's","composition":"Bifidobacterium Bifidum 1 Billion Cfu+Lactobacillus Acidophilus 2 Billion Cfu+Lactobacillus Casei 1 Billion Cfu+Lactobacillus Plantarum 1.5 Billion Cfu+Lactobacillus Reuteri 1 Billion Cfu+Lactobacillus Rhamnosus 1.5 Billion Cfu+Saccharomyces Boulardii 2 B","manufacturer":"Abbott India Ltd","price":"Rs.319.95"}
+{"_id":{"$oid":"5b584395d51d295fe72f4bae"},"name":"GUTNEXT POWDER 1GM","composition":"LACTOBACILLUS ACIDOPHILUS 0.25 BILLION CFU+LACTOBACILLUS RHAMNOSUS 0.25 BILLION CFU+BIFIDOBACTERIUM LONGUM 0.25 BILLION CFU+SACCHAROMYCES BOULARDII 5 BILLION CFU+FRUCTO OLIGO SACCHARIDES 100MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b584397d51d295fe72f4baf"},"name":"GUTPRO Granules SACHET 10x0.5gm","composition":"Streptococcus Faecalis 30 Million Cells+Clostridium Butyricum 2 Million Cells+Bacillus Mesentericus 1 Million Cells+Lactobacillus 50 Million Cells","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b584399d51d295fe72f4bb0"},"name":"GUTRITE SB SACHET 1gm","composition":"Bifidobacterium Bifidum+Bifidobacterium Longum+Fructooligosaccharide+Lactobacillus Acidophilus+Lactobacillus Rhamnosus+Saccharomyces Boulardii+Streptococcus Thermophilus","manufacturer":"Fdc Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b58439bd51d295fe72f4bb1"},"name":"GUTRITE SACHET 1gm","composition":"Bifidobacterium Bifidum+Bifidobacterium Longum+Fructooligosaccharide+Lactobacillus Acidophilus+Lactobacillus Rhamnosus+Saccharomyces Boulardii+Strepto","manufacturer":"Fdc Ltd","price":"Rs.9.90"}
+{"_id":{"$oid":"5b58439dd51d295fe72f4bb2"},"name":"GUTSIUM Capsule 10's","composition":"Saccharomyces","manufacturer":"Tablets India Ltd","price":"Rs.392.00"}
+{"_id":{"$oid":"5b58439fd51d295fe72f4bb3"},"name":"GUTSIUM CAPSULE 30'S","composition":"Saccharomyces","manufacturer":"Tablets India Ltd","price":"Rs.1,020.00"}
+{"_id":{"$oid":"5b5843a1d51d295fe72f4bb4"},"name":"IMMUNOBACT CAPSULE 10'S","composition":"BACILLUS MESENTERICUS+CLOSTRIDIUM BUTYRICUM+LACTIC ACID BACILLUS+STREPTOCOCCUS FAECALIS","manufacturer":"Theia Healthcare","price":"Rs.70.00"}
+{"_id":{"$oid":"5b5843a3d51d295fe72f4bb5"},"name":"IMODIUM Capsule 4's","composition":"Loperamide 2mg","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.14.50"}
+{"_id":{"$oid":"5b5843a5d51d295fe72f4bb6"},"name":"IMUBLESS CAPSULE 10'S","composition":"BIFIDOBACTERIUM BIFIDUM 0+BIFIDOBACTERIUM LONGUM 0+COLOSTRUM 0+FRUCTOOLIGOSACCHARIDES(FOS) 0+LACTOBACILLUS ACIDOPHILUS 0+LACTOBACILLUS RHAMNOSUS 0+SACCHAROMYCES BOULARDII 0+ZINC 0","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5843a6d51d295fe72f4bb7"},"name":"INSTAMUNE Powder 90gm","composition":"Lactobacillus 2.5Billion Spores","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.390.00"}
+{"_id":{"$oid":"5b5843a8d51d295fe72f4bb8"},"name":"KIDILAC Dry Syrup 50ml","composition":"STREPTOCOCCUS FAECALIS 30MIU+CLOSTRIDIUM BUTYRICUM 2MIU+BACILLUS MESENTERICUS 1MIU+LACTIC ACID BACILLUS 50MIU","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.94.50"}
+{"_id":{"$oid":"5b5843aad51d295fe72f4bb9"},"name":"KLASSAK Suspension 30ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.22.50"}
+{"_id":{"$oid":"5b5843abd51d295fe72f4bba"},"name":"L GRIP Tablet 10's","composition":"Lactic Acid Bacillus+Loperamide","manufacturer":"Alchemist Lifesciences Ltd","price":"Rs.7.00"}
+{"_id":{"$oid":"5b5843add51d295fe72f4bbb"},"name":"LACTES Chewable Tablet 10's","composition":"Lactase","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b5843afd51d295fe72f4bbc"},"name":"LACTIFIBER Granule 15gm","composition":"ISPAGHULA 3.5GM+LACTITOL 10GM","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b5843b1d51d295fe72f4bbd"},"name":"LACTOBACIL PLUS Capsule 10's","composition":"Synbiotic","manufacturer":"Organon India Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5843b3d51d295fe72f4bbe"},"name":"LACTOBAIL Sachet 1's","composition":"Lactobacillus Acidophilus ","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b5843b5d51d295fe72f4bbf"},"name":"LACTOCIP Tablet 15's","composition":"Lactobacillus Sporogenes ","manufacturer":"Cipla Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b5843b7d51d295fe72f4bc0"},"name":"LACTONAM Tablet 10's","composition":"Lactobacillus Acidophilus ","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.10.50"}
+{"_id":{"$oid":"5b5843bad51d295fe72f4bc1"},"name":"LACTOVIT CAPSULE 15'S","composition":"CALCIUM PANTOTHENATE 2.5 +CYANOCOBALAMIN 15 +LACTOBACILLUS 600 +NIACENAMIDE 50 +THIAMINE MONONITRATE 10 ","manufacturer":"Medispan Ltd","price":"Rs.52.50"}
+{"_id":{"$oid":"5b5843bcd51d295fe72f4bc2"},"name":"LAFF Tablet 10's","composition":"Fructo Oligosaccharides+Lactobacillus","manufacturer":"Pharmed Limited","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5843bed51d295fe72f4bc3"},"name":"LEVIOSA 299V Capsule 10's","composition":"Lactobacillus","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b5843c0d51d295fe72f4bc4"},"name":"LOBUN Capsule 10's","composition":"Probiotic","manufacturer":"Sanzyme Pvt Ltd","price":"Rs.383.00"}
+{"_id":{"$oid":"5b5843c2d51d295fe72f4bc5"},"name":"LOBUN FORTE Capsule 10's","composition":"Probiotic+Fructooligosaccharides","manufacturer":"Sanzyme Pvt Ltd","price":"Rs.768.00"}
+{"_id":{"$oid":"5b5843c4d51d295fe72f4bc6"},"name":"LOMID M Suppositorie 30ml","composition":"Metronidazole+Norfloxacin","manufacturer":"Agron Remedies Pvt Ltd","price":"Rs.10.99"}
+{"_id":{"$oid":"5b5843c5d51d295fe72f4bc7"},"name":"LOMOTIL Tablet 10's","composition":"Atropine 0","manufacturer":"Rpg Life Science Ltd","price":"Rs.13.20"}
+{"_id":{"$oid":"5b5843c7d51d295fe72f4bc8"},"name":"LOMOTIL Tablet 20's","composition":"Atropine Sulfate+Diphenoxylate","manufacturer":"Rpg Life Science Ltd","price":"Rs.15.90"}
+{"_id":{"$oid":"5b5843c9d51d295fe72f4bc9"},"name":"LONA Cream 500gm","composition":"Electrolytes","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.54.46"}
+{"_id":{"$oid":"5b5843cbd51d295fe72f4bca"},"name":"LOPAGUT 2mg Tablet 10's","composition":"Loperamide 2mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.15.00"}
+{"_id":{"$oid":"5b5843cdd51d295fe72f4bcb"},"name":"LOPAJOY 2mg Tablet 10's","composition":"Loperamide 2mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.13.33"}
+{"_id":{"$oid":"5b5843cfd51d295fe72f4bcc"},"name":"LOPAMAX 2mg Tablet 10's","composition":"Loperamide 2mg","manufacturer":"Wockhardt Ltd","price":"Rs.3.43"}
+{"_id":{"$oid":"5b5843d1d51d295fe72f4bcd"},"name":"LOPAMIDE 2mg Tablet 10's","composition":"Loperamide 2mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.18.86"}
+{"_id":{"$oid":"5b5843d3d51d295fe72f4bce"},"name":"LOPARET Tablet 10's","composition":"Loperamide 2mg","manufacturer":"Retort Pharmaceuticals Pvt Ltd","price":"Rs.20.70"}
+{"_id":{"$oid":"5b5843d7d51d295fe72f4bcf"},"name":"LOPERAMIDE (ZYDUS) 2mg Tablet 10's","composition":"Loperamide 2mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.3.75"}
+{"_id":{"$oid":"5b5843d9d51d295fe72f4bd0"},"name":"MANGOGYL Syrup 30ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Pharma Synth Formulations Pvt","price":"Rs.29.27"}
+{"_id":{"$oid":"5b5843dbd51d295fe72f4bd1"},"name":"METNOX Syrup 30ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Indi Pharma Pvt Ltd","price":"Rs.11.82"}
+{"_id":{"$oid":"5b5843dcd51d295fe72f4bd2"},"name":"NOR METROGYL Tablet 10's","composition":"Metronidazole 500mg+Norfloxacin 400mg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b5843ded51d295fe72f4bd3"},"name":"N MET Suspension 30ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.24.22"}
+{"_id":{"$oid":"5b5843e0d51d295fe72f4bd4"},"name":"NEOSMILE Drops 10ml","composition":"Lactase 600IU/ml","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5843e2d51d295fe72f4bd5"},"name":"NEW GRAMOGYL Tablet 10's","composition":"NORFLOXACIN 400MG+TINIDAZOLE 600MG","manufacturer":"Rexcin Pharmaceuticals Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5843e4d51d295fe72f4bd6"},"name":"NEW PROBIZA Capsule 10's","composition":"Probiotic ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.86.68"}
+{"_id":{"$oid":"5b5843e6d51d295fe72f4bd7"},"name":"NOGIT M Suspension 30ml","composition":"Metronidazole +Norfloxacin 100mg","manufacturer":"Alde Medi Impex Ltd","price":"Rs.26.96"}
+{"_id":{"$oid":"5b5843e7d51d295fe72f4bd8"},"name":"NOR METROGYL Suspension 60ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Lekar Pharma Ltd","price":"Rs.36.17"}
+{"_id":{"$oid":"5b5843ead51d295fe72f4bd9"},"name":"NOR METROGYL Syrup 30ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.13.81"}
+{"_id":{"$oid":"5b5843ebd51d295fe72f4bda"},"name":"NORAGYL Tablet 10's","composition":"Metronidazole 150mg+Norfloxacin 200mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.15.65"}
+{"_id":{"$oid":"5b5843eed51d295fe72f4bdb"},"name":"NORAGYL Suspension 30ml","composition":"Norfloxacin 100mg+Metronidazole 100mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.47.56"}
+{"_id":{"$oid":"5b5843f0d51d295fe72f4bdc"},"name":"NORAGYL Syrup 30ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.47.56"}
+{"_id":{"$oid":"5b5843f2d51d295fe72f4bdd"},"name":"NORFAGYL Tablet 10's","composition":"Metronidazole 300mg+Norfloxacin 200mg","manufacturer":"Others","price":"Rs.23.62"}
+{"_id":{"$oid":"5b5843f4d51d295fe72f4bde"},"name":"NORFLOX LB Tablet 10's","composition":"Norfloxacin 200mg+Lactobacillus 30MIU","manufacturer":"Cipla Ltd","price":"Rs.26.83"}
+{"_id":{"$oid":"5b5843f5d51d295fe72f4bdf"},"name":"NORFLOX M Suspension 30ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Cipla Ltd","price":"Rs.22.98"}
+{"_id":{"$oid":"5b5843f6d51d295fe72f4be0"},"name":"NORFLOX OZ LB 500/400mg Tablet 10's","composition":"Ornidazole 500mg+Norfloxacin 400mg","manufacturer":"Cipla Ltd","price":"Rs.74.03"}
+{"_id":{"$oid":"5b5843f8d51d295fe72f4be1"},"name":"NORGYL Syrup 30ml","composition":"METRONIDAZOLE 100MG+NORFLOXACIN 100MG","manufacturer":"Zee Laboratories Ltd","price":"Rs.12.38"}
+{"_id":{"$oid":"5b5843fad51d295fe72f4be2"},"name":"NORMAGUT Capsule 10's","composition":"Fructo Oligosaccharide+Prebiotic+Probiotics","manufacturer":"Wockhardt Ltd","price":"Rs.68.50"}
+{"_id":{"$oid":"5b5843fcd51d295fe72f4be3"},"name":"NORMAGUT Powder 1gm","composition":"BIFIDOBACTERIUM BIFIDUM 0.48MILLION CELLS+FRUCTOOLIGOSACCHARIDES(FOS) 500MG+LACTOBACILLUS ACIDOPHILUS 0.48MILLION CELLS+LACTOBACILLUS RHAMNOSUS 0.48MILLION CELLS+SACCHAROMYCES BOULARDII 0.1BILLION SPORES+STREPTOCOCCUS THERMOPHILUS 0.48BILLION SPORES","manufacturer":"Wockhardt Ltd","price":"Rs.8.50"}
+{"_id":{"$oid":"5b5843fdd51d295fe72f4be4"},"name":"NORMAGUT 2.5mg Tablet 10's","composition":"Probiotic Microbes 2.5mg","manufacturer":"Wockhardt Ltd","price":"Rs.65.23"}
+{"_id":{"$oid":"5b5843ffd51d295fe72f4be5"},"name":"NOROSOL M Syrup 30ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Others","price":"Rs.25.66"}
+{"_id":{"$oid":"5b584401d51d295fe72f4be6"},"name":"NORSPAN M Syrup 30ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.25.72"}
+{"_id":{"$oid":"5b584403d51d295fe72f4be7"},"name":"NORSPAN M DT Tablet 10's","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.29.95"}
+{"_id":{"$oid":"5b584405d51d295fe72f4be8"},"name":"NOXIGYL Tablet 10's","composition":"Tinidazole 600mg+Norfloxacin 400mg","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b584407d51d295fe72f4be9"},"name":"NOXIGYL Syrup 30ml","composition":"Tinidazole 100mg+Norfloxacin 100mg","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.23.50"}
+{"_id":{"$oid":"5b584409d51d295fe72f4bea"},"name":"PEGTOLINE PLUS Syrup 60ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Others","price":"Rs.21.22"}
+{"_id":{"$oid":"5b58440bd51d295fe72f4beb"},"name":"POWERGYL Tablet 10's","composition":"Metronidazole 500mg+Norfloxacin 400mg","manufacturer":"Cipla Ltd","price":"Rs.57.00"}
+{"_id":{"$oid":"5b58440dd51d295fe72f4bec"},"name":"POWERGYL 100mg/100mg Suspension 30ml","composition":"Norfloxacin 100mg+Metronidazole 100mg","manufacturer":"Cipla Ltd","price":"Rs.60.50"}
+{"_id":{"$oid":"5b58440fd51d295fe72f4bed"},"name":"POWERGYL Syrup 60ml","composition":"Metronidazole 100mg+Norfloxacin 100mg","manufacturer":"Cipla Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b584410d51d295fe72f4bee"},"name":"POWERGYL 400/500mg Tablet 10's","composition":"Norfloxacin 400mg+Metronidazole 500mg","manufacturer":"Cipla Ltd","price":"Rs.57.00"}
+{"_id":{"$oid":"5b584412d51d295fe72f4bef"},"name":"PRE 4 Capsule 10's","composition":"Bacillus Mesentericus 1Million Cells+Lactobacillus Sporogenes 50Million Spores+Clostridium Butyricum 2Million Spores","manufacturer":"Med Manor Organics Pvt Ltd","price":"Rs.92.00"}
+{"_id":{"$oid":"5b584413d51d295fe72f4bf0"},"name":"PRE PRO Capsule 10's","composition":"Lactobacillus 15Million Spores","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b584415d51d295fe72f4bf1"},"name":"PREPRO HS Capsule 10's","composition":"Prebiotic+Probiotic","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b584417d51d295fe72f4bf2"},"name":"PROB P Capsule 10's","composition":"Bifidobacterium Longum+Fructooligosaccharide+Lactobacillus Acidophilus+Lactobacillus Rhamnosus+Saccharomyces Boulardii","manufacturer":"Intra Labs India Pvt Ltd","price":"Rs.114.40"}
+{"_id":{"$oid":"5b58441ad51d295fe72f4bf3"},"name":"PROBIGRESS Capsule 10's","composition":"Probiotic ","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.400.00"}
+{"_id":{"$oid":"5b58441dd51d295fe72f4bf4"},"name":"PROENTRA Sachet 1gm","composition":"Saccharomyces 250mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.29.50"}
+{"_id":{"$oid":"5b58441ed51d295fe72f4bf5"},"name":"PROGUT Powder 1gm","composition":"Bifidobacterium Bifidum 0.60Billion Cfu+Fructooligosaccharides(Fos) 50mg+Lactobacillus 0.625Billion Cfu+Saccharomyces Boulardii 0.025Billion Cfu","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.14.30"}
+{"_id":{"$oid":"5b58441fd51d295fe72f4bf6"},"name":"PROGUT S Powder 1's","composition":"Saccharomyces Boulardii 0.025Billion Cfu","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.32.50"}
+{"_id":{"$oid":"5b584421d51d295fe72f4bf7"},"name":"PROVIDAC Capsule 14's","composition":"Lactobacillus Acidophilus","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.275.60"}
+{"_id":{"$oid":"5b584425d51d295fe72f4bf8"},"name":"PROVIDAC Sachet 1's","composition":"Lactobacillus Acidophilus 1Million Cells","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.25.00"}
+{"_id":{"$oid":"5b584426d51d295fe72f4bf9"},"name":"PROVIDAC 1 M Capsule 10's","composition":"Lactobacillus Acidophilus 1Million Cells","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.135.00"}
+{"_id":{"$oid":"5b584428d51d295fe72f4bfa"},"name":"RACEBASE Tablet 10's","composition":"Saccharomyces Boulardii 50mg+Racecadotril 282.5mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.129.90"}
+{"_id":{"$oid":"5b58442ad51d295fe72f4bfb"},"name":"RACEBASE JUNIOR Powder 1gm","composition":"Racecadotril 15mg+Saccharomyces Boulardii 282.5mg+Lactobacillus 10Million Cells","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.33.95"}
+{"_id":{"$oid":"5b58442cd51d295fe72f4bfc"},"name":"RACEDOT Powder 1gm","composition":"Racecadotril 10mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.68.50"}
+{"_id":{"$oid":"5b58442ed51d295fe72f4bfd"},"name":"RACETRIL 15mg Powder 1gm","composition":"Racecadotril 15mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.9.00"}
+{"_id":{"$oid":"5b584430d51d295fe72f4bfe"},"name":"RACETRIL 15mg Tablet 10's","composition":"Racecadotril 15mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.92.50"}
+{"_id":{"$oid":"5b584432d51d295fe72f4bff"},"name":"RACIGYL KID Tablet 10's","composition":"Racecadotril","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.43.40"}
+{"_id":{"$oid":"5b584435d51d295fe72f4c00"},"name":"RACIGYL 100mg Tablet 10's","composition":"Racecadotril 100mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.39.50"}
+{"_id":{"$oid":"5b584437d51d295fe72f4c01"},"name":"RACIGYL Sachet 10x1gm","composition":"Racecadotril 15gm","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.93.30"}
+{"_id":{"$oid":"5b584439d51d295fe72f4c02"},"name":"RACIGYL 100mg Capsule 10's","composition":"Racecadotril 100mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.104.77"}
+{"_id":{"$oid":"5b58443bd51d295fe72f4c03"},"name":"RACOTIL 100mg Capsule 10's","composition":"Racecadotril 100mg","manufacturer":"Cipla Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b58443dd51d295fe72f4c04"},"name":"RACY 100mg Capsule 10's","composition":"Racecadotril 100mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.71.18"}
+{"_id":{"$oid":"5b58443fd51d295fe72f4c05"},"name":"RADOTIL 100mg Tablet 10's","composition":"Racecadotril 100mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b584441d51d295fe72f4c06"},"name":"REDOTIL 30mg Powder SACHET 30x1gm","composition":"Racecadotril 30mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.232.50"}
+{"_id":{"$oid":"5b584441d51d295fe72f4c07"},"name":"REDOTIL 100mg Capsule 10's","composition":"RACECADOTRIL 100MG","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.241.50"}
+{"_id":{"$oid":"5b584442d51d295fe72f4c08"},"name":"REDOTIL 10mg Powder SACHET 30x1gm","composition":"Racecadotril 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.232.50"}
+{"_id":{"$oid":"5b584444d51d295fe72f4c09"},"name":"REFLORA Z Capsule 10's","composition":"Lactic Acid+Saccharomyces Boulardii+Zinc","manufacturer":"Sundyota Numandis Pharmaceuticals Pvt Ltd","price":"Rs.199.29"}
+{"_id":{"$oid":"5b584448d51d295fe72f4c0a"},"name":"REFLORA R Powder 1gm","composition":"Saccharomyces Boulardii 141.25mg+Lactobacillus 100 Million Cells+Racecadotril 10mg","manufacturer":"Sundyota Numandis Pharmaceuticals Pvt Ltd","price":"Rs.29.79"}
+{"_id":{"$oid":"5b58444ad51d295fe72f4c0b"},"name":"RELAC B Capsule 10's","composition":"Fructooligosaccharides+Lactobacillus","manufacturer":"Kinesis Pharmaceuticals Pvt.Ltd","price":"Rs.33.00"}
+{"_id":{"$oid":"5b58444cd51d295fe72f4c0c"},"name":"REMUNE SACHET 1gm","composition":"Prebiotic +Probiotic ","manufacturer":"Sundyota Numandis Pharmaceuticals Pvt Ltd","price":"Rs.20.99"}
+{"_id":{"$oid":"5b58444dd51d295fe72f4c0d"},"name":"REMUNE AL SACHET Powder 1gm","composition":"Lactobacillus","manufacturer":"Sundyota Numandis Pharmaceuticals Pvt Ltd","price":"Rs.29.27"}
+{"_id":{"$oid":"5b584450d51d295fe72f4c0e"},"name":"RIDOL Tablet 10's","composition":"Loperamide 2mg","manufacturer":"Gufic Biosciences Ltd","price":"Rs.19.22"}
+{"_id":{"$oid":"5b584452d51d295fe72f4c0f"},"name":"RIDOSMEC Sachet 3.8gm","composition":"Dioctrohedral Smectite 3.8gm","manufacturer":"Ajanta Pharma Ltd","price":"Rs.17.26"}
+{"_id":{"$oid":"5b584454d51d295fe72f4c10"},"name":"ROKO 2mg Capsule 10's","composition":"Loperamide 2mg","manufacturer":"Cipla Ltd","price":"Rs.18.00"}
+{"_id":{"$oid":"5b584455d51d295fe72f4c11"},"name":"ROKOGYL Suspension 30ml","composition":"Norfloxacin 100mg+Metronidazole 100mg","manufacturer":"Cipla Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b584457d51d295fe72f4c12"},"name":"SACRO HP Capsule 10's","composition":"Streptococcus Faecalis 60 Mill Cell+Clostridium Butyricum 4 Mill Cell+Bacillus Mesentericus 2 Mill Cell+Lactobacillus Sporogenes 100 Mill Cell","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b584459d51d295fe72f4c13"},"name":"SACROLYTE 5BILLION SPORES Powder 1's","composition":"Lyophilized Saccharomyces Boulardi 5Billion Spores","manufacturer":"Micro Labs Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b58445bd51d295fe72f4c14"},"name":"SESTIL AD 2mg Tablet 10's","composition":"Loperamide 2mg","manufacturer":"Vanguard Therapeutics Pvt Ltd","price":"Rs.21.79"}
+{"_id":{"$oid":"5b58445dd51d295fe72f4c15"},"name":"SPORLAC PLUS Capsule 10's","composition":"Lactobacillus 2.5 Billion Cells","manufacturer":"Sanzyme Pvt Ltd","price":"Rs.134.50"}
+{"_id":{"$oid":"5b58445fd51d295fe72f4c16"},"name":"SPORLAC Tablet 20's","composition":"Lactobacillus Sporogenes +Bacillus Clausii +Bacillus Subtilis ","manufacturer":"Sanzyme Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b584461d51d295fe72f4c17"},"name":"SPORLAC Tablet 10's","composition":"Lactobacillus","manufacturer":"Sanzyme Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b584463d51d295fe72f4c18"},"name":"STIBS Sachet 1's","composition":"Saccharomyces Boulardii","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.34.58"}
+{"_id":{"$oid":"5b584464d51d295fe72f4c19"},"name":"TROTZ 10mg Powder 1.5gm","composition":"Racecadotril 10mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.4.96"}
+{"_id":{"$oid":"5b584466d51d295fe72f4c1a"},"name":"TUFPRO Suspension 10x5ml","composition":"Bacillus Clausii","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.327.50"}
+{"_id":{"$oid":"5b584468d51d295fe72f4c1b"},"name":"VB Capsule 14's","composition":"Lactobacillus+Lactobacillus","manufacturer":"Kms Healthcare Pvt Ltd","price":"Rs.252.00"}
+{"_id":{"$oid":"5b584469d51d295fe72f4c1c"},"name":"VIBACT Capsule 10's","composition":"Lactobacillus 50 Million Spores","manufacturer":"Usv Private Ltd","price":"Rs.99.50"}
+{"_id":{"$oid":"5b58446bd51d295fe72f4c1d"},"name":"VIBACT DRY Syrup 50ml","composition":"Bacillus Mesentericus 1 Million Cells+Clostridium Butyricum 2 Million Cells+Lactobacillus Sporogenes 50 Million Cells+Streptococcus Thermophilus 30 Million Cells","manufacturer":"Usv Private Ltd","price":"Rs.94.65"}
+{"_id":{"$oid":"5b58446dd51d295fe72f4c1e"},"name":"VITAGUT Capsule 10's","composition":"Prebiotic+Probiotic","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b58446fd51d295fe72f4c1f"},"name":"VIZYLAC RICH Granules SACHET 8x1gm","composition":"Prebioitc+Probiotic","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b584476d51d295fe72f4c20"},"name":"VSL 3 Capsule 10's","composition":"Probiotics","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.310.00"}
+{"_id":{"$oid":"5b584477d51d295fe72f4c21"},"name":"WALAMYCIN Suspension 30ml","composition":"Colistin Sulphate 12.5mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.36.00"}
+{"_id":{"$oid":"5b584479d51d295fe72f4c22"},"name":"WONDERPRO BANANA FLAVOUR Sachet 1gm","composition":"LACTOBACILLUS ACIDOPHILUS +LACTOBACILLUS RHAMNOSUS +BIFIDOBACTERIUM LONGUM +BACILLUS COAGULANS +SACCHAROMYCES BOULARDII ","manufacturer":"LIFEZEN HEALTHCARE PVT LTD","price":"Rs.15.00"}
+{"_id":{"$oid":"5b58447bd51d295fe72f4c23"},"name":"YAMOO Drops 15ml","composition":"LACTASE 600IU","manufacturer":"Walter Bushnell Pvt Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b58447dd51d295fe72f4c24"},"name":"YAMOO Chewable Tablet 10's","composition":"LACTASE 4500IU","manufacturer":"Walter Bushnell Pvt Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b58447fd51d295fe72f4c25"},"name":"YOGUT Capsule 10's","composition":"Fructooligosaccharides (Fos) 100 mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.131.00"}
+{"_id":{"$oid":"5b584481d51d295fe72f4c26"},"name":"ZEDOTT 100mg Capsule 10's","composition":"Racecadotril 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.145.60"}
+{"_id":{"$oid":"5b584483d51d295fe72f4c27"},"name":"ZEDOTT DT 30mg Tablet 10's","composition":"Racecadotril 30mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.96.70"}
+{"_id":{"$oid":"5b584487d51d295fe72f4c28"},"name":"ZEDOTT 10mg Powder SACHET 20x1gm","composition":"Racecadotril 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.212.00"}
+{"_id":{"$oid":"5b584489d51d295fe72f4c29"},"name":"ZEDOTT DT 10mg Tablet 10's","composition":"RACECADOTRIL 10MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.55.40"}
+{"_id":{"$oid":"5b58448bd51d295fe72f4c2a"},"name":"ZEDOTT KID Powder SACHET 3x3gm","composition":"Racecadotril 30mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.39.60"}
+{"_id":{"$oid":"5b58448bd51d295fe72f4c2b"},"name":"ZEEBON R Suspension 5ml","composition":"Bacillus Clausii","manufacturer":"Wockhardt Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b58448dd51d295fe72f4c2c"},"name":"ZOMATRIL 10mg SACHET 1gm","composition":"Racecadotril 10mg","manufacturer":"Fdc Ltd","price":"Rs.7.60"}

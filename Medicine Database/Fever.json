@@ -1,0 +1,227 @@
+{"_id":{"$oid":"5b584620d51d2960990ed869"},"name":"1000 PARA 1000mg Tablet 12's","composition":"Paracetamol 1000mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b584622d51d2960990ed86a"},"name":"AALCETAMOL 1000mg Infusion 100ml","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":" NA ","price":"Rs.257.13"}
+{"_id":{"$oid":"5b584624d51d2960990ed86b"},"name":"ACETO 250mg Syrup 60ml","composition":"Paracetamol","manufacturer":"Shield Health Care Pvt Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b584626d51d2960990ed86c"},"name":"AGPAR 125MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Agron Remedies Pvt Ltd","price":"Rs.10.25"}
+{"_id":{"$oid":"5b584629d51d2960990ed86d"},"name":"AGPAR 125MG SUSPENSION 450ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Agron Remedies Pvt Ltd","price":"Rs.44.00"}
+{"_id":{"$oid":"5b58462bd51d2960990ed86e"},"name":"ALGINA 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.6.91"}
+{"_id":{"$oid":"5b58462dd51d2960990ed86f"},"name":"ANGLOPAR 125MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.10.00"}
+{"_id":{"$oid":"5b58462fd51d2960990ed870"},"name":"ANGLOPAR 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.4.81"}
+{"_id":{"$oid":"5b584631d51d2960990ed871"},"name":"ANGLOPAR 125MG DROPS 15ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.12.50"}
+{"_id":{"$oid":"5b584633d51d2960990ed872"},"name":"ANGLOPAR 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.2.86"}
+{"_id":{"$oid":"5b584635d51d2960990ed873"},"name":"ARDEN 500MG TABLET 15'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":" NA ","price":"Rs.13.78"}
+{"_id":{"$oid":"5b584637d51d2960990ed874"},"name":"BABYGESIC 250MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Meyer Organics Ltd","price":"Rs.27.50"}
+{"_id":{"$oid":"5b584639d51d2960990ed875"},"name":"BABYGESIC 125MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Meyer Organics Ltd","price":"Rs.19.50"}
+{"_id":{"$oid":"5b58463bd51d2960990ed876"},"name":"BESTOGESIC FAST 650mg Tablet 10's","composition":"Paracetamol 650mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.17.80"}
+{"_id":{"$oid":"5b58463dd51d2960990ed877"},"name":"BIOCETAMOL 60mg Syrup 60ml","composition":"Paracetamol 60mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.13.75"}
+{"_id":{"$oid":"5b58463fd51d2960990ed878"},"name":"BIOCETAMOL 100mg Drops 10ml","composition":"Paracetamol 100mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.28.00"}
+{"_id":{"$oid":"5b584641d51d2960990ed879"},"name":"BIOCETAMOL 150mg Injection 2ml","composition":"Paracetamol 150mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.4.37"}
+{"_id":{"$oid":"5b584643d51d2960990ed87a"},"name":"BIOPYRIN 650MG TABLET 15'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.25.20"}
+{"_id":{"$oid":"5b584645d51d2960990ed87b"},"name":"BRIKAMOL 250MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":" NA ","price":"Rs.35.50"}
+{"_id":{"$oid":"5b584647d51d2960990ed87c"},"name":"CALIPAR 250MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":" NA ","price":"Rs.40.00"}
+{"_id":{"$oid":"5b584649d51d2960990ed87d"},"name":"CALPOL 100MG DROPS 15ML","composition":"PARACETAMOL(ACETAMINOPHEN) 100MG","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.26.25"}
+{"_id":{"$oid":"5b58464bd51d2960990ed87e"},"name":"CAPTOL 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Seagull Pharmaceuticals Pvt Ltd","price":"Rs.17.95"}
+{"_id":{"$oid":"5b58464dd51d2960990ed87f"},"name":"CENTAMOL 125MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.20.16"}
+{"_id":{"$oid":"5b58464fd51d2960990ed880"},"name":"CETAFEN 650MG TABLET 15'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Bennet Pharmaceuticals Ltd","price":"Rs.28.00"}
+{"_id":{"$oid":"5b584651d51d2960990ed881"},"name":"CETAMOL 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":" NA ","price":"Rs.10.47"}
+{"_id":{"$oid":"5b584653d51d2960990ed882"},"name":"CETAMOL 125MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":" NA ","price":"Rs.21.90"}
+{"_id":{"$oid":"5b584655d51d2960990ed883"},"name":"CIPMOL 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Cipla Ltd","price":"Rs.18.27"}
+{"_id":{"$oid":"5b584658d51d2960990ed884"},"name":"CIPMOL 500mg Tablet 10's","composition":"Paracetamol 500mg","manufacturer":"Cipla Ltd","price":"Rs.10.49"}
+{"_id":{"$oid":"5b584659d51d2960990ed885"},"name":"COLGIN PLUS Tablet 10's","composition":"Caffeine 30mg+Chlorpheniramine 2mg+Paracetamol 500mg+Phenylephrine 10mg","manufacturer":"Medopharm Pvt Ltd","price":"Rs.36.00"}
+{"_id":{"$oid":"5b58465bd51d2960990ed886"},"name":"CONPAR 50/500mg Tablet 10's","composition":"Diclofenac 50mg+Paracetamol 500mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b58465dd51d2960990ed887"},"name":"CROCIN MIXED FRUIT FLAVOUR 240mg Suspension 60ml","composition":"Paracetamol 250mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.46.94"}
+{"_id":{"$oid":"5b584660d51d2960990ed888"},"name":"CROCIN 650mg Tablet 15's","composition":"Paracetamol 650mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.28.05"}
+{"_id":{"$oid":"5b584662d51d2960990ed889"},"name":"CROCIN PAIN RELIEF Tablet 10's","composition":"Caffeine 50mg+Paracetamol 650mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.26.87"}
+{"_id":{"$oid":"5b584663d51d2960990ed88a"},"name":"CROPHEN Syrup 60ml","composition":"Promethazine 5mg+Paracetamol 125mg","manufacturer":"Menarini India Pvt Ltd","price":"Rs.29.40"}
+{"_id":{"$oid":"5b584665d51d2960990ed88b"},"name":"CZ PLUS Tablet 10's","composition":"Chlorpheniramine 2mg+Paracetamol 500mg+Phenylephrine 10mg","manufacturer":"Lupin Ltd","price":"Rs.24.00"}
+{"_id":{"$oid":"5b584667d51d2960990ed88c"},"name":"DOLIPRANE 650MG TABLET 6'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.7.05"}
+{"_id":{"$oid":"5b584669d51d2960990ed88d"},"name":"DOLIZA PLUS Tablet 10's","composition":"Caffeine 50mg+Paracetamol 650mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.16.00"}
+{"_id":{"$oid":"5b58466bd51d2960990ed88e"},"name":"DOLOCARE 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.49.31"}
+{"_id":{"$oid":"5b58466cd51d2960990ed88f"},"name":"DOLODART 120MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 120MG","manufacturer":"Juggat Pharma Ltd","price":"Rs.32.40"}
+{"_id":{"$oid":"5b58466ed51d2960990ed890"},"name":"DOLOGLAN 1000MG INFUSION 100ML","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":"Gland Pharma Limited","price":"Rs.285.00"}
+{"_id":{"$oid":"5b584670d51d2960990ed891"},"name":"DOLOMOL 250MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Micro Labs Ltd","price":"Rs.29.55"}
+{"_id":{"$oid":"5b584672d51d2960990ed892"},"name":"DOLOPAR 125MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Micro Labs Ltd","price":"Rs.20.83"}
+{"_id":{"$oid":"5b584674d51d2960990ed893"},"name":"EMISPAN PLUS Syrup 60ml","composition":"Promethazine 5mg+Paracetamol 125mg","manufacturer":"Others","price":"Rs.42.25"}
+{"_id":{"$oid":"5b584676d51d2960990ed894"},"name":"EMISPAN H Syrup 60ml","composition":"Promethazine 2.5mg+Paracetamol 125mg","manufacturer":"Others","price":"Rs.32.31"}
+{"_id":{"$oid":"5b584678d51d2960990ed895"},"name":"ESSMOL 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Sresan Pharmaceuticals Ltd","price":"Rs.11.10"}
+{"_id":{"$oid":"5b58467ad51d2960990ed896"},"name":"ESSMOL 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Sresan Pharmaceuticals Ltd","price":"Rs.20.80"}
+{"_id":{"$oid":"5b58467cd51d2960990ed897"},"name":"FASTORIK Tablet 10's","composition":"Paracetamol 500mg+Pseudoephedrine 60mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.17.70"}
+{"_id":{"$oid":"5b58467ed51d2960990ed898"},"name":"FEBRINIL 150MG INJECTION 15ML","composition":"PARACETAMOL(ACETAMINOPHEN) 150MG","manufacturer":"Maneesh Pharmaceuticals Ltd","price":"Rs.49.96"}
+{"_id":{"$oid":"5b58467fd51d2960990ed899"},"name":"FELOK 650MG TABLET 15'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Aurz Pharmaceutical Pvt Ltd","price":"Rs.25.60"}
+{"_id":{"$oid":"5b584681d51d2960990ed89a"},"name":"FEPANIL 1000MG INFUSION 100ML","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":"Veritaz Health Care Ltd","price":"Rs.366.00"}
+{"_id":{"$oid":"5b584683d51d2960990ed89b"},"name":"FEVAGO Drops 15ml","composition":"PARACETAMOL","manufacturer":"Cipla Ltd","price":"Rs.24.50"}
+{"_id":{"$oid":"5b584686d51d2960990ed89c"},"name":"FEVASTIN 150mg Injection 2ml","composition":"Paracetamol 150mg","manufacturer":"Tablets India Ltd","price":"Rs.11.64"}
+{"_id":{"$oid":"5b584688d51d2960990ed89d"},"name":"FEVRIDOL 250MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.30.13"}
+{"_id":{"$oid":"5b58468ad51d2960990ed89e"},"name":"FEVRIDOL 150MG INJECTION 2ML","composition":"PARACETAMOL(ACETAMINOPHEN) 150MG","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.9.41"}
+{"_id":{"$oid":"5b58468dd51d2960990ed89f"},"name":"FEVRIDOL ER 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.23.35"}
+{"_id":{"$oid":"5b58468fd51d2960990ed8a0"},"name":"FEVRIL 650mg Tablet 10's","composition":"Caffeine 30mg+Chlorpheniramine 2mg+Paracetamol 650mg","manufacturer":"Meyer Organics Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b584692d51d2960990ed8a1"},"name":"FINAMAC 1000MG INFUSION 100ML","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.290.00"}
+{"_id":{"$oid":"5b584694d51d2960990ed8a2"},"name":"FLUMOL 125MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.11.25"}
+{"_id":{"$oid":"5b584696d51d2960990ed8a3"},"name":"FLUMOL 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.17.95"}
+{"_id":{"$oid":"5b584698d51d2960990ed8a4"},"name":"FLUMOL 250MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.13.13"}
+{"_id":{"$oid":"5b58469ad51d2960990ed8a5"},"name":"GERPYRIN 1000MG INJECTION 100ML","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":" NA ","price":"Rs.214.14"}
+{"_id":{"$oid":"5b58469cd51d2960990ed8a6"},"name":"HOSPIMOL 1000MG INFUSION 100ML","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.332.00"}
+{"_id":{"$oid":"5b58469ed51d2960990ed8a7"},"name":"IBIBULL ER 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"INDIABULLS PHARMACEUTICALS LTD","price":"Rs.20.00"}
+{"_id":{"$oid":"5b58469fd51d2960990ed8a8"},"name":"IBUGESIC Suspension 60ml","composition":"IBUPROFEN 100MG","manufacturer":"Cipla Ltd","price":"Rs.13.18"}
+{"_id":{"$oid":"5b5846a1d51d2960990ed8a9"},"name":"IBUGESIC PLUS Tablet 20's","composition":"IBUPROFEN 400MG+PARACETAMOL 325MG","manufacturer":"Cipla Ltd","price":"Rs.22.73"}
+{"_id":{"$oid":"5b5846a3d51d2960990ed8aa"},"name":"IBUPARA 400/325mg Tablet 10's","composition":"IBUPROFEN 400MG+PARACETAMOL 325MG","manufacturer":"Novartis Healthcare Pvt Ltd","price":"Rs.6.90"}
+{"_id":{"$oid":"5b5846a5d51d2960990ed8ab"},"name":"IBUPARA PLUS Syrup 60ml","composition":"Ibuprofen 400mg+Paracetamol 325mg+Magnesium 100mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.14.25"}
+{"_id":{"$oid":"5b5846a7d51d2960990ed8ac"},"name":"INFEMOL 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Embiotic Laboratories Pvt Ltd","price":"Rs.23.07"}
+{"_id":{"$oid":"5b5846a9d51d2960990ed8ad"},"name":"INFEMOL 250MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Embiotic Laboratories Pvt Ltd","price":"Rs.36.72"}
+{"_id":{"$oid":"5b5846abd51d2960990ed8ae"},"name":"INFEMOL 125MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Embiotic Laboratories Pvt Ltd","price":"Rs.27.90"}
+{"_id":{"$oid":"5b5846add51d2960990ed8af"},"name":"INSTARYL COLD Tablet 10's","composition":"Caffeine 30mg+Chlorpheniramine 2mg+Paracetamol 500mg+Phenylephrine 10mg","manufacturer":"Aglowmed Pharmaceuticals Ltd","price":"Rs.20.00"}
+{"_id":{"$oid":"5b5846afd51d2960990ed8b0"},"name":"JUNIMOL 250MG SUPPOSITORY 5'S","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b5846b1d51d2960990ed8b1"},"name":"JUNIMOL 125MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.24.00"}
+{"_id":{"$oid":"5b5846b3d51d2960990ed8b2"},"name":"KABIMOL 1000mg Injection 100ml","composition":"Paracetamol 1000mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.339.90"}
+{"_id":{"$oid":"5b5846b5d51d2960990ed8b3"},"name":"KELVIN Tablet 10's","composition":"Paracetamol 650mg","manufacturer":"Others","price":"Rs.15.00"}
+{"_id":{"$oid":"5b5846b7d51d2960990ed8b4"},"name":"KELVIN 500MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":" NA ","price":"Rs.30.59"}
+{"_id":{"$oid":"5b5846b9d51d2960990ed8b5"},"name":"KELVIN PLUS Suspension 30ml","composition":"Paracetamol 500mg+Promethazine 6.25mg","manufacturer":"Others","price":"Rs.33.00"}
+{"_id":{"$oid":"5b5846bbd51d2960990ed8b6"},"name":"LARKIN 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":" NA ","price":"Rs.8.71"}
+{"_id":{"$oid":"5b5846bdd51d2960990ed8b7"},"name":"LEEMOL 500MG TABLET 1000'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Leeford Healthcare Ltd","price":"Rs.412.50"}
+{"_id":{"$oid":"5b5846bfd51d2960990ed8b8"},"name":"LEEMOL 125MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Leeford Healthcare Ltd","price":"Rs.12.48"}
+{"_id":{"$oid":"5b5846c1d51d2960990ed8b9"},"name":"LIT KING 250MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.22.28"}
+{"_id":{"$oid":"5b5846c3d51d2960990ed8ba"},"name":"LOFEV 1000MG INFUSION 100ML","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.273.80"}
+{"_id":{"$oid":"5b5846c5d51d2960990ed8bb"},"name":"LUPIPARA 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Lupin Ltd","price":"Rs.13.50"}
+{"_id":{"$oid":"5b5846c7d51d2960990ed8bc"},"name":"MACFAST 100MG INFUSION 100ML","composition":"PARACETAMOL(ACETAMINOPHEN) 100MG","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.290.00"}
+{"_id":{"$oid":"5b5846c9d51d2960990ed8bd"},"name":"MANGOLIDE Suspension 60ml","composition":"NIMESULIDE 50MG","manufacturer":"Dwd Pharmaceuticals Ltd","price":"Rs.34.00"}
+{"_id":{"$oid":"5b5846cbd51d2960990ed8be"},"name":"MEDOMOL 125MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Medopharm Pvt Ltd","price":"Rs.33.00"}
+{"_id":{"$oid":"5b5846cdd51d2960990ed8bf"},"name":"MEDOMOL 300mg Distab 15's","composition":"Paracetamol 300mg","manufacturer":"Medopharm Pvt Ltd","price":"Rs.21.37"}
+{"_id":{"$oid":"5b5846cfd51d2960990ed8c0"},"name":"MEDOMOL DT 125mg Tablet 10's","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Medopharm Pvt Ltd","price":"Rs.6.70"}
+{"_id":{"$oid":"5b5846d1d51d2960990ed8c1"},"name":"MELIDENS 250mg Suspension 60ml","composition":"Paracetamol 250mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.22.66"}
+{"_id":{"$oid":"5b5846d4d51d2960990ed8c2"},"name":"MEPROCIN 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Empiai Pharmaceuticals Pvt Ltd","price":"Rs.16.21"}
+{"_id":{"$oid":"5b5846d6d51d2960990ed8c3"},"name":"MEPROCIN 125MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Empiai Pharmaceuticals Pvt Ltd","price":"Rs.33.40"}
+{"_id":{"$oid":"5b5846d8d51d2960990ed8c4"},"name":"MERIMOL 1000mg Injection 100ml","composition":"Paracetamol 1000mg","manufacturer":"Wockhardt Ltd","price":"Rs.43.75"}
+{"_id":{"$oid":"5b5846dad51d2960990ed8c5"},"name":"MERIMOL 250mg Syrup 60ml","composition":"PARACETAMOL 250MG","manufacturer":"Wockhardt Ltd","price":"Rs.35.69"}
+{"_id":{"$oid":"5b5846dcd51d2960990ed8c6"},"name":"MERIMOL 125mg Syrup 60ml","composition":"Paracetamol 125mg","manufacturer":"Wockhardt Ltd","price":"Rs.14.11"}
+{"_id":{"$oid":"5b5846ded51d2960990ed8c7"},"name":"MERIMOL 500mg Tablet 10's","composition":"Paracetamol 500mg","manufacturer":"Wockhardt Ltd","price":"Rs.9.62"}
+{"_id":{"$oid":"5b5846e0d51d2960990ed8c8"},"name":"MERIMOL DT 650mg Tablet 10's","composition":"Paracetamol 650mg","manufacturer":"Wockhardt Ltd","price":"Rs.7.50"}
+{"_id":{"$oid":"5b5846e2d51d2960990ed8c9"},"name":"METACIN SUURSA Syrup 60ml","composition":"Paracetamol","manufacturer":"Themis Pharmaceutical Ltd","price":"Rs.41.00"}
+{"_id":{"$oid":"5b5846e4d51d2960990ed8ca"},"name":"METHZIN P Syrup 60ml","composition":"Paracetamol 125mg+Promethazine 2.5mg","manufacturer":"Allenge India Pharmaceuticals Pvt Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b5846e6d51d2960990ed8cb"},"name":"MUV UP 100/500mg Tablet 10's","composition":"Aceclofenac 100mg+Paracetamol 500mg","manufacturer":"Ozone Pharmaceuticals Ltd","price":"Rs.26.11"}
+{"_id":{"$oid":"5b5846e8d51d2960990ed8cc"},"name":"MYPAR 500MG TABLET 1000'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Morepen Laboratories Ltd","price":"Rs.209.91"}
+{"_id":{"$oid":"5b5846ead51d2960990ed8cd"},"name":"MYPAR 125MG LIQUID 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Morepen Laboratories Ltd","price":"Rs.14.42"}
+{"_id":{"$oid":"5b5846ecd51d2960990ed8ce"},"name":"NAM P 50/125mg Suspension 60ml","composition":"Nimesulide 50mg+Paracetamol 125mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.25.47"}
+{"_id":{"$oid":"5b5846edd51d2960990ed8cf"},"name":"NEOMOL 150MG INJECTION 2ML","composition":"PARACETAMOL(ACETAMINOPHEN) 150MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.6.55"}
+{"_id":{"$oid":"5b5846f0d51d2960990ed8d0"},"name":"ORANGEMOL 125mg Suspension 60ml","composition":"Paracetamol 125mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.37.50"}
+{"_id":{"$oid":"5b5846f2d51d2960990ed8d1"},"name":"ORANGEMOL 250mg Syrup 60ml","composition":"Paracetamol 250mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.36.90"}
+{"_id":{"$oid":"5b5846f4d51d2960990ed8d2"},"name":"OROMOL 150MG DROPS 15ML","composition":"PARACETAMOL(ACETAMINOPHEN) 150MG","manufacturer":"Embiotic Laboratories Pvt Ltd","price":"Rs.39.42"}
+{"_id":{"$oid":"5b5846f6d51d2960990ed8d3"},"name":"OROMOL 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Embiotic Laboratories Pvt Ltd","price":"Rs.18.00"}
+{"_id":{"$oid":"5b5846f8d51d2960990ed8d4"},"name":"OROMOL 125MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Embiotic Laboratories Pvt Ltd","price":"Rs.31.30"}
+{"_id":{"$oid":"5b5846fad51d2960990ed8d5"},"name":"OROMOL 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Embiotic Laboratories Pvt Ltd","price":"Rs.8.70"}
+{"_id":{"$oid":"5b5846fcd51d2960990ed8d6"},"name":"OROMOL PEAD 650MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Embiotic Laboratories Pvt Ltd","price":"Rs.31.30"}
+{"_id":{"$oid":"5b5846fed51d2960990ed8d7"},"name":"ORVOMOL 1000MG INFUSION 100ML","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":"United Biotech Pvt Ltd","price":"Rs.224.00"}
+{"_id":{"$oid":"5b584700d51d2960990ed8d8"},"name":"P 750mg Tablet 10's","composition":"Paracetamol 750mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.29.00"}
+{"_id":{"$oid":"5b584701d51d2960990ed8d9"},"name":"P 125 Tablet 10's","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.9.85"}
+{"_id":{"$oid":"5b584703d51d2960990ed8da"},"name":"P 250 Tablet 10's","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.12.00"}
+{"_id":{"$oid":"5b584705d51d2960990ed8db"},"name":"P U C 125MG DROPS 15ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.25.50"}
+{"_id":{"$oid":"5b584707d51d2960990ed8dc"},"name":"P U C 125MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.20.36"}
+{"_id":{"$oid":"5b584709d51d2960990ed8dd"},"name":"PA 125mg Suspension 60ml","composition":"Paracetamol 125mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.19.90"}
+{"_id":{"$oid":"5b58470bd51d2960990ed8de"},"name":"PA 500mg Tablet 10's","composition":"Paracetamol 500mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.8.70"}
+{"_id":{"$oid":"5b58470dd51d2960990ed8df"},"name":"PA 250mg Suspension 60ml","composition":"Paracetamol 250mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.36.70"}
+{"_id":{"$oid":"5b58470fd51d2960990ed8e0"},"name":"PA 650mg Tablet 10's","composition":"Paracetamol 650mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.16.70"}
+{"_id":{"$oid":"5b584711d51d2960990ed8e1"},"name":"PA 12 1000mg Tablet 10's","composition":"Paracetamol 1000mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.49.40"}
+{"_id":{"$oid":"5b584713d51d2960990ed8e2"},"name":"PAARMOL 1000MG INJECTION 2ML","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.4.75"}
+{"_id":{"$oid":"5b584715d51d2960990ed8e3"},"name":"PAARMOL 1000MG INJECTION 100ML","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.38.75"}
+{"_id":{"$oid":"5b584717d51d2960990ed8e4"},"name":"PAMELA Suspension 60ml","composition":"Paracetamol 125mg+Racemethionine 12.5mg","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.28.00"}
+{"_id":{"$oid":"5b584718d51d2960990ed8e5"},"name":"PAMELA Tablet 10's","composition":"Paracetamol 500mg+Racemethionine 50mg","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.14.30"}
+{"_id":{"$oid":"5b58471ad51d2960990ed8e6"},"name":"PARACIN 250mg Suspension 60ml","composition":"Paracetamol 250mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.35.91"}
+{"_id":{"$oid":"5b58471cd51d2960990ed8e7"},"name":"PARACIN PAEDIATRIC 100mg Drops 15ml","composition":"Paracetamol 100mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.7.56"}
+{"_id":{"$oid":"5b58471ed51d2960990ed8e8"},"name":"PARACON 125MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Concept Pharmaceuticals Ltd","price":"Rs.12.50"}
+{"_id":{"$oid":"5b584720d51d2960990ed8e9"},"name":"PARAFUSE 10mg Infusion 100ml","composition":"Paracetamol 10mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b584722d51d2960990ed8ea"},"name":"PARAGREAT 250MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.36.96"}
+{"_id":{"$oid":"5b584724d51d2960990ed8eb"},"name":"PARAGREAT 650MG TABLET 15'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.27.40"}
+{"_id":{"$oid":"5b584726d51d2960990ed8ec"},"name":"PARAGREAT XR Tablet 6's","composition":"Paracetamol 1000mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.20.40"}
+{"_id":{"$oid":"5b584728d51d2960990ed8ed"},"name":"PARALDIM 650mg Tablet 10's","composition":"Paracetamol 650mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.10.98"}
+{"_id":{"$oid":"5b58472cd51d2960990ed8ee"},"name":"PARALDIM 125mg Suspension 60ml","composition":"Paracetamol 125mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.19.90"}
+{"_id":{"$oid":"5b58472ed51d2960990ed8ef"},"name":"PARALDIM 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.12.20"}
+{"_id":{"$oid":"5b58472fd51d2960990ed8f0"},"name":"PARALDIM 250mg Suspension 60ml","composition":"Paracetamol 250mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.24.28"}
+{"_id":{"$oid":"5b584731d51d2960990ed8f1"},"name":"PARAMAX P Syrup 60ml","composition":"Promethazine 5mg+Paracetamol 125mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.29.90"}
+{"_id":{"$oid":"5b584734d51d2960990ed8f2"},"name":"PARANIM Tablet 10's","composition":"Nimesulide 100mg+Paracetamol 500mg","manufacturer":"Micro Labs Ltd","price":"Rs.34.00"}
+{"_id":{"$oid":"5b584737d51d2960990ed8f3"},"name":"PARAPIL 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":" NA ","price":"Rs.5.93"}
+{"_id":{"$oid":"5b584739d51d2960990ed8f4"},"name":"PARAPIL 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":" NA ","price":"Rs.6.25"}
+{"_id":{"$oid":"5b58473ad51d2960990ed8f5"},"name":"PARAWEL 250mg Suspension 60ml","composition":"Paracetamol 250mg","manufacturer":"Med Manor Organics Pvt Ltd","price":"Rs.35.75"}
+{"_id":{"$oid":"5b58473cd51d2960990ed8f6"},"name":"PARAWOK Oral Drops 15ml","composition":"Paracetamol ","manufacturer":"Wockhardt Ltd","price":"Rs.24.88"}
+{"_id":{"$oid":"5b58473fd51d2960990ed8f7"},"name":"PARAWOK 1000mg Injection 100ml","composition":"Paracetamol 1000mg","manufacturer":"Wockhardt Ltd","price":"Rs.35.62"}
+{"_id":{"$oid":"5b584741d51d2960990ed8f8"},"name":"PARAWOK 500mg Tablet 10's","composition":"Paracetamol 500mg","manufacturer":"Wockhardt Ltd","price":"Rs.5.37"}
+{"_id":{"$oid":"5b584743d51d2960990ed8f9"},"name":"PCM 120MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 120MG","manufacturer":"Intas Pharmaceuticals Pvt Ltd","price":"Rs.21.45"}
+{"_id":{"$oid":"5b584745d51d2960990ed8fa"},"name":"PCM 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Intas Pharmaceuticals Pvt Ltd","price":"Rs.11.67"}
+{"_id":{"$oid":"5b584746d51d2960990ed8fb"},"name":"PCM 500mg Tablet 15's","composition":"PARACETAMOL 500MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.13.33"}
+{"_id":{"$oid":"5b584747d51d2960990ed8fc"},"name":"PCM 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Intas Pharmaceuticals Pvt Ltd","price":"Rs.13.63"}
+{"_id":{"$oid":"5b584749d51d2960990ed8fd"},"name":"PEDMOL 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Pharm Products Pvt Ltd","price":"Rs.17.12"}
+{"_id":{"$oid":"5b58474cd51d2960990ed8fe"},"name":"PEDMOL 250MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Pharm Products Pvt Ltd","price":"Rs.33.43"}
+{"_id":{"$oid":"5b58474ed51d2960990ed8ff"},"name":"PEDMOL 125MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Pharm Products Pvt Ltd","price":"Rs.19.52"}
+{"_id":{"$oid":"5b584750d51d2960990ed900"},"name":"PFC 125MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Alde Medi Impex Ltd","price":"Rs.37.76"}
+{"_id":{"$oid":"5b584752d51d2960990ed901"},"name":"PFC 125MG DROPS 15ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Alde Medi Impex Ltd","price":"Rs.20.50"}
+{"_id":{"$oid":"5b584753d51d2960990ed902"},"name":"PHENOMET Suspension 60ml","composition":"Paracetamol 250mg+Promethazine 5mg","manufacturer":"Bennet Pharmaceuticals Ltd","price":"Rs.23.22"}
+{"_id":{"$oid":"5b584755d51d2960990ed903"},"name":"PIDIMOL 125MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Parenteral Drugs India Ltd","price":"Rs.15.60"}
+{"_id":{"$oid":"5b584757d51d2960990ed904"},"name":"PINEX PLUS Syrup 60ml","composition":"Paracetamol 250mg+Promethazine 2.5mg","manufacturer":"Others","price":"Rs.50.00"}
+{"_id":{"$oid":"5b584759d51d2960990ed905"},"name":"PIROJET 150MG INJECTION 2ML","composition":"PARACETAMOL(ACETAMINOPHEN) 150MG","manufacturer":"Tablets India Ltd","price":"Rs.103.92"}
+{"_id":{"$oid":"5b58475bd51d2960990ed906"},"name":"PMO 650mg Tablet 10's","composition":"Paracetamol 650mg","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.26.50"}
+{"_id":{"$oid":"5b58475dd51d2960990ed907"},"name":"PYRAKEM 1000MG INJECTION 100ML","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.290.00"}
+{"_id":{"$oid":"5b58475fd51d2960990ed908"},"name":"PYRAKEM 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.7.80"}
+{"_id":{"$oid":"5b584761d51d2960990ed909"},"name":"PYRAKEM 125MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.12.37"}
+{"_id":{"$oid":"5b584763d51d2960990ed90a"},"name":"PYRAKEM 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.10.65"}
+{"_id":{"$oid":"5b584765d51d2960990ed90b"},"name":"PYRAKEM P Syrup 60ml","composition":"Paracetamol 250mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.27.00"}
+{"_id":{"$oid":"5b584766d51d2960990ed90c"},"name":"PYREMOL IV 1000MG INFUSION 100ML","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.189.52"}
+{"_id":{"$oid":"5b584768d51d2960990ed90d"},"name":"PYREXON 650mg Tablet 6's","composition":"Paracetamol 650mg","manufacturer":"Wockhardt Ltd","price":"Rs.8.31"}
+{"_id":{"$oid":"5b58476bd51d2960990ed90e"},"name":"PYRICOOL 500MG TABLET 15'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.8.62"}
+{"_id":{"$oid":"5b58476dd51d2960990ed90f"},"name":"PYRICOOL 250MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.14.22"}
+{"_id":{"$oid":"5b58476fd51d2960990ed910"},"name":"PYRICOOL 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.7.93"}
+{"_id":{"$oid":"5b584771d51d2960990ed911"},"name":"PYRICOOL 100MG DROPS 15ML","composition":"PARACETAMOL(ACETAMINOPHEN) 100MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b584773d51d2960990ed912"},"name":"PYRICURE 650MG TABLET 15'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":" NA ","price":"Rs.15.00"}
+{"_id":{"$oid":"5b584775d51d2960990ed913"},"name":"PYRIGESIC 1000MG INFUSION 100ML","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.273.00"}
+{"_id":{"$oid":"5b584779d51d2960990ed914"},"name":"PYRIT 650MG TABLET 15'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Tasmed India (P) Limited","price":"Rs.26.00"}
+{"_id":{"$oid":"5b58477bd51d2960990ed915"},"name":"SALPAR 250MG SYRUP 50ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"SALUD CARE PVT LTD","price":"Rs.22.86"}
+{"_id":{"$oid":"5b58477dd51d2960990ed916"},"name":"SALPAR 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"SALUD CARE PVT LTD","price":"Rs.14.00"}
+{"_id":{"$oid":"5b58477fd51d2960990ed917"},"name":"SEROFEN 50/10mg Tablet 10's","composition":"Diclofenac 50mg+Serratiopeptidase 10mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.51.42"}
+{"_id":{"$oid":"5b584781d51d2960990ed918"},"name":"SEROFEN P Tablet 10's","composition":"Diclofenac 50mg+Paracetamol 500mg+Serratiopeptidase 15mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.56.25"}
+{"_id":{"$oid":"5b584783d51d2960990ed919"},"name":"SIGMOL 250MG SUSPENSION 30ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":" NA ","price":"Rs.36.56"}
+{"_id":{"$oid":"5b584785d51d2960990ed91a"},"name":"SIGMOL 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":" NA ","price":"Rs.18.86"}
+{"_id":{"$oid":"5b584787d51d2960990ed91b"},"name":"SIGMOL 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":" NA ","price":"Rs.9.52"}
+{"_id":{"$oid":"5b584789d51d2960990ed91c"},"name":"SOPARIN 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.14.55"}
+{"_id":{"$oid":"5b58478bd51d2960990ed91d"},"name":"SOPARIN DT 125MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.5.77"}
+{"_id":{"$oid":"5b58478dd51d2960990ed91e"},"name":"SOPARIN DT 125MG TABLET 20'S","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.10.72"}
+{"_id":{"$oid":"5b58478fd51d2960990ed91f"},"name":"STARMOL 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.14.50"}
+{"_id":{"$oid":"5b584791d51d2960990ed920"},"name":"STARMOL 120MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 120MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.21.42"}
+{"_id":{"$oid":"5b584793d51d2960990ed921"},"name":"T98 250MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.10.28"}
+{"_id":{"$oid":"5b584795d51d2960990ed922"},"name":"TAMOLGAN 1000MG INFUSION 100ML","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":"Parenteral Drugs India Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b584797d51d2960990ed923"},"name":"TECPARA 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Panacea Biotec Ltd","price":"Rs.9.98"}
+{"_id":{"$oid":"5b584799d51d2960990ed924"},"name":"TEMFIX 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Novartis India Ltd","price":"Rs.11.00"}
+{"_id":{"$oid":"5b58479cd51d2960990ed925"},"name":"TEMPCON 120MG SYRUP 50ML","composition":"PARACETAMOL(ACETAMINOPHEN) 120MG","manufacturer":" NA ","price":"Rs.11.17"}
+{"_id":{"$oid":"5b58479ed51d2960990ed926"},"name":"TEMPCON 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":" NA ","price":"Rs.12.50"}
+{"_id":{"$oid":"5b5847a0d51d2960990ed927"},"name":"THERMGO 125MG DROPS 10ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.19.90"}
+{"_id":{"$oid":"5b5847a2d51d2960990ed928"},"name":"THERMGO 120MG SUSPENSION 15ML","composition":"PARACETAMOL(ACETAMINOPHEN) 120MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.26.20"}
+{"_id":{"$oid":"5b5847a4d51d2960990ed929"},"name":"THERMGO 250MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.25.90"}
+{"_id":{"$oid":"5b5847a6d51d2960990ed92a"},"name":"THERMGO 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.11.90"}
+{"_id":{"$oid":"5b5847a8d51d2960990ed92b"},"name":"THERMGO DT 250MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.5.90"}
+{"_id":{"$oid":"5b5847aad51d2960990ed92c"},"name":"THERMOCHILL Infusion 100ml","composition":"Paracetamol 1000mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.323.81"}
+{"_id":{"$oid":"5b5847acd51d2960990ed92d"},"name":"THERMODOL 1000mg Suspension 100ml","composition":"Paracetamol 1000mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.229.85"}
+{"_id":{"$oid":"5b5847aed51d2960990ed92e"},"name":"THERMODOL 120mg Suspension 60ml","composition":"Paracetamol 120mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.30.50"}
+{"_id":{"$oid":"5b5847b0d51d2960990ed92f"},"name":"THERMODOL DR 650mg Tablet 10's","composition":"Paracetamol 650mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.56.18"}
+{"_id":{"$oid":"5b5847b2d51d2960990ed930"},"name":"THERMOL 156.25MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 156.25MG","manufacturer":"Micro Labs Ltd","price":"Rs.34.60"}
+{"_id":{"$oid":"5b5847b4d51d2960990ed931"},"name":"THERMOL 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Bal Pharma Ltd","price":"Rs.9.95"}
+{"_id":{"$oid":"5b5847b6d51d2960990ed932"},"name":"TOLPOL 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.16.66"}
+{"_id":{"$oid":"5b5847b8d51d2960990ed933"},"name":"TOLPOL 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.10.50"}
+{"_id":{"$oid":"5b5847bad51d2960990ed934"},"name":"TYMOL DT 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Tychos Therapeutics Pvt Ltd","price":"Rs.18.60"}
+{"_id":{"$oid":"5b5847bcd51d2960990ed935"},"name":"ULTRAGIN 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Pfizer Ltd","price":"Rs.9.02"}
+{"_id":{"$oid":"5b5847bfd51d2960990ed936"},"name":"ULTRAGIN 125MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Pfizer Ltd","price":"Rs.17.04"}
+{"_id":{"$oid":"5b5847c1d51d2960990ed937"},"name":"ULTRAPYRIN 250MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.19.60"}
+{"_id":{"$oid":"5b5847c3d51d2960990ed938"},"name":"ULTRAPYRIN 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.12.28"}
+{"_id":{"$oid":"5b5847c5d51d2960990ed939"},"name":"ULTRAPYRIN 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.10.60"}
+{"_id":{"$oid":"5b5847c7d51d2960990ed93a"},"name":"UNFLEM MR 325/8mg Tablet 10's","composition":"Paracetamol 325mg+Thiocolchicoside 8mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.171.42"}
+{"_id":{"$oid":"5b5847c9d51d2960990ed93b"},"name":"WELSET 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.8.85"}
+{"_id":{"$oid":"5b5847cbd51d2960990ed93c"},"name":"WELSET 125MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.19.50"}
+{"_id":{"$oid":"5b5847ced51d2960990ed93d"},"name":"WINMOL 125MG SYRUP 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":" NA ","price":"Rs.28.25"}
+{"_id":{"$oid":"5b5847cfd51d2960990ed93e"},"name":"XT PARA 1000MG TABLET 12'S","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.51.65"}
+{"_id":{"$oid":"5b5847d2d51d2960990ed93f"},"name":"XT PARA 1000MG INFUSION 100ML","composition":"PARACETAMOL(ACETAMINOPHEN) 1000MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.240.60"}
+{"_id":{"$oid":"5b5847d2d51d2960990ed940"},"name":"XT PARA 250MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.36.74"}
+{"_id":{"$oid":"5b5847d4d51d2960990ed941"},"name":"XYFIX 250MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.25.80"}
+{"_id":{"$oid":"5b5847d7d51d2960990ed942"},"name":"XYFIX 125MG DROPS 15ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.16.66"}
+{"_id":{"$oid":"5b5847d9d51d2960990ed943"},"name":"XYFIX EXTEND 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.19.90"}
+{"_id":{"$oid":"5b5847dbd51d2960990ed944"},"name":"XYFIX RAPID 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.9.81"}
+{"_id":{"$oid":"5b5847ded51d2960990ed945"},"name":"XYFIX RAPID 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.20.00"}
+{"_id":{"$oid":"5b5847e0d51d2960990ed946"},"name":"XYKAA 125MG DROPS 15ML","composition":"PARACETAMOL(ACETAMINOPHEN) 125MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.17.50"}
+{"_id":{"$oid":"5b5847e2d51d2960990ed947"},"name":"XYKAA 250MG SUSPENSION 60ML","composition":"PARACETAMOL(ACETAMINOPHEN) 250MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.25.80"}
+{"_id":{"$oid":"5b5847e4d51d2960990ed948"},"name":"XYPAR 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.20.90"}
+{"_id":{"$oid":"5b5847e6d51d2960990ed949"},"name":"XYTROY 650MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 650MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.20.90"}
+{"_id":{"$oid":"5b5847e8d51d2960990ed94a"},"name":"XYTROY RAPID 500MG TABLET 10'S","composition":"PARACETAMOL(ACETAMINOPHEN) 500MG","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.13.33"}
+{"_id":{"$oid":"5b5847ebd51d2960990ed94b"},"name":"ZUKAMIN PLUS Drops 15ml","composition":"Chlorpheniramine+Paracetamol+Phenylephrine","manufacturer":"Alkem Laboratories Ltd","price":"Rs.13.56"}

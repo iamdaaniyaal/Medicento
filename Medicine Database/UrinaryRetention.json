@@ -1,0 +1,213 @@
+{"_id":{"$oid":"5b59cc97d51d2975d3d4ff28"},"name":"ALDACTONE 25mg Tablet 15's","composition":"Spironolactone 25mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.29.00"}
+{"_id":{"$oid":"5b59cc9ad51d2975d3d4ff29"},"name":"ALDACTONE 50mg Tablet 15's","composition":"Spironolactone","manufacturer":"Rpg Life Science Ltd","price":"Rs.57.25"}
+{"_id":{"$oid":"5b59cc9cd51d2975d3d4ff2a"},"name":"ALDACTONE 100mg Tablet 15's","composition":"Spironolactone 100mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.158.95"}
+{"_id":{"$oid":"5b59cc9ed51d2975d3d4ff2b"},"name":"ALDACTONE PLUS 10mg Tablet 10's","composition":"Spironolactone 50mg+Torsemide 10mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.18.97"}
+{"_id":{"$oid":"5b59cca0d51d2975d3d4ff2c"},"name":"ALDACTONE PLUS 20mg Tablet 10's","composition":"Spironolactone 20mg+Torsemide 25mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.18.97"}
+{"_id":{"$oid":"5b59cca2d51d2975d3d4ff2d"},"name":"ALDOSTIX Tablet 10's","composition":"Frusemide 20mg+Spironolactone 50mg","manufacturer":"Bal Pharma Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b59cca5d51d2975d3d4ff2e"},"name":"ALKAKEM Suspension 100ml","composition":"Disodium Hydrogen Citrate 1.53gm","manufacturer":"Alkem Laboratories Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b59cca7d51d2975d3d4ff2f"},"name":"AMIFRU 40mg Tablet 10's","composition":"Amiloride 5mg+Frusemide 40mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.7.10"}
+{"_id":{"$oid":"5b59cca9d51d2975d3d4ff30"},"name":"AMIFRU S Tablet 10's","composition":"Frusemide 20mg+Spironolactone 50mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.27.00"}
+{"_id":{"$oid":"5b59ccabd51d2975d3d4ff31"},"name":"APTIVATE BIG Syrup 450ml","composition":"AYURVEDIC PRODUCT","manufacturer":"Lupin Ltd","price":"Rs.108.50"}
+{"_id":{"$oid":"5b59ccadd51d2975d3d4ff32"},"name":"AQUAZIDE 25mg Tablet 10's","composition":"Hydrochlorothiazide 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.17.13"}
+{"_id":{"$oid":"5b59ccafd51d2975d3d4ff33"},"name":"AQUAZIDE 12.5mg Tablet 10's","composition":"Hydrochlorothiazide 12.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.9.95"}
+{"_id":{"$oid":"5b59ccb1d51d2975d3d4ff34"},"name":"BESTOLISER B6 Oral Solution 200ml","composition":"Potassium Citrate 1100mg+Magnesium Citrate 375mg+Pyridoxine Hydrochloride 20mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b59ccb2d51d2975d3d4ff35"},"name":"BIDURET Tablet 10's","composition":"AMILORIDE 5MG+HYDROCHLOROTHIAZIDE 50MG","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.47.90"}
+{"_id":{"$oid":"5b59ccb6d51d2975d3d4ff36"},"name":"BIDURET L 2.5/25mg Tablet 10's","composition":"AMILORIDE 2.5MG+HYDROCHLOROTHIAZIDE 25MG","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.26.65"}
+{"_id":{"$oid":"5b59ccb8d51d2975d3d4ff37"},"name":"BRAHMI Capsule 60's","composition":"AYURVEDIC","manufacturer":"Himalaya Drug Company","price":"Rs.135.00"}
+{"_id":{"$oid":"5b59ccbad51d2975d3d4ff38"},"name":"CITAL Syrup 200ml","composition":"DISODIUM HYDROGEN CITRATE 1.37GM","manufacturer":"Indoco Remedies Ltd","price":"Rs.102.00"}
+{"_id":{"$oid":"5b59ccbdd51d2975d3d4ff39"},"name":"CITAL UTI Suspension 100ml","composition":"CRANBERRY EXTRACT 200MG+D MANNOSE 300MG+POTASSIUM MAGNESIUM CITRATE 978MG","manufacturer":"Indoco Remedies Ltd","price":"Rs.164.00"}
+{"_id":{"$oid":"5b59ccbfd51d2975d3d4ff3a"},"name":"CLOVET 6.25mg Tablet 10's","composition":"Chlorthalidone 6.25mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b59ccc1d51d2975d3d4ff3b"},"name":"CTD 6.25mg Tablet 15's","composition":"Chlorthalidone 6.25mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.69.30"}
+{"_id":{"$oid":"5b59ccc3d51d2975d3d4ff3c"},"name":"CTD T 6.25/80mg Tablet 10's","composition":"Chlorthalidone 6.25mg+Telmisartan 80mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.145.20"}
+{"_id":{"$oid":"5b59ccc6d51d2975d3d4ff3d"},"name":"DITIDE Tablet 10's","composition":"Benzthiazide 25mg+Triamterene 50mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.47.35"}
+{"_id":{"$oid":"5b59ccc8d51d2975d3d4ff3e"},"name":"DIUCONTIN K 40mg Tablet 10's","composition":"Frusemide 40mg+Potassium Chloride 500mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.76.40"}
+{"_id":{"$oid":"5b59cccad51d2975d3d4ff3f"},"name":"DIURATOR 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.39.38"}
+{"_id":{"$oid":"5b59ccccd51d2975d3d4ff40"},"name":"DIURATOR 10MG TABLET 10'S","composition":"TORSEMIDE 10MG","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.20.70"}
+{"_id":{"$oid":"5b59ccced51d2975d3d4ff41"},"name":"DIURIX 2.5mg Tablet 10's","composition":"Indapamide 2.5mg","manufacturer":"Bal Pharma Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b59ccd1d51d2975d3d4ff42"},"name":"DIURIX SR 1.5mg Tablet 10's","composition":"INDAPAMIDE 1.5","manufacturer":"Bal Pharma Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b59ccd3d51d2975d3d4ff43"},"name":"DYAMIDE 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.23.52"}
+{"_id":{"$oid":"5b59ccd5d51d2975d3d4ff44"},"name":"DYAMIDE 20MG TABLET 10'S","composition":"TORSEMIDE 20MG","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.44.28"}
+{"_id":{"$oid":"5b59ccd8d51d2975d3d4ff45"},"name":"DYAMIDE 5mg Tablet 10's","composition":"Torsemide 5mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.15.95"}
+{"_id":{"$oid":"5b59ccdad51d2975d3d4ff46"},"name":"DYAMIDE 100MG TABLET 10'S","composition":"TORSEMIDE 100MG","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b59ccdcd51d2975d3d4ff47"},"name":"DYAMIDE PLUS 50/20mg Tablet 10's","composition":"SPIRONOLACTONE 50MG+TORASEMIDE 20MG","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.63.49"}
+{"_id":{"$oid":"5b59ccded51d2975d3d4ff48"},"name":"DYAMIDE PLUS 50/10mg Tablet 10's","composition":"SPIRONOLACTONE 50MG+TORSEMIDE 10MG","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b59cce2d51d2975d3d4ff49"},"name":"DYLOOP 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Sinsan Pharmaceuticals Pvt Ltd","price":"Rs.31.99"}
+{"_id":{"$oid":"5b59cce4d51d2975d3d4ff4a"},"name":"DYLOOP 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"Sinsan Pharmaceuticals Pvt Ltd","price":"Rs.199.90"}
+{"_id":{"$oid":"5b59cce7d51d2975d3d4ff4b"},"name":"DYLOOP 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Sinsan Pharmaceuticals Pvt Ltd","price":"Rs.59.90"}
+{"_id":{"$oid":"5b59cce9d51d2975d3d4ff4c"},"name":"DYTOR PLUS 10mg Tablet 15's","composition":"Spironolactone 50mg+Torsemide 10mg","manufacturer":"Cipla Ltd","price":"Rs.61.00"}
+{"_id":{"$oid":"5b59ccecd51d2975d3d4ff4d"},"name":"DYTOR 20mg Tablet 15's","composition":"Torsemide 20mg","manufacturer":"Cipla Ltd","price":"Rs.114.50"}
+{"_id":{"$oid":"5b59ccedd51d2975d3d4ff4e"},"name":"DYTOR 40mg Tablet 10's","composition":"Torsemide 40mg","manufacturer":"Cipla Ltd","price":"Rs.148.50"}
+{"_id":{"$oid":"5b59ccf0d51d2975d3d4ff4f"},"name":"DYTOR 10mg Tablet 15's","composition":"Torsemide 10mg","manufacturer":"Cipla Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b59ccf2d51d2975d3d4ff50"},"name":"DYTOR Injection 2ml","composition":"Torsemide 20mg","manufacturer":"Cipla Ltd","price":"Rs.15.00"}
+{"_id":{"$oid":"5b59ccf5d51d2975d3d4ff51"},"name":"DYTOR 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"Cipla Ltd","price":"Rs.287.00"}
+{"_id":{"$oid":"5b59ccf7d51d2975d3d4ff52"},"name":"DYTOR 5mg Tablet 15's","composition":"Torsemide 5mg","manufacturer":"Cipla Ltd","price":"Rs.40.50"}
+{"_id":{"$oid":"5b59ccfad51d2975d3d4ff53"},"name":"DYTOR PLUS 20mg Tablet 10's","composition":"Spironolactone 50mg+Torsemide 20mg","manufacturer":"Cipla Ltd","price":"Rs.53.00"}
+{"_id":{"$oid":"5b59ccfcd51d2975d3d4ff54"},"name":"DYTOR PLUS 5mg Tablet 10's","composition":"SPIRONOLACTONE 50MG+TORSEMIDE 5MG","manufacturer":"Cipla Ltd","price":"Rs.36.00"}
+{"_id":{"$oid":"5b59ccfed51d2975d3d4ff55"},"name":"DYTOR PLUS LS Tablet 10's","composition":"Spironolactone 25mg+Torsemide 10mg","manufacturer":"Cipla Ltd","price":"Rs.28.50"}
+{"_id":{"$oid":"5b59cd00d51d2975d3d4ff56"},"name":"EDETO 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.28.00"}
+{"_id":{"$oid":"5b59cd01d51d2975d3d4ff57"},"name":"EPLECARD 50MG TABLET 10'S","composition":"EPLERENONE 50MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.389.92"}
+{"_id":{"$oid":"5b59cd03d51d2975d3d4ff58"},"name":"EPLERAN 25mg Tablet 10's","composition":"Eplerenone 25mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b59cd05d51d2975d3d4ff59"},"name":"EPLINICE 25mg Tablet 10's","composition":"Eplerenone 25mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b59cd08d51d2975d3d4ff5a"},"name":"EPTUS 50mg Tablet 10's","composition":"Eplerenone 50mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.507.50"}
+{"_id":{"$oid":"5b59cd0ad51d2975d3d4ff5b"},"name":"EPTUS 25mg Tablet 10's","composition":"Eplerenone 25mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.323.50"}
+{"_id":{"$oid":"5b59cd0cd51d2975d3d4ff5c"},"name":"EPTUS 10mg Tablet 10's","composition":"Eplerenone 10mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.182.81"}
+{"_id":{"$oid":"5b59cd0ed51d2975d3d4ff5d"},"name":"EPTUS T 25/10mg Tablet 10's","composition":"Eplerenone 25mg+Torsemide 10mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.208.00"}
+{"_id":{"$oid":"5b59cd10d51d2975d3d4ff5e"},"name":"EPTUS T 25/20mg Tablet 10's","composition":"EPLERENONE 25MG+TORSEMIDE 20MG","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b59cd12d51d2975d3d4ff5f"},"name":"EXENTA 25mg Tablet 10's","composition":"Eplerenone 25mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.157.65"}
+{"_id":{"$oid":"5b59cd14d51d2975d3d4ff60"},"name":"EXENTA T 10 Kit 1's","composition":"TORSEMIDE 10MG+EPLERENONE 25MG","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.208.00"}
+{"_id":{"$oid":"5b59cd16d51d2975d3d4ff61"},"name":"EXENTA T 20 Kit 1's","composition":"EPLERENONE 25MG+TORASEMIDE 20MG","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.242.00"}
+{"_id":{"$oid":"5b59cd18d51d2975d3d4ff62"},"name":"EXINIA 50MG TABLET 10'S","composition":"EPLERENONE 50MG","manufacturer":" NA ","price":"Rs.298.86"}
+{"_id":{"$oid":"5b59cd1ad51d2975d3d4ff63"},"name":"EXINIA 25mg Tablet 7's","composition":"Eplerenone 25mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.116.35"}
+{"_id":{"$oid":"5b59cd1dd51d2975d3d4ff64"},"name":"FLOFRE 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.28.50"}
+{"_id":{"$oid":"5b59cd1fd51d2975d3d4ff65"},"name":"FRUMIL Tablet 10's","composition":"Amiloride 5mg+Frusemide 40mg","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.8.00"}
+{"_id":{"$oid":"5b59cd21d51d2975d3d4ff66"},"name":"FRUSELAC Tablet 10's","composition":"Frusemide+Spironolactone","manufacturer":"Lupin Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b59cd23d51d2975d3d4ff67"},"name":"FRUSELAC DS Tablet 10's","composition":"Frusemide+Spironolactone","manufacturer":"Lupin Ltd","price":"Rs.33.50"}
+{"_id":{"$oid":"5b59cd24d51d2975d3d4ff68"},"name":"FRUSENEX 100mg Tablet 10's","composition":"FRUSEMIDE 100MG","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.6.50"}
+{"_id":{"$oid":"5b59cd25d51d2975d3d4ff69"},"name":"FUROPED SOLUTION 30ml","composition":"Frusemide 10mg","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b59cd27d51d2975d3d4ff6a"},"name":"GARBOLIM CE CAPSULE 30'S","composition":"Ayurvedic","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.233.16"}
+{"_id":{"$oid":"5b59cd29d51d2975d3d4ff6b"},"name":"GARBOLIM PLUS CAPSULE 10'S","composition":"AYURVEDIC 0","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.326.50"}
+{"_id":{"$oid":"5b59cd2bd51d2975d3d4ff6c"},"name":"GENEW Capsule 10's","composition":"Levocarnitine+Lycopene+Zinc","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.131.00"}
+{"_id":{"$oid":"5b59cd2dd51d2975d3d4ff6d"},"name":"GYNODEX Syrup 100ml","composition":"Ayurvedic Product","manufacturer":"Retort Pharmaceuticals Pvt Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b59cd2fd51d2975d3d4ff6e"},"name":"HAPENZ Syrup 200ml","composition":"Ayurvedic Product","manufacturer":"Tablets India Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b59cd31d51d2975d3d4ff6f"},"name":"HENLETOR 5mg Tablet 10's","composition":"Torsemide 5mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.17.00"}
+{"_id":{"$oid":"5b59cd33d51d2975d3d4ff70"},"name":"HENLETOR 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.46.00"}
+{"_id":{"$oid":"5b59cd35d51d2975d3d4ff71"},"name":"HENLETOR 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.26.25"}
+{"_id":{"$oid":"5b59cd38d51d2975d3d4ff72"},"name":"HIMALAYA SHATAVARI Capsule 60's","composition":"AYURVEDIC","manufacturer":"Himalaya Drug Company","price":"Rs.135.00"}
+{"_id":{"$oid":"5b59cd3ad51d2975d3d4ff73"},"name":"HYDRAZIDE 12.5mg Tablet 10's","composition":"Hydrochlorothiazide 12.5mg","manufacturer":"Cipla Ltd","price":"Rs.9.74"}
+{"_id":{"$oid":"5b59cd3cd51d2975d3d4ff74"},"name":"HYDRAZIDE 25mg Tablet 10's","composition":"Hydrochlorothiazide 25mg","manufacturer":"Cipla Ltd","price":"Rs.16.80"}
+{"_id":{"$oid":"5b59cd3ed51d2975d3d4ff75"},"name":"HYDRIDE 12.5mg Tablet 10's","composition":"Hydrochlorothiazide 12.5mg","manufacturer":"Micro Labs Ltd","price":"Rs.9.97"}
+{"_id":{"$oid":"5b59cd40d51d2975d3d4ff76"},"name":"HYDRIDE 25mg Tablet 10's","composition":"Hydrochlorothiazide 25mg","manufacturer":"Micro Labs Ltd","price":"Rs.17.14"}
+{"_id":{"$oid":"5b59cd42d51d2975d3d4ff77"},"name":"INDICARD 2.5mg Tablet 14's","composition":"Indapamide 2.5mg","manufacturer":"Colgen Pharma","price":"Rs.26.72"}
+{"_id":{"$oid":"5b59cd45d51d2975d3d4ff78"},"name":"INDICONTIN Tablet 10's","composition":"Indapamide 1.5mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b59cd47d51d2975d3d4ff79"},"name":"INDITOR 2.5mg Tablet 10's","composition":"Indapamide 2.5mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.44.00"}
+{"_id":{"$oid":"5b59cd49d51d2975d3d4ff7a"},"name":"INDITOR SR 1.5mg Tablet 10's","composition":"Indapamide 1.5mg (SR)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.80.00"}
+{"_id":{"$oid":"5b59cd4bd51d2975d3d4ff7b"},"name":"KMSAC Sachet 1's","composition":"POTASSIUM CITRATE+MAGNESIUM","manufacturer":"Kms Healthcare Pvt Ltd","price":"Rs.12.00"}
+{"_id":{"$oid":"5b59cd4cd51d2975d3d4ff7c"},"name":"LASILACTONE 50mg Tablet 10's","composition":"Frusemide 50mg+Spironolactone 20mg","manufacturer":"Sanofi India Ltd","price":"Rs.36.64"}
+{"_id":{"$oid":"5b59cd4ed51d2975d3d4ff7d"},"name":"LASIX Injection 10X2ml","composition":"Frusemide 20mg","manufacturer":"Sanofi India Ltd","price":"Rs.21.20"}
+{"_id":{"$oid":"5b59cd4fd51d2975d3d4ff7e"},"name":"LASIX 40mg Tablet 15's","composition":"Frusemide 40mg","manufacturer":"Sanofi India Ltd","price":"Rs.7.50"}
+{"_id":{"$oid":"5b59cd53d51d2975d3d4ff7f"},"name":"LASIX 40mg Injection 10x4ml","composition":"Frusemide 40mg","manufacturer":"Sanofi India Ltd","price":"Rs.69.40"}
+{"_id":{"$oid":"5b59cd55d51d2975d3d4ff80"},"name":"LAZON 2.5mg Tablet 10's","composition":"Metolazone 2.5mg","manufacturer":"United Biotech Pvt Ltd","price":"Rs.75.90"}
+{"_id":{"$oid":"5b59cd58d51d2975d3d4ff81"},"name":"LORVAS 2.5mg Tablet 10's","composition":"Indapamide 2.5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.88.70"}
+{"_id":{"$oid":"5b59cd5ad51d2975d3d4ff82"},"name":"LORVAS SR 1.5mg Tablet 10's","composition":"Indapamide 1.5mg (SR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.125.30"}
+{"_id":{"$oid":"5b59cd5ed51d2975d3d4ff83"},"name":"LUPICLOR 12.5mg Tablet 10's","composition":"Chlorthalidone 12.5mg","manufacturer":"Lupin Ltd","price":"Rs.53.50"}
+{"_id":{"$oid":"5b59cd60d51d2975d3d4ff84"},"name":"LUPICLOR 6.25mg Tablet 10's","composition":"Chlorthalidone 6.25mg","manufacturer":"Lupin Ltd","price":"Rs.45.50"}
+{"_id":{"$oid":"5b59cd62d51d2975d3d4ff85"},"name":"MANNITOL (SKKL) 20% Infusion 350ml","composition":"Mannitol 20%W/V","manufacturer":"Others","price":"Rs.110.00"}
+{"_id":{"$oid":"5b59cd65d51d2975d3d4ff86"},"name":"MANNITOL (DENIS) 20% Infusion 100ml","composition":"Mannitol 20%W/V","manufacturer":"Jan Aushadhi","price":"Rs.35.00"}
+{"_id":{"$oid":"5b59cd68d51d2975d3d4ff87"},"name":"MANNITOL (SKKL) 20% Infusion 100ml","composition":"Mannitol 20%W/V","manufacturer":"Others","price":"Rs.36.75"}
+{"_id":{"$oid":"5b59cd6ad51d2975d3d4ff88"},"name":"MELA 5mg Tablet 10's","composition":"Metolazone 5mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b59cd6dd51d2975d3d4ff89"},"name":"MELTOR 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.59.26"}
+{"_id":{"$oid":"5b59cd6fd51d2975d3d4ff8a"},"name":"MELTOR 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.35.12"}
+{"_id":{"$oid":"5b59cd72d51d2975d3d4ff8b"},"name":"MELTOR 5mg Tablet 10's","composition":"Torsemide 5mg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.30.35"}
+{"_id":{"$oid":"5b59cd74d51d2975d3d4ff8c"},"name":"MELTOR 40mg Tablet 10's","composition":"Torsemide 40mg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.136.28"}
+{"_id":{"$oid":"5b59cd77d51d2975d3d4ff8d"},"name":"MELTOR 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.238.78"}
+{"_id":{"$oid":"5b59cd79d51d2975d3d4ff8e"},"name":"METOZ 2.5mg Tablet 10's","composition":"Metolazone 2.5mg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.106.61"}
+{"_id":{"$oid":"5b59cd7cd51d2975d3d4ff8f"},"name":"METOZ 5mg Tablet 10's","composition":"Metolazone 5mg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.178.14"}
+{"_id":{"$oid":"5b59cd7ed51d2975d3d4ff90"},"name":"METOZIDE 12.5mg Tablet 10's","composition":"Metolazone 12.5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b59cd80d51d2975d3d4ff91"},"name":"MIRAGO 25mg Tablet 10's","composition":"Mirabegron 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b59cd81d51d2975d3d4ff92"},"name":"MIRAGO 50mg Tablet 10's","composition":"Mirabegron 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b59cd82d51d2975d3d4ff93"},"name":"MIRATAS 50mg Tablet 10's","composition":"Mirabegron 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b59cd84d51d2975d3d4ff94"},"name":"MIRATAS 25mg Tablet 10's","composition":"Mirabegron ","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.192.00"}
+{"_id":{"$oid":"5b59cd86d51d2975d3d4ff95"},"name":"MIRBEG 25mg Tablet 10's","composition":"Mirabegron 25mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.192.00"}
+{"_id":{"$oid":"5b59cd88d51d2975d3d4ff96"},"name":"MIRBEG 50mg Tablet 10's","composition":"Mirabegron 50mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.299.00"}
+{"_id":{"$oid":"5b59cd8ad51d2975d3d4ff97"},"name":"MYOSTIGMIN 2.5mg Injection 5ml","composition":"NEOSTIGMINE METHYL SULPHATE 2.5MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.22.10"}
+{"_id":{"$oid":"5b59cd8cd51d2975d3d4ff98"},"name":"NATRILIX SR Tablet 10's","composition":"Indapamide 1.5mg (SR)","manufacturer":"Serdia Pharmaceuticals India Pvt Ltd","price":"Rs.101.00"}
+{"_id":{"$oid":"5b59cd8ed51d2975d3d4ff99"},"name":"NATRILIX Tablet 10's","composition":"Indapamide 2.5mg","manufacturer":"Serdia Pharmaceuticals India Pvt Ltd","price":"Rs.88.50"}
+{"_id":{"$oid":"5b59cd90d51d2975d3d4ff9a"},"name":"NEOGLYATE Injection 5ml","composition":"Neostigmine 2.5mg+Glycopyrrolate 0.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.40.00"}
+{"_id":{"$oid":"5b59cd92d51d2975d3d4ff9b"},"name":"NEOMINE 2.5mg Injection 5ml","composition":"Neostigmine 2.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.21.60"}
+{"_id":{"$oid":"5b59cd96d51d2975d3d4ff9c"},"name":"NEOMINE 0.5mg Injection 1ml","composition":"Neostigmine 0.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.7.96"}
+{"_id":{"$oid":"5b59cd98d51d2975d3d4ff9d"},"name":"NEOSTIgmINE(PHC) 0.5mg Injection 1ml","composition":"Neostigmine 0.5mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.144.23"}
+{"_id":{"$oid":"5b59cd9ad51d2975d3d4ff9e"},"name":"NEOSTIgmINE(PHC) 0.5mg Injection 5ml","composition":"Neostigmine 0.5mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b59cd9cd51d2975d3d4ff9f"},"name":"PLANEP 25mg Tablet 10's","composition":"Eplerenone 25mg","manufacturer":"Lupin Ltd","price":"Rs.260.55"}
+{"_id":{"$oid":"5b59cd9dd51d2975d3d4ffa0"},"name":"PLANEP 50mg Tablet 10's","composition":"Eplerenone 50mg","manufacturer":"Lupin Ltd","price":"Rs.324.35"}
+{"_id":{"$oid":"5b59cda0d51d2975d3d4ffa1"},"name":"PLANEP T 20mg Tablet 10's","composition":"EPLERENONE 25MG+TORSEMIDE 20MG","manufacturer":"Lupin Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b59cda2d51d2975d3d4ffa2"},"name":"PLANEP T 10mg Tablet 10's","composition":"Eplerenone 25mg+Torsemide 10mg","manufacturer":"Lupin Ltd","price":"Rs.208.90"}
+{"_id":{"$oid":"5b59cda4d51d2975d3d4ffa3"},"name":"RETORLIX SP 10mg Tablet 10's","composition":"Spironolactone 50mg+Torsemide 10mg","manufacturer":"Lupin Ltd","price":"Rs.37.00"}
+{"_id":{"$oid":"5b59cda6d51d2975d3d4ffa4"},"name":"RETORLIX SP 5mg Tablet 10's","composition":"Spironolactone 50mg+Torasemide 5mg","manufacturer":"Lupin Ltd","price":"Rs.24.00"}
+{"_id":{"$oid":"5b59cda8d51d2975d3d4ffa5"},"name":"RETORLIX 5mg Tablet 10's","composition":"Torsemide 5mg","manufacturer":"Lupin Ltd","price":"Rs.26.40"}
+{"_id":{"$oid":"5b59cdaad51d2975d3d4ffa6"},"name":"RETORLIX 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"Lupin Ltd","price":"Rs.37.00"}
+{"_id":{"$oid":"5b59cdadd51d2975d3d4ffa7"},"name":"RETORLIX 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Lupin Ltd","price":"Rs.76.95"}
+{"_id":{"$oid":"5b59cdaed51d2975d3d4ffa8"},"name":"RETORLIX 10mg Injection 2ml","composition":"Torsemide 10mg","manufacturer":"Lupin Ltd","price":"Rs.12.46"}
+{"_id":{"$oid":"5b59cdb0d51d2975d3d4ffa9"},"name":"RETORLIX 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Lupin Ltd","price":"Rs.44.50"}
+{"_id":{"$oid":"5b59cdb3d51d2975d3d4ffaa"},"name":"RETROLIX SP 25/10mg Tablet 10's","composition":"SPIRONOLACTONE 25MG+TORSEMIDE 10MG","manufacturer":"Lupin Ltd","price":"Rs.52.70"}
+{"_id":{"$oid":"5b59cdb5d51d2975d3d4ffab"},"name":"SARPIX 500mg Tablet 10's","composition":"Sodium Bicarbonate 500mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.49.00"}
+{"_id":{"$oid":"5b59cdb7d51d2975d3d4ffac"},"name":"SARPIX 1000mg Tablet 10's","composition":"Sodium Bicarbonate 1000mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b59cdb9d51d2975d3d4ffad"},"name":"SIOCARE Syrup 450ml","composition":"Ayurvedic Medicine","manufacturer":"Albert David Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b59cdbcd51d2975d3d4ffae"},"name":"SODABICARB 8.4% Injection 25ml","composition":"Sodium Bicarbonate 8.4%","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.31.50"}
+{"_id":{"$oid":"5b59cdbed51d2975d3d4ffaf"},"name":"SPILACTONE 50mg Tablet 10's","composition":"Spironolactone","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b59cdbfd51d2975d3d4ffb0"},"name":"SPILACTONE 100mg Tablet 10's","composition":"Spironolactone 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.49.00"}
+{"_id":{"$oid":"5b59cdc1d51d2975d3d4ffb1"},"name":"SPIROMIDE Tablet 10's","composition":"Frusemide 20mg+Spironolactone 50mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.55.70"}
+{"_id":{"$oid":"5b59cdc4d51d2975d3d4ffb2"},"name":"THALORIC 12.5mg Tablet 10's","composition":"Chlorthalidone 12.5mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.52.70"}
+{"_id":{"$oid":"5b59cdc6d51d2975d3d4ffb3"},"name":"THALORIC 6.25mg Tablet 10's","composition":"Chlorthalidone 6.25mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.37.30"}
+{"_id":{"$oid":"5b59cdc8d51d2975d3d4ffb4"},"name":"THIAKLOR 6.25mg Tablet 10's","composition":"Chlorthalidone 6.25mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.38.45"}
+{"_id":{"$oid":"5b59cdcad51d2975d3d4ffb5"},"name":"THIAZIDE 12.5mg Tablet 10's","composition":"Hydrochlorothiazide 12.5mg","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.9.75"}
+{"_id":{"$oid":"5b59cdced51d2975d3d4ffb6"},"name":"THIAZIDE 25mg Tablet 10's","composition":"Hydrochlorothiazide 25mg","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.17.14"}
+{"_id":{"$oid":"5b59cdd0d51d2975d3d4ffb7"},"name":"TIDE 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.74.70"}
+{"_id":{"$oid":"5b59cdd2d51d2975d3d4ffb8"},"name":"TIDE 10mg Injection 2ml","composition":"Torsemide 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.15.30"}
+{"_id":{"$oid":"5b59cdd5d51d2975d3d4ffb9"},"name":"TIDE 40mg Tablet 10's","composition":"Torsemide 40mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b59cdd7d51d2975d3d4ffba"},"name":"TIDE 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.280.20"}
+{"_id":{"$oid":"5b59cddbd51d2975d3d4ffbb"},"name":"TIDE 5mg Tablet 10's","composition":"Torsemide 5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.25.20"}
+{"_id":{"$oid":"5b59cdddd51d2975d3d4ffbc"},"name":"TIDE 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.40.60"}
+{"_id":{"$oid":"5b59cddfd51d2975d3d4ffbd"},"name":"TIDE PLUS 20mg Tablet 10's","composition":"Spironolactone 25mg+Torsemide 20mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.38.60"}
+{"_id":{"$oid":"5b59cde1d51d2975d3d4ffbe"},"name":"TIDE PLUS 10mg Tablet 10's","composition":"Spironolactone 25mg+Torasemide 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.28.50"}
+{"_id":{"$oid":"5b59cde3d51d2975d3d4ffbf"},"name":"TOR 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.243.00"}
+{"_id":{"$oid":"5b59cde5d51d2975d3d4ffc0"},"name":"TOR 20mg Tablet 15's","composition":"Torsemide 20mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b59cde8d51d2975d3d4ffc1"},"name":"TOR 10mg Tablet 15's","composition":"Torsemide 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.48.50"}
+{"_id":{"$oid":"5b59cdead51d2975d3d4ffc2"},"name":"TOR 10mg Injection 2ml","composition":"Torsemide 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.9.68"}
+{"_id":{"$oid":"5b59cdedd51d2975d3d4ffc3"},"name":"TORACOR 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Akesiss Pharma Pvt Ltd","price":"Rs.23.70"}
+{"_id":{"$oid":"5b59cdefd51d2975d3d4ffc4"},"name":"TORADIC 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b59cdf2d51d2975d3d4ffc5"},"name":"TORADIC 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.63.50"}
+{"_id":{"$oid":"5b59cdf3d51d2975d3d4ffc6"},"name":"TORESA 5mg Tablet 10's","composition":"Torsemide 5mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.27.60"}
+{"_id":{"$oid":"5b59cdf5d51d2975d3d4ffc7"},"name":"TORESA 10mg Injection 2ml","composition":"Torsemide 10mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.21.81"}
+{"_id":{"$oid":"5b59cdf9d51d2975d3d4ffc8"},"name":"TORESA 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.76.50"}
+{"_id":{"$oid":"5b59cdfbd51d2975d3d4ffc9"},"name":"TORESA 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.42.70"}
+{"_id":{"$oid":"5b59cdfdd51d2975d3d4ffca"},"name":"TORGET PLUS 20mg Tablet 10's","composition":"Spironolactone 50mg+Torsemide 20mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.110.90"}
+{"_id":{"$oid":"5b59ce00d51d2975d3d4ffcb"},"name":"TORGET PLUS 10mg Tablet 10's","composition":"Spironolactone 50mg+Torsemide 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.78.20"}
+{"_id":{"$oid":"5b59ce04d51d2975d3d4ffcc"},"name":"TORGET 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.75.10"}
+{"_id":{"$oid":"5b59ce06d51d2975d3d4ffcd"},"name":"TORGET 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.292.70"}
+{"_id":{"$oid":"5b59ce08d51d2975d3d4ffce"},"name":"TORGET 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.43.90"}
+{"_id":{"$oid":"5b59ce0bd51d2975d3d4ffcf"},"name":"TORGET 5mg Tablet 10's","composition":"Torsemide 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.25.80"}
+{"_id":{"$oid":"5b59ce0dd51d2975d3d4ffd0"},"name":"TORGET 40mg Tablet 10's","composition":"Torsemide 40mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.154.20"}
+{"_id":{"$oid":"5b59ce10d51d2975d3d4ffd1"},"name":"TORIDE 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.67.50"}
+{"_id":{"$oid":"5b59ce10d51d2975d3d4ffd2"},"name":"TORIDE 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b59ce13d51d2975d3d4ffd3"},"name":"TORIDE 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.149.90"}
+{"_id":{"$oid":"5b59ce15d51d2975d3d4ffd4"},"name":"TORLACTONE 10mg Tablet 10's","composition":"Spironolactone 50mg+Torsemide 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.28.80"}
+{"_id":{"$oid":"5b59ce16d51d2975d3d4ffd5"},"name":"TORLACTONE LS Tablet 10's","composition":"Spironolactone+Torsemide","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.18.60"}
+{"_id":{"$oid":"5b59ce17d51d2975d3d4ffd6"},"name":"TORLACTONE 5mg Tablet 10's","composition":"Spironolactone 50mg+Torsemide 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.25.60"}
+{"_id":{"$oid":"5b59ce19d51d2975d3d4ffd7"},"name":"TORMIS 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.35.00"}
+{"_id":{"$oid":"5b59ce1ad51d2975d3d4ffd8"},"name":"TORPRES 40mg Tablet 10's","composition":"Torsemide 40mg","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b59ce1cd51d2975d3d4ffd9"},"name":"TORPRES 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b59ce1ed51d2975d3d4ffda"},"name":"TORSED 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.52.38"}
+{"_id":{"$oid":"5b59ce20d51d2975d3d4ffdb"},"name":"TORSED 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b59ce23d51d2975d3d4ffdc"},"name":"TORSEMI 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Fdc Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b59ce25d51d2975d3d4ffdd"},"name":"TORSEMI 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Fdc Ltd","price":"Rs.22.20"}
+{"_id":{"$oid":"5b59ce27d51d2975d3d4ffde"},"name":"TORSID 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.158.80"}
+{"_id":{"$oid":"5b59ce28d51d2975d3d4ffdf"},"name":"TORSID 10mg Injection 2ml","composition":"Torsemide 10mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.8.39"}
+{"_id":{"$oid":"5b59ce2bd51d2975d3d4ffe0"},"name":"TORSID 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.33.90"}
+{"_id":{"$oid":"5b59ce2ed51d2975d3d4ffe1"},"name":"TORSID 20mg Injection 2ml","composition":"Torsemide 20mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.44.03"}
+{"_id":{"$oid":"5b59ce30d51d2975d3d4ffe2"},"name":"TORSID PLUS 50/10mg Tablet 10","composition":"SPIRONOLACTONE 50MG+TORSEMIDE 10MG","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.42.97"}
+{"_id":{"$oid":"5b59ce32d51d2975d3d4ffe3"},"name":"TORSID PLUS Tablet 10's","composition":"SPIRONOLACTONE 50MG+TORSEMIDE 5MG","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.28.65"}
+{"_id":{"$oid":"5b59ce35d51d2975d3d4ffe4"},"name":"TORSIKIND 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.21.95"}
+{"_id":{"$oid":"5b59ce37d51d2975d3d4ffe5"},"name":"TORSINEX 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"Micro Labs Ltd","price":"Rs.268.00"}
+{"_id":{"$oid":"5b59ce3bd51d2975d3d4ffe6"},"name":"TORSINEX 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Micro Labs Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b59ce3dd51d2975d3d4ffe7"},"name":"TORSINEX 10mg Injection 2ml","composition":"Torsemide 10mg","manufacturer":"Micro Labs Ltd","price":"Rs.10.00"}
+{"_id":{"$oid":"5b59ce40d51d2975d3d4ffe8"},"name":"TORSINEX 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Micro Labs Ltd","price":"Rs.69.74"}
+{"_id":{"$oid":"5b59ce43d51d2975d3d4ffe9"},"name":"TORSINEX PLUS Tablet 10's","composition":"Spironolactone+Torsemide","manufacturer":"Micro Labs Ltd","price":"Rs.22.00"}
+{"_id":{"$oid":"5b59ce46d51d2975d3d4ffea"},"name":"TORTEC 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.27.00"}
+{"_id":{"$oid":"5b59ce48d51d2975d3d4ffeb"},"name":"TORTEC 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.16.50"}
+{"_id":{"$oid":"5b59ce49d51d2975d3d4ffec"},"name":"TORTEC 5mg Tablet 10's","composition":"Torsemide 5mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.16.50"}
+{"_id":{"$oid":"5b59ce4cd51d2975d3d4ffed"},"name":"TORVEL 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"Others","price":"Rs.160.00"}
+{"_id":{"$oid":"5b59ce4ed51d2975d3d4ffee"},"name":"TORVEL 10MG TABLET 10'S","composition":"TORSEMIDE 10MG","manufacturer":" NA ","price":"Rs.22.00"}
+{"_id":{"$oid":"5b59ce50d51d2975d3d4ffef"},"name":"TORVIGRESS 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b59ce55d51d2975d3d4fff0"},"name":"TORVIGRESS 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.43.00"}
+{"_id":{"$oid":"5b59ce56d51d2975d3d4fff1"},"name":"VESIBETA 25mg Tablet 10's","composition":"Mirabegron 25mg","manufacturer":"Cipla Ltd","price":"Rs.235.00"}
+{"_id":{"$oid":"5b59ce59d51d2975d3d4fff2"},"name":"XENIA 12.5mg Tablet 15's","composition":"Hydrochlorothiazide","manufacturer":"Usv Private Ltd","price":"Rs.13.10"}
+{"_id":{"$oid":"5b59ce5bd51d2975d3d4fff3"},"name":"XENIA 25mg Tablet 15's","composition":"Hydrochlorothiazide","manufacturer":"Usv Private Ltd","price":"Rs.22.90"}
+{"_id":{"$oid":"5b59ce5ed51d2975d3d4fff4"},"name":"ZATOR 20mg Tablet 10's","composition":"Torsemide 20mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.52.37"}
+{"_id":{"$oid":"5b59ce60d51d2975d3d4fff5"},"name":"ZATOR PLUS Tablet 10's","composition":"Spironolactone+Torsemide","manufacturer":"Unichem Laboratories Ltd","price":"Rs.56.00"}
+{"_id":{"$oid":"5b59ce62d51d2975d3d4fff6"},"name":"ZATOR 40mg Tablet 10's","composition":"Torsemide 40mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.67.00"}
+{"_id":{"$oid":"5b59ce65d51d2975d3d4fff7"},"name":"ZATOR 100mg Tablet 10's","composition":"Torsemide 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.165.02"}
+{"_id":{"$oid":"5b59ce67d51d2975d3d4fff8"},"name":"ZATOR 10mg Tablet 10's","composition":"Torsemide 10mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.33.95"}
+{"_id":{"$oid":"5b59ce69d51d2975d3d4fff9"},"name":"ZATOR 10mg Injection 2ml","composition":"Torsemide 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.27.66"}
+{"_id":{"$oid":"5b59ce6bd51d2975d3d4fffa"},"name":"ZIONE Tablet 10's","composition":"Chlorthalidone 6.25mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b59ce6dd51d2975d3d4fffb"},"name":"ZYTANIX 2.5mg Tablet 10's","composition":"Metolazone 2.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.117.50"}
+{"_id":{"$oid":"5b59ce6fd51d2975d3d4fffc"},"name":"ZYTANIX 5mg Tablet 10's","composition":"Metolazone 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.201.20"}

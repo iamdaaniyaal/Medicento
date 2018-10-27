@@ -1,0 +1,540 @@
+{"_id":{"$oid":"5b5836cbd51d295edec88277"},"name":"ABDIFER Syrup 200ml","composition":"Cyanocobalamin+Elemental Iron+Elemental Zinc+Folic Acid","manufacturer":"Kinesis Pharmaceuticals Pvt.Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b5836cdd51d295edec88278"},"name":"ABDIFER 5 /60 /15 1 mg Ear Drops 1","composition":"CYANOCOBALAMIN 5MCG+ELEMENTAL IRON 60MG+ELEMENTAL ZINC 15MG+FOLIC ACID 1MG","manufacturer":"Kinesis Pharmaceuticals Pvt.Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b5836d0d51d295edec88279"},"name":"ABDIFER Capsule 10's","composition":"Cyanocobalamin+Elemental Iron+Elemental Zinc+Folic Acid","manufacturer":"Kinesis Pharmaceuticals Pvt.Ltd","price":"Rs.51.70"}
+{"_id":{"$oid":"5b5836d1d51d295edec8827a"},"name":"ACTORISE 60mcg Injection 0.30ml","composition":"DARBEPOETIN 60MCG","manufacturer":"Cipla Ltd","price":"Rs.3,500.00"}
+{"_id":{"$oid":"5b5836d4d51d295edec8827b"},"name":"ACTORISE 25MCG Injection 0.42ml","composition":"Darbepoetin","manufacturer":"Cipla Ltd","price":"Rs.1,650.00"}
+{"_id":{"$oid":"5b5836d6d51d295edec8827c"},"name":"ACTORISE 100MCG Injection 0.5ml","composition":"Darbepoetin","manufacturer":"Cipla Ltd","price":"Rs.5,500.00"}
+{"_id":{"$oid":"5b5836d8d51d295edec8827d"},"name":"ACTORISE 40MCG Injection 0.40ml","composition":"Darbepoetin","manufacturer":"Cipla Ltd","price":"Rs.2,420.00"}
+{"_id":{"$oid":"5b5836d9d51d295edec8827e"},"name":"ACTORISE 200MCG Injection 0.40ml","composition":"Darbepoetin","manufacturer":"Cipla Ltd","price":"Rs.10,250.00"}
+{"_id":{"$oid":"5b5836dbd51d295edec8827f"},"name":"ADCOB Tablet 20's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b5836ddd51d295edec88280"},"name":"ADCOB Syrup 150ml","composition":"Ferrous Ascorbate 30mg+Folic Acid 550MCG","manufacturer":" NA ","price":"Rs.78.10"}
+{"_id":{"$oid":"5b5836dfd51d295edec88281"},"name":"ALAMIN FEZ Capsule 10's","composition":"Amino Acid+Iron+Vitamins+Zinc","manufacturer":"Albert David Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b5836e1d51d295edec88282"},"name":"ALFOL Drops 15ml","composition":"Carbonyl Iron 50mg","manufacturer":"Cipla Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b5836e2d51d295edec88283"},"name":"ALFOL Syrup 150ml","composition":"Carbonyl Iron 50mg","manufacturer":"Cipla Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b5836e3d51d295edec88284"},"name":"ALFOL Tablet 10's","composition":"Ferrous Ascorbate 50mg+Folic Acid 1mg","manufacturer":"Cipla Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b5836e4d51d295edec88285"},"name":"ALFOL Z 50/0.5mg Capsule 15's","composition":"Ferrous Ascorbate 50mg","manufacturer":"Cipla Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b5836e6d51d295edec88286"},"name":"ALKEM MAXXIFOL Rediuse 200ml","composition":"Ferrous Ascorbate 32mg+Folic Acid 0.5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.63.50"}
+{"_id":{"$oid":"5b5836e8d51d295edec88287"},"name":"ALOFER Syrup 200ml","composition":"Ferrous Ascorbate 50mg+Folic Acid 500Mcg","manufacturer":"SALUD CARE PVT LTD","price":"Rs.145.00"}
+{"_id":{"$oid":"5b5836ead51d295edec88288"},"name":"ALOHA XT Suspension 150ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Indoco Remedies Ltd","price":"Rs.139.84"}
+{"_id":{"$oid":"5b5836ecd51d295edec88289"},"name":"ALOHA Tablet 10's","composition":"Carbonyl Iron 50mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.55.59"}
+{"_id":{"$oid":"5b5836eed51d295edec8828a"},"name":"ALOHA XT PLUS Tablet 10's","composition":"Cyanocobalamin+Docosahexaenoic Acid(Dha)+Ferrous Ascorbate+Folic Acid+Pyridoxine+Zinc","manufacturer":"Indoco Remedies Ltd","price":"Rs.164.81"}
+{"_id":{"$oid":"5b5836efd51d295edec8828b"},"name":"ALOHA XT Tablet 30's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Indoco Remedies Ltd","price":"Rs.310.00"}
+{"_id":{"$oid":"5b5836f1d51d295edec8828c"},"name":"ALOHA XT 100/1.1mg Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.104.32"}
+{"_id":{"$oid":"5b5836f3d51d295edec8828d"},"name":"ALOHA XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Indoco Remedies Ltd","price":"Rs.295.00"}
+{"_id":{"$oid":"5b5836f6d51d295edec8828e"},"name":"ALOHA XT Drops 15ml","composition":"FERROUS ASCORBATE +FOLIC ACID ","manufacturer":"Indoco Remedies Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b5836f7d51d295edec8828f"},"name":"AMINOGLOBIN Syrup 200ml","composition":"Cyanocobalamin+Ferrous Bisglycinate+Folic Acid+Pyridoxine+Zinc","manufacturer":"Others","price":"Rs.240.00"}
+{"_id":{"$oid":"5b5836fad51d295edec88290"},"name":"AMINORICH Capsule 15's","composition":"Amino Acid+Iron+Vitamins+Zinc","manufacturer":"Stedman Pharmaceuticals Pvt Ltd","price":"Rs.171.29"}
+{"_id":{"$oid":"5b5836fcd51d295edec88291"},"name":"AMINORICH Drops 15ml","composition":"Amino Acid+Iron+Vitamins+Zinc","manufacturer":"Stedman Pharmaceuticals Pvt Ltd","price":"Rs.78.33"}
+{"_id":{"$oid":"5b5836fed51d295edec88292"},"name":"ANEMI Z Capsule 10's","composition":"Adenosylcobalamin+Carbonyl Iron+Folic Acid+Zinc","manufacturer":"Alchemist Lifesciences Ltd","price":"Rs.40.50"}
+{"_id":{"$oid":"5b5836ffd51d295edec88293"},"name":"ANOFER Tablet 10's","composition":"Iron 120mg+Vitamin A 5000IU+Tocoferol Acetate 25IU+Vitamin C 75mg+Thiamine Mononitrate 4.5mg+Riboflavin 5mg+Pyridoxine Hydrochloride 3mg+ Nicotinamide 45mg+Iodine 150mcg+Copper 2mg+Zinc 25mg+Docusate Sodium 50mg+Vitamin B12 12mcg+Folic Acid 1.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.64.00"}
+{"_id":{"$oid":"5b583700d51d295edec88294"},"name":"ANOFER SP Tablet 10's","composition":"Ascorbic Acid+Carbonyl Iron+Cyanocobalamin+Folic Acid+Zinc","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b583703d51d295edec88295"},"name":"ANOFER S 100mg Injection 5ml","composition":"Iron Sucrose 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.261.81"}
+{"_id":{"$oid":"5b583704d51d295edec88296"},"name":"ASCAFER Z Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid+Zinc","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.66.00"}
+{"_id":{"$oid":"5b583707d51d295edec88297"},"name":"ASCOFIT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Intra Labs India Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b583709d51d295edec88298"},"name":"ASFER Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Khandelwal Laboratories Ltd","price":"Rs.78.57"}
+{"_id":{"$oid":"5b58370bd51d295edec88299"},"name":"ASTYFER XT Tablet 10's","composition":"Ferrous Fumarate","manufacturer":"Tablets India Ltd","price":"Rs.111.50"}
+{"_id":{"$oid":"5b58370dd51d295edec8829a"},"name":"ASTYFER Z Syrup 200ml","composition":"Amino Acid+Iron+Vitamins+Zinc","manufacturer":"Tablets India Ltd","price":"Rs.93.25"}
+{"_id":{"$oid":"5b58370fd51d295edec8829b"},"name":"ASTYFER Z Capsule 30's","composition":"Ferrous Fumarate 150 mg+Folic Acid 0.5 mcg+Glycine 10 mg+L-Histidine 4 mg+L-Lysine 25 mg+Vitamin B1+Vitamin B12+Vitamin B2+Vitamin B6+Vitamin C+Zinc Sulphate","manufacturer":"Tablets India Ltd","price":"Rs.247.50"}
+{"_id":{"$oid":"5b583711d51d295edec8829c"},"name":"ASUNRA 100mg Tablet 6's","composition":"Deferasirox 100mg","manufacturer":"Novartis India Ltd","price":"Rs.275.00"}
+{"_id":{"$oid":"5b583713d51d295edec8829d"},"name":"AUTRIN Capsule 30's","composition":"Ferrous Fumarate+Folic Acid+Pyridoxine","manufacturer":"Pfizer Limited","price":"Rs.102.36"}
+{"_id":{"$oid":"5b583715d51d295edec8829e"},"name":"BEFER Tablet 10's","composition":"Cyanocobalamin+Folic Acid+Iron+Zinc","manufacturer":"Biological Evans Ltd","price":"Rs.76.50"}
+{"_id":{"$oid":"5b583717d51d295edec8829f"},"name":"BESIGEST Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Besins Healthcare India Pvt Ltd","price":"Rs.80.95"}
+{"_id":{"$oid":"5b583718d51d295edec882a0"},"name":"BESTIRON Drops 15ml","composition":"Cyanocobalamin+Folic Acid+Iron+Lysine","manufacturer":"Elan Pharma India Pvt Ltd","price":"Rs.82.00"}
+{"_id":{"$oid":"5b58371bd51d295edec882a1"},"name":"BESTIRON Tablet 10's","composition":"Iron+Multivitamin+Zinc","manufacturer":"Elan Pharma India Pvt Ltd","price":"Rs.94.00"}
+{"_id":{"$oid":"5b58371cd51d295edec882a2"},"name":"BESTIRON Syrup 150ml","composition":"Cyanocobalamin+Folic Acid+Iron+Lysine","manufacturer":"Elan Pharma India Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b58371ed51d295edec882a3"},"name":"BIGVIN FC Injection 1's","composition":"Folic Acid 0.7mg+Methylcobalamin 1500mcg+Niacinamide 12mg+Vitamin C 150mg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.31.27"}
+{"_id":{"$oid":"5b583721d51d295edec882a4"},"name":"BIOFER XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Micro Labs Ltd","price":"Rs.91.00"}
+{"_id":{"$oid":"5b583722d51d295edec882a5"},"name":"BIOFER 350mg Tablet 10's","composition":"Iron Polymaltose Complex 350mg","manufacturer":"Micro Labs Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b583724d51d295edec882a6"},"name":"BIOFER XT Tablet 6's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Micro Labs Ltd","price":"Rs.76.50"}
+{"_id":{"$oid":"5b583726d51d295edec882a7"},"name":"BIOFER Syrup 200ml","composition":"Elemental Iron 160mg","manufacturer":"Micro Labs Ltd","price":"Rs.60.43"}
+{"_id":{"$oid":"5b583728d51d295edec882a8"},"name":"BIOFER XT Syrup 150ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Micro Labs Ltd","price":"Rs.136.50"}
+{"_id":{"$oid":"5b58372ad51d295edec882a9"},"name":"BIOFER XT Suspension 200ml","composition":"FERROUS ASCORBATE+FOLIC ACID","manufacturer":"Micro Labs Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b58372cd51d295edec882aa"},"name":"BIZFER Elixir 150ml","composition":"Cyanocobalamin(Vit B12)+Ferrous Bisglycinate+Folic Acid+Pyridoxine","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.319.10"}
+{"_id":{"$oid":"5b58372ed51d295edec882ab"},"name":"BIZFER XT Tablet 10's","composition":"Elemental Iron 60mg+Elemental Zinc 15mg+Folic Acid 1mg+Methylcobalamin 500mcg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.100.25"}
+{"_id":{"$oid":"5b583730d51d295edec882ac"},"name":"CAFE KIT Tablet 30's","composition":"Ferrous Combination ","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.192.00"}
+{"_id":{"$oid":"5b583732d51d295edec882ad"},"name":"CAFE KIT Tablet 10's","composition":"Calcium Carbonate 500mg+Carbonyl Iron 100mg+Folic Acid 1mg+Vitamin D3 200IU","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.64.00"}
+{"_id":{"$oid":"5b583733d51d295edec882ae"},"name":"CARBOFLOT Tablet 15's","composition":"Carbonyl Iron 50mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.66.62"}
+{"_id":{"$oid":"5b583735d51d295edec882af"},"name":"CARFER Capsule 10's","composition":"Folic Acid+Iron+ Zinc","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.33.00"}
+{"_id":{"$oid":"5b583737d51d295edec882b0"},"name":"CARNYL FE XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Obsurge Biotech Ltd","price":"Rs.61.91"}
+{"_id":{"$oid":"5b583739d51d295edec882b1"},"name":"CARON FE Tablet 10's","composition":"Carbonyl Iron+Folic Acid+Zinc","manufacturer":"Race Pharmaceuticals Pvt Ltd","price":"Rs.68.10"}
+{"_id":{"$oid":"5b58373bd51d295edec882b2"},"name":"CHERI XT Tablet 10's","composition":"Folic Acid+ Iron (III) Hydroxide Polymaltose Complex","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.122.50"}
+{"_id":{"$oid":"5b58373dd51d295edec882b3"},"name":"CHERI Capsule 10's","composition":"Iron+Minerals+Vitamins","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.86.50"}
+{"_id":{"$oid":"5b58373dd51d295edec882b4"},"name":"CHERI Syrup 200ml","composition":"Cyanocobalamin+Folic Acid+Iron","manufacturer":"Indchemie Health Specialities Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b58373fd51d295edec882b5"},"name":"CITRAPHOS Tablet 10's","composition":"Ferric Citrate","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b583741d51d295edec882b6"},"name":"COEHB PLUS Capsule 10's","composition":"Ferrous Asparto Glycinate+L Methylfolate+Mecobalamin (Methylcobalamin)","manufacturer":"Koye Pharmaceuticals Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b583743d51d295edec882b7"},"name":"COEHB Syrup 150ml","composition":"Methylcobalamin 500mcg+L Methylfolate 300mcg+Elemental Iron 30mg","manufacturer":"Koye Pharmaceuticals Pvt Ltd","price":"Rs.163.00"}
+{"_id":{"$oid":"5b583745d51d295edec882b8"},"name":"COEHB Capsule 10's","composition":"Ferrous Asparto Glycinate+L Methylfolate+Mecobalamin (Methylcobalamin)","manufacturer":"Koye Pharmaceuticals Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b583747d51d295edec882b9"},"name":"COEHB D3 Tablet 10's","composition":"Elemental Iron 100mg+L-Methylfolate 300mcg+Mecobalamin 500mcg+Vitamin D3 1000IU","manufacturer":"Koye Pharmaceuticals Pvt Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b583748d51d295edec882ba"},"name":"COFOL XT Tablet 10's","composition":"Iron 100mg+Folic Acid 1.5mg","manufacturer":"Cipla Ltd","price":"Rs.33.75"}
+{"_id":{"$oid":"5b58374ad51d295edec882bb"},"name":"CONVIRON FORTE Capsule 15's","composition":"Ferrous Sulphate+Folic Acid","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b58374cd51d295edec882bc"},"name":"CONVIRON TR Capsule 15's","composition":"Ferrous Sulphate 100mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.60.41"}
+{"_id":{"$oid":"5b58374dd51d295edec882bd"},"name":"CONVIRON TR Capsule 10's","composition":"Ferrous Sulphate 100mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.58.70"}
+{"_id":{"$oid":"5b58374fd51d295edec882be"},"name":"CORBATE XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Wanbury Ltd","price":"Rs.92.00"}
+{"_id":{"$oid":"5b583751d51d295edec882bf"},"name":"CORBET XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Sinsan Pharmaceuticals Pvt Ltd","price":"Rs.71.17"}
+{"_id":{"$oid":"5b583753d51d295edec882c0"},"name":"CORBUS FA Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Biomax Biotechnics Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b583754d51d295edec882c1"},"name":"CORUS FA Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Biomax Biotechnics Pvt Ltd","price":"Rs.114.00"}
+{"_id":{"$oid":"5b583757d51d295edec882c2"},"name":"CPINK 50mg Tablet 15's","composition":"Ferrous Ascorbate 50mg+Folic Acid 1.5mg","manufacturer":"Wanbury Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b583759d51d295edec882c3"},"name":"CPINK Suspension 150ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Wanbury Ltd","price":"Rs.146.20"}
+{"_id":{"$oid":"5b58375bd51d295edec882c4"},"name":"CPINK 100mg Tablet 15's","composition":"Elemental Iron 100mg+L-Methylfolate 0.5mg","manufacturer":"Wanbury Ltd","price":"Rs.195.00"}
+{"_id":{"$oid":"5b58375dd51d295edec882c5"},"name":"CPINK M Tablet 15's","composition":"Ferrous Ascorbate+Folic Acid+Mecobalamin (Methylcobalamin)","manufacturer":"Wanbury Ltd","price":"Rs.193.20"}
+{"_id":{"$oid":"5b58375ed51d295edec882c6"},"name":"CPINK Drops 15ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Wanbury Ltd","price":"Rs.74.70"}
+{"_id":{"$oid":"5b583760d51d295edec882c7"},"name":"DAILY IRON Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b583762d51d295edec882c8"},"name":"DECA INTABOLIN 25mg Injection 1ml","composition":"NANDROLONE 25MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.18.80"}
+{"_id":{"$oid":"5b583764d51d295edec882c9"},"name":"DECA INTABOLIN 100mg Injection 1ml","composition":"NANDROLONE 100MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.36.30"}
+{"_id":{"$oid":"5b583766d51d295edec882ca"},"name":"DECA INTABOLIN 50mg Injection 1ml","composition":"NANDROLONE 50MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.284.00"}
+{"_id":{"$oid":"5b58376dd51d295edec882cb"},"name":"DEXORANGE Syrup 200ml","composition":"Cyanocobalamin(Vit B12)+Ferric Ammonium Citrate+Folic Acid","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.120.07"}
+{"_id":{"$oid":"5b58376fd51d295edec882cc"},"name":"DEXORANGE Capsule 30's","composition":"Cyanocobalamin(Vit B12)+Ferric Ammonium Citrate+Folic Acid+Zinc","manufacturer":"Franco Indian Pharmaceuticals Pvt Ltd","price":"Rs.106.56"}
+{"_id":{"$oid":"5b583771d51d295edec882cd"},"name":"EIDO FE Capsule 10's","composition":"Carbonyl Iron+Folic Acid+Multivitamin","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b583773d51d295edec882ce"},"name":"EIDO FE FORTE Capsule 10's","composition":"Carbonyl Iron+Folic+Multivitamin","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.176.00"}
+{"_id":{"$oid":"5b583775d51d295edec882cf"},"name":"ELERON Syrup 150ml","composition":"Elemental Iron 50mg","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.80.20"}
+{"_id":{"$oid":"5b583777d51d295edec882d0"},"name":"ELERON Drops 15ml","composition":"Elemental Iron 50mg","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.44.75"}
+{"_id":{"$oid":"5b583778d51d295edec882d1"},"name":"ELFERRI S 100mg Injection 5ml","composition":"Iron Sucrose 100mg","manufacturer":"Svizera Healthcare","price":"Rs.250.00"}
+{"_id":{"$oid":"5b58377bd51d295edec882d2"},"name":"ELFERRI XT + Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid+Zinc","manufacturer":"Maneesh Pharmaceuticals Ltd","price":"Rs.86.15"}
+{"_id":{"$oid":"5b583781d51d295edec882d3"},"name":"ENCICARB 500mg Injection 10ml","composition":"Elemental Iron 500mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.2,446.00"}
+{"_id":{"$oid":"5b583783d51d295edec882d4"},"name":"ENCICARB 100mg Injection 2ml","composition":"Elemental Iron 100mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.467.50"}
+{"_id":{"$oid":"5b583785d51d295edec882d5"},"name":"ENCIFER 200mg Injection 10ml","composition":"Iron Sucrose 200mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.470.00"}
+{"_id":{"$oid":"5b583787d51d295edec882d6"},"name":"ENCIFER O Tablet 10's","composition":"FOLIC ACID 1.25MG+FERROUS ASCORBATE 100MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.106.60"}
+{"_id":{"$oid":"5b583789d51d295edec882d7"},"name":"EVAGLO TABLET 10'S","composition":"FERROUS ASCORBATE 100MG+FOLIC ACID 1.5MG","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b58378bd51d295edec882d8"},"name":"EXTRAFER Suspension 150ml","composition":"Ferrous Ascorbate 15mg+Folic Acid 500Mcg","manufacturer":"Others","price":"Rs.160.00"}
+{"_id":{"$oid":"5b58378dd51d295edec882d9"},"name":"EXTRAFER Tablet 10's","composition":"Ferrous Ascorbate 10mg+Folic Acid 1.5mg","manufacturer":"Others","price":"Rs.105.00"}
+{"_id":{"$oid":"5b58378fd51d295edec882da"},"name":"FAA 20 Syrup 150ml","composition":"Cyanocobalamin+Folic Acid+Iron+Zinc","manufacturer":"Lupin Ltd","price":"Rs.147.30"}
+{"_id":{"$oid":"5b583790d51d295edec882db"},"name":"FAA 20mg Tablet 10's","composition":"Cyanocobalamin(Vit B12) 15mcg+Folic Acid 1.5mg+Iron 30mg+Zinc 10mg","manufacturer":"Lupin Ltd","price":"Rs.104.40"}
+{"_id":{"$oid":"5b583792d51d295edec882dc"},"name":"FANTY Capsule 10's","composition":"Carbonyl Iron+Vitamins+Zinc","manufacturer":"Biovitamins Pvt Ltd","price":"Rs.49.50"}
+{"_id":{"$oid":"5b583794d51d295edec882dd"},"name":"FDSON 5MG TABLET 10'S","composition":"FOLIC ACID 5MG","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.9.10"}
+{"_id":{"$oid":"5b583795d51d295edec882de"},"name":"FDSON 12 TABLET 30'S","composition":"FOLIC ACID 5MG+MECOBALAMIN(METHYLCOBALAMIN) 750MG","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.58.20"}
+{"_id":{"$oid":"5b583797d51d295edec882df"},"name":"FDSON 12 TABLET 10'S","composition":"FOLIC ACID 5MG+MECOBALAMIN(METHYLCOBALAMIN) 750MG","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.63.60"}
+{"_id":{"$oid":"5b583799d51d295edec882e0"},"name":"FDSON MP TABLET 10'S","composition":"FOLIC ACID 5MG+MECOBALAMIN(METHYLCOBALAMIN) 750MCG+PYRIDOXINE(VIT B6) 10MG","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.31.80"}
+{"_id":{"$oid":"5b58379ad51d295edec882e1"},"name":"FDSON MP FORTE TABLET 10'S","composition":"FOLIC ACID 5MG+MECOBALAMIN(METHYLCOBALAMIN) 1500MCG+PYRIDOXINE(VIT B6) 20MG","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.43.30"}
+{"_id":{"$oid":"5b58379dd51d295edec882e2"},"name":"FDSON PLUS TABLET 10'S","composition":"FOLIC ACID 1.5MG+RIBOFLAVIN 10MG+NIACINAMIDE(VIT B3) 50MG","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.15.80"}
+{"_id":{"$oid":"5b5837a0d51d295edec882e3"},"name":"FDSON SPOR TABLET 10'S","composition":"FOLIC ACID 1.5MG+RIBOFLAVIN 10MG+NIACINAMIDE(VIT B3) 100MG+LACTIC ACID BACILLUS 60MILLION SPORES","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.21.50"}
+{"_id":{"$oid":"5b5837a2d51d295edec882e4"},"name":"FE 10 Injection 5ml","composition":"Iron Sucrose 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.259.42"}
+{"_id":{"$oid":"5b5837a4d51d295edec882e5"},"name":"FE 14 Tablet 15's","composition":"FERROUS ASPARTO GLYCINATE 100MG+L METHYLFOLATE CALCIUM 500MCG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b5837a6d51d295edec882e6"},"name":"FE 3 XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.76.75"}
+{"_id":{"$oid":"5b5837a8d51d295edec882e7"},"name":"FE 3 Capsule 10's","composition":"Carbonyl Iron+Folic Acid","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b5837aad51d295edec882e8"},"name":"FE PLUS TABLET 15'S","composition":"Folic Acid+Iron+Minerals","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b5837acd51d295edec882e9"},"name":"FE SURGE 100mg Tablet 15's","composition":"Ferrous Bisglycinate 100mg+Zinc 15mg+Folic Acid 1mg+Methylcobalamin 500mcg","manufacturer":"Konverge Healthcare Pvt Ltd","price":"Rs.173.64"}
+{"_id":{"$oid":"5b5837aed51d295edec882ea"},"name":"FE SURGE 100mg Injection 5ml","composition":"Iron Sucrose 100mg","manufacturer":"Konverge Healthcare Pvt Ltd","price":"Rs.210.00"}
+{"_id":{"$oid":"5b5837b0d51d295edec882eb"},"name":"FE Z XT DROPS 15ml","composition":"Ferrous Ascorbate 10mg+Folic Acid 0.1mg","manufacturer":"Others","price":"Rs.64.50"}
+{"_id":{"$oid":"5b5837b2d51d295edec882ec"},"name":"FE Z XT Suspension 150ml","composition":"Ferrous Ascorbate 30mg+Folic Acid 500Mcg","manufacturer":"Others","price":"Rs.104.35"}
+{"_id":{"$oid":"5b5837b4d51d295edec882ed"},"name":"FE Z XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Others","price":"Rs.78.00"}
+{"_id":{"$oid":"5b5837b6d51d295edec882ee"},"name":"FECONTIN F Tablet 10's","composition":"Folic Acid 0.5mg+Iron 100mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.131.00"}
+{"_id":{"$oid":"5b5837b8d51d295edec882ef"},"name":"FECONTIN Z Tablet 10's","composition":"Folic Acid 0.5mg+Iron 100mg+Zinc 61.8mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b5837bad51d295edec882f0"},"name":"FECONTIN F Tablet 30's","composition":"Folic Acid+Iron","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.358.50"}
+{"_id":{"$oid":"5b5837bbd51d295edec882f1"},"name":"FECONTIN Z TABLET Tablet 30's","composition":"Folic Acid+Iron+ Zinc","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.385.50"}
+{"_id":{"$oid":"5b5837bdd51d295edec882f2"},"name":"FEDDER Capsule 10's","composition":"Carbonyl Iron+Folic Acid","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b5837bfd51d295edec882f3"},"name":"FEFAZIN XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Alkem Laboratories Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5837c1d51d295edec882f4"},"name":"FEFAZIN Suspension 200ml","composition":"Carbonyl Iron 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b5837c4d51d295edec882f5"},"name":"FEFAZIN 100mg Capsule 15's","composition":"Ferrous Sulphate 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.49.00"}
+{"_id":{"$oid":"5b5837c6d51d295edec882f6"},"name":"FEFOL SPANSULE Capsule 15's","composition":"Elemental Iron 150mg+Folic Acid 5mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.73.60"}
+{"_id":{"$oid":"5b5837c8d51d295edec882f7"},"name":"FEFOL Z Capsule 15's","composition":"FERROUS SULPHATE 50MG+FOLIC ACID 0.5MG+ZINC 22.5MG","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.129.65"}
+{"_id":{"$oid":"5b5837cad51d295edec882f8"},"name":"FEJET XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"VENUS REMEDIES LIMITED","price":"Rs.102.00"}
+{"_id":{"$oid":"5b5837ccd51d295edec882f9"},"name":"FEMINA XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Mint Pharmaceuticals Pvt Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b5837cdd51d295edec882fa"},"name":"FENEED XT Syrup 150ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Aurz Pharmaceutical Pvt Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b5837cfd51d295edec882fb"},"name":"FENEED Syrup 200ml","composition":"Cyanocobalamin+Ferric Ammonium Citrate+Folic Acid","manufacturer":"Aurz Pharmaceutical Pvt Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b5837d1d51d295edec882fc"},"name":"FENEED XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Aurz Pharmaceutical Pvt Ltd","price":"Rs.93.30"}
+{"_id":{"$oid":"5b5837d3d51d295edec882fd"},"name":"FEONAT Z Capsule 15's","composition":"Carbonyl Iron 50mg","manufacturer":"Natco Pharma Ltd","price":"Rs.54.81"}
+{"_id":{"$oid":"5b5837d5d51d295edec882fe"},"name":"FERCEE XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5837d6d51d295edec882ff"},"name":"FERCEE XT Syrup 150ml","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5837d8d51d295edec88300"},"name":"FERCEL XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Citadel Fine Pharmaceuticals Pvt Ltd","price":"Rs.96.80"}
+{"_id":{"$oid":"5b5837dad51d295edec88301"},"name":"FERCEL 300mg Capsule 15's","composition":"Iron+Minerals+Vitamins","manufacturer":"Citadel Fine Pharmaceuticals Pvt Ltd","price":"Rs.36.26"}
+{"_id":{"$oid":"5b5837dcd51d295edec88302"},"name":"FERED XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.117.70"}
+{"_id":{"$oid":"5b5837ddd51d295edec88303"},"name":"FERED C Capsule 10's","composition":"Vitamin C 75mg+Carbonyl Iron 60mg+Folic Acid 1mg+Cyanocobalamin 15mcg+Zinc Sulphate Monohydrate 61.8mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b5837dfd51d295edec88304"},"name":"FERFOZ PLUS Tablet 10's","composition":"Sodium Feredetate 231mg+Folic Acid 1.5mg+Vitamin B12 15mcg","manufacturer":"Fdc Ltd","price":"Rs.47.62"}
+{"_id":{"$oid":"5b5837e0d51d295edec88305"},"name":"FERICAP XT Tablet 10's","composition":"Ferrous 100mg+Folic 1.5mg+Zinc 22.5mg","manufacturer":"Capital Pharma","price":"Rs.109.00"}
+{"_id":{"$oid":"5b5837e2d51d295edec88306"},"name":"FERICIP Drops 15ml","composition":"Ferrous Sulphate 50mg","manufacturer":"Cipla Ltd","price":"Rs.36.00"}
+{"_id":{"$oid":"5b5837e4d51d295edec88307"},"name":"FERICIP 50mg Syrup 150ml","composition":"Iron Polymaltose Complex 50mg","manufacturer":"Cipla Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5837e6d51d295edec88308"},"name":"FERICIP XT Suspension 150ml","composition":"Iron+Folic Acid ","manufacturer":"Cipla Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5837e8d51d295edec88309"},"name":"FERICIP XT Tablet 10's","composition":"FERROUS ASCORBATE 100MG+FOLIC ACID 1.5MG","manufacturer":"Cipla Ltd","price":"Rs.101.50"}
+{"_id":{"$oid":"5b5837ead51d295edec8830a"},"name":"FERICOSE Injection 5ml","composition":"Folic Acid+Iron","manufacturer":"Shantha Biotechnics Pvt Ltd","price":"Rs.245.00"}
+{"_id":{"$oid":"5b5837ebd51d295edec8830b"},"name":"FERIKIND Suspension 170ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b5837eed51d295edec8830c"},"name":"FERIKIND Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.86.51"}
+{"_id":{"$oid":"5b5837efd51d295edec8830d"},"name":"FERIKIND S 100mg Injection 5ml","composition":"Iron Sucrose 100mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.273.04"}
+{"_id":{"$oid":"5b5837f1d51d295edec8830e"},"name":"FERIKIND Z Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid+Zinc","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.71.50"}
+{"_id":{"$oid":"5b5837f3d51d295edec8830f"},"name":"FERIKIND Drops 15ml","composition":"ELEMENTAL IRON 0","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.72.60"}
+{"_id":{"$oid":"5b5837f5d51d295edec88310"},"name":"FERIKIND M Tablet 10's","composition":"ELEMENTAL IRON 100MG+ELEMENTAL ZINC 22.5MG+FOLIC ACID 1.1MG+MECOBALAMIN 1.5MG","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b5837f7d51d295edec88311"},"name":"FERIKIND PLUS RF Injection 1.5ml","composition":"Elemental Iron 75mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.39.60"}
+{"_id":{"$oid":"5b5837f9d51d295edec88312"},"name":"FERIKING Syrup 200ml","composition":"Ferrous Sulphate 50mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b5837fbd51d295edec88313"},"name":"FERIMON XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b5837fdd51d295edec88314"},"name":"FERIMON XT SUSPENSION 150ML","composition":"FERROUS ASCORBATE 100MG+FOLIC ACID 1.1MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.62.61"}
+{"_id":{"$oid":"5b5837ffd51d295edec88315"},"name":"FERINCA S Injection 5ml","composition":"Sodium Ferric Gluconate","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.262.00"}
+{"_id":{"$oid":"5b583801d51d295edec88316"},"name":"FERINJECT 100mg Injection 2ml","composition":"Elemental Iron 100mg","manufacturer":"Lupin Ltd","price":"Rs.950.00"}
+{"_id":{"$oid":"5b583807d51d295edec88317"},"name":"FERINJECT 500mg Injection 10ml","composition":"Elemental Iron 500mg","manufacturer":"Lupin Ltd","price":"Rs.2,900.00"}
+{"_id":{"$oid":"5b583808d51d295edec88318"},"name":"FERIS 50mg Tablet 10's","composition":"Ferrous Ascorbate 50mg+Folic Acid 1.5mg","manufacturer":"Others","price":"Rs.64.90"}
+{"_id":{"$oid":"5b58380ad51d295edec88319"},"name":"FERIS Drops 15ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Others","price":"Rs.63.52"}
+{"_id":{"$oid":"5b58380cd51d295edec8831a"},"name":"FERIS Syrup 150ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Others","price":"Rs.114.95"}
+{"_id":{"$oid":"5b58380ed51d295edec8831b"},"name":"FERIS 100mg Tablet 10's","composition":"Elemental Iron 100mg+Folic Acid 1.5mg","manufacturer":"Others","price":"Rs.90.75"}
+{"_id":{"$oid":"5b58380fd51d295edec8831c"},"name":"FERISE 2.5mg Injection 2.5ml","composition":"Ferrous Sulphate 2.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.116.18"}
+{"_id":{"$oid":"5b583812d51d295edec8831d"},"name":"FERISIS Capsule 15's","composition":"Carbonyl Iron 50mg+Ascorbic Acid 75mg+Folic Acid 1mg+Beta Carotene 5.17mg+Vitamin E Acetate 15IU+Thiamine Hydrochloride 4.5mg+ Riboflavine 5mg+Pyridoxine Hydrochloride 1.5mg+Cyanocobalamin 7.5mcg+Selenium 82mcg+Zinc Oxide 19mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.64.00"}
+{"_id":{"$oid":"5b583814d51d295edec8831e"},"name":"FERITONE Drops 15ml","composition":"Iron Ferrous 50mg","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.34.00"}
+{"_id":{"$oid":"5b583816d51d295edec8831f"},"name":"FERITONE Capsule 10's","composition":"Iron Polymaltose Complex ","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b583817d51d295edec88320"},"name":"FERITONE Syrup 150ml","composition":"Iron Ferrous ","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b583819d51d295edec88321"},"name":"FERIUM Syrup 150ml","composition":"Iron (III) Hydroxide Polymaltose Complex 50mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.141.65"}
+{"_id":{"$oid":"5b58381bd51d295edec88322"},"name":"FERIUM Drops 15ml","composition":"Elemental Iron 50mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.44.05"}
+{"_id":{"$oid":"5b58381dd51d295edec88323"},"name":"FERIUM CHEW 50mg Tablet 10's","composition":"Elemental Iron 100mg+Folic Acid 350mcg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.100.80"}
+{"_id":{"$oid":"5b58381fd51d295edec88324"},"name":"FERIUM XT Drops 15ml","composition":"Ferrous Ascorbate","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.85.45"}
+{"_id":{"$oid":"5b583821d51d295edec88325"},"name":"FERIUM D3 Tablet 10's","composition":"Cholecalciferol+Cyanocobalamin+Folic Acid+Iron+Pyridoxine","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.131.35"}
+{"_id":{"$oid":"5b583823d51d295edec88326"},"name":"FERIUM Injection 10ml","composition":"Elemental Iron 500mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.2,446.00"}
+{"_id":{"$oid":"5b583824d51d295edec88327"},"name":"FERIUM XT Suspension 150ml","composition":"Folic Acid+ Iron (III) Hydroxide Polymaltose Complex","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b583826d51d295edec88328"},"name":"FERIUM 100mg Chew Tablet 10's","composition":"Folic Acid 350mcg+Iron(III) Hydroxide Polymaltose Complex 100mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.110.75"}
+{"_id":{"$oid":"5b583828d51d295edec88329"},"name":"FERIUM XT Tablet 10's","composition":"Folic Acid+ Iron (III) Hydroxide Polymaltose Complex","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.118.25"}
+{"_id":{"$oid":"5b58382ad51d295edec8832a"},"name":"FERIVATE DROPS 15ml","composition":"Ferrous Ascorbate 30mg+Folic Acid 500Mcg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.15.62"}
+{"_id":{"$oid":"5b58382cd51d295edec8832b"},"name":"FERIZAC Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid+Zinc","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b58382dd51d295edec8832c"},"name":"FERMAX Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Esmatrix Life Sciences Pvt Ltd","price":"Rs.90.50"}
+{"_id":{"$oid":"5b58382fd51d295edec8832d"},"name":"FERMUS XT Tablet 10's","composition":"Ferrous+Folic","manufacturer":"Primus Remedies Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b583831d51d295edec8832e"},"name":"FEROBIN XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Others","price":"Rs.71.43"}
+{"_id":{"$oid":"5b583833d51d295edec8832f"},"name":"FEROCAD XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b583835d51d295edec88330"},"name":"FEROGLOBIN B12 Syrup 200ml","composition":"Cyanocobalamin+Ferrous Fumarate+Folic Acid+Zinc","manufacturer":"Meyer Organics Ltd","price":"Rs.112.00"}
+{"_id":{"$oid":"5b583837d51d295edec88331"},"name":"FEROGLOBIN B12 Capsule 15's","composition":"Cyanocobalamin+Ferrous Fumarate+Folic Acid+Zinc","manufacturer":"Meyer Organics Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b583839d51d295edec88332"},"name":"FEROJECT 100mg Injection 5ml","composition":"Elemental Iron 100mg","manufacturer":"Wockhardt Ltd","price":"Rs.234.82"}
+{"_id":{"$oid":"5b58383bd51d295edec88333"},"name":"FEROJECT 200mg Injection 10ml","composition":"Elemental Iron 200mg","manufacturer":"Wockhardt Ltd","price":"Rs.206.25"}
+{"_id":{"$oid":"5b58383cd51d295edec88334"},"name":"FEROLUV XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Unichem Laboratories Ltd","price":"Rs.82.85"}
+{"_id":{"$oid":"5b58383ed51d295edec88335"},"name":"FEROMEGA PLUS Capsule 10's","composition":"Sodium Feredetate 231mg+Folic Acid 1.5mg+Vitamin B12 15mcg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.74.90"}
+{"_id":{"$oid":"5b583840d51d295edec88336"},"name":"FERONEX Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Inex Medicaments Pvt Ltd","price":"Rs.93.00"}
+{"_id":{"$oid":"5b583842d51d295edec88337"},"name":"FERONIA XT Tablet 10's","composition":"Ferrous Sulphate +Folic Acid","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.123.60"}
+{"_id":{"$oid":"5b583844d51d295edec88338"},"name":"FERONIA XT Suspension 150ml","composition":"Ferrous Sulphate +Folic Acid","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.140.80"}
+{"_id":{"$oid":"5b583845d51d295edec88339"},"name":"FERONIA D3 Tablet 10's","composition":"Cyanocobalamin(Vit B12)+Ferrous Ascorbate+Folic Acid+Pyridoxine+Cholecalciferol","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.114.20"}
+{"_id":{"$oid":"5b583846d51d295edec8833a"},"name":"FERONIA HP Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.1mg+Zinc 22.5mg+Mecobalamin (Methylcobalamin) 1.5mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.122.20"}
+{"_id":{"$oid":"5b583848d51d295edec8833b"},"name":"FERONIA XT Drops Oral Drop 15ml","composition":"Folic Acid 100mg+Ferrous Ascorbate 10mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.77.75"}
+{"_id":{"$oid":"5b58384ad51d295edec8833c"},"name":"FEROSE Tablet 15's","composition":"Cyanocobalamin+Folic Acid+Iron+Zinc","manufacturer":"Cosme Farma Laboratories Ltd","price":"Rs.112.61"}
+{"_id":{"$oid":"5b58384cd51d295edec8833d"},"name":"FEROSE XT Tablet 15's","composition":"Cyanocobalamin+Folic Acid+Iron+Zinc","manufacturer":"Cosme Farma Laboratories Ltd","price":"Rs.142.40"}
+{"_id":{"$oid":"5b58384ed51d295edec8833e"},"name":"FEROSE Syrup 150ml","composition":"FERROUS BISGLYCINATE 15MG+FOLIC ACID 0.25MG+VITAMIN B12 3.75MCG+ZINC 5.5MG","manufacturer":"Oaknet Healthcare Pvt Ltd","price":"Rs.108.67"}
+{"_id":{"$oid":"5b583850d51d295edec8833f"},"name":"FEROSIG DROPS 15ml","composition":"Ferrous Ascorbate 10mg+Folic Acid 100Mcg","manufacturer":"Signova Pharma Pvt Ltd","price":"Rs.52.37"}
+{"_id":{"$oid":"5b583852d51d295edec88340"},"name":"FEROSUC Injection 5ml","composition":"Iron Ferrous Sucrose Complex ","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.265.00"}
+{"_id":{"$oid":"5b583854d51d295edec88341"},"name":"FEROTEX FA PLUS Tablet 10's","composition":"Cyanocobalamin+Ferrous Ascorbate+Folic Acid","manufacturer":"Zee Laboratories Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b583856d51d295edec88342"},"name":"FEROTEX Syrup 200ml","composition":"Cyanocobalamin+Folic Acid+Iron+Zinc","manufacturer":"Zee Laboratories Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b583858d51d295edec88343"},"name":"FEROTEX Capsule 15's","composition":"Cyanocobalamin+Folic Acid+Iron+Zinc","manufacturer":"Zee Laboratories Ltd","price":"Rs.97.50"}
+{"_id":{"$oid":"5b583859d51d295edec88344"},"name":"FEROX XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Micro Labs Ltd","price":"Rs.91.00"}
+{"_id":{"$oid":"5b58385ad51d295edec88345"},"name":"FEROX XT Suspension 200ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Micro Labs Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b58385cd51d295edec88346"},"name":"FEROX XT Tablet 6's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Micro Labs Ltd","price":"Rs.91.00"}
+{"_id":{"$oid":"5b58385ed51d295edec88347"},"name":"FERRI 100mg Injection 5ml","composition":"Iron Dextran 100mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.273.10"}
+{"_id":{"$oid":"5b583860d51d295edec88348"},"name":"FERRI 50mg Injection 2.5ml","composition":"Iron Dextran 50mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.130.90"}
+{"_id":{"$oid":"5b583862d51d295edec88349"},"name":"FERRIN 20mg Injection 5ml","composition":"Ferrous Sulphate 20mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b583864d51d295edec8834a"},"name":"FERROCHELATE Drops 15ml","composition":"Cyanocobalamin+Folic Acid+Iron+Lysine","manufacturer":"Albert David Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b583868d51d295edec8834b"},"name":"FERROCHELATE XT Tablet 10's","composition":"FERROUS ASCORBATE 100MG+FOLIC ACID 1.5MG","manufacturer":"Albert David Ltd","price":"Rs.76.75"}
+{"_id":{"$oid":"5b58386ad51d295edec8834c"},"name":"FERROCYTE XT Tablet 10's","composition":"Elemental Iron 100mg+Folic Acid 1.5mg+Zinc Sulphate 22.5mg","manufacturer":"Maxell Pharma Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b58386cd51d295edec8834d"},"name":"FERROHEXT Tablet 10's","composition":"Ferrous+Folic Acid+Mecobalamin (Methylcobalamin)+Zinc","manufacturer":"Sanofi India Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b58386dd51d295edec8834e"},"name":"FERRONINE 60mg Tablet 30's","composition":"Ferrous Bisglycinate 60mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b58386fd51d295edec8834f"},"name":"FERRONINE 30mg Tablet 30's","composition":"Ferrous Bisglycinate 30mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.161.60"}
+{"_id":{"$oid":"5b583870d51d295edec88350"},"name":"FERRONINE 60mg Tablet 15's","composition":"Ferrous Bisglycinate 60mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.151.25"}
+{"_id":{"$oid":"5b583872d51d295edec88351"},"name":"FERYWEL Tablet 10's","composition":"Sodium Feredetate 700mg+Zinc Sulphate 61.8mg+Folic Acid 1.5mg+Vitamin B12 15mcg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b583874d51d295edec88352"},"name":"FESHINE Tablet 10's","composition":"Elemental Iron 100mg+Folic Acid 1mg+Cyanocobalamin 7.5mcg+Cholecalciferol 1000IU","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b583876d51d295edec88353"},"name":"FESOVIT Syrup 60ml","composition":"Ferrous Fumarate100mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.13.21"}
+{"_id":{"$oid":"5b583878d51d295edec88354"},"name":"FESOVIT SPANSULE Capsule 30's","composition":"Iron+Vitamin B Complex","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.141.65"}
+{"_id":{"$oid":"5b58387ad51d295edec88355"},"name":"FESOVIT Elixir 100ml","composition":"Ferrous Fumarate100mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.14.16"}
+{"_id":{"$oid":"5b58387cd51d295edec88356"},"name":"FETUZ Capsule 15's","composition":"Carbonyl Iron+Folic Acid","manufacturer":"Novo Nordisk India Pvt Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b58387ed51d295edec88357"},"name":"FEVIMAX Z Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg+Zinc Sulphate 22.5mg","manufacturer":"Saffron Therapeutics Pvt Ltd","price":"Rs.74.00"}
+{"_id":{"$oid":"5b58387fd51d295edec88358"},"name":"FEXID XT Tablet 15's","composition":"Cyanocobalamin 0+Ferrous 0+Folic Acid 0+Pyridoxine 0","manufacturer":"Overseas Healthcare Pvt Ltd","price":"Rs.138.00"}
+{"_id":{"$oid":"5b583882d51d295edec88359"},"name":"FLARISH Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid","manufacturer":"Molekule India Pvt Ltd","price":"Rs.77.13"}
+{"_id":{"$oid":"5b583883d51d295edec8835a"},"name":"FOLINAL 5mg Tablet 30's","composition":"Folic Acid 5mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.45.80"}
+{"_id":{"$oid":"5b583886d51d295edec8835b"},"name":"FOLINAL PLUS Syrup 150ml","composition":"Ferrous Fumarate100mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.55.61"}
+{"_id":{"$oid":"5b583886d51d295edec8835c"},"name":"FOLINAL PLUS Syrup 300ml","composition":"Ferrous Fumarate100mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b583887d51d295edec8835d"},"name":"FOLININE PLUS Tablet 15's","composition":"Ferrous Asparto Glycinate+L Methylfolate+Mecobalamin (Methylcobalamin)","manufacturer":"Wanbury Ltd","price":"Rs.253.50"}
+{"_id":{"$oid":"5b583889d51d295edec8835e"},"name":"FOLIWOCK 5mg Tablet 30's","composition":"Folic Acid 5mg","manufacturer":"Wockhardt Ltd","price":"Rs.38.90"}
+{"_id":{"$oid":"5b58388bd51d295edec8835f"},"name":"FOLLY 5mg Tablet 10's","composition":"Folic Acid 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.2.38"}
+{"_id":{"$oid":"5b58388dd51d295edec88360"},"name":"FOLVITE 5mg Tablet 30's","composition":"Folic Acid 5mg","manufacturer":"Pfizer Limited","price":"Rs.36.58"}
+{"_id":{"$oid":"5b58388fd51d295edec88361"},"name":"FREYA SUSPENSION 150ml","composition":"FERROUS ASCORBATE 30MG+FOLIC ACID 550MCG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.95.23"}
+{"_id":{"$oid":"5b583891d51d295edec88362"},"name":"FREYA TABLET 10'S","composition":"FERROUS ASCORBATE 100MG+FOLIC ACID 1.5MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b583893d51d295edec88363"},"name":"FREZCON Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.97.50"}
+{"_id":{"$oid":"5b583894d51d295edec88364"},"name":"FREZCON Suspension 200ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.145.50"}
+{"_id":{"$oid":"5b583896d51d295edec88365"},"name":"FRUITOBIN Syrup 200ml","composition":"Iron+Niacinamide+Protein Hydrolysate","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.81.50"}
+{"_id":{"$oid":"5b583898d51d295edec88366"},"name":"FUL AID FE Syrup 200ml","composition":"Ferrous Fumarate100mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.42.00"}
+{"_id":{"$oid":"5b58389ad51d295edec88367"},"name":"FUL AID FE Tablet 12's","composition":"Iron Polymaltose Complex ","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.23.88"}
+{"_id":{"$oid":"5b58389cd51d295edec88368"},"name":"FUR XT Tablet 10's","composition":"Ferrous+Folic","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.102.00"}
+{"_id":{"$oid":"5b58389dd51d295edec88369"},"name":"FUR ZIP Tablet 10's","composition":"Ferrous Fumarate 300mg+Folic Acid 15mg+Cyanocobalamin(Vit B12) 5mcg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.33.00"}
+{"_id":{"$oid":"5b58389fd51d295edec8836a"},"name":"GEFER FORTE Injection 5ml","composition":"Elemental Iron 20mg/ml","manufacturer":"Strides Shasun Ltd","price":"Rs.280.00"}
+{"_id":{"$oid":"5b5838a3d51d295edec8836b"},"name":"GEFER XT 10S","composition":"Otc","manufacturer":"Strides Shasun Ltd","price":"Rs.83.50"}
+{"_id":{"$oid":"5b5838a5d51d295edec8836c"},"name":"GEROZ O Tablet 10's","composition":"Iron+Minerals+Vitamins","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5838a7d51d295edec8836d"},"name":"GLENTONA Syrup 200ml","composition":"Ferric Ammonium Citrate+Cyanocobalamin+Folic Acid ","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.31.62"}
+{"_id":{"$oid":"5b5838a9d51d295edec8836e"},"name":"GLENTONA PLUS Syrup 200ml","composition":"Ferrous Fumarate100mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b5838aad51d295edec8836f"},"name":"GLOBAC XT Tablet 15's","composition":"Ferrous+Folic Acid+Mecobalamin (Methylcobalamin)+Zinc","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.167.30"}
+{"_id":{"$oid":"5b5838add51d295edec88370"},"name":"GLOBAC SAFE 20mg/1ml Injection 2.5ml","composition":"Ferrous Sulphate 20mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.147.11"}
+{"_id":{"$oid":"5b5838afd51d295edec88371"},"name":"GLOBAC SAFE 50mg Injection 2.5ml","composition":"Ferrous Sulphate 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.836.70"}
+{"_id":{"$oid":"5b5838b0d51d295edec88372"},"name":"GLOBAC SAFE Injection 2.5ml","composition":"Ferrous Sulphate 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.141.58"}
+{"_id":{"$oid":"5b5838b2d51d295edec88373"},"name":"GLOBAC Z Capsule 60's","composition":"Ferrous Fumarate100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.80.95"}
+{"_id":{"$oid":"5b5838b4d51d295edec88374"},"name":"GLOHEM Syrup 200ml","composition":"Ammonium+Cyanocobalamin+Folic Acid+Iron","manufacturer":"Medispan Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b5838b6d51d295edec88375"},"name":"GLOHEM TR Capsule 15's","composition":"Cyanocobalamin+Ferrous Fumarate+Folic Acid+Zinc","manufacturer":"Medispan Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b5838b6d51d295edec88376"},"name":"GRACIFER Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Others","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5838b8d51d295edec88377"},"name":"GYNAE CVP Capsule 10's","composition":"Ascorbic Acid+Calcium Lactate+Citrus Bioflavonoids+Ferrous Gluconate+Menadione","manufacturer":"Usv Private Ltd","price":"Rs.33.00"}
+{"_id":{"$oid":"5b5838bad51d295edec88378"},"name":"HADID XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Lloyd Healthcare Pvt Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b5838bbd51d295edec88379"},"name":"HAEM UP GEMS Capsule 30's","composition":"Iron","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.124.00"}
+{"_id":{"$oid":"5b5838bcd51d295edec8837a"},"name":"HAEM UP Injection 2.5ml","composition":"Iron Sucrose","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.145.10"}
+{"_id":{"$oid":"5b5838bed51d295edec8837b"},"name":"HAEM UP Liquid 200ml","composition":"Folic Acid+Iron+Minerals","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b5838c0d51d295edec8837c"},"name":"HAEM UP C Tablet 10's","composition":"Folic Acid+Iron+ Zinc","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.90.50"}
+{"_id":{"$oid":"5b5838c2d51d295edec8837d"},"name":"HAEM UP FAST Syrup 150ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.103.80"}
+{"_id":{"$oid":"5b5838c4d51d295edec8837e"},"name":"HAEM UP Injection 5ml","composition":"Iron Sucrose","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.273.11"}
+{"_id":{"$oid":"5b5838c6d51d295edec8837f"},"name":"HAEMAZE FORTE Capsule 10's","composition":"Carbonyl Iron 100mg+Zinc 22.5mg+Folic Acid 1.5mg+Vitamin C 100mcg+Cyanocobalamin 15mcg","manufacturer":"Vhb Pharma Pvt Ltd","price":"Rs.265.00"}
+{"_id":{"$oid":"5b5838c8d51d295edec88380"},"name":"HB 4 Tablet 10's","composition":"Adenosylcobalamin+Carbonyl Iron+Folic Acid+Zinc","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.95.80"}
+{"_id":{"$oid":"5b5838c8d51d295edec88381"},"name":"HB PLUS Tablet 10's","composition":"Ferrous Fumarate 350mg+Folic Acid 1.5mg+Vitamin C 150mg+Vitamin B12 15mcg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5838cad51d295edec88382"},"name":"HB PLUS Syrup 200ml","composition":"Ferrous Fumarate100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b5838ccd51d295edec88383"},"name":"HB RED Suspension 150ml","composition":"Elemental Iron 0+Folic Acid 0","manufacturer":"Hibiscus Pharmaceuticals Pvt Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b5838cfd51d295edec88384"},"name":"HB RICH Syrup 200ml","composition":"CYANOCOBALAMIN(VIT B12)+FERRIC AMMONIUM CITRATE+FOLIC ACID","manufacturer":"Wockhardt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5838d0d51d295edec88385"},"name":"HB SET Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Cipla Ltd","price":"Rs.101.50"}
+{"_id":{"$oid":"5b5838d4d51d295edec88386"},"name":"HB TONE Syrup 200ml","composition":"Carbonyl Iron+Folic Acid+Vitamins+Zinc","manufacturer":"Cassel Research Laboratories Pvt Ltd","price":"Rs.119.70"}
+{"_id":{"$oid":"5b5838d6d51d295edec88387"},"name":"HEMACT Syrup 200ml","composition":"Cyanocobalamin 7.5mcg+Ferric Ammonium Citrate 160mg+Folic Acid 0.5mg","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b5838d8d51d295edec88388"},"name":"HEMFER Syrup 225ml","composition":"Cyanocobalamin+Ferrous Bisglycinate+Folic Acid+Zinc","manufacturer":"Alkem Laboratories Ltd","price":"Rs.102.00"}
+{"_id":{"$oid":"5b5838dad51d295edec88389"},"name":"HEMFER Capsule 30's","composition":"Cyanocobalamin+Elemental Iron+Elemental Zinc+Folic Acid","manufacturer":"Alkem Laboratories Ltd","price":"Rs.95.50"}
+{"_id":{"$oid":"5b5838dcd51d295edec8838a"},"name":"HEMFER Drops 15ml","composition":"CYANOCOBALAMIN 1.5MCG+FOLIC ACID 100MCG+IRON 10MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.62.50"}
+{"_id":{"$oid":"5b5838ddd51d295edec8838b"},"name":"HEMFER 50/0.5mg Syrup 200ml","composition":"Ferrous Sulphate50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b5838e0d51d295edec8838c"},"name":"HEMFER Injection 5ml","composition":"Iron Sucrose 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.239.92"}
+{"_id":{"$oid":"5b5838e1d51d295edec8838d"},"name":"HEMFER XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Alkem Laboratories Ltd","price":"Rs.101.50"}
+{"_id":{"$oid":"5b5838e3d51d295edec8838e"},"name":"HEMFER 2G TABLET 2'S","composition":"FERROUS ASCORBATE 100MG+FOLIC ACID 1.5MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.12.48"}
+{"_id":{"$oid":"5b5838e5d51d295edec8838f"},"name":"HEMOBEST XT Suspension 150ml","composition":"CYANOCOBALAMIN 5MCG+FOLIC ACID 0.5MG+ELEMENTAL IRON 33MG+ELEMENTAL ZINC 7.5MG","manufacturer":"Ttk Healthcare Ltd","price":"Rs.128.00"}
+{"_id":{"$oid":"5b5838e6d51d295edec88390"},"name":"HEMOCARE XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Mmc Health Care Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5838e8d51d295edec88391"},"name":"HEMOCARE Syrup 300ml","composition":"Copper+Ferrous Sulphate+Manganese","manufacturer":"Mmc Health Care Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b5838ead51d295edec88392"},"name":"HEMOCARE Capsule 10's","composition":"Copper+Ferrous Sulphate+Manganese","manufacturer":"Mmc Health Care Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b5838ecd51d295edec88393"},"name":"HEMOGOLD CAPSULE 10'S","composition":"Carbonyl Iron+Folic Acid","manufacturer":"Group Pharmaceuticals Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b5838eed51d295edec88394"},"name":"HEMOPLUS Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Torque Pharmaceuticals Pvt Ltd","price":"Rs.31.25"}
+{"_id":{"$oid":"5b5838f0d51d295edec88395"},"name":"HEMSI Syrup 200ml","composition":"Amino Acid+Iron+Vitamins+Zinc","manufacturer":"Serum Institute Of India Ltd","price":"Rs.104.60"}
+{"_id":{"$oid":"5b5838f2d51d295edec88396"},"name":"HEMSI Capsule 15's","composition":"Amino Acid+Iron+Vitamins+Zinc","manufacturer":"Serum Institute Of India Ltd","price":"Rs.47.80"}
+{"_id":{"$oid":"5b5838f3d51d295edec88397"},"name":"HEMSI Drops 15ml","composition":"Amino Acid+Iron+Vitamins+Zinc","manufacturer":"Serum Institute Of India Ltd","price":"Rs.48.90"}
+{"_id":{"$oid":"5b5838f7d51d295edec88398"},"name":"HEMSI PD Drops 15ml","composition":"Ferrous Ammonium Citrate+Folic Acid+Vitamin B12+Vitamin B6","manufacturer":"Serum Institute Of India Ltd","price":"Rs.48.90"}
+{"_id":{"$oid":"5b5838f9d51d295edec88399"},"name":"HEPAFOLIN Syrup 300ml","composition":"Iron+Cyanocobalamin+Folic Acid ","manufacturer":"Cipla Ltd","price":"Rs.59.45"}
+{"_id":{"$oid":"5b5838fbd51d295edec8839a"},"name":"HEPATOGLOBINE Capsule 30's","composition":"Folic Acid+Iron+Proteins","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5838fdd51d295edec8839b"},"name":"HEPATOGLOBINE Syrup 300ml","composition":"Folic Acid+Iron+Proteins","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.191.00"}
+{"_id":{"$oid":"5b5838ffd51d295edec8839c"},"name":"HEPATOGLOBINE Drops 15ml","composition":"Folic Acid+Iron+Proteins","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.78.50"}
+{"_id":{"$oid":"5b583901d51d295edec8839d"},"name":"HEPATOGLOBINE FORTE Syrup 300ml","composition":"Folic Acid+Iron+Proteins","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.169.00"}
+{"_id":{"$oid":"5b583903d51d295edec8839e"},"name":"HEPATOGLOBINE MIKROS Syrup 100ml","composition":"Folic Acid 0+Iron 0","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b583905d51d295edec8839f"},"name":"HEPATOGLOBINE XP Tablet 10's","composition":"Cyanocobalamin (Vitamin B12)+Folic Acid+Elemental Iron","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b583906d51d295edec883a0"},"name":"HEPOFER Syrup 300ml","composition":"Iron","manufacturer":"Cipla Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b583908d51d295edec883a1"},"name":"HERFEM Tablet 10's","composition":"FOLIC ACID 1.5MG+IRON 100MG+ZINC 22.5MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.64.70"}
+{"_id":{"$oid":"5b58390ad51d295edec883a2"},"name":"HERFEM PLUS Tablet 10's","composition":"Ferrous+Folic Acid+Mecobalamin (Methylcobalamin)+Zinc","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.142.90"}
+{"_id":{"$oid":"5b58390cd51d295edec883a3"},"name":"HERFEM S 100mg Injection 5ml","composition":"Iron Sucrose 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.1,378.20"}
+{"_id":{"$oid":"5b58390ed51d295edec883a4"},"name":"HIFE XT Tablet 10's","composition":"FERROUS ASCORBATE 100MG+FOLIC ACID 1.5MG","manufacturer":"Galpha Laboratories Ltd","price":"Rs.107.20"}
+{"_id":{"$oid":"5b583910d51d295edec883a5"},"name":"HIFE XT Syrup 200ml","composition":"Ferrous Ascorbate 30mg+Folic Acid 550Mcg","manufacturer":"Galpha Laboratories Ltd","price":"Rs.45.72"}
+{"_id":{"$oid":"5b583912d51d295edec883a6"},"name":"HIFE XT Suspension 150ml","composition":"Ferrous Ascorbate 30mg+Folic Acid 550Mcg","manufacturer":"Galpha Laboratories Ltd","price":"Rs.154.00"}
+{"_id":{"$oid":"5b583914d51d295edec883a7"},"name":"HUNEMIA Tablet 10's","composition":"Ferrous+Folic Acid+Mecobalamin (Methylcobalamin)+Zinc","manufacturer":"Abn Drugs","price":"Rs.99.00"}
+{"_id":{"$oid":"5b583916d51d295edec883a8"},"name":"HUNTRED Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Akesiss Pharma Pvt Ltd","price":"Rs.53.00"}
+{"_id":{"$oid":"5b583918d51d295edec883a9"},"name":"HUNTRED Z Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid+Zinc","manufacturer":"Akesiss Pharma Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b58391ad51d295edec883aa"},"name":"I FAG Syrup 150ml","composition":"Ferrous Asparto Glycinate+L-Methylfolate+Mecobalamin (Methylcobalamin)","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b58391bd51d295edec883ab"},"name":"I FAG Tablet 10's","composition":"Ferrous Asparto Glycinate+L Methylfolate+Mecobalamin (Methylcobalamin)","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b58391dd51d295edec883ac"},"name":"I KEY 100mg Injection 5ml","composition":"Iron Sucrose 100mg","manufacturer":"Serum Institute Of India Ltd","price":"Rs.184.65"}
+{"_id":{"$oid":"5b58391ed51d295edec883ad"},"name":"I UP Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Cachet Pharmaceuticals Pvt Ltd","price":"Rs.96.71"}
+{"_id":{"$oid":"5b583920d51d295edec883ae"},"name":"I UP Injection 5ml","composition":"Iron Sucrose","manufacturer":"Cachet Pharmaceuticals Pvt Ltd","price":"Rs.186.92"}
+{"_id":{"$oid":"5b583922d51d295edec883af"},"name":"I UP Suspension 150ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Cachet Pharmaceuticals Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b583924d51d295edec883b0"},"name":"I UP Drops 15ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Cachet Pharmaceuticals Pvt Ltd","price":"Rs.115.45"}
+{"_id":{"$oid":"5b583925d51d295edec883b1"},"name":"IFER Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Bal Pharma Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b583927d51d295edec883b2"},"name":"IFER Suspension 150ml","composition":"Ferrous Ascorbate 30mg+Folic Acid 550Mcg","manufacturer":"Bal Pharma Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b583929d51d295edec883b3"},"name":"IMAX 100mg Capsule 15's","composition":"Elemental Iron 100mg+Folic Acid 1.5mg+Vitamin B12 15mcg+Vitamin C 75mg+Zinc Sulphate 61.8mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.50.80"}
+{"_id":{"$oid":"5b58392bd51d295edec883b4"},"name":"IMAX XT Suspension 150ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b58392dd51d295edec883b5"},"name":"IMAX S Injection 5ml","composition":"Iron Sucrose 100mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.219.20"}
+{"_id":{"$oid":"5b58392fd51d295edec883b6"},"name":"IMAX 60mg Capsule 15's","composition":"Elemental Iron 60mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.57.50"}
+{"_id":{"$oid":"5b583932d51d295edec883b7"},"name":"IMAX FORTE Capsule 10's","composition":"Adenosylcobalamin+Carbonyl Iron+Folic Acid+Zinc","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.77.50"}
+{"_id":{"$oid":"5b583934d51d295edec883b8"},"name":"IMAX XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b583936d51d295edec883b9"},"name":"IMAX PLUS 100mg Capsule 15's","composition":"Non Hemoglobin 100mg+Zinc ","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.55.81"}
+{"_id":{"$oid":"5b583938d51d295edec883ba"},"name":"IMAX PLUS 60mg Capsule 15's","composition":"Non Hemoglobin 60mg+Zinc ","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.48.32"}
+{"_id":{"$oid":"5b583939d51d295edec883bb"},"name":"IMFERON Injection 2ml","composition":"Iron Dextran 50mg","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.32.83"}
+{"_id":{"$oid":"5b58393bd51d295edec883bc"},"name":"IMFERON Injection 10ml","composition":"Iron Dextran","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.112.40"}
+{"_id":{"$oid":"5b58393dd51d295edec883bd"},"name":"IMFERON Suspension 200ml","composition":"Folic Acid+Iron","manufacturer":"Shreya Life Sciences Pvt Ltd","price":"Rs.160.28"}
+{"_id":{"$oid":"5b58393fd51d295edec883be"},"name":"INJECTOFER 50mg Injection 1ml","composition":"Iron Sorbitol Citric Acid 50mg+Folic Acid 500mcg+Hydroxocobalamin 50mcg","manufacturer":"Konverge Healthcare Pvt Ltd","price":"Rs.36.50"}
+{"_id":{"$oid":"5b583940d51d295edec883bf"},"name":"INJECTOFER 50mg Injection 5X1.5ml","composition":"Iron Sorbitol Citric Acid 50mg+Folic Acid 500mcg+Hydroxocobalamin 50mcg","manufacturer":"Konverge Healthcare Pvt Ltd","price":"Rs.182.50"}
+{"_id":{"$oid":"5b583942d51d295edec883c0"},"name":"IRENTIA Tablet 10's","composition":"Ferrous+Folic Acid+Mecobalamin (Methylcobalamin)+Zinc","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b583944d51d295edec883c1"},"name":"IRENTIA Suspension 150ml","composition":"Ferrous+Folic Acid+Mecobalamin (Methylcobalamin)+Zinc","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.109.05"}
+{"_id":{"$oid":"5b583946d51d295edec883c2"},"name":"IREX 12 Syrup 200ml","composition":"Ferrous Fumarate+Folic Acid+Vitamins","manufacturer":"Micro Labs Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b583948d51d295edec883c3"},"name":"IROFOL AZ Capsule 15's","composition":"Adenosylcobalamin+Carbonyl Iron+Folic Acid+Zinc","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b58394ad51d295edec883c4"},"name":"IRONEE Syrup 200ml","composition":"Ferrous Sulphate 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.26.25"}
+{"_id":{"$oid":"5b58394dd51d295edec883c5"},"name":"IRONEE Tablet 10's","composition":"Ferrous Sulphate 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.10.82"}
+{"_id":{"$oid":"5b58394fd51d295edec883c6"},"name":"IRONEE Z Capsule 15's","composition":"Ferrous Sulphate 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.10.93"}
+{"_id":{"$oid":"5b583951d51d295edec883c7"},"name":"IRONJET 12 mg Tablet 10's","composition":"Elemental Iron 12mg+ L Methyl Folate 200mcg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.174.00"}
+{"_id":{"$oid":"5b583953d51d295edec883c8"},"name":"IRORICH Capsule 10's","composition":"FERROUS ASCORBATE 100MG+FOLIC ACID 1.5MG ","manufacturer":"Lupin Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b583956d51d295edec883c9"},"name":"IROSOL Tablet 10's","composition":"Ferrous Ascorbate 725mg+Folic Acid 1.5mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.75.89"}
+{"_id":{"$oid":"5b583958d51d295edec883ca"},"name":"IROZORB Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.108.70"}
+{"_id":{"$oid":"5b58395ad51d295edec883cb"},"name":"IROZORB S Injection 2.5ml","composition":"Iron Ferrous Sucrose Complex ","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.142.00"}
+{"_id":{"$oid":"5b58395bd51d295edec883cc"},"name":"ISOFER 100mg/ml Injection 5ml","composition":"Iron Isomaltoside","manufacturer":"Lupin Ltd","price":"Rs.2,900.00"}
+{"_id":{"$oid":"5b58395dd51d295edec883cd"},"name":"ISURGE Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Vasu Organics Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b58395fd51d295edec883ce"},"name":"IVCROS 100mg Injection 5ml","composition":"IRON SUCROSE 100MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.261.00"}
+{"_id":{"$oid":"5b583961d51d295edec883cf"},"name":"JECTOCOS PLUS Injection 1.5ml","composition":"Cyanocobalamin(Vit B12)+Folic Acid+Iron","manufacturer":"Oaknet Healthcare Pvt Ltd","price":"Rs.47.81"}
+{"_id":{"$oid":"5b583963d51d295edec883d0"},"name":"JUENE Tablet 10's","composition":"Biotin 5mg+Calcium Pantothenate 0.9mg+Elemental Iron 30mg+Elemental Zinc 15mg+Folic Acid 44mcg+Niacin 13mg+Selenium 166.5mcg+Tocotrienol 15mg","manufacturer":"Adroit Healthcare Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b583965d51d295edec883d1"},"name":"KIDICARE PLUS Syrup 200ml","composition":"Iron+Minerals+Vitamins","manufacturer":"Meyer Organics Ltd","price":"Rs.136.00"}
+{"_id":{"$oid":"5b583967d51d295edec883d2"},"name":"KIDICARE D Syrup 200ml","composition":"Iron+Minerals+Vitamins","manufacturer":"Meyer Organics Ltd","price":"Rs.137.00"}
+{"_id":{"$oid":"5b583969d51d295edec883d3"},"name":"LAMINO DIALYSIS BIX Biscuit","composition":"Cyanocobalamin(Vit B12) 200mg+Fat 15gm+Folic Acid 0.25mg+Iron 2mg+Potassium 131mg+Pyridoxine(Vit B6) 2.3mcg+Riboflavin(Vit B2) 0.64mg+Thiamine(Vit B1) 0.56mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.298.00"}
+{"_id":{"$oid":"5b58396bd51d295edec883d4"},"name":"LIVOGEN Tonic 150ml","composition":"Ferrous Ascorbate 30mg+Folic Acid 550mcg","manufacturer":"Merck Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b58396dd51d295edec883d5"},"name":"LIVOGEN Syrup 450ml","composition":"Ferrous Fumarate+Folic Acid+Pyridoxine","manufacturer":"Merck Ltd","price":"Rs.43.30"}
+{"_id":{"$oid":"5b58396ed51d295edec883d6"},"name":"LIVOGEN XT Tablet 10's","composition":"Ferrous Sulphate +Folic Acid","manufacturer":"Merck Ltd","price":"Rs.119.33"}
+{"_id":{"$oid":"5b583970d51d295edec883d7"},"name":"LIVOGEN Injection 5ml","composition":"Iron Sucrose 20mg","manufacturer":"Merck Ltd","price":"Rs.273.11"}
+{"_id":{"$oid":"5b583972d51d295edec883d8"},"name":"LIVOGEN CAPTAB Tablet 15's","composition":"Ferrous Fumarate+Folic Acid+Pyridoxine","manufacturer":"Merck Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b583974d51d295edec883d9"},"name":"LIVOGEN HEMTONIC Syrup 250ml","composition":"ELEMENTAL IRON 15MG+FOLIC ACID 250MCG","manufacturer":"Merck Ltd","price":"Rs.107.40"}
+{"_id":{"$oid":"5b583976d51d295edec883da"},"name":"LIVOGEN Z Captab 15's","composition":"FERROUS FUMARATE 0+FOLIC ACID 0+ZINC SULPHATE 0","manufacturer":"Merck Ltd","price":"Rs.55.83"}
+{"_id":{"$oid":"5b583978d51d295edec883db"},"name":"LOYFER XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Lloyd Healthcare Pvt Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b58397ad51d295edec883dc"},"name":"LUPIHEME 12mg Tablet 10's","composition":"Elemental Iron 12mg","manufacturer":"Lupin Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b58397cd51d295edec883dd"},"name":"LYCOGOLD Capsule 10's","composition":"Calcium+Iron+Vitamins","manufacturer":"Pharmed Limited","price":"Rs.164.00"}
+{"_id":{"$oid":"5b58397dd51d295edec883de"},"name":"MARVELLA Capsule 10's","composition":"Ferrous Asparto Glycinate+L Methylfolate+Mecobalamin (Methylcobalamin)","manufacturer":"Pharmanova Specialties Pvt Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b58397fd51d295edec883df"},"name":"MARVELLA Syrup 150ml","composition":"Ferrous Asparto Glycinate+L Methylfolate+Mecobalamin (Methylcobalamin)","manufacturer":"Pharmanova Specialties Pvt Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b583981d51d295edec883e0"},"name":"MASHYNE 1000 Tablet 10's","composition":"Cholecalciferol 1000IU+Ferrous Ascorbate 100mg+Folic Acid 1mg","manufacturer":"Usv Private Ltd","price":"Rs.110.50"}
+{"_id":{"$oid":"5b583983d51d295edec883e1"},"name":"MAXIFOL Z Capsule 15's","composition":"Ferrous Sulphate 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.10.71"}
+{"_id":{"$oid":"5b583984d51d295edec883e2"},"name":"MAXORANGE Syrup 200ml","composition":"Ferrous Sulphate 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.63.90"}
+{"_id":{"$oid":"5b583986d51d295edec883e3"},"name":"MICROFER Injection","composition":"Iron Sucrose 100mg","manufacturer":"Micro Labs Ltd","price":"Rs.264.00"}
+{"_id":{"$oid":"5b583988d51d295edec883e4"},"name":"MIM Syrup 200ml","composition":"Ferrous Sulphate 50mg","manufacturer":"Meyer Organics Ltd","price":"Rs.89.35"}
+{"_id":{"$oid":"5b58398ad51d295edec883e5"},"name":"MIMORANGE L Liquid 200ml","composition":"Iron+Minerals+Vitamins","manufacturer":"Meyer Organics Ltd","price":"Rs.121.50"}
+{"_id":{"$oid":"5b58398cd51d295edec883e6"},"name":"MINMIN XT Tablet 10's","composition":"ELEMENTAL IRON 100MG+ELEMENTAL ZINC 22.5MG+FOLIC ACID 1.1MG+MECOBALAMIN(METHYLCOBALAMIN) 1.5MG","manufacturer":"Others","price":"Rs.104.89"}
+{"_id":{"$oid":"5b58398dd51d295edec883e7"},"name":"MKFOL Capsule 15's","composition":"Ferrous Sulphate 50mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b58398fd51d295edec883e8"},"name":"MULTIVITE WOMAN Capsule 15's","composition":"Chloride+Citrus Bioflavonoids+Elemental Calcium+Elemental Copper+Elemental Iron+Elemental Magnesium+Elemental Selenium+Elemental Silicon+Elemental Zinc+Evening Primrose Oil+Gingko Biloba+Green Tea Powder+Iodine+Lycopene+Mixed Carotene+Molybdenum+Nickel+Ph","manufacturer":"Sanofi India Ltd","price":"Rs.217.00"}
+{"_id":{"$oid":"5b583991d51d295edec883e9"},"name":"MUMFER Tablet 30's","composition":"Iron Polymaltose Complex 500mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.177.75"}
+{"_id":{"$oid":"5b583992d51d295edec883ea"},"name":"MUMFER D3 Tablet 10's","composition":"Cholecalciferol+Cyanocobalamin+Folic Acid+Iron","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.129.50"}
+{"_id":{"$oid":"5b583996d51d295edec883eb"},"name":"MUMFER XT Tablet 15's","composition":"Folic Acid+Iron+ Zinc","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b583998d51d295edec883ec"},"name":"MUMFER 50mg Syrup 150ml","composition":"Ferrous Sulphate 50mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.95.80"}
+{"_id":{"$oid":"5b58399ad51d295edec883ed"},"name":"MUMFER 50mg Drops 15ml","composition":"Elemental Iron 50mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.45.02"}
+{"_id":{"$oid":"5b58399bd51d295edec883ee"},"name":"MUMFER 500mg Tablet 10's","composition":"Iron Polymaltose Complex 500mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.59.25"}
+{"_id":{"$oid":"5b58399ed51d295edec883ef"},"name":"MUMFER Syrup 150ml","composition":"Iron (III) Hydroxide Polymaltose Complex","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.95.80"}
+{"_id":{"$oid":"5b58399fd51d295edec883f0"},"name":"MUMFER F Oral Suspension 200ml","composition":"Ferrous Sulphate 50mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.51.03"}
+{"_id":{"$oid":"5b5839a1d51d295edec883f1"},"name":"MUMFER Z Capsule 10's","composition":"Iron Polymaltose Complex 500mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b5839a3d51d295edec883f2"},"name":"NEODEX Syrup 200ml","composition":"Cyanocobalamin(Vit B12) 7.5mcg+ Ferric Ammonium Citrate 160mg+Folic Acid 0.5mg","manufacturer":"Cipla Ltd","price":"Rs.27.50"}
+{"_id":{"$oid":"5b5839a5d51d295edec883f3"},"name":"NEUFER XT TABLET 10'S","composition":"FERROUS ASCORBATE 10MG+FOLIC ACID 0.1MG","manufacturer":"Embiotic Laboratories Pvt Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b5839a7d51d295edec883f4"},"name":"NEW FERIPRO Syrup 200ml","composition":"Iron 50mg+Folic Acid 0.5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.89.05"}
+{"_id":{"$oid":"5b5839a9d51d295edec883f5"},"name":"NICOFER XT Tablet 10's","composition":"Folic Acid+Iron+ Zinc","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.92.50"}
+{"_id":{"$oid":"5b5839aad51d295edec883f6"},"name":"NICOFER XT Tablet 7's","composition":"Folic Acid+Iron+ Zinc","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.84.50"}
+{"_id":{"$oid":"5b5839aed51d295edec883f7"},"name":"NICOFER Syrup 300ml","composition":"Cyanocobalamin(Vit B12)+Ferric Ammonium Citrate+Folic Acid","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.77.44"}
+{"_id":{"$oid":"5b5839b0d51d295edec883f8"},"name":"NID XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Vilberry Healthcare Pvt Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b5839b2d51d295edec883f9"},"name":"NUFER XT Syrup 150ml","composition":"Ferrous Ascorbate 30mg+Folic Acid 500Mcg","manufacturer":"Med Manor Organics Pvt Ltd","price":"Rs.81.73"}
+{"_id":{"$oid":"5b5839b4d51d295edec883fa"},"name":"NUROSTAR PLUS Capsule 6's","composition":"Ferrous Sulphate 50mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.68.55"}
+{"_id":{"$oid":"5b5839b6d51d295edec883fb"},"name":"NUROSTAR PLUS Capsule 10's","composition":"Ferrous Sulphate 50mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.32.50"}
+{"_id":{"$oid":"5b5839b9d51d295edec883fc"},"name":"OMNIM Syrup 100ml","composition":"Ferrous Sulphate 50mg","manufacturer":"Cipla Ltd","price":"Rs.57.07"}
+{"_id":{"$oid":"5b5839bbd51d295edec883fd"},"name":"OMNIM 200mg Tablet 10's","composition":"Iron 200mg+Folic Acid 1.5mg","manufacturer":"Cipla Ltd","price":"Rs.109.76"}
+{"_id":{"$oid":"5b5839bdd51d295edec883fe"},"name":"OMNIM Suspension 150ml","composition":"Iron 30mg+Folic Acid 0.5mg","manufacturer":"Cipla Ltd","price":"Rs.104.50"}
+{"_id":{"$oid":"5b5839bed51d295edec883ff"},"name":"OMNIM XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Cipla Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b5839c0d51d295edec88400"},"name":"OMNIM Syrup 200ml","composition":"Ferrous Sulphate 50mg","manufacturer":"Cipla Ltd","price":"Rs.55.52"}
+{"_id":{"$oid":"5b5839c2d51d295edec88401"},"name":"OMNIM Drops 15ml","composition":"Iron 10mg+Folic Acid 0.5mg","manufacturer":"Cipla Ltd","price":"Rs.47.62"}
+{"_id":{"$oid":"5b5839c5d51d295edec88402"},"name":"OMNIM 100mg Tablet 10's","composition":"Iron 100mg+Folic Acid 1.5mg","manufacturer":"Cipla Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b5839c7d51d295edec88403"},"name":"OMNIM Syrup 60ml","composition":"Ferrous Sulphate 50mg","manufacturer":"Cipla Ltd","price":"Rs.39.46"}
+{"_id":{"$oid":"5b5839c8d51d295edec88404"},"name":"OPTIMUM Tablet 10's","composition":"Calcium Pantothenate+Elemental ChroMIUm+Elemental Copper+Elemental Magnesium+Elemental Selenium+Ferrous Fumarate+Folic Acid+Iodine+L-Glutamic Acid+Lactobacillus+Methylcobalamin+Molybdenum+Niacinamide+Nickel+Vitamin A+Vitamin B1+Vitamin B2+Vitamin B6+Vitam","manufacturer":"Medisurge Health Care","price":"Rs.82.00"}
+{"_id":{"$oid":"5b5839cad51d295edec88405"},"name":"OROFER XT Suspension 150ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.154.70"}
+{"_id":{"$oid":"5b5839ccd51d295edec88406"},"name":"OROFER S 200mg Injection 10ml","composition":"Iron Sucrose 200mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.515.32"}
+{"_id":{"$oid":"5b5839ced51d295edec88407"},"name":"OROFER S Injection 2.5ml","composition":"Iron Sucrose","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.136.55"}
+{"_id":{"$oid":"5b5839d0d51d295edec88408"},"name":"OROFER FCM Injection 10ml","composition":"Elemental Iron 500mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.2,446.00"}
+{"_id":{"$oid":"5b5839d2d51d295edec88409"},"name":"OROFER XT Drops 15ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.85.45"}
+{"_id":{"$oid":"5b5839d4d51d295edec8840a"},"name":"OROFER S 100mg Injection 5ml","composition":"Iron Sucrose 100mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.273.10"}
+{"_id":{"$oid":"5b5839dbd51d295edec8840b"},"name":"OROFER XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.118.25"}
+{"_id":{"$oid":"5b5839ddd51d295edec8840c"},"name":"OROFER Capsule 10's","composition":"Iron (III) Hydroxide Polymaltose Complex","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.132.70"}
+{"_id":{"$oid":"5b5839dfd51d295edec8840d"},"name":"OROFER Syrup 150ml","composition":"Iron (III) Hydroxide Polymaltose Complex","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.148.75"}
+{"_id":{"$oid":"5b5839e1d51d295edec8840e"},"name":"OROFER XT TOTAL Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.141.65"}
+{"_id":{"$oid":"5b5839e3d51d295edec8840f"},"name":"OROFER XT Tablet 30's","composition":"FERROUS ASCORBATE 100MG+FOLIC ACID 1.1MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.350.25"}
+{"_id":{"$oid":"5b5839e5d51d295edec88410"},"name":"OVAFUZE Tablet 10's","composition":"Alfacalcidol+Benfotiamine+Coenzyme Q10+Elemental ChroMIUm+Elemental Iron+L-Arginine+L Methylfolate+Levocarnitine+Lycopene+Methylcobalamin+Selenomethionine+Vitamin B6+Zinc Monomethionine","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.332.70"}
+{"_id":{"$oid":"5b5839e7d51d295edec88411"},"name":"OVECLO PLUS Tablet","composition":"Alfacalcidol+Biotin+ChroMIUm Picolinate+Elemental Iron+Elemental Magnesium+Elemental Selenium+Elemental Zinc+Enclomiphene+Folic Acid+N Acetyl Cysteine+Potassium Iodide+Pyridoxine","manufacturer":"Xeno Pharmaceuticals Pvt Ltd","price":"Rs.799.00"}
+{"_id":{"$oid":"5b5839e9d51d295edec88412"},"name":"OZORED Suspension 150ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Ozone Pharmaceuticals Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b5839ebd51d295edec88413"},"name":"PANLORD D Tablet 10's","composition":"Adenosylcobalamin+Carbonyl Iron+Folic Acid+Zinc","manufacturer":"Balint Pharmaceuticals","price":"Rs.79.50"}
+{"_id":{"$oid":"5b5839ecd51d295edec88414"},"name":"PATCHEX Tablet 15's","composition":"Calcium Pantothenate+Coenzyme Q10+Elemental Copper+Elemental Iron+Elemental Magnesium+Elemental Zinc+Folic Acid+Gingko Biloba+Iodine+N Acetyl Cysteine+Niacinamide+Polypodium Leucotomos Extract+Silymarin+Vitamin B1+Vitamin B6+Vitamin C+Vitamin E","manufacturer":"Meyer Organics Ltd","price":"Rs.280.00"}
+{"_id":{"$oid":"5b5839eed51d295edec88415"},"name":"PHOBIN XT Syrup 50ml","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Others","price":"Rs.89.00"}
+{"_id":{"$oid":"5b5839efd51d295edec88416"},"name":"PHOBIN XT Tablet 10's","composition":"Ferrous Ascorbate 500mg+Folic Acid 1.5mg","manufacturer":"Others","price":"Rs.59.00"}
+{"_id":{"$oid":"5b5839f1d51d295edec88417"},"name":"PHOSFOMIN XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.103.30"}
+{"_id":{"$oid":"5b5839f2d51d295edec88418"},"name":"PHOSFOMIN IRON Syrup 150ml","composition":"Iron","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b5839f4d51d295edec88419"},"name":"PHOSFOMIN IRON Tablet 10's","composition":"Iron Polymaltose Complex 500mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.83.18"}
+{"_id":{"$oid":"5b5839f6d51d295edec8841a"},"name":"PP26 Tablet 10's","composition":"CARBONYL IRON +FOLIC ACID ","manufacturer":"Wockhardt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5839f8d51d295edec8841b"},"name":"PREGNACARE FORTE + Capsule 15's","composition":"Ferrous Fumarate+Folic Acid+Vitamins","manufacturer":"Meyer Organics Ltd","price":"Rs.197.00"}
+{"_id":{"$oid":"5b5839fad51d295edec8841c"},"name":"PREGNACARE Tablet 10's","composition":"Iron+Minerals+Vitamins","manufacturer":"Meyer Organics Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5839fcd51d295edec8841d"},"name":"PREMENCE PLUS Capsule 15's","composition":"Iron+Minerals+Vitamins","manufacturer":"Meyer Organics Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5839fed51d295edec8841e"},"name":"PREMENCE PLUS Capsule 6's","composition":"Iron+Minerals+Vitamins","manufacturer":"Meyer Organics Ltd","price":"Rs.253.00"}
+{"_id":{"$oid":"5b583a00d51d295edec8841f"},"name":"PREXAN Tablet 10's","composition":"Ferrous Sulphate 50mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b583a02d51d295edec88420"},"name":"PREXAN Liquid 150ml","composition":"Ferrous Sulphate 50mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.64.76"}
+{"_id":{"$oid":"5b583a05d51d295edec88421"},"name":"PROMIX Capsule 15's","composition":"Iron+Multivitamins+Zinc","manufacturer":"Zee Laboratories Ltd","price":"Rs.228.88"}
+{"_id":{"$oid":"5b583a07d51d295edec88422"},"name":"PRONIT Drops 30ml","composition":"Ferric Ammonium Citrate+Folic Acid","manufacturer":"Sresan Pharmaceuticals Ltd","price":"Rs.38.20"}
+{"_id":{"$oid":"5b583a08d51d295edec88423"},"name":"PRONIT Capsule 10's","composition":"Ferric Ammonium Citrate+Folic Acid","manufacturer":"Sresan Pharmaceuticals Ltd","price":"Rs.69.60"}
+{"_id":{"$oid":"5b583a0bd51d295edec88424"},"name":"PRONIT Syrup 200ml","composition":"Ferric Ammonium Citrate+Folic Acid","manufacturer":"Sresan Pharmaceuticals Ltd","price":"Rs.174.00"}
+{"_id":{"$oid":"5b583a0cd51d295edec88425"},"name":"PROTEN Z Syrup 200ml","composition":"Iron","manufacturer":"Twilight Litaka Pharma Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b583a0ed51d295edec88426"},"name":"QUENERGY Tablet 10's","composition":"Coenzyme Q10(Ubidecarenone)+Folic Acid+Iron+Minerals+Zinc","manufacturer":"Abn Drugs","price":"Rs.495.00"}
+{"_id":{"$oid":"5b583a10d51d295edec88427"},"name":"R B TONE Syrup 200ml","composition":"Ferrous Gluconate+Folic Acid+Dibasic Calcium Phosphate","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b583a12d51d295edec88428"},"name":"R B TONE XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.113.00"}
+{"_id":{"$oid":"5b583a14d51d295edec88429"},"name":"R B TONE Capsule 15's","composition":"Ferrous Gluconate+Folic Acid+Dibasic Calcium Phosphate","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b583a16d51d295edec8842a"},"name":"R B TONE Injection 5ml","composition":"Iron Sucrose","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.280.00"}
+{"_id":{"$oid":"5b583a18d51d295edec8842b"},"name":"R B TONE XT DROPS 15ml","composition":"Ferrous Ascorbate 10mg+Folic Acid 0.1mg","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b583a18d51d295edec8842c"},"name":"RARICAP COMBI Tablet 30's","composition":"Iron+Vitamin B Complex","manufacturer":"Bafna Pharmaceuticals Ltd","price":"Rs.204.00"}
+{"_id":{"$oid":"5b583a1ad51d295edec8842d"},"name":"RARICAP L Suspension 150ml","composition":"Folic Acid+Iron","manufacturer":"Bafna Pharmaceuticals Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b583a1dd51d295edec8842e"},"name":"RARICAP FORTE Tablet 30's","composition":"Iron+Vitamin B Complex","manufacturer":"Bafna Pharmaceuticals Ltd","price":"Rs.218.00"}
+{"_id":{"$oid":"5b583a1ed51d295edec8842f"},"name":"RARICAP Tablet 40's","composition":"Iron+Vitamin B Complex","manufacturer":"Bafna Pharmaceuticals Ltd","price":"Rs.191.00"}
+{"_id":{"$oid":"5b583a20d51d295edec88430"},"name":"RARICAP Drops 30ml","composition":"Folic Acid+Iron","manufacturer":"Bafna Pharmaceuticals Ltd","price":"Rs.111.00"}
+{"_id":{"$oid":"5b583a21d51d295edec88431"},"name":"RARICAP M Tablet 30's","composition":"FERROUS +FOLIC ACID +MECOBALAMIN (METHYLCOBALAMIN) +ZINC ","manufacturer":"Bafna Pharmaceuticals Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b583a23d51d295edec88432"},"name":"RAVIRON XT DROPS 15ml","composition":"Ferrous Ascorbate 30mg+Folic Acid 500Mcg","manufacturer":"Tablets India Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b583a25d51d295edec88433"},"name":"RAVIRON XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Tablets India Ltd","price":"Rs.72.90"}
+{"_id":{"$oid":"5b583a27d51d295edec88434"},"name":"REDHAEM TABLET 10'S","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.92.40"}
+{"_id":{"$oid":"5b583a29d51d295edec88435"},"name":"REDIHEALTH Syrup 150ml","composition":"Sodium Feredetate 231mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.66.00"}
+{"_id":{"$oid":"5b583a2bd51d295edec88436"},"name":"REDIN Z Tablet 10's","composition":"Cyanocobalamin+Folic Acid+Iron+Zinc","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b583a2cd51d295edec88437"},"name":"RENERVE 24 Capsule 10's","composition":"Biotin+Ferrous Fumarate+Folic Acid+Ginseng+Green Tea+Magnesium+Manganese Sulphate+Selenium+Zinc","manufacturer":"Strides Shasun Ltd","price":"Rs.111.00"}
+{"_id":{"$oid":"5b583a2ed51d295edec88438"},"name":"REVOFER 500mg Injection 10ml","composition":"Elemental Iron 500mg","manufacturer":"Lupin Ltd","price":"Rs.2,900.00"}
+{"_id":{"$oid":"5b583a30d51d295edec88439"},"name":"RICHAR 30mg/550mcg Liquid 150ml","composition":"Iron 30mg+Folic Acid 550mcg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.72.86"}
+{"_id":{"$oid":"5b583a32d51d295edec8843a"},"name":"RICHAR XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.120.30"}
+{"_id":{"$oid":"5b583a34d51d295edec8843b"},"name":"RICHAR XT Injection 5ml","composition":"Iron Sucrose 100mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.305.95"}
+{"_id":{"$oid":"5b583a35d51d295edec8843c"},"name":"RICHAR Capsule 30's","composition":"Iron 100mg+Folic Acid 1.5mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.119.21"}
+{"_id":{"$oid":"5b583a37d51d295edec8843d"},"name":"RICHAR CR 75mg Tablet 10's","composition":"Ferrous Ascorbate 75mg+Folic Acid 1.5mg (CR)","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.137.85"}
+{"_id":{"$oid":"5b583a39d51d295edec8843e"},"name":"RICHAR CR 100mg Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic 1.50mg (CR)","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.149.85"}
+{"_id":{"$oid":"5b583a3bd51d295edec8843f"},"name":"ROSEIRON Injection 5ml","composition":"Elemental Iron 20mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.280.00"}
+{"_id":{"$oid":"5b583a3dd51d295edec88440"},"name":"ROSEUS Injection 5ml","composition":"Iron Sucrose 100mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.249.00"}
+{"_id":{"$oid":"5b583a3fd51d295edec88441"},"name":"ROSITA XT Syrup 150ml","composition":"Iron 100mg+Folic Acid 1.5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.76.75"}
+{"_id":{"$oid":"5b583a41d51d295edec88442"},"name":"ROSITA XT 1.50/100mg Tablet 10's","composition":"Iron 100mg+Folic Acid 1.5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.124.66"}
+{"_id":{"$oid":"5b583a42d51d295edec88443"},"name":"ROZIFER Tablet 10's","composition":"Iron 100mg+Folic Acid 500mcg","manufacturer":"Novartis India Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b583a44d51d295edec88444"},"name":"ROZIRICH Tablet 10's","composition":"Carbonyl Iron+Folic Acid+Zinc","manufacturer":"Novartis India Ltd","price":"Rs.86.50"}
+{"_id":{"$oid":"5b583a46d51d295edec88445"},"name":"RUBIRED S Injection 5ml","composition":"Iron Sucrose","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.227.93"}
+{"_id":{"$oid":"5b583a4ad51d295edec88446"},"name":"RUBIRED Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.108.70"}
+{"_id":{"$oid":"5b583a4cd51d295edec88447"},"name":"RUBIRED Drops 15ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.69.50"}
+{"_id":{"$oid":"5b583a4dd51d295edec88448"},"name":"RUBIRED Syrup 150ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.139.00"}
+{"_id":{"$oid":"5b583a4fd51d295edec88449"},"name":"RUBRAGRAN 100/1.5mg Capsule 10's","composition":"Ferrous Sulphate 100mg+ Folic Acid 1.5mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.35.08"}
+{"_id":{"$oid":"5b583a51d51d295edec8844a"},"name":"SANOVIT Tablet 10's","composition":"Elemental Calcium+Elemental Copper+Elemental Manganese+Ferrous Fumarate+Folic Acid+Ginseng+Iodine+Magnesium Sulphate+Niacinamide+Potassium+Vitamin A+Vitamin B1+Vitamin B12+Vitamin B2+Vitamin B6+Vitamin C+Vitamin D3+Vitamin E+Zinc Oxide","manufacturer":"Mdc Pharmaceutical Pvt Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b583a53d51d295edec8844b"},"name":"SOFTERON Z Capsule 15's","composition":"Ferrous Fumarate+Folic Acid+Vitamins","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.41.80"}
+{"_id":{"$oid":"5b583a55d51d295edec8844c"},"name":"SOFTERON Capsule 15's","composition":"Ferrous Fumarate+Folic Acid+Vitamins","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.37.90"}
+{"_id":{"$oid":"5b583a57d51d295edec8844d"},"name":"SOLFE AZ Tablet 10's","composition":"Cyanocobalamin+Folic Acid+Iron+Zinc","manufacturer":"Abbott India Ltd","price":"Rs.104.00"}
+{"_id":{"$oid":"5b583a59d51d295edec8844e"},"name":"SOLUFER XT 2.5ml Injection 2.5ml","composition":"Iron Sucrose 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b583a5bd51d295edec8844f"},"name":"SOLUFER Syrup 150ml","composition":"Iron 33mg+Folic Acid 1.5mg+Cyanocobalamin 15mcg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b583a5cd51d295edec88450"},"name":"SOLUFER Drops 15ml","composition":"Iron 33mg+Folic Acid 1.5mg+Cyanocobalamin 15mcg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.194.38"}
+{"_id":{"$oid":"5b583a5ed51d295edec88451"},"name":"SOLUFER XT 50mg Injection 2.5ml","composition":"Ferrous Ascorbate 50mg+Folic Acid 1mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b583a60d51d295edec88452"},"name":"SOLUFER XT Suspension 150ml","composition":"Ferrous Ascorbate 50mg+Folic Acid 1mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b583a62d51d295edec88453"},"name":"SOLUFER XT Drops 15ml","composition":"Iron 100mg+Folic Acid 1.5mg+Cyanocobalamin 15mcg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b583a64d51d295edec88454"},"name":"SOLUFER XT 100mg Injection 5ml","composition":"Ferrous Ascorbate 100mg+Folic Acid 1mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b583a66d51d295edec88455"},"name":"SOLUFER XT 100/1.5mg Tablet 10's","composition":"Iron 100mg+Folic Acid 1.5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.64.42"}
+{"_id":{"$oid":"5b583a69d51d295edec88456"},"name":"SOYAMIN 22 Liquid 200ml","composition":"Iron+Soya Protein+Vitamins+Zinc","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.99.95"}
+{"_id":{"$oid":"5b583a6bd51d295edec88457"},"name":"SREYAS Tablet 10's","composition":"Adenosylcobalamin+Carbonyl Iron+Folic Acid+Zinc","manufacturer":"Serum Institute Of India Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b583a6dd51d295edec88458"},"name":"SUEZ Injection 5ml","composition":"Iron Sucrose 100mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.247.60"}
+{"_id":{"$oid":"5b583a6fd51d295edec88459"},"name":"SUPERFE Syrup 100ml","composition":"Ferrous Sulphate 50mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.50.55"}
+{"_id":{"$oid":"5b583a71d51d295edec8845a"},"name":"SUPRAFER Z Tablet 15's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Pharmed Limited","price":"Rs.120.00"}
+{"_id":{"$oid":"5b583a73d51d295edec8845b"},"name":"SUPRAFER Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Pharmed Limited","price":"Rs.76.00"}
+{"_id":{"$oid":"5b583a74d51d295edec8845c"},"name":"THYROGAIN Tablet 10's","composition":"Ferrous Asparto Glycinate+L Tyrosine+Selenium+Zinc","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.77.50"}
+{"_id":{"$oid":"5b583a75d51d295edec8845d"},"name":"THYROWEL Capsule 10's","composition":"Cyanocobalamin(Vit B12)+Folic Acid+Iron+Selenium+Zinc+L-Tyrosine","manufacturer":"Abbott India Ltd","price":"Rs.104.45"}
+{"_id":{"$oid":"5b583a77d51d295edec8845e"},"name":"TOFE CI Capsule 10's","composition":"Folic Acid+Iron","manufacturer":"Alkem Laboratories Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b583a79d51d295edec8845f"},"name":"TONOFERON Drops 15ml","composition":"Cyanocobalamin+Folic Acid+Iron+Lysine","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b583a7bd51d295edec88460"},"name":"TONOFERON PAEDIATRIC Syrup 100ml","composition":"Cyanocobalamin+Folic Acid+Iron","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b583a7cd51d295edec88461"},"name":"TONOFERON Syrup 200ml","composition":"Cyanocobalamin+Folic Acid+Iron","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.116.00"}
+{"_id":{"$oid":"5b583a7ed51d295edec88462"},"name":"TONOFERON SF Capsule 10's","composition":"Ferrous Succinate +Folic Acid+Succinic Acid","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b583a80d51d295edec88463"},"name":"TONOFOLIC TABLET 10'S","composition":"FERROUS FUMARATE 152MG+FOLIC ACID 1500MCG","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.10.80"}
+{"_id":{"$oid":"5b583a82d51d295edec88464"},"name":"TONOFOLIC XT TABLET 10'S","composition":"FERROUS ASCORBATE 100MG+FOLIC ACID 1.5MG+ZINC 22.5MG","manufacturer":"Unison Pharmaceuticals Pvt Ltd","price":"Rs.39.40"}
+{"_id":{"$oid":"5b583a84d51d295edec88465"},"name":"TRIFER Syrup 150ml","composition":"Iron (III) Hydroxide Polymaltose Complex 50mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.128.00"}
+{"_id":{"$oid":"5b583a86d51d295edec88466"},"name":"TRIFER Drops 15ml","composition":"Iron (iii) Hydroxide Polymaltose Complex 50mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.76.90"}
+{"_id":{"$oid":"5b583a88d51d295edec88467"},"name":"TRIFER Tablet 15's","composition":"Folic Acid+ Iron (III) Hydroxide Polymaltose Complex","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.137.00"}
+{"_id":{"$oid":"5b583a8ad51d295edec88468"},"name":"TROPHOX Powder 200gm","composition":"IRON 20MG+METHIONINE 16.7MG+VITAMIN B1 3.3MG+VITAMIN B2 3.3MG","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.319.00"}
+{"_id":{"$oid":"5b583a8cd51d295edec88469"},"name":"TULIFER DROPS 15ml","composition":"Ferrous Ascorbate 10mg+Folic Acid 0.5mg","manufacturer":"Tulip Lab Pvt Ltd","price":"Rs.61.91"}
+{"_id":{"$oid":"5b583a8ed51d295edec8846a"},"name":"TULIFER Syrup 150ml","composition":"Ferrous Ascorbate 30mg+Folic Acid 500Mcg","manufacturer":"Tulip Lab Pvt Ltd","price":"Rs.111.50"}
+{"_id":{"$oid":"5b583a8fd51d295edec8846b"},"name":"TULIFER Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Tulip Lab Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b583a92d51d295edec8846c"},"name":"ULTIRON TR Capsule 10's","composition":"Folic Acid+Iron","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.17.00"}
+{"_id":{"$oid":"5b583a93d51d295edec8846d"},"name":"UPRISE XT Capsule 10's","composition":"Cholecalciferol+Cyanocobalamin+Folic Acid+Iron+Pyridoxine","manufacturer":"Alkem Laboratories Ltd","price":"Rs.130.50"}
+{"_id":{"$oid":"5b583a95d51d295edec8846e"},"name":"VALENZIA Tablet 10's","composition":"Iron 100mg+Folic Acid 1.5mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.77.30"}
+{"_id":{"$oid":"5b583a97d51d295edec8846f"},"name":"VALENZIA 100/1.5mg Tablet 15's","composition":"Iron 100mg+Folic Acid 1.5mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.73.62"}
+{"_id":{"$oid":"5b583a99d51d295edec88470"},"name":"VEGEFER Tablet 10's","composition":"Cyanocobalamin+Folic Acid+Iron+Zinc","manufacturer":"Sundyota Numandis Pharmaceuticals Pvt Ltd","price":"Rs.81.99"}
+{"_id":{"$oid":"5b583a9dd51d295edec88471"},"name":"VIMAMIX Tablet 10's","composition":"Cyanocobalamin+Folic Acid+Iron+Zinc","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b583a9fd51d295edec88472"},"name":"VITAFOL 5mg Tablet 10's","composition":"Folic Acid 5mg","manufacturer":"Cipla Ltd","price":"Rs.19.00"}
+{"_id":{"$oid":"5b583aa1d51d295edec88473"},"name":"VITAFOL 5mg Tablet 30's","composition":"Folic Acid 5mg","manufacturer":"Cipla Ltd","price":"Rs.40.32"}
+{"_id":{"$oid":"5b583aa2d51d295edec88474"},"name":"VITAMON Syrup 200ml","composition":"Ferric Ammonium Citrate+Cyanocobalamin+Folic Acid ","manufacturer":"Cipla Ltd","price":"Rs.91.00"}
+{"_id":{"$oid":"5b583aa4d51d295edec88475"},"name":"VITAMON Syrup 100ml","composition":"Ferric Ammonium Citrate+Cyanocobalamin+Folic Acid ","manufacturer":"Cipla Ltd","price":"Rs.17.50"}
+{"_id":{"$oid":"5b583aa6d51d295edec88476"},"name":"VITCOFER Drops 15ml","composition":"Ferrous Sulphate +Folic Acid","manufacturer":"Fdc Ltd","price":"Rs.23.50"}
+{"_id":{"$oid":"5b583aa8d51d295edec88477"},"name":"VITCOFER SYP Syrup 100ml","composition":"Iron 30mg+Folic Acid 550mcg","manufacturer":"Fdc Ltd","price":"Rs.108.38"}
+{"_id":{"$oid":"5b583aacd51d295edec88478"},"name":"VITCOFOL Syrup 200ml","composition":"Cyanocobalamin+Folic Acid+Iron","manufacturer":"Fdc Ltd","price":"Rs.106.40"}
+{"_id":{"$oid":"5b583aadd51d295edec88479"},"name":"VITCOFOL Capsule 30's","composition":"Cyanocobalamin+Ferrous Bisglycinate+Folic Acid+Pyridoxine+Zinc","manufacturer":"Fdc Ltd","price":"Rs.78.50"}
+{"_id":{"$oid":"5b583aafd51d295edec8847a"},"name":"VITCOFOL COM Syrup 200ml","composition":"Folic Acid+ Iron (III) Hydroxide Polymaltose Complex","manufacturer":"Fdc Ltd","price":"Rs.96.75"}
+{"_id":{"$oid":"5b583ab3d51d295edec8847b"},"name":"VITCOFOL COM Syrup 150ml","composition":"Folic Acid+ Iron (III) Hydroxide Polymaltose Complex","manufacturer":"Fdc Ltd","price":"Rs.80.50"}
+{"_id":{"$oid":"5b583ab5d51d295edec8847c"},"name":"VITCOFOL COM Syrup 180ml","composition":"Folic Acid+ Iron (III) Hydroxide Polymaltose Complex","manufacturer":"Fdc Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b583ab7d51d295edec8847d"},"name":"WALFER Z Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid+Zinc","manufacturer":"Robins Remedies Pvt Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b583ab9d51d295edec8847e"},"name":"WOFER Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Wockhardt Ltd","price":"Rs.43.75"}
+{"_id":{"$oid":"5b583abad51d295edec8847f"},"name":"WOWMINO Capsule 15's","composition":"Amino Acid+Iron+Vitamins+Zinc","manufacturer":"Fountil Life Sciences Pvt Ltd","price":"Rs.162.50"}
+{"_id":{"$oid":"5b583abbd51d295edec88480"},"name":"XOOM Tablet 10's","composition":"Elemental Iron 100mg+Folic Acid 1.5mg+Zinc Sulphate 22.5mg","manufacturer":"Hll Lifecare Ltd","price":"Rs.85.80"}
+{"_id":{"$oid":"5b583abdd51d295edec88481"},"name":"XT FAA Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Others","price":"Rs.80.00"}
+{"_id":{"$oid":"5b583abfd51d295edec88482"},"name":"ZEMCIFER XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Lasor Pharmaceuticals Ltd","price":"Rs.112.50"}
+{"_id":{"$oid":"5b583ac1d51d295edec88483"},"name":"ZEMICFER XT Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.102.40"}
+{"_id":{"$oid":"5b583ac3d51d295edec88484"},"name":"ZENFER XT Syrup 150ml","composition":"Ferrous Ascorbate 30mg+Folic Acid 550Mcg","manufacturer":"Others","price":"Rs.99.00"}
+{"_id":{"$oid":"5b583ac5d51d295edec88485"},"name":"ZEST Oral Drops 15ml","composition":"Iron+Multivitamin+Protein+Zinc","manufacturer":"Dwd Pharmaceuticals Ltd","price":"Rs.37.60"}
+{"_id":{"$oid":"5b583ac7d51d295edec88486"},"name":"ZEST Capsule 30's","composition":"MULTIMINERAL ","manufacturer":"Dwd Pharmaceuticals Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b583ac8d51d295edec88487"},"name":"ZEST Syrup 200ml","composition":"D Panthenol 1.25mg+Elemental Copper 0.13mg+Elemental Iron 9.8mg+Vitamin B1 1mg+Vitamin B1 20.5+Vitamin B12 0.5mcg+Zinc 0.75mg","manufacturer":"Dwd Pharmaceuticals Ltd","price":"Rs.115.50"}
+{"_id":{"$oid":"5b583acad51d295edec88488"},"name":"ZIBIFOL FA 100/1.5mg Tablet 10's","composition":"Ferrous Ascorbate 100mg+Folic Acid 1.5mg","manufacturer":"Invision Medi Sciences Pvt Ltd","price":"Rs.81.25"}
+{"_id":{"$oid":"5b583accd51d295edec88489"},"name":"ZIFERRIN Capsule 10's","composition":"Carbonyl Iron 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.44.54"}
+{"_id":{"$oid":"5b583aced51d295edec8848a"},"name":"ZIFERRIN TR Capsule 10's","composition":"Ferrous Sulphate 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.20.81"}
+{"_id":{"$oid":"5b583ad0d51d295edec8848b"},"name":"ZIFOL XT Suspension 200ml","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Micro Labs Ltd","price":"Rs.136.50"}
+{"_id":{"$oid":"5b583ad2d51d295edec8848c"},"name":"ZIFOL XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid","manufacturer":"Micro Labs Ltd","price":"Rs.83.50"}
+{"_id":{"$oid":"5b583ad4d51d295edec8848d"},"name":"ZIFOL XT 100/1.1mg Tablet 6's","composition":"Iron 100mg+Folic Acid 1.1mg","manufacturer":"Micro Labs Ltd","price":"Rs.31.87"}
+{"_id":{"$oid":"5b583ad6d51d295edec8848e"},"name":"ZIFOL XT Drops 15ml","composition":"Ferrous Ascorbate 100mg+Folic Acid 1mg","manufacturer":"Micro Labs Ltd","price":"Rs.54.02"}
+{"_id":{"$oid":"5b583ad8d51d295edec8848f"},"name":"ZINCOFER NURTURE Tablet 30's","composition":"10 Orange Tabs (Morning Dose) Of Zinc Sulphate Monohydrate 63mg+Copper Sulphate 2.5mcg+Vitamin A Acetate 5000IU+Alpha Tocopheryl Acetate 24mg+Thiamine Hydrochloride 4.5mg+Riboflavin 5mg+Pyridoxine Hydrochloride 3mg+Nicotinamide 50mg+ Cyanocobalamin 15mcg+","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.148.92"}
+{"_id":{"$oid":"5b583adad51d295edec88490"},"name":"ZINCOFER XT Tablet 10's","composition":"Ferrous Ascorbate+Folic Acid+Zinc","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.104.45"}
+{"_id":{"$oid":"5b583adcd51d295edec88491"},"name":"ZURIFER XT Tablet 10's","composition":"Ferrous+Folic Acid+Mecobalamin (Methylcobalamin)+Zinc","manufacturer":"Alkem Laboratories Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b583aded51d295edec88492"},"name":"ZYFOLIC 5mg Tablet 10's","composition":"Folic Acid 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.8.00"}

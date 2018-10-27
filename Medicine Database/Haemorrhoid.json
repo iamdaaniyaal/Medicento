@@ -1,0 +1,80 @@
+{"_id":{"$oid":"5b5849c0d51d2960f017074d"},"name":"AMROID Ointment 20gm","composition":"Ayurvedic","manufacturer":"Aimil Pharmaceuticals Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b5849c2d51d2960f017074e"},"name":"ANOBLISS Cream 30gm","composition":"Lidocaine 1.5%+Nifedipine 0.3%W/W","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.114.00"}
+{"_id":{"$oid":"5b5849c4d51d2960f017074f"},"name":"ANORELIEF Cream 30gm","composition":"Lidocaine 1.5%+Nifedipine 0.3%W/W","manufacturer":"Micro Labs Ltd","price":"Rs.127.50"}
+{"_id":{"$oid":"5b5849c5d51d2960f0170750"},"name":"ARSHONYT FORTE Tablet 40's","composition":"Ayurvedic ","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b5849c7d51d2960f0170751"},"name":"BETAFOAM 0.1mg Tablet 1's","composition":"Betamethasone 0.1mg","manufacturer":"Cipla Ltd","price":"Rs.101.91"}
+{"_id":{"$oid":"5b5849c9d51d2960f0170752"},"name":"BETAFOAM 0.10% Cream 30gm","composition":"Betamethasone 0.1%","manufacturer":"Cipla Ltd","price":"Rs.101.91"}
+{"_id":{"$oid":"5b5849cbd51d2960f0170753"},"name":"BETAFOAM 0.10% Cream 50gm","composition":"Betamethasone 0.1%","manufacturer":"Cipla Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b5849cdd51d2960f0170754"},"name":"BETAGEE Tablet 10's","composition":"Betamethasone ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.3.12"}
+{"_id":{"$oid":"5b5849cfd51d2960f0170755"},"name":"BETNECIP 0.5mg Tablet 10's","composition":"Betamethasone 0.5mg","manufacturer":"Cipla Ltd","price":"Rs.3.08"}
+{"_id":{"$oid":"5b5849d1d51d2960f0170756"},"name":"BETNECORT 0.5mg Tablet 10's","composition":"Betamethasone 0.5mg","manufacturer":"Cipla Ltd","price":"Rs.11.06"}
+{"_id":{"$oid":"5b5849d3d51d2960f0170757"},"name":"BETNI 0.5mg Tablet 10's","composition":"Betamethasone 0.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.6.96"}
+{"_id":{"$oid":"5b5849d5d51d2960f0170758"},"name":"BETNI 0.5mg Tablet 100's","composition":"Betamethasone 0.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.19.00"}
+{"_id":{"$oid":"5b5849d7d51d2960f0170759"},"name":"CALDOB Cream 30gm","composition":"Allantoin+Aloe Vera+Calcium Dobesilate+Hydrocortisone+Lignocaine","manufacturer":"Comed Chemicals Pvt Ltd","price":"Rs.71.80"}
+{"_id":{"$oid":"5b5849d9d51d2960f017075a"},"name":"CLOBETAGEN F 0.05/2% Cream 10gm","composition":"Clobetasol 0.05mg+Fusidic Acid 2%","manufacturer":"Alkem Laboratories Ltd","price":"Rs.47.00"}
+{"_id":{"$oid":"5b5849dbd51d2960f017075b"},"name":"CLOPG 0.05/0.1% Cream 11gm","composition":"Clobetasol 0.05mg+Gentamicin 0.1%","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.14.87"}
+{"_id":{"$oid":"5b5849ddd51d2960f017075c"},"name":"CLOPG 0.05/0.1% Cream 12gm","composition":"Clobetasol 0.05mg+Gentamicin 0.1%","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.15.00"}
+{"_id":{"$oid":"5b5849dfd51d2960f017075d"},"name":"CLOP MG 0.05/0.1/2% Cream 10gm","composition":"Clobetasol 0.05mg+Gentamicin 0.1mg+Miconazole 2%","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.39.50"}
+{"_id":{"$oid":"5b5849e1d51d2960f017075e"},"name":"CLOZEMAgm 0.05/0.2/2% Cream 15gm","composition":"Clobetasol 0.05mg+Gentamicin 0.2mg+Miconazole 2%","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.19.00"}
+{"_id":{"$oid":"5b5849e3d51d2960f017075f"},"name":"CORECT Suppository 5's","composition":"Allantoin+Hydrocortisone+Lignocaine+Zinc","manufacturer":"Meridian Enterprises Pvt Ltd","price":"Rs.66.00"}
+{"_id":{"$oid":"5b5849e5d51d2960f0170760"},"name":"DAFLON 1000mg Tablet 10's","composition":"Diosmin 1000mg","manufacturer":"Serdia Pharmaceuticals India Pvt Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b5849e6d51d2960f0170761"},"name":"DAFLON 500mg Tablet 10's","composition":"Diosmin 500mg","manufacturer":"Serdia Pharmaceuticals India Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5849e9d51d2960f0170762"},"name":"DOBESIL H Cream 30gm","composition":"Calcium Dobesilate+Lignocaine","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b5849ebd51d2960f0170763"},"name":"EUMOSONE G 0.05/0.1% Cream 10gm","composition":"Clobetasol 0.05mg+Gentamicin 0.1%","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.10.47"}
+{"_id":{"$oid":"5b5849ebd51d2960f0170764"},"name":"FLUCORT 0.03% Ointment 15gm","composition":"Fluocinolone 0.025%","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5849edd51d2960f0170765"},"name":"FLUCORT 0.01% Lotion 15ml","composition":"Fluocinolone 0.01%","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.41.30"}
+{"_id":{"$oid":"5b5849efd51d2960f0170766"},"name":"FLUCORT 0.10% Ointment 15gm","composition":"Fluocinolone 0.1%","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5849f1d51d2960f0170767"},"name":"FLUCORT 0.03% Lotion 15ml","composition":"Fluocinolone 0.025%","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.41.30"}
+{"_id":{"$oid":"5b5849f3d51d2960f0170768"},"name":"FLUCORT 0.03% Gel 15gm","composition":"Fluocinolone 0.025%","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b5849f5d51d2960f0170769"},"name":"FLUCORTH 0.10% Cream 15gm","composition":"Fluocinolone 0.1%","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b5849f6d51d2960f017076a"},"name":"FLUCORTH 0.10% Ointment 15gm","composition":"Fluocinolone 0.1%","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.129.00"}
+{"_id":{"$oid":"5b5849f8d51d2960f017076b"},"name":"FUSIWALB 0.025/2% Cream 5gm","composition":"Beclomethasone 0.025mg+Fusidic Acid 2%","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.42.37"}
+{"_id":{"$oid":"5b5849fad51d2960f017076c"},"name":"HABICCOR 0.05mg Ointment 15gm","composition":"Ulobetasol 0.05mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.81.05"}
+{"_id":{"$oid":"5b5849fcd51d2960f017076d"},"name":"HADENSA Capsule 10's","composition":"Ayurvedic Medicine","manufacturer":"Dollar Company Pvt Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b5849fed51d2960f017076e"},"name":"HADENSA Ointment 10gm","composition":"Ayurvedic Product","manufacturer":"Dollar Company Pvt Ltd","price":"Rs.49.00"}
+{"_id":{"$oid":"5b584a00d51d2960f017076f"},"name":"HADENSA Ointment 40gm","composition":"Ayurvedic Medicine","manufacturer":"Dollar Company Pvt Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b584a02d51d2960f0170770"},"name":"HADENSA Ointment 20gm","composition":"Ayurvedic Medicine","manufacturer":"Dollar Company Pvt Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b584a04d51d2960f0170771"},"name":"HALOBET 0.05% Cream 10gm","composition":"Ulobetasol 0.05%","manufacturer":"Ajanta Pharma Ltd","price":"Rs.109.05"}
+{"_id":{"$oid":"5b584a06d51d2960f0170772"},"name":"HALOSTAR 0.05% Cream 15gm","composition":"Ulobetasol 0.05%","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.104.11"}
+{"_id":{"$oid":"5b584a08d51d2960f0170773"},"name":"HALOTOP 0.05% Cream 10gm","composition":"Ulobetasol 0.05%","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.57.53"}
+{"_id":{"$oid":"5b584a0ad51d2960f0170774"},"name":"HALOTOP 0.05% Lotion 15ml","composition":"Ulobetasol 0.05%","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.225.10"}
+{"_id":{"$oid":"5b584a0cd51d2960f0170775"},"name":"HALOX 0.05% Cream 15gm","composition":"Ulobetasol 0.05%","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b584a0dd51d2960f0170776"},"name":"HALOX 0.05% Cream 30gm","composition":"Ulobetasol 0.05%","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.142.00"}
+{"_id":{"$oid":"5b584a0fd51d2960f0170777"},"name":"HEMOLIT Cream 30gm","composition":"Calcium Dobesilate 0.25%+Troxerutin 2%+Hydrocortisone Acetate 0.25%+Lignocaine 3%+Phenylephrine 0.1%+Zinc Oxide 5%","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b584a11d51d2960f0170778"},"name":"HILO Capsule 30's","composition":"Ayurvedic ","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.38.78"}
+{"_id":{"$oid":"5b584a13d51d2960f0170779"},"name":"LOBATE G 0.05/0.1% Cream 15gm","composition":"Clobetasol 0.05mg+Gentamicin 0.1%","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.47.00"}
+{"_id":{"$oid":"5b584a15d51d2960f017077a"},"name":"LOBATE G 0.05/0.1% Cream 16gm","composition":"Clobetasol 0.05mg+Gentamicin 0.1%","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.31.61"}
+{"_id":{"$oid":"5b584a17d51d2960f017077b"},"name":"LOBATE GM 0.05/2/0.1% Cream 5gm","composition":"Clobetasol 0.05mg+Gentamicin 2mg+Miconazole 0.1%","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b584a19d51d2960f017077c"},"name":"LOBATE GM 0.05/2/0.1% Cream 7.5gm","composition":"Clobetasol 0.05mg+Gentamicin 2mg+Miconazole 0.1%","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.49.40"}
+{"_id":{"$oid":"5b584a1bd51d2960f017077d"},"name":"LOGISIL H Cream 30gm","composition":"Calcium Dobesilate+Hydrocortisone+Lignocaine+Zinc","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b584a1dd51d2960f017077e"},"name":"MICOGRAM 0.05/0.1/2% Cream 5gm","composition":"Clobetasol 0.05mg+Gentamicin 0.1mg+Miconazole 2%","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.28.46"}
+{"_id":{"$oid":"5b584a1fd51d2960f017077f"},"name":"OJUS Tablet 30's","composition":"Ayurvedic Medicine","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b584a21d51d2960f0170780"},"name":"OJUS Syrup 200ml","composition":"Ayurvedic Medicine","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b584a23d51d2960f0170781"},"name":"OSIL Cream 30gm","composition":"Allantoin+Aloevera+Calcium Dobesilate+Hydrocortisone+Lignocaine","manufacturer":"Ozone Pharmaceuticals Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b584a25d51d2960f0170782"},"name":"OXERUTE Cream 30gm","composition":"Calcium Dobesilate 0.25%+Hydrocortisone Acetate 0.0025+Lignocaine 0.03+Phenylephrine 0.001+Troxerutin 0.02+Zinc Oxide 0.05","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b584a27d51d2960f0170783"},"name":"PILENIL Capsule 10's","composition":"Ayurvedic Medicine","manufacturer":"Sarg Pharmaceuticals Pvt Ltd","price":"Rs.127.00"}
+{"_id":{"$oid":"5b584a29d51d2960f0170784"},"name":"PILEUM Tablet 10's","composition":"Proanthocyanidins 100mg+Vitamin C 50mg","manufacturer":"Mmc Health Care Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584a2bd51d2960f0170785"},"name":"PILEUM Suppository 5's","composition":"Hydrocortisone 5mg","manufacturer":"Mmc Health Care Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b584a2dd51d2960f0170786"},"name":"PILIEF Ointment 20gm","composition":"Ayurvedic Medicine","manufacturer":"Charak Pharma Pvt Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b584a2fd51d2960f0170787"},"name":"PILON Ointment 25gm","composition":"Ayurvedic Medicine","manufacturer":"Icpa Laboratories Ltd","price":"Rs.36.00"}
+{"_id":{"$oid":"5b584a30d51d2960f0170788"},"name":"PILON Tablet 10's","composition":"Ayurvedic Medicine","manufacturer":"Icpa Laboratories Ltd","price":"Rs.29.30"}
+{"_id":{"$oid":"5b584a32d51d2960f0170789"},"name":"PILORUTE Cream 30gm","composition":"Calcium Dobesilate+Hydrocortisone+Lignocaine+Phenylephrine+Troxerutin+Zinc","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.115.50"}
+{"_id":{"$oid":"5b584a35d51d2960f017078a"},"name":"PROCTOSEDYL BD Cream 20gm","composition":"Beclomethasone 0.025%+Lidocaine 2.5%+Phenylephrine 0.1%","manufacturer":"Sanofi India Ltd","price":"Rs.71.19"}
+{"_id":{"$oid":"5b584a36d51d2960f017078b"},"name":"RUTICOOL Cream 30gm","composition":"Hydrocortisone+Lignocaine+Phenylephrine+Troxerutin","manufacturer":"Lupin Ltd","price":"Rs.108.30"}
+{"_id":{"$oid":"5b584a38d51d2960f017078c"},"name":"SHIELD Ointment 15gm","composition":"Allantoin+Hydrocortisone+Lignocaine+ Zinc","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.87.60"}
+{"_id":{"$oid":"5b584a3ad51d2960f017078d"},"name":"SITCOM Cream 30gm","composition":"Euphorbia Prostrate 1%W/W","manufacturer":"Panacea Biotec Ltd","price":"Rs.218.00"}
+{"_id":{"$oid":"5b584a3cd51d2960f017078e"},"name":"SITCOM FORTE Tablet 7's","composition":"Euphorbia Prostrata Extract 100mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.361.20"}
+{"_id":{"$oid":"5b584a3ed51d2960f017078f"},"name":"SITCOM Tablet 7's","composition":"Euphorbia Prostrate 100mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.264.10"}
+{"_id":{"$oid":"5b584a40d51d2960f0170790"},"name":"SMUTH Cream 30gm","composition":"Calcium Dobesilate+Hydrocortisone+Lignocaine+Zinc","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.81.65"}
+{"_id":{"$oid":"5b584a42d51d2960f0170791"},"name":"SUCRAL ANO Cream 20gm","composition":"LIGNOCAINE 4%W/W+SUCRALFATE 7%W/W","manufacturer":"Deys Medical Stores Mfg Ltd","price":"Rs.93.90"}
+{"_id":{"$oid":"5b584a44d51d2960f0170792"},"name":"SUPACOR 0.05% Cream 30gm","composition":"Ulobetasol 0.05%","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b584a47d51d2960f0170793"},"name":"SUPACOR 0.05% Cream 10gm","composition":"Ulobetasol 0.05%","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b584a48d51d2960f0170794"},"name":"SUPACOR 0.05% Cream 15gm","composition":"Ulobetasol 0.05%","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.97.20"}
+{"_id":{"$oid":"5b584a4ad51d2960f0170795"},"name":"TALIMUS Ointment 5gm","composition":"Tacrolimus 0.1%","manufacturer":"Ajanta Pharma Ltd","price":"Rs.207.00"}
+{"_id":{"$oid":"5b584a4cd51d2960f0170796"},"name":"TETRALID Cream 30gm","composition":"Lignocaine+Tetracaine","manufacturer":"Ajanta Pharma Ltd","price":"Rs.625.00"}
+{"_id":{"$oid":"5b584a4ed51d2960f0170797"},"name":"TETRALID Cream 5gm","composition":"Lignocaine+Tetracaine","manufacturer":"Ajanta Pharma Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b584a50d51d2960f0170798"},"name":"THANK OD LD Cream 30gm","composition":"Euphorbia Prostrate+Lidocaine","manufacturer":"Panacea Biotec Ltd","price":"Rs.217.50"}
+{"_id":{"$oid":"5b584a51d51d2960f0170799"},"name":"THANK OD Cream 30gm","composition":"Euphorbia Prostrate","manufacturer":"Panacea Biotec Ltd","price":"Rs.218.00"}
+{"_id":{"$oid":"5b584a53d51d2960f017079a"},"name":"ULTRAVEX 0.5mg Ointment 10gm","composition":"Ulobetasol 0.5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.64.28"}
+{"_id":{"$oid":"5b584a55d51d2960f017079b"},"name":"ULTRAVEX 0.5mg Cream 10gm","composition":"Ulobetasol 0.5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584a57d51d2960f017079c"},"name":"ULTRAVEX Cream 5gm","composition":"Ulobetasol ","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.57.50"}

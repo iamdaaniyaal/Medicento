@@ -1,0 +1,222 @@
+{"_id":{"$oid":"5b58359fd51d295ecc045d40"},"name":"ADMENTA 5mg Tablet 10's","composition":"Memantine 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b5835a1d51d295ecc045d41"},"name":"ADMENTA 10mg Tablet 10's","composition":"Memantine 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b5835a3d51d295ecc045d42"},"name":"ADMENTA XR 14mg Tablet 3's","composition":"Memantine 14mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.142.00"}
+{"_id":{"$oid":"5b5835a4d51d295ecc045d43"},"name":"ADMENTA XR 7mg Tablet 3's","composition":"Memantine 7mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b5835a6d51d295ecc045d44"},"name":"ALMANTIN Tablet 10's","composition":"Memantine 5mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b5835a8d51d295ecc045d45"},"name":"ALZEPIL 5mg Tablet 10's","composition":"Donepezil 5mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b5835a9d51d295ecc045d46"},"name":"ALZEPIL 10mg Tablet 10's","composition":"Donepezil 10mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5835abd51d295ecc045d47"},"name":"ALZIDOC 5mg Tablet 10's","composition":"Donepezil 5mg","manufacturer":"Lupin Ltd","price":"Rs.91.35"}
+{"_id":{"$oid":"5b5835add51d295ecc045d48"},"name":"ALZIL 10mg Tablet 10's","composition":"Donepezil 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.163.07"}
+{"_id":{"$oid":"5b5835afd51d295ecc045d49"},"name":"ALZIL 5mg Tablet 10's","composition":"Donepezil 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.106.55"}
+{"_id":{"$oid":"5b5835b0d51d295ecc045d4a"},"name":"ALZIL M 10mg Tablet 10's","composition":"Donepezil 5mg+Memantine 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.213.00"}
+{"_id":{"$oid":"5b5835b2d51d295ecc045d4b"},"name":"ALZIL M 5mg Tablet 10's","composition":"Donepezil 5mg+Memantine 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.136.00"}
+{"_id":{"$oid":"5b5835b5d51d295ecc045d4c"},"name":"ALZIL SR 11.5mg Tablet 10's","composition":"Donepezil 11.5mg (SR)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b5835b7d51d295ecc045d4d"},"name":"AMAZIL 5mg Tablet 10's","composition":"Donepezil 5mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.82.80"}
+{"_id":{"$oid":"5b5835b9d51d295ecc045d4e"},"name":"ARICEP 10mg Tablet 10's","composition":"Donepezil 10mg","manufacturer":"Eisai Pharmaceuticals India Pvt Ltd","price":"Rs.162.75"}
+{"_id":{"$oid":"5b5835bbd51d295ecc045d4f"},"name":"ARICEP SR 23mg Tablet 10's","composition":"Donepezil 23mg (SR)","manufacturer":"Eisai Pharmaceuticals India Pvt Ltd","price":"Rs.350.00"}
+{"_id":{"$oid":"5b5835bdd51d295ecc045d50"},"name":"ARICEP 5mg Tablet 10's","composition":"Donepezil 5mg","manufacturer":"Eisai Pharmaceuticals India Pvt Ltd","price":"Rs.114.00"}
+{"_id":{"$oid":"5b5835bed51d295ecc045d51"},"name":"ARICEP M Tablet 10's","composition":"Donepezil Hydrochloride 5mg+Memantine 5mg","manufacturer":"Eisai Pharmaceuticals India Pvt Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b5835c0d51d295ecc045d52"},"name":"ARICEP M FORTE Tablet 10's","composition":"Donepezil Hydrochloride 5mg+Memantine 10mg","manufacturer":"Eisai Pharmaceuticals India Pvt Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b5835c2d51d295ecc045d53"},"name":"CEHAM Syrup 60ml","composition":"Citicoline 500mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.596.00"}
+{"_id":{"$oid":"5b5835c4d51d295ecc045d54"},"name":"CEHAM Injection 4ml","composition":"Citicoline 1000mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.204.00"}
+{"_id":{"$oid":"5b5835c6d51d295ecc045d55"},"name":"CEHAM P Tablet 10's","composition":"Citicoline 500mg+Piracetam 800mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.547.50"}
+{"_id":{"$oid":"5b5835c8d51d295ecc045d56"},"name":"CEHAM Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.489.50"}
+{"_id":{"$oid":"5b5835cad51d295ecc045d57"},"name":"CEHAM M Tablet 10's","composition":"Citicoline 500mg+Mecobalamin 750mcg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.485.00"}
+{"_id":{"$oid":"5b5835ccd51d295ecc045d58"},"name":"CERELOID Tablet 10's","composition":"Ergoloid Mesylates","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b5835ced51d295ecc045d59"},"name":"CHOLINECAD 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.433.82"}
+{"_id":{"$oid":"5b5835d0d51d295ecc045d5a"},"name":"CHOLINECAD Injection 2ml","composition":"Citicoline 500mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.87.00"}
+{"_id":{"$oid":"5b5835d2d51d295ecc045d5b"},"name":"CITELEC 500mg Syrup 60ml","composition":"Citicoline 500mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.438.66"}
+{"_id":{"$oid":"5b5835d4d51d295ecc045d5c"},"name":"CITELEC 250mg Injection 2ml","composition":"Citicoline 250mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.115.01"}
+{"_id":{"$oid":"5b5835d6d51d295ecc045d5d"},"name":"CITELEC 1000mg Tablet 10's","composition":"Citicoline 1000mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.719.00"}
+{"_id":{"$oid":"5b5835d8d51d295ecc045d5e"},"name":"CITELEC 500mg Tablet 10's","composition":"Citicoline","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.474.00"}
+{"_id":{"$oid":"5b5835dad51d295ecc045d5f"},"name":"CITELEC P 500/800mg Tablet 10's","composition":"Citicoline 500mg+Piracetam 800mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.526.00"}
+{"_id":{"$oid":"5b5835dcd51d295ecc045d60"},"name":"CITIBRAL 250mg Injection 2ml","composition":"Citicoline 250mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.83.23"}
+{"_id":{"$oid":"5b5835ddd51d295ecc045d61"},"name":"CITICO 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Others","price":"Rs.404.22"}
+{"_id":{"$oid":"5b5835dfd51d295ecc045d62"},"name":"CITICON P 500/800mg Tablet 10's","composition":"Citicoline 500mg+Piracetam 800mg","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.523.81"}
+{"_id":{"$oid":"5b5835e1d51d295ecc045d63"},"name":"CITIFLO 500mg Injection 4ml","composition":"Citicoline 500mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.142.86"}
+{"_id":{"$oid":"5b5835e3d51d295ecc045d64"},"name":"CITIFLO 500mg Injection 2ml","composition":"Citicoline 500mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.87.84"}
+{"_id":{"$oid":"5b5835e6d51d295ecc045d65"},"name":"CITIFLO 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.423.50"}
+{"_id":{"$oid":"5b5835e8d51d295ecc045d66"},"name":"CITILIN Injection 2ml","composition":"Citicoline 500mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.670.00"}
+{"_id":{"$oid":"5b5835ead51d295ecc045d67"},"name":"CITILIN 500mg Tablet 6's","composition":"Citicoline 500mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.442.25"}
+{"_id":{"$oid":"5b5835ebd51d295ecc045d68"},"name":"CITILIN 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.496.00"}
+{"_id":{"$oid":"5b5835edd51d295ecc045d69"},"name":"CITILIN P Tablet 10's","composition":"Citicoline 500mg+Piracetam 400mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.530.00"}
+{"_id":{"$oid":"5b5835efd51d295ecc045d6a"},"name":"CITIMAC Injection 4ml","composition":"Citicoline 1000mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.192.00"}
+{"_id":{"$oid":"5b5835f1d51d295ecc045d6b"},"name":"CITIMAC 250mg Injection 2ml","composition":"Citicoline 250mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.106.00"}
+{"_id":{"$oid":"5b5835f3d51d295ecc045d6c"},"name":"CITIMAC 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.457.00"}
+{"_id":{"$oid":"5b5835f5d51d295ecc045d6d"},"name":"CITIMAC P Tablet 10's","composition":"CITICOLINE 500MG+PIRACETAM 800MG","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.520.00"}
+{"_id":{"$oid":"5b5835f8d51d295ecc045d6e"},"name":"CITIMET 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Sunways India Pvt Ltd","price":"Rs.432.00"}
+{"_id":{"$oid":"5b5835fad51d295ecc045d6f"},"name":"CITIMET 100mg ORAL DROPS 30ml","composition":"Citicoline 100mg","manufacturer":"Sunways India Pvt Ltd","price":"Rs.280.00"}
+{"_id":{"$oid":"5b5835fcd51d295ecc045d70"},"name":"CITINERVE 1000mg Tablet 10's","composition":"Citicoline 1000mg","manufacturer":"Usv Private Ltd","price":"Rs.634.75"}
+{"_id":{"$oid":"5b5835fed51d295ecc045d71"},"name":"CITINERVE P Tablet 10's","composition":"Citicoline 500mg+Piracetam 400mg","manufacturer":"Usv Private Ltd","price":"Rs.540.00"}
+{"_id":{"$oid":"5b583600d51d295ecc045d72"},"name":"CITINERVE 250mg Injection 2ml","composition":"Citicoline 250mg","manufacturer":"Usv Private Ltd","price":"Rs.92.40"}
+{"_id":{"$oid":"5b583601d51d295ecc045d73"},"name":"CITINERVE 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Usv Private Ltd","price":"Rs.481.00"}
+{"_id":{"$oid":"5b583603d51d295ecc045d74"},"name":"CITINOVA 250mg Injection 4ml","composition":"Citicoline 250mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.196.42"}
+{"_id":{"$oid":"5b583605d51d295ecc045d75"},"name":"CITINOVA 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.473.00"}
+{"_id":{"$oid":"5b583607d51d295ecc045d76"},"name":"CITINOVA 250mg Injection 2ml","composition":"Citicoline 250mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.113.00"}
+{"_id":{"$oid":"5b583609d51d295ecc045d77"},"name":"CITISTAR 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Lupin Ltd","price":"Rs.543.10"}
+{"_id":{"$oid":"5b58360ad51d295ecc045d78"},"name":"CITISTAR PM Tablet 10's","composition":"Citicoline 500mg+Piracetam 400mg","manufacturer":"Lupin Ltd","price":"Rs.577.20"}
+{"_id":{"$oid":"5b58360cd51d295ecc045d79"},"name":"CITISTAR 750mg Tablet 10's","composition":"Citicoline 750mg","manufacturer":"Lupin Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b58360ed51d295ecc045d7a"},"name":"CITISURE 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.332.38"}
+{"_id":{"$oid":"5b583611d51d295ecc045d7b"},"name":"CITISURE 250mg Injection 2ml","composition":"Citicoline 250mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.85.36"}
+{"_id":{"$oid":"5b583613d51d295ecc045d7c"},"name":"CITIVAS 500mg Injection 1'S","composition":"Citicoline 500mg","manufacturer":"Invision Medi Sciences Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b583615d51d295ecc045d7d"},"name":"CITIVAS 500mg Tablet 6'S","composition":"Citicoline 500mg","manufacturer":"Invision Medi Sciences Pvt Ltd","price":"Rs.233.75"}
+{"_id":{"$oid":"5b583617d51d295ecc045d7e"},"name":"CITIZAC 1000mg Injection 4ml","composition":"Citicoline 1000mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.196.00"}
+{"_id":{"$oid":"5b583619d51d295ecc045d7f"},"name":"CITIZAC 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.413.00"}
+{"_id":{"$oid":"5b58361dd51d295ecc045d80"},"name":"CITIZAC Injection 2ml","composition":"Citicoline 500mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b58361fd51d295ecc045d81"},"name":"CITROK 250mg Injection 2ml","composition":"Citicoline 250mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.89.55"}
+{"_id":{"$oid":"5b583621d51d295ecc045d82"},"name":"CITROK 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.400.95"}
+{"_id":{"$oid":"5b583623d51d295ecc045d83"},"name":"CLINAXON 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.505.50"}
+{"_id":{"$oid":"5b583625d51d295ecc045d84"},"name":"CLINAXON P Tablet 10's","composition":"Citicoline 500mg+Piracetam 400mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.580.00"}
+{"_id":{"$oid":"5b583627d51d295ecc045d85"},"name":"CLINAXON Injection 2ml","composition":"Citicoline 2mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.120.50"}
+{"_id":{"$oid":"5b583629d51d295ecc045d86"},"name":"CLINAXON 250mg Injection 4ml","composition":"Citicoline 250mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.186.80"}
+{"_id":{"$oid":"5b58362cd51d295ecc045d87"},"name":"CLINAXON OD Tablet 10's","composition":"Citicoline 1000mg (OD)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.686.50"}
+{"_id":{"$oid":"5b58362ed51d295ecc045d88"},"name":"COGNIPIL PLUS 500/400mg Tablet 10's","composition":"Citicoline 500mg+Piracetam 400mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.493.00"}
+{"_id":{"$oid":"5b583631d51d295ecc045d89"},"name":"COGNITAM PLUS Tablet 10's","composition":"Citicoline 500mg+Piracetam 400mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.468.00"}
+{"_id":{"$oid":"5b583633d51d295ecc045d8a"},"name":"COGNITAM Injection 15ml","composition":"Piracetam 200mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.93.00"}
+{"_id":{"$oid":"5b583635d51d295ecc045d8b"},"name":"COGNOLIN Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Cipla Ltd","price":"Rs.468.00"}
+{"_id":{"$oid":"5b583637d51d295ecc045d8c"},"name":"COGNOLIN P Tablet 10's","composition":"Citicoline 500mg+Piracetam 400mg","manufacturer":"Cipla Ltd","price":"Rs.545.50"}
+{"_id":{"$oid":"5b583639d51d295ecc045d8d"},"name":"COGPEX PLUS 500/800mg Tablet 10's","composition":"Citicoline 500mg+Piracetam 800mg","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.540.00"}
+{"_id":{"$oid":"5b58363bd51d295ecc045d8e"},"name":"COLIBRA 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.357.13"}
+{"_id":{"$oid":"5b58363dd51d295ecc045d8f"},"name":"COLIHENZ 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.473.00"}
+{"_id":{"$oid":"5b58363fd51d295ecc045d90"},"name":"COLIHENZ P 800mg Tablet 10's","composition":"Citicoline 500mg+Piracetam 800mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.580.00"}
+{"_id":{"$oid":"5b583641d51d295ecc045d91"},"name":"COLIHENZ Injection 2ml","composition":"Citicoline 500mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b583643d51d295ecc045d92"},"name":"COLIHENZ P 400mg Tablet 10's","composition":"Citicoline 500mg+Piracetam 400mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.544.00"}
+{"_id":{"$oid":"5b583645d51d295ecc045d93"},"name":"CRITICOLINE Injection 2ml","composition":"Citicoline 500mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b583647d51d295ecc045d94"},"name":"CRITICOLINE 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.426.00"}
+{"_id":{"$oid":"5b583649d51d295ecc045d95"},"name":"CRITICOLINE Syrup 60ml","composition":"Citicoline 500mg","manufacturer":"Ucb Pharma Ltd","price":"Rs.430.00"}
+{"_id":{"$oid":"5b58364bd51d295ecc045d96"},"name":"CYSCOLIN 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Pfizer Limited","price":"Rs.364.00"}
+{"_id":{"$oid":"5b58364ed51d295ecc045d97"},"name":"DMENTIN MD 5mg Tablet 10's","composition":"MEMANTINE 5MG","manufacturer":"Micro Labs Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b58364ed51d295ecc045d98"},"name":"DMENTIN MD 10mg Tablet 10's","composition":"MEMANTINE 10MG","manufacturer":"Micro Labs Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b583650d51d295ecc045d99"},"name":"DNP 5mg Tablet 10's","composition":"Donepezil Hydrochloride 5mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.76.20"}
+{"_id":{"$oid":"5b583652d51d295ecc045d9a"},"name":"DNP 10mg Tablet 10's","composition":"DONEPEZIL HYDROCHLORIDE 10MG","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.114.28"}
+{"_id":{"$oid":"5b583654d51d295ecc045d9b"},"name":"DONAMEM 5mg Tablet 10's","composition":"Donepezil 5mg+Memantine 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b583656d51d295ecc045d9c"},"name":"DONAMEM 10mg Tablet 10's","composition":"Donepezil 5mg+Memantine 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.183.00"}
+{"_id":{"$oid":"5b583658d51d295ecc045d9d"},"name":"DONAMIND M 5mg Tablet 10's","composition":"DONEPEZIL HYDROCHLORIDE 5MG+MEMANTINE HYDROCHLORIDE 5MG","manufacturer":"ICON LIFE SCIENCES","price":"Rs.115.00"}
+{"_id":{"$oid":"5b58365ad51d295ecc045d9e"},"name":"DONAMIND M 10mg Tablet 10's","composition":"DONEPEZIL HYDROCHLORIDE 5MG+MEMANTINE HYDROCHLORIDE 0","manufacturer":"ICON LIFE SCIENCES","price":"Rs.160.00"}
+{"_id":{"$oid":"5b58365cd51d295ecc045d9f"},"name":"DONAZ 10mg Tablet 10's","composition":"Donepezil 10mg","manufacturer":"Others","price":"Rs.130.00"}
+{"_id":{"$oid":"5b58365ed51d295ecc045da0"},"name":"DONAZ 5mg Tablet 10's","composition":"Donepezil 5mg","manufacturer":"Others","price":"Rs.72.00"}
+{"_id":{"$oid":"5b583660d51d295ecc045da1"},"name":"DONECEPT 10mg Tablet 10's","composition":"Donepezil 10mg","manufacturer":"Cipla Ltd","price":"Rs.145.64"}
+{"_id":{"$oid":"5b583662d51d295ecc045da2"},"name":"DONECEPT 5mg Tablet 10's","composition":"Donepezil 5mg","manufacturer":"Cipla Ltd","price":"Rs.105.04"}
+{"_id":{"$oid":"5b583664d51d295ecc045da3"},"name":"DONEP 100mg Tablet 10's","composition":"Donepezil 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.34.18"}
+{"_id":{"$oid":"5b583666d51d295ecc045da4"},"name":"DONEP Syrup 60ml","composition":"Donepezil 5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.179.50"}
+{"_id":{"$oid":"5b583667d51d295ecc045da5"},"name":"DONEP M FORTE Tablet 10's","composition":"Donepezil+Memantine","manufacturer":"Alkem Laboratories Ltd","price":"Rs.207.50"}
+{"_id":{"$oid":"5b583669d51d295ecc045da6"},"name":"DONEP 10mg Tablet 10's","composition":"Donepezil Hydrochloride 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.156.35"}
+{"_id":{"$oid":"5b58366bd51d295ecc045da7"},"name":"DONEP 5mg Tablet 15's","composition":"Donepezil 5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.171.35"}
+{"_id":{"$oid":"5b58366dd51d295ecc045da8"},"name":"DONEP 10mg Tablet 15's","composition":"Donepezil 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.252.95"}
+{"_id":{"$oid":"5b58366fd51d295ecc045da9"},"name":"DONEP M Tablet 10's","composition":"Donepezil+Memantine","manufacturer":"Alkem Laboratories Ltd","price":"Rs.167.50"}
+{"_id":{"$oid":"5b583670d51d295ecc045daa"},"name":"DONEP 10mg ODT Tablet 10's","composition":"Donepezil 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.189.50"}
+{"_id":{"$oid":"5b583673d51d295ecc045dab"},"name":"DONEP ODT 10MG TABLET 10'S","composition":"DONEPEZIL HYDROCHLORIDE 10MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b583675d51d295ecc045dac"},"name":"DONEP ODT 5mg Tablet 10's","composition":"Donepezil 5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b583677d51d295ecc045dad"},"name":"DONETAZ SR 11.5mg Tablet 10's","composition":"Donepezil 11.5mg (SR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.183.00"}
+{"_id":{"$oid":"5b583679d51d295ecc045dae"},"name":"DONETAZ SR 23mg Tablet 10's","composition":"Donepezil 23mg (SR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b58367bd51d295ecc045daf"},"name":"DOPE PLUS 10mg Tablet 10's","composition":"DONEPEZIL HYDROCHLORIDE 5MG+MEMANTINE HYDROCHLORIDE 10MG","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.171.42"}
+{"_id":{"$oid":"5b58367cd51d295ecc045db0"},"name":"DOPE PLUS 5mg Tablet 10's","composition":"DONEPEZIL HYDROCHLORIDE 5MG+MEMANTINE HYDROCHLORIDE 5MG","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b58367ed51d295ecc045db1"},"name":"DOPEZIL 5mg Tablet 10's","composition":"Donepezil 5mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.96.60"}
+{"_id":{"$oid":"5b583680d51d295ecc045db2"},"name":"DOPEZIL 10mg Tablet 10's","composition":"Donepezil 10mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.151.90"}
+{"_id":{"$oid":"5b583681d51d295ecc045db3"},"name":"EBIXA 10mg Tablet 7's","composition":"Memantine 10mg","manufacturer":"Lundbeck India Pvt Ltd","price":"Rs.281.90"}
+{"_id":{"$oid":"5b583683d51d295ecc045db4"},"name":"ENCEPHA 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Kivi Labs Ltd","price":"Rs.434.91"}
+{"_id":{"$oid":"5b583685d51d295ecc045db5"},"name":"EXELON 9.5mg Patch 30's","composition":"RIVASTIGMINE 9.5MG","manufacturer":"Novartis India Ltd","price":"Rs.5,083.50"}
+{"_id":{"$oid":"5b583687d51d295ecc045db6"},"name":"EXELON 1.5mg Capsule 14's","composition":"Rivastigmine","manufacturer":"Novartis India Ltd","price":"Rs.994.00"}
+{"_id":{"$oid":"5b583689d51d295ecc045db7"},"name":"EXELON 13.3mg Patch 30's","composition":"Rivastigmine 13.3mg","manufacturer":"Novartis India Ltd","price":"Rs.4,666.66"}
+{"_id":{"$oid":"5b58368cd51d295ecc045db8"},"name":"EXELON 3mg Capsule 4X14's","composition":"RIVASTIGMINE 3MG","manufacturer":"Novartis India Ltd","price":"Rs.3,976.00"}
+{"_id":{"$oid":"5b58368ed51d295ecc045db9"},"name":"EXELON 4.6mg Patch 30's","composition":"Rivastigmine 4.6mg","manufacturer":"Novartis India Ltd","price":"Rs.5,037.00"}
+{"_id":{"$oid":"5b583690d51d295ecc045dba"},"name":"EXELON 6mg Capsule 60's","composition":"Rivastigmine 6mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.4,018.86"}
+{"_id":{"$oid":"5b583692d51d295ecc045dbb"},"name":"EXELON 3mg Capsule 14's","composition":"Rivastigmine 3mg","manufacturer":"Novartis India Ltd","price":"Rs.994.00"}
+{"_id":{"$oid":"5b583694d51d295ecc045dbc"},"name":"EXELON 4.5MG CAPSULE 4X14'S","composition":"RIVASTIGMINE 4.5MG","manufacturer":"Novartis India Ltd","price":"Rs.3,976.00"}
+{"_id":{"$oid":"5b583696d51d295ecc045dbd"},"name":"EXELON 4.5mg Capsule 14's","composition":"Rivastigmine 4.5mg","manufacturer":"Novartis India Ltd","price":"Rs.994.00"}
+{"_id":{"$oid":"5b583698d51d295ecc045dbe"},"name":"EXELON 1.5mg Capsule 60's","composition":"RIVASTIGMINE 1.5MG","manufacturer":"Novartis India Ltd","price":"Rs.4,260.00"}
+{"_id":{"$oid":"5b58369ad51d295ecc045dbf"},"name":"GALAMER 4mg Tablet 10's","composition":"Galantamine 4mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.153.00"}
+{"_id":{"$oid":"5b58369cd51d295ecc045dc0"},"name":"GALAMER OD 8mg Tablet 10's","composition":"GALANTAMINE 8MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.252.00"}
+{"_id":{"$oid":"5b58369ed51d295ecc045dc1"},"name":"IDEOX Tablet 10's","composition":"IDEBENONE 45MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.172.75"}
+{"_id":{"$oid":"5b5836a0d51d295ecc045dc2"},"name":"LAPEZIL 5mg Tablet 10's","composition":"Donepezil 5mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.109.00"}
+{"_id":{"$oid":"5b5836a2d51d295ecc045dc3"},"name":"LAPEZIL 10mg Tablet 10's","composition":"Donepezil 10mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.156.00"}
+{"_id":{"$oid":"5b5836a4d51d295ecc045dc4"},"name":"LARENTINE 5mg Tablet 10's","composition":"Memantine 5mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b5836a6d51d295ecc045dc5"},"name":"LARENTINE 10mg Tablet 10's","composition":"Memantine 10mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5836a8d51d295ecc045dc6"},"name":"LARENTINE D 5mg/10mg Tablet 10's","composition":"Donepezil 5mg+Memantine 10mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b5836aad51d295ecc045dc7"},"name":"LARENTINE D 5mg/5mg Tablet 10's","composition":"Donepezil 5mg+Memantine 5mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b5836acd51d295ecc045dc8"},"name":"MEGACHOLIN Capsule 7's","composition":"Choline Salicylate 400mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.410.50"}
+{"_id":{"$oid":"5b5836aed51d295ecc045dc9"},"name":"MENTADEM 10mg Tablet 10's","composition":"Memantine 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b5836b0d51d295ecc045dca"},"name":"MENTADEM 5mg Tablet 10's","composition":"Memantine 5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.49.17"}
+{"_id":{"$oid":"5b5836b2d51d295ecc045dcb"},"name":"MENTRA 5mg Tablet 10's","composition":"Memantine 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.48.00"}
+{"_id":{"$oid":"5b5836b4d51d295ecc045dcc"},"name":"N CITI 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Others","price":"Rs.400.00"}
+{"_id":{"$oid":"5b5836b6d51d295ecc045dcd"},"name":"N CITI PLUS 500/800mg Tablet 10's","composition":"CITICOLINE 500MG+PIRACETAM 800MG","manufacturer":"Others","price":"Rs.465.00"}
+{"_id":{"$oid":"5b5836b8d51d295ecc045dce"},"name":"NEMDAA 5mg Tablet 10's","composition":"Memantine 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b5836bad51d295ecc045dcf"},"name":"NEUCITI 500mg Tablet 10's","composition":"Citicoline","manufacturer":"ICON LIFE SCIENCES","price":"Rs.470.00"}
+{"_id":{"$oid":"5b5836bcd51d295ecc045dd0"},"name":"NEUCITI Injection 4ml","composition":"Citicoline","manufacturer":"ICON LIFE SCIENCES","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5836bed51d295ecc045dd1"},"name":"NEUCITI 250MG TABLET 10'S","composition":"Citicoline 250mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.240.00"}
+{"_id":{"$oid":"5b5836c0d51d295ecc045dd2"},"name":"NEUCITI FORTE Tablet 10's","composition":"Citicoline+Piracetam","manufacturer":"ICON LIFE SCIENCES","price":"Rs.500.00"}
+{"_id":{"$oid":"5b5836c3d51d295ecc045dd3"},"name":"NEUCITI 250mg Injection 2ml","composition":"Citicoline 250mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.107.80"}
+{"_id":{"$oid":"5b5836c3d51d295ecc045dd4"},"name":"NEUCITI PLUS Tablet 10's","composition":"CITICOLINE 500MG+PIRACETAM 400MG","manufacturer":"ICON LIFE SCIENCES","price":"Rs.480.00"}
+{"_id":{"$oid":"5b5836c6d51d295ecc045dd5"},"name":"NEUROCETAM PLUS Tablet 10's","composition":"Citicoline 500mg+Piracetam 800mg","manufacturer":"Micro Labs Ltd","price":"Rs.490.00"}
+{"_id":{"$oid":"5b5836c8d51d295ecc045dd6"},"name":"NEUROFIT C 500/800mg Tablet 10's","composition":"Citicoline 500mg+Piracetam 800mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.462.00"}
+{"_id":{"$oid":"5b5836cad51d295ecc045dd7"},"name":"NEUROMIN CT 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.410.00"}
+{"_id":{"$oid":"5b5836ccd51d295ecc045dd8"},"name":"NEUROMIN M CT 500/800mg Tablet 10's","composition":"Citicoline 500mg+Piracetam 800mg","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b5836cdd51d295ecc045dd9"},"name":"NEUROSPARK 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"VENUS REMEDIES LIMITED","price":"Rs.365.00"}
+{"_id":{"$oid":"5b5836ced51d295ecc045dda"},"name":"NEUROSPARK 500mg Injection 2ml","composition":"Citicoline 500mg","manufacturer":"VENUS REMEDIES LIMITED","price":"Rs.105.00"}
+{"_id":{"$oid":"5b5836d0d51d295ecc045ddb"},"name":"NEUROX 400mg Tablet 10's","composition":"Piracetam 400mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.37.42"}
+{"_id":{"$oid":"5b5836d3d51d295ecc045ddc"},"name":"NEUROX 500mg Syrup 100ml","composition":"Piracetam 500mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.101.76"}
+{"_id":{"$oid":"5b5836d5d51d295ecc045ddd"},"name":"NOOTROPIL C 500/800mg Tablet 10's","composition":"Citicoline 500mg+Piracetam 800mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.600.00"}
+{"_id":{"$oid":"5b5836d8d51d295ecc045dde"},"name":"NOZIL 5mg Tablet 10's","composition":"Donepezil 5mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.47.52"}
+{"_id":{"$oid":"5b5836dad51d295ecc045ddf"},"name":"NUROCIT P 500/800mg Tablet 10's","composition":"Citicoline 500mg+Piracetam 800mg","manufacturer":"Signova Pharma Pvt Ltd","price":"Rs.518.87"}
+{"_id":{"$oid":"5b5836dcd51d295ecc045de0"},"name":"NUROCOL Injection 4ml","composition":"Citicoline 1000mg","manufacturer":"Micro Labs Ltd","price":"Rs.129.00"}
+{"_id":{"$oid":"5b5836ded51d295ecc045de1"},"name":"NUROCOL 250mg Injection 2ml","composition":"Citicoline 250mg","manufacturer":"Micro Labs Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b5836e0d51d295ecc045de2"},"name":"NUROCOL 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Micro Labs Ltd","price":"Rs.499.42"}
+{"_id":{"$oid":"5b5836e1d51d295ecc045de3"},"name":"NUROCOT 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Leeford Healthcare Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b5836e3d51d295ecc045de4"},"name":"NUSOMA 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.381.90"}
+{"_id":{"$oid":"5b5836e5d51d295ecc045de5"},"name":"NUTAM FORTE 500/1200mg Tablet 10's","composition":"Citicoline 500Million Cells+Piracetam 1200mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.499.00"}
+{"_id":{"$oid":"5b5836e7d51d295ecc045de6"},"name":"NUTAM PLUS 500/800mg Tablet 10's","composition":"Citicoline 500mg+Piracetam 800mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.450.00"}
+{"_id":{"$oid":"5b5836e9d51d295ecc045de7"},"name":"PREXARON PLUS Tablet 10's","composition":"Citicoline+Piracetam","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.629.00"}
+{"_id":{"$oid":"5b5836ebd51d295ecc045de8"},"name":"PREXARON M SR Tablet 10's","composition":"Citicoline+Mecobalamin (Methylcobalamin)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.485.00"}
+{"_id":{"$oid":"5b5836edd51d295ecc045de9"},"name":"PREXARON 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.487.00"}
+{"_id":{"$oid":"5b5836eed51d295ecc045dea"},"name":"PREXARON 1000mg Tablet 10's","composition":"Citicoline 1000mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.715.00"}
+{"_id":{"$oid":"5b5836f0d51d295ecc045deb"},"name":"PREXARON Injection 2ml","composition":"Citicoline 250mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b5836f2d51d295ecc045dec"},"name":"RECOGNIX 500mg Injection 4ml","composition":"Citicoline 500mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b5836f5d51d295ecc045ded"},"name":"RECOGNIX 1gm Tablet 10's","composition":"Citicoline 1gm","manufacturer":"Strides Shasun Ltd","price":"Rs.401.00"}
+{"_id":{"$oid":"5b5836f6d51d295ecc045dee"},"name":"RIVAMER 1.5mg Capsule 10's","composition":"Rivastigmine 1.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.112.00"}
+{"_id":{"$oid":"5b5836f9d51d295ecc045def"},"name":"RIVAMER 3mg Capsule 10's","composition":"Rivastigmine 3mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b5836fbd51d295ecc045df0"},"name":"RIVASMINE 1.5mg Capsule 10's","composition":"Rivastigmine 1.5mg","manufacturer":"Cipla Ltd","price":"Rs.46.16"}
+{"_id":{"$oid":"5b5836fdd51d295ecc045df1"},"name":"RIVASMINE 6mg Capsule 10's","composition":"Rivastigmine 6mg","manufacturer":"Cipla Ltd","price":"Rs.107.71"}
+{"_id":{"$oid":"5b5836ffd51d295ecc045df2"},"name":"RIVASMINE 3mg Capsule 10's","composition":"Rivastigmine 3mg","manufacturer":"Cipla Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b583701d51d295ecc045df3"},"name":"RIVASMINE 4.5mg Capsule 10's","composition":"Rivastigmine 4.5mg","manufacturer":"Cipla Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b583703d51d295ecc045df4"},"name":"RIVERA 4.5mg Capsule 10's","composition":"Rivastigmine 4.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.84.80"}
+{"_id":{"$oid":"5b583706d51d295ecc045df5"},"name":"RIVERA 1.5mg Capsule 10's","composition":"Rivastigmine 1.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.44.80"}
+{"_id":{"$oid":"5b583708d51d295ecc045df6"},"name":"SANEZIL 5mg Tablet 10's","composition":"Donepezil 5mg","manufacturer":"Others","price":"Rs.100.00"}
+{"_id":{"$oid":"5b58370ad51d295ecc045df7"},"name":"SHICOLIN 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.415.00"}
+{"_id":{"$oid":"5b58370cd51d295ecc045df8"},"name":"SOMAZINA Injection 4ml","composition":"Citicoline 1gm","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.189.00"}
+{"_id":{"$oid":"5b58370ed51d295ecc045df9"},"name":"SOMAZINA PLUS Tablet 10's","composition":"Citicoline+Piracetam","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.550.00"}
+{"_id":{"$oid":"5b583710d51d295ecc045dfa"},"name":"SOMAZINA 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.514.00"}
+{"_id":{"$oid":"5b583711d51d295ecc045dfb"},"name":"SOMAZINA OD Tablet 10's","composition":"Citicoline 1gm (OD)","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.690.00"}
+{"_id":{"$oid":"5b583713d51d295ecc045dfc"},"name":"SOMAZINA ORAL 500mg Solution 60ml","composition":"Citicoline 500mg","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.430.20"}
+{"_id":{"$oid":"5b583715d51d295ecc045dfd"},"name":"STORAX Injection 2ml","composition":"Citicoline 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.126.00"}
+{"_id":{"$oid":"5b583717d51d295ecc045dfe"},"name":"STORAX PLUS Tablet 10's","composition":"Citicoline+Mecobalamin (Methylcobalamin)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.511.00"}
+{"_id":{"$oid":"5b583718d51d295ecc045dff"},"name":"STORAX PR Tablet 10's","composition":"Citicoline+Piracetam","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.629.00"}
+{"_id":{"$oid":"5b58371ad51d295ecc045e00"},"name":"STORAX Injection 4ml","composition":"Citicoline 1000mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b58371bd51d295ecc045e01"},"name":"STORAX 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.531.00"}
+{"_id":{"$oid":"5b58371dd51d295ecc045e02"},"name":"STROCIT Injection 4ml","composition":"Citicoline 250mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.210.00"}
+{"_id":{"$oid":"5b58371fd51d295ecc045e03"},"name":"STROCIT PLUS Tablet 10's","composition":"Citicoline+Piracetam","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.567.00"}
+{"_id":{"$oid":"5b583721d51d295ecc045e04"},"name":"STROCIT 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.499.00"}
+{"_id":{"$oid":"5b583723d51d295ecc045e05"},"name":"STROCIT Injection 2ml","composition":"Citicoline 250mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.113.00"}
+{"_id":{"$oid":"5b583725d51d295ecc045e06"},"name":"STROCIT 1000mg Tablet 10's","composition":"Citicoline 1000mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.679.81"}
+{"_id":{"$oid":"5b583727d51d295ecc045e07"},"name":"STROCIT CR Tablet 10's","composition":"Citicoline","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.725.00"}
+{"_id":{"$oid":"5b583729d51d295ecc045e08"},"name":"STROCIT OralDrops 30ml","composition":"Citicoline 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b58372bd51d295ecc045e09"},"name":"STROCOZ 250mg Injection 2ml","composition":"Citicoline 250mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.111.10"}
+{"_id":{"$oid":"5b58372dd51d295ecc045e0a"},"name":"STROCOZ 500mg Syrup 60ml","composition":"Citicoline 500mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.489.05"}
+{"_id":{"$oid":"5b58372fd51d295ecc045e0b"},"name":"STROCOZ 250mg Injection 4ml","composition":"Citicoline 250mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.175.80"}
+{"_id":{"$oid":"5b583730d51d295ecc045e0c"},"name":"STROLIFE 500/800mg Tablet 10's","composition":"Citicoline 500mg+Piracetam 800mg","manufacturer":"Wockhardt Ltd","price":"Rs.458.00"}
+{"_id":{"$oid":"5b583732d51d295ecc045e0d"},"name":"STROLIFE MONO 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Wockhardt Ltd","price":"Rs.360.00"}
+{"_id":{"$oid":"5b583734d51d295ecc045e0e"},"name":"STROLIN P Tablet 10's","composition":"Citicoline 500mg+Piracetam 400mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.541.80"}
+{"_id":{"$oid":"5b583736d51d295ecc045e0f"},"name":"STROLIN 1000mg Tablet 10's","composition":"Citicoline 1000mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.779.00"}
+{"_id":{"$oid":"5b583738d51d295ecc045e10"},"name":"STROLIN Injection 2ml","composition":"Citicoline 500mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.96.00"}
+{"_id":{"$oid":"5b58373ad51d295ecc045e11"},"name":"STROLIN 100mg Syrup 60ml","composition":"Citicoline 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.534.00"}
+{"_id":{"$oid":"5b58373bd51d295ecc045e12"},"name":"STROLIN P 800mg Tablet 10's","composition":"Citicoline 500mg+Piracetam 800mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.607.70"}
+{"_id":{"$oid":"5b58373dd51d295ecc045e13"},"name":"STROLIN 4mg Tablet 10's","composition":"Citicoline 4mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b58373fd51d295ecc045e14"},"name":"STROLIN 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.509.90"}
+{"_id":{"$oid":"5b583741d51d295ecc045e15"},"name":"STROLIN 250mg Injection 4ml","composition":"Citicoline 250mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.184.77"}
+{"_id":{"$oid":"5b583743d51d295ecc045e16"},"name":"STROLIN OD 1gm Tablet 10's","composition":"CITICOLINE 1 GM","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.731.00"}
+{"_id":{"$oid":"5b583745d51d295ecc045e17"},"name":"STROPIL 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Gladstone Pharma India Pvt Ltd","price":"Rs.470.00"}
+{"_id":{"$oid":"5b583747d51d295ecc045e18"},"name":"STROZINA 250mg Injection 4ml","composition":"Citicoline 250mg","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.176.00"}
+{"_id":{"$oid":"5b583749d51d295ecc045e19"},"name":"STROZINA Syrup 60ml","composition":"CITRIC 500MG","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.476.00"}
+{"_id":{"$oid":"5b58374bd51d295ecc045e1a"},"name":"STROZINA 1000mg Tablet 10's","composition":"Citicoline 1000mg","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.571.42"}
+{"_id":{"$oid":"5b58374dd51d295ecc045e1b"},"name":"UNICHOLIN 500mg Injection 2ml","composition":"Citicoline 500mg","manufacturer":"United Biotech Pvt Ltd","price":"Rs.93.31"}
+{"_id":{"$oid":"5b58374ed51d295ecc045e1c"},"name":"WINOROL 75mg Capsule 10's","composition":"Memantine 75mg","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b583750d51d295ecc045e1d"},"name":"XCITI 500mg Tablet 10's","composition":"Citicoline 500mg","manufacturer":"Others","price":"Rs.451.00"}

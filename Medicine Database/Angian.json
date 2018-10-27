@@ -1,0 +1,409 @@
+{"_id":{"$oid":"5b58386ed51d295f08bd58db"},"name":"5 MONO 20mg Tablet 10's","composition":"ISOSORBIDE 5 MONONITRATE 20MG","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.29.06"}
+{"_id":{"$oid":"5b583870d51d295f08bd58dc"},"name":"5 MONO 10mg Tablet 10's","composition":"ISOSORBIDE 5 MONONITRATE 10MG","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.13.83"}
+{"_id":{"$oid":"5b583871d51d295f08bd58dd"},"name":"5 MONO SR 30mg Tablet 10's","composition":"ISOSORBIDE 5 MONONITRATE 30MG","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.38.38"}
+{"_id":{"$oid":"5b583873d51d295f08bd58de"},"name":"ADILIN 10mg Tablet 10's","composition":"Isoxsuprine 10mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.14.19"}
+{"_id":{"$oid":"5b583875d51d295f08bd58df"},"name":"ADILIN 40mg Tablet 10's","composition":"Isoxsuprine 40mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.68.60"}
+{"_id":{"$oid":"5b583877d51d295f08bd58e0"},"name":"ADNEON 6mg Injection 2ml","composition":"Adenosine 2mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.245.00"}
+{"_id":{"$oid":"5b583878d51d295f08bd58e1"},"name":"ADP 5mg Tablet 15's","composition":"AMLODIPINE BESYLATE 5MG","manufacturer":" NA ","price":"Rs.36.88"}
+{"_id":{"$oid":"5b58387ad51d295f08bd58e2"},"name":"ADP 10mg Tablet 10's","composition":"AMLODIPINE BESYLATE 10MG","manufacturer":" NA ","price":"Rs.27.15"}
+{"_id":{"$oid":"5b58387cd51d295f08bd58e3"},"name":"ADP 5mg Tablet 10's","composition":"AMLODIPINE BESYLATE 5MG","manufacturer":" NA ","price":"Rs.16.65"}
+{"_id":{"$oid":"5b58387ed51d295f08bd58e4"},"name":"ADP 2.5mg Tablet 10's","composition":"AMLODIPINE BESYLATE 2.5MG","manufacturer":" NA ","price":"Rs.21.91"}
+{"_id":{"$oid":"5b583881d51d295f08bd58e5"},"name":"ADP AT Tablet 10's","composition":"AMLODIPINE 5MG+ATENOLOL 50MG","manufacturer":" NA ","price":"Rs.50.26"}
+{"_id":{"$oid":"5b583882d51d295f08bd58e6"},"name":"ADP H 5/12.5mg Tablet 10's","composition":"AMLODIPINE 5MG+HYDROCHLOROTHIAZIDE 12.5MG","manufacturer":" NA ","price":"Rs.46.49"}
+{"_id":{"$oid":"5b583884d51d295f08bd58e7"},"name":"ALNITRO 2.6mg Tablet 25'S","composition":"Glyceryl Trinitrate 2.6mg","manufacturer":"SALUD CARE PVT LTD","price":"Rs.125.00"}
+{"_id":{"$oid":"5b583886d51d295f08bd58e8"},"name":"ALNITRO 2.6mg Tablet 30's","composition":"GLYCERYL TRINITRATE(NITROGLYCERIN) 2.6MG","manufacturer":"Alvio Pharmaceuticals Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b583888d51d295f08bd58e9"},"name":"ALNITRO 6.4mg Tablet 30's","composition":"GLYCERYL TRINITRATE(NITROGLYCERIN) 6.4MG","manufacturer":"Alvio Pharmaceuticals Pvt Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b58388ad51d295f08bd58ea"},"name":"ALNITRO 6.4mg Tablet 25'S","composition":"Glyceryl Trinitrate 6.4mg","manufacturer":"SALUD CARE PVT LTD","price":"Rs.149.00"}
+{"_id":{"$oid":"5b58388cd51d295f08bd58eb"},"name":"AmlIN 5mg Tablet 10's","composition":"Amlodipine 5mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.13.70"}
+{"_id":{"$oid":"5b58388ed51d295f08bd58ec"},"name":"AMLO 10mg Tablet 10's","composition":"Amlodipine Besylate 10mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.59.50"}
+{"_id":{"$oid":"5b583890d51d295f08bd58ed"},"name":"AMLO 7.5mg Tablet 10's","composition":"Amlodipine 7.5mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.29.50"}
+{"_id":{"$oid":"5b583892d51d295f08bd58ee"},"name":"AMLO 2.5mg Tablet 10's","composition":"Amlodipine Besylate 2.5mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.18.60"}
+{"_id":{"$oid":"5b583894d51d295f08bd58ef"},"name":"AMLO 5mg Tablet 10's","composition":"Amlodipine 5mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.29.50"}
+{"_id":{"$oid":"5b583896d51d295f08bd58f0"},"name":"AMLO AT Tablet 10's","composition":"Amlodipine 5mg+Atenolol 50mg","manufacturer":"Mano Pharmaceuticals Pvt Ltd","price":"Rs.59.60"}
+{"_id":{"$oid":"5b583898d51d295f08bd58f1"},"name":"AMLODEPIN 5mg Tablet 10's","composition":"Amlodipine 5mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.4.86"}
+{"_id":{"$oid":"5b58389ad51d295f08bd58f2"},"name":"AMLOKOS AT 5/25mg Tablet 10's","composition":"Amlodipine 5mg+Atenolol 25mg","manufacturer":"Raptakos Brett \u0026 Company Ltd","price":"Rs.19.23"}
+{"_id":{"$oid":"5b58389cd51d295f08bd58f3"},"name":"AMLOPURE 5mg Tablet 10's","composition":"S AMLODIPINE 5MG","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.36.16"}
+{"_id":{"$oid":"5b58389ed51d295f08bd58f4"},"name":"AMLOSUN 10 mg Tablet 10's","composition":"AMLODIPINE 10MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.48.57"}
+{"_id":{"$oid":"5b5838a0d51d295f08bd58f5"},"name":"AMLOVAS S 2.5mg Tablet 10's","composition":"S AMLODIPINE 2.5MG","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.25.20"}
+{"_id":{"$oid":"5b5838a2d51d295f08bd58f6"},"name":"ANGICAM 2.5mg Tablet 15's","composition":"Amlodipine 2.5mg","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.14.10"}
+{"_id":{"$oid":"5b5838a4d51d295f08bd58f7"},"name":"ANGICOR 20mg Tablet 10's","composition":"Isosorbide 5 Mononitrate","manufacturer":"Novartis India Ltd","price":"Rs.36.50"}
+{"_id":{"$oid":"5b5838a6d51d295f08bd58f8"},"name":"ANGICOR 60mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 60mg","manufacturer":"Novartis India Ltd","price":"Rs.67.90"}
+{"_id":{"$oid":"5b5838a8d51d295f08bd58f9"},"name":"ANGICOR 40mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 40mg","manufacturer":"Novartis India Ltd","price":"Rs.59.90"}
+{"_id":{"$oid":"5b5838aad51d295f08bd58fa"},"name":"ANGICOR SR 40mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 40mg (SR)","manufacturer":"Novartis India Ltd","price":"Rs.65.80"}
+{"_id":{"$oid":"5b5838acd51d295f08bd58fb"},"name":"ANGIOTEC 500mg Tablet 10's","composition":"Ranolazine 500mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.75.50"}
+{"_id":{"$oid":"5b5838add51d295f08bd58fc"},"name":"ANGIPLAT 2.5mg CAPSULE 25's","composition":"Nitroglycerin 2.5mg","manufacturer":"Micro Labs Ltd","price":"Rs.129.00"}
+{"_id":{"$oid":"5b5838afd51d295f08bd58fd"},"name":"ANGIPLAT 6.5mg Capsule 25's","composition":"Glyceryl Trinitrate 6.5mg","manufacturer":"Micro Labs Ltd","price":"Rs.147.50"}
+{"_id":{"$oid":"5b5838b1d51d295f08bd58fe"},"name":"ANGISED 0.5mg Tablet 30's","composition":"Glyceryl Trinitrate 0.5mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.61.38"}
+{"_id":{"$oid":"5b5838b3d51d295f08bd58ff"},"name":"ANGISPAN TR 6.5mg Capsule 25's","composition":"Glyceryl Trinitrate 6.5mg","manufacturer":"Usv Private Ltd","price":"Rs.190.50"}
+{"_id":{"$oid":"5b5838b5d51d295f08bd5900"},"name":"ANGISPAN TR 2.5mg Capsule 25's","composition":"Nitroglycerin 2.5mg","manufacturer":"Usv Private Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5838b7d51d295f08bd5901"},"name":"ANGISTAT 6.5mg CAPSULE 25's","composition":"Glyceryl Trinitrate","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b5838b9d51d295f08bd5902"},"name":"ANGISTAT 2.5mg Capsule 25's","composition":"Glyceryl Trinitrate","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b5838bbd51d295f08bd5903"},"name":"ANGITAB 40mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 40mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b5838bdd51d295f08bd5904"},"name":"ANGITRIT 20mg Tablet 10's","composition":"ISOSORBIDE 5 MONONITRATE 20MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.38.01"}
+{"_id":{"$oid":"5b5838bed51d295f08bd5905"},"name":"ANGIWELL 6.4mg Tablet 30's","composition":"Glyceryl Trinitrate 6.4mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b5838c0d51d295f08bd5906"},"name":"ANGIWELL 2.6mg Tablet 30's","composition":"Nitroglycerin 2.6mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b5838c2d51d295f08bd5907"},"name":"ANGIZEM 180 mg Tablet 10's","composition":"DILTIAZEM 180MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.170.35"}
+{"_id":{"$oid":"5b5838c4d51d295f08bd5908"},"name":"ARKAMIN 100mcg Tablet 10's","composition":"CLONIDINE 100MCG","manufacturer":"Unichem Laboratories Ltd","price":"Rs.45.35"}
+{"_id":{"$oid":"5b5838c6d51d295f08bd5909"},"name":"ASPITRATE 30/150mg Capsule 10's","composition":"ISOSORBIDE 5 MONONITRATE 30MG+ASPIRIN 150MG","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.13.38"}
+{"_id":{"$oid":"5b5838c7d51d295f08bd590a"},"name":"ASPITRATE 60/150mg Capsule 15's","composition":"Isosorbide 5 Mononitrate 60mg+Aspirin 150mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.30.92"}
+{"_id":{"$oid":"5b5838c9d51d295f08bd590b"},"name":"ASPITRATE 30/150mg Capsule 15's","composition":"Isosorbide 5 Mononitrate 30mg+Aspirin 150mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.13.38"}
+{"_id":{"$oid":"5b5838cbd51d295f08bd590c"},"name":"ASPITRATE G 60/150mg Capsule 10's","composition":"Isosorbide 5 Mononitrate 60mg+Aspirin 150mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.30.92"}
+{"_id":{"$oid":"5b5838ccd51d295f08bd590d"},"name":"ASPITRATE G 60/150mg Capsule 15's","composition":"Isosorbide 5 Mononitrate 60mg+Aspirin 150mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.30.92"}
+{"_id":{"$oid":"5b5838cfd51d295f08bd590e"},"name":"ASPITRATE G 30/150mg Capsule 10's","composition":"Isosorbide 5 Mononitrate 30mg+Aspirin 150mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.13.48"}
+{"_id":{"$oid":"5b5838d1d51d295f08bd590f"},"name":"ATMOST 50mg Tablet 14's","composition":"Atenolol 50mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.33.65"}
+{"_id":{"$oid":"5b5838d3d51d295f08bd5910"},"name":"ATMOST 25mg Tablet 14's","composition":"Atenolol 25mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.20.95"}
+{"_id":{"$oid":"5b5838d5d51d295f08bd5911"},"name":"ATROWOK 0.60mg Injection 1ml","composition":"Atropine 0.60mg","manufacturer":"Wockhardt Ltd","price":"Rs.3.92"}
+{"_id":{"$oid":"5b5838d6d51d295f08bd5912"},"name":"AVCOR 5mg Tablet 10's","composition":"Nicorandil 5mg","manufacturer":"Strides Shasun Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b5838d8d51d295f08bd5913"},"name":"AVCOR 5mg Tablet 20's","composition":"Nicorandil 5mg","manufacturer":"Eris Lifesciences Ltd","price":"Rs.63.81"}
+{"_id":{"$oid":"5b5838dad51d295f08bd5914"},"name":"BETACARD XL 50mg Tablet 10's","composition":"Atenolol 50mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.24.84"}
+{"_id":{"$oid":"5b5838dcd51d295f08bd5915"},"name":"BETACARD XL 12.5mg Tablet 10's","composition":"Atenolol 12.5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.9.68"}
+{"_id":{"$oid":"5b5838ded51d295f08bd5916"},"name":"BETACARD XL 25mg Tablet 10's","composition":"Atenolol 25mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.30.70"}
+{"_id":{"$oid":"5b5838e1d51d295f08bd5917"},"name":"BETAFIT 50mg Tablet 10's","composition":"Metoprolol 50mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b5838e3d51d295f08bd5918"},"name":"BETAFIT 25mg Tablet 10's","composition":"Metoprolol 25mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.42.00"}
+{"_id":{"$oid":"5b5838e5d51d295f08bd5919"},"name":"BETAFIT AM 5/50mg Tablet 10's","composition":"Amlodipine 5mg+Metoprolol 50mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.66.00"}
+{"_id":{"$oid":"5b5838e6d51d295f08bd591a"},"name":"BETAFIT AM 5/25mg Tablet 10's","composition":"Amlodipine 5mg+Metoprolol 25mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.46.00"}
+{"_id":{"$oid":"5b5838ead51d295f08bd591b"},"name":"BIODIPIN 5mg Tablet 10's","composition":"Amlodipine 5mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.23.65"}
+{"_id":{"$oid":"5b5838ecd51d295f08bd591c"},"name":"BMD MAX 2.5mg Capsule 10's","composition":"Glyceryl Trinitrate 2.5mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.151.00"}
+{"_id":{"$oid":"5b5838eed51d295f08bd591d"},"name":"BRADIA 7.5mg Tablet 10's","composition":"Ivabradine 7.5mg","manufacturer":"Biocon Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5838f0d51d295f08bd591e"},"name":"BRADIA 5mg Tablet 10's","composition":"Ivabradine 5mg","manufacturer":"Biocon Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b5838f2d51d295f08bd591f"},"name":"CARDEM 60mg Tablet 10's","composition":"Diltiazem 60mg","manufacturer":"Anglo French Drugs And Industries Ltd","price":"Rs.37.59"}
+{"_id":{"$oid":"5b5838f6d51d295f08bd5920"},"name":"CARDICAP 10mg Tablet 10's","composition":"ISOSORBIDE DINITRATE 10MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.11.23"}
+{"_id":{"$oid":"5b5838f8d51d295f08bd5921"},"name":"CARDIMAX 20mg Tablet 10's","composition":"Trimetazidine 20mg","manufacturer":"Usv Private Ltd","price":"Rs.60.50"}
+{"_id":{"$oid":"5b5838fad51d295f08bd5922"},"name":"CARDIMAX SR 60mg Tablet 10's","composition":"TRIMETAZIDINE 60MG","manufacturer":"Usv Private Ltd","price":"Rs.125.40"}
+{"_id":{"$oid":"5b5838fcd51d295f08bd5923"},"name":"CARDIMON 20mg Tablet 10's","composition":"ISOSORBIDE 5 MONONITRATE 20MG","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.24.71"}
+{"_id":{"$oid":"5b5838fed51d295f08bd5924"},"name":"CARNISURGE Syrup 100ml","composition":"Levocarnitine 500mg","manufacturer":"Gladstone Pharma India Pvt Ltd","price":"Rs.360.00"}
+{"_id":{"$oid":"5b5838ffd51d295f08bd5925"},"name":"CARNOSINE 6mg Injection 2ml","composition":"Adenosine 6mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.181.23"}
+{"_id":{"$oid":"5b583901d51d295f08bd5926"},"name":"CAROZA Tablet 10's","composition":"Ranolazine 500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.120.30"}
+{"_id":{"$oid":"5b583903d51d295f08bd5927"},"name":"CARTINEX 500mg Tablet 10's","composition":"RANOLAZINE 500MG","manufacturer":"Micro Labs Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b583905d51d295f08bd5928"},"name":"CARTINEX OD Tablet 10's","composition":"Ranolazine","manufacturer":"Micro Labs Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b583907d51d295f08bd5929"},"name":"CARVIDON MR Tablet 10's","composition":"Trimetazidine 35mg (MR)","manufacturer":"Micro Labs Ltd","price":"Rs.131.00"}
+{"_id":{"$oid":"5b583909d51d295f08bd592a"},"name":"CARVIDON 20mg Tablet 10's","composition":"Trimetazidine 20mg","manufacturer":"Micro Labs Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b58390ad51d295f08bd592b"},"name":"CARVIDON OD 60mg Tablet 10's","composition":"Trimetazidine 60mg","manufacturer":"Micro Labs Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b58390cd51d295f08bd592c"},"name":"CHANNEL SR 120mg Tablet 10's","composition":"Diltiazem 120mg","manufacturer":"Micro Labs Ltd","price":"Rs.106.87"}
+{"_id":{"$oid":"5b58390ed51d295f08bd592d"},"name":"CINWOX 25mg Tablet 10's","composition":"Cinnarizine 25mg","manufacturer":"Wockhardt Ltd","price":"Rs.9.93"}
+{"_id":{"$oid":"5b583910d51d295f08bd592e"},"name":"CORALAN 5mg Tablet 14's","composition":"Ivabradine 5mg","manufacturer":"Serdia Pharmaceuticals India Pvt Ltd","price":"Rs.275.00"}
+{"_id":{"$oid":"5b583913d51d295f08bd592f"},"name":"CORALAN 7.5mg Tablet 14's","composition":"Ivabradine 7.5mg","manufacturer":"Serdia Pharmaceuticals India Pvt Ltd","price":"Rs.333.00"}
+{"_id":{"$oid":"5b583915d51d295f08bd5930"},"name":"CORFLO 5mg Tablet 10's","composition":"Nicorandil 5mg","manufacturer":"Wockhardt Ltd","price":"Rs.198.00"}
+{"_id":{"$oid":"5b583916d51d295f08bd5931"},"name":"CORFLO 10mg Tablet 20's","composition":"Nicorandil 10mg","manufacturer":"Wockhardt Ltd","price":"Rs.162.18"}
+{"_id":{"$oid":"5b583918d51d295f08bd5932"},"name":"CORVADIL 10mg Tablet 10's","composition":"Amlodipine 10mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.55.51"}
+{"_id":{"$oid":"5b58391ad51d295f08bd5933"},"name":"CORVELA Tablet 10's","composition":"Ranolazine 500mg","manufacturer":"Cipla Ltd","price":"Rs.68.00"}
+{"_id":{"$oid":"5b58391cd51d295f08bd5934"},"name":"CREMA 10mg Tablet 10's","composition":"Diltiazem 10mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.29.00"}
+{"_id":{"$oid":"5b58391ed51d295f08bd5935"},"name":"CYTOGARD 20mg Tablet 10's","composition":"Trimetazidine 20mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.90.30"}
+{"_id":{"$oid":"5b583920d51d295f08bd5936"},"name":"DILCAL 30mg Tablet 10's","composition":"Diltiazem 30mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.26.26"}
+{"_id":{"$oid":"5b583922d51d295f08bd5937"},"name":"DILCARDIA SR 90mg Tablet 10's","composition":"Diltiazem 90mg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.64.37"}
+{"_id":{"$oid":"5b583924d51d295f08bd5938"},"name":"DILCONTIN XL 180mg Tablet 10's","composition":"Diltiazem 180mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.204.06"}
+{"_id":{"$oid":"5b583926d51d295f08bd5939"},"name":"DILOCOR 30mg Tablet 10's","composition":"Diltiazem 30mg","manufacturer":"Baroda Pharma Pvt Ltd","price":"Rs.17.25"}
+{"_id":{"$oid":"5b583928d51d295f08bd593a"},"name":"DILTIAZEM 90mg Tablet 10's","composition":"Diltiazem 90mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b58392ad51d295f08bd593b"},"name":"DIPAL F Tablet 10's","composition":"Amlodipine 20mg","manufacturer":"Biomedica Life Science","price":"Rs.20.03"}
+{"_id":{"$oid":"5b58392bd51d295f08bd593c"},"name":"DIUCONTIN K 20mg Tablet 10's","composition":"FRUSEMIDE 20MG+POTASSIUM CHLORIDE 250MG","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.35.50"}
+{"_id":{"$oid":"5b58392ed51d295f08bd593d"},"name":"DOBUSTAT 250mg Injection 5ml","composition":"Dobutamine 250mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.95.24"}
+{"_id":{"$oid":"5b58392fd51d295f08bd593e"},"name":"DOBUSTAT 250mg Injection 20ml","composition":"Dobutamine 250mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.364.98"}
+{"_id":{"$oid":"5b583932d51d295f08bd593f"},"name":"DTM 60mg Tablet 10's","composition":"Diltiazem 60mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.38.38"}
+{"_id":{"$oid":"5b583934d51d295f08bd5940"},"name":"DTM 30mg Tablet 10's","composition":"Diltiazem 30mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.24.42"}
+{"_id":{"$oid":"5b583936d51d295f08bd5941"},"name":"DTM SR 90mg Tablet 10's","composition":"Diltiazem 90mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.66.57"}
+{"_id":{"$oid":"5b583938d51d295f08bd5942"},"name":"DUORANDIL 10mg Tablet 20's","composition":"Nicorandil 10mg","manufacturer":"Medreich Lifecare Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b58393ad51d295f08bd5943"},"name":"DUORANDIL 5mg Tablet 20's","composition":"Nicorandil 5mg","manufacturer":"Medreich Lifecare Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b58393dd51d295f08bd5944"},"name":"DUORANDIL 10mg Tablet 10's","composition":"Nicorandil 10mg","manufacturer":"Medreich Lifecare Ltd","price":"Rs.214.28"}
+{"_id":{"$oid":"5b58393fd51d295f08bd5945"},"name":"DUORANDIL 5mg Tablet 10's","composition":"Nicorandil 5mg","manufacturer":"Medreich Lifecare Ltd","price":"Rs.176.18"}
+{"_id":{"$oid":"5b583941d51d295f08bd5946"},"name":"DZ 60mg Tablet 10's","composition":"Diltiazem 60mg","manufacturer":"Sunij Pharma Pvt Ltd","price":"Rs.35.27"}
+{"_id":{"$oid":"5b583943d51d295f08bd5947"},"name":"DZ 30mg Tablet 10's","composition":"Diltiazem 30mg","manufacturer":"Sunij Pharma Pvt Ltd","price":"Rs.18.28"}
+{"_id":{"$oid":"5b583945d51d295f08bd5948"},"name":"DZ CD 90mg Capsule 10's","composition":"Diltiazem 90mg","manufacturer":"Sunij Pharma Pvt Ltd","price":"Rs.63.33"}
+{"_id":{"$oid":"5b583947d51d295f08bd5949"},"name":"DZM 60mg Tablet 10's","composition":"Diltiazem 60mg","manufacturer":"Lupin Ltd","price":"Rs.37.00"}
+{"_id":{"$oid":"5b58394bd51d295f08bd594a"},"name":"DZM 30mg Tablet 10's","composition":"Diltiazem 30mg","manufacturer":"Lupin Ltd","price":"Rs.19.63"}
+{"_id":{"$oid":"5b58394dd51d295f08bd594b"},"name":"EFNOCAR 40mg Tablet 10's","composition":"Efonidipine 40mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b58394fd51d295f08bd594c"},"name":"EL NICO 5mg Tablet 20's","composition":"Nicorandil 5mg","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.87.18"}
+{"_id":{"$oid":"5b583951d51d295f08bd594d"},"name":"EMBETA R 2.5mg Tablet 10's","composition":"Metoprolol 25mg+Ramipril 2.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b583953d51d295f08bd594e"},"name":"EMBETA R 5mg Tablet 10's","composition":"Metoprolol 50mg+Ramipril 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.179.00"}
+{"_id":{"$oid":"5b583955d51d295f08bd594f"},"name":"ESAMLO 5mg Tablet 10's","composition":"S AMLODIPINE 5MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.52.60"}
+{"_id":{"$oid":"5b583957d51d295f08bd5950"},"name":"ESAMLO 2.5mg Tablet 10's","composition":"S AMLODIPINE 2.5MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.28.45"}
+{"_id":{"$oid":"5b583958d51d295f08bd5951"},"name":"ESCOT Cream 30gm","composition":"LIDOCAINE 1.5%+NIFEDIPINE 0.3%","manufacturer":"Dwd Pharmaceuticals Ltd","price":"Rs.108.75"}
+{"_id":{"$oid":"5b58395ad51d295f08bd5952"},"name":"ESLO 5mg Tablet 10's","composition":"S Amlodipine","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.117.70"}
+{"_id":{"$oid":"5b58395cd51d295f08bd5953"},"name":"ESLO 1.25MG TABLET 10'S","composition":"S AMLODIPINE 1.25MG","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.43.15"}
+{"_id":{"$oid":"5b58395ed51d295f08bd5954"},"name":"ESLO 2.5mg Tablet 10's","composition":"S Amlodipine","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.68.80"}
+{"_id":{"$oid":"5b583960d51d295f08bd5955"},"name":"ESLOMET 5mg Tablet 10's","composition":"Amlodipine 5mg+Metoprolol 25mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.98.10"}
+{"_id":{"$oid":"5b583962d51d295f08bd5956"},"name":"EXENTA 50mg Tablet 10's","composition":"Eplerenone 50mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.294.55"}
+{"_id":{"$oid":"5b583964d51d295f08bd5957"},"name":"EXINIA 25MG TABLET 10'S","composition":"EPLERENONE 25MG","manufacturer":"Rpg Life Science Ltd","price":"Rs.116.35"}
+{"_id":{"$oid":"5b583966d51d295f08bd5958"},"name":"EXINIA 25mg Tablet 15's","composition":"EPLERENONE 25MG","manufacturer":"Rpg Life Science Ltd","price":"Rs.116.35"}
+{"_id":{"$oid":"5b583968d51d295f08bd5959"},"name":"EZURIC 50mg Tablet 10's","composition":"EPLERENONE 50MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.290.00"}
+{"_id":{"$oid":"5b58396ad51d295f08bd595a"},"name":"EZURIC 25mg Tablet 10's","composition":"EPLERENONE 25MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b58396cd51d295f08bd595b"},"name":"FELOGARD 5mg Tablet 10's","composition":"FELODIPINE 5MG","manufacturer":"Cipla Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b58396ed51d295f08bd595c"},"name":"FIBRICOR 0.1mg Injection 10ml","composition":"Ibutilide 0.1mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.117.85"}
+{"_id":{"$oid":"5b583970d51d295f08bd595d"},"name":"FLAVEDON 20mg Tablet 10's","composition":"Trimetazidine 20mg","manufacturer":"Serdia Pharmaceuticals India Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b583972d51d295f08bd595e"},"name":"FLAVEDON MR 35mg Tablet 10's","composition":"Trimetazidine 35mg (MR)","manufacturer":"Serdia Pharmaceuticals India Pvt Ltd","price":"Rs.109.00"}
+{"_id":{"$oid":"5b583974d51d295f08bd595f"},"name":"FRUSAMIDE 40mg Tablet 15's","composition":"FRUSEMIDE 40MG","manufacturer":"Sanofi India Ltd","price":"Rs.6.38"}
+{"_id":{"$oid":"5b583976d51d295f08bd5960"},"name":"FRUSENEX 40mg Tablet 10's","composition":"FRUSEMIDE 40MG","manufacturer":"Geno Pharmaceuticals Ltd","price":"Rs.5.22"}
+{"_id":{"$oid":"5b583977d51d295f08bd5961"},"name":"G3N 6.4mg Tablet 10's","composition":"Glyceryl Trinitrate 6.4mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.125.20"}
+{"_id":{"$oid":"5b58397ad51d295f08bd5962"},"name":"G3N 2.6MG TABLET 10'S","composition":"GLYCERYL TRINITRATE(NITROGLYCERIN) 2.6MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.96.85"}
+{"_id":{"$oid":"5b58397ed51d295f08bd5963"},"name":"G3N 6.4MG TABLET 25'S","composition":"GLYCERYL TRINITRATE(NITROGLYCERIN) 6.4MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.125.20"}
+{"_id":{"$oid":"5b58397fd51d295f08bd5964"},"name":"GLYIN 6.4mg Tablet 30's","composition":"Glyceryl Trinitrate 6.4mg","manufacturer":"Bal Pharma Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b583981d51d295f08bd5965"},"name":"GLYIN 2.6mg Tablet 30's","composition":"GLYCERYL TRINITRATE(NITROGLYCERIN) 2.6MG","manufacturer":"Bal Pharma Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b583983d51d295f08bd5966"},"name":"GTN 0.4mg SPRAY 65MDI","composition":"Glyceryl Trinitrate 0.4mg","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.191.51"}
+{"_id":{"$oid":"5b583986d51d295f08bd5967"},"name":"GTN 0.4mg Spray 200MD","composition":"Glyceryl Trinitrate 0.4mg","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b583988d51d295f08bd5968"},"name":"GTN SORBITRATE CR 6.4mg Tablet 30's","composition":"Glyceryl Trinitrate 6.4mg (CR)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.230.60"}
+{"_id":{"$oid":"5b58398ad51d295f08bd5969"},"name":"GTN SORBITRATE CR 2.6MG TABLET 15'S","composition":"NITROGLYCERIN 2.6MG","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.117.86"}
+{"_id":{"$oid":"5b58398cd51d295f08bd596a"},"name":"GTN SORBITRATE CR 2.6mg Tablet 30's","composition":"Nitroglycerin 2.6mg (CR)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.156.40"}
+{"_id":{"$oid":"5b58398ed51d295f08bd596b"},"name":"GTN SORBITRATE CR 6.4mg Tablet 25's","composition":"NITROGLYCERIN 6.4MG","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.191.00"}
+{"_id":{"$oid":"5b583990d51d295f08bd596c"},"name":"IBTOL 15mg Tablet 4's","composition":"TOLVAPTAN 15MG","manufacturer":"INDIABULLS PHARMACEUTICALS LTD","price":"Rs.382.00"}
+{"_id":{"$oid":"5b583992d51d295f08bd596d"},"name":"IHD 20mg Tablet 10's","composition":"Isosorbide Mononitrate 20mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.37.06"}
+{"_id":{"$oid":"5b583993d51d295f08bd596e"},"name":"IHD 10mg Tablet 10's","composition":"Isosorbide Mononitrate 10mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.19.53"}
+{"_id":{"$oid":"5b583995d51d295f08bd596f"},"name":"IHD 40mg Tablet 10's","composition":"ISOSORBIDE 5 MONONITRATE 40MG","manufacturer":"Stadmed Pvt Ltd","price":"Rs.39.92"}
+{"_id":{"$oid":"5b583997d51d295f08bd5970"},"name":"IHD SR OD 60mg Tablet 10's","composition":"Isosorbide Mononitrate 60mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.63.42"}
+{"_id":{"$oid":"5b583999d51d295f08bd5971"},"name":"IHD SR OD 30mg Tablet 10's","composition":"Isosorbide Mononitrate 30mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.47.21"}
+{"_id":{"$oid":"5b58399ad51d295f08bd5972"},"name":"ILDAMEN 8mg Tablet 10's","composition":"Oxyfedrine 8mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.67.60"}
+{"_id":{"$oid":"5b58399cd51d295f08bd5973"},"name":"ILDAMEN 24mg Tablet 10's","composition":"Oxyfedrine 24mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.178.00"}
+{"_id":{"$oid":"5b58399ed51d295f08bd5974"},"name":"IMDUR 60mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 60mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.291.10"}
+{"_id":{"$oid":"5b5839a0d51d295f08bd5975"},"name":"IMDUR 30mg Tablet 30's","composition":"Isosorbide 5 Mononitrate 30mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.150.30"}
+{"_id":{"$oid":"5b5839a2d51d295f08bd5976"},"name":"IMDUR 60mg Tablet 30's","composition":"Isosorbide 5 Mononitrate 60mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.189.00"}
+{"_id":{"$oid":"5b5839a4d51d295f08bd5977"},"name":"IMDUR 60mg Tablet 15's","composition":"Isosorbide 5 Mononitrate 60mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.291.10"}
+{"_id":{"$oid":"5b5839a6d51d295f08bd5978"},"name":"IMDUR 30mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 30mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.53.73"}
+{"_id":{"$oid":"5b5839a8d51d295f08bd5979"},"name":"IMNIT 30mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 30mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.36.50"}
+{"_id":{"$oid":"5b5839aad51d295f08bd597a"},"name":"IMNIT 60mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 60mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b5839acd51d295f08bd597b"},"name":"INAPURE 7.5mg Tablet 10's","composition":"Ivabradine 7.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b5839aed51d295f08bd597c"},"name":"INAPURE 5mg Tablet 10's","composition":"Ivabradine 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.153.00"}
+{"_id":{"$oid":"5b5839b0d51d295f08bd597d"},"name":"INDAP 2.5mg Tablet 10's","composition":"INDAPAMIDE 2.5MD","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.56.00"}
+{"_id":{"$oid":"5b5839b3d51d295f08bd597e"},"name":"INDAP SR 1.5mg Tablet 10's","composition":"INDAPAMIDE 1.5MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.56.00"}
+{"_id":{"$oid":"5b5839b5d51d295f08bd597f"},"name":"IONOZEM 30mg Tablet 10's","composition":"Diltiazem 30mg","manufacturer":"Pfizer Limited","price":"Rs.23.81"}
+{"_id":{"$oid":"5b5839b7d51d295f08bd5980"},"name":"ISBID 20mg Tablet 10's","composition":"ISOSORBIDE 5 MONONITRATE 20MG","manufacturer":"Parenteral Drugs India Ltd","price":"Rs.22.80"}
+{"_id":{"$oid":"5b5839b9d51d295f08bd5981"},"name":"ISBID 10mg Tablet 10's","composition":"ISOSORBIDE 5 MONONITRATE 10MG","manufacturer":"Parenteral Drugs India Ltd","price":"Rs.12.48"}
+{"_id":{"$oid":"5b5839bbd51d295f08bd5982"},"name":"ISDIL 60mg Tablet 10's","composition":"Diltiazem 60mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.38.27"}
+{"_id":{"$oid":"5b5839bdd51d295f08bd5983"},"name":"ISDIL 30mg Tablet 10's","composition":"Diltiazem 30mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.19.61"}
+{"_id":{"$oid":"5b5839c0d51d295f08bd5984"},"name":"ISKI 60mg Tablet 10's","composition":"Diltiazem 60mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.48.50"}
+{"_id":{"$oid":"5b5839c2d51d295f08bd5985"},"name":"ISKI 30mg Tablet 10's","composition":"Diltiazem 30mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.23.83"}
+{"_id":{"$oid":"5b5839c4d51d295f08bd5986"},"name":"ISKI SR 90mg Tablet 10's","composition":"Diltiazem 60mg","manufacturer":"Stadmed Pvt Ltd","price":"Rs.74.47"}
+{"_id":{"$oid":"5b5839c6d51d295f08bd5987"},"name":"ISMO 10mg Tablet 30's","composition":"Isosorbide Mononitrate 10mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.59.77"}
+{"_id":{"$oid":"5b5839c7d51d295f08bd5988"},"name":"ISMO 10MG TABLET 15'S","composition":"ISOSORBIDE 5 MONONITRATE 10MG","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.57.33"}
+{"_id":{"$oid":"5b5839c9d51d295f08bd5989"},"name":"ISMO 20MG TABLET 15'S","composition":"ISOSORBIDE 5 MONONITRATE","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.111.18"}
+{"_id":{"$oid":"5b5839cbd51d295f08bd598a"},"name":"ISMO 20mg Tablet 30's","composition":"Isosorbide 5 Mononitrate 20mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.103.52"}
+{"_id":{"$oid":"5b5839cdd51d295f08bd598b"},"name":"ISMORIN Tablet 10's","composition":"Aspirin 75mg+Isosorbide Mononitrate 30mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.23.50"}
+{"_id":{"$oid":"5b5839cfd51d295f08bd598c"},"name":"ISMO RETARD 40mg Tablet 7's","composition":"Isosorbide 5 Mononitrate 40mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.79.50"}
+{"_id":{"$oid":"5b5839d2d51d295f08bd598d"},"name":"ISMORIN 60/75mg Capsule 10's","composition":"Isosorbide 5 Mononitrate 60mg+Aspirin 75mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.43.50"}
+{"_id":{"$oid":"5b5839d4d51d295f08bd598e"},"name":"ISOBAX 60mg Tablet 30's","composition":"Isosorbide 5 Mononitrate 60mg+Aspirin 150mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.164.00"}
+{"_id":{"$oid":"5b5839d5d51d295f08bd598f"},"name":"ISOBAX 30mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 30mg+Aspirin 150mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.156.18"}
+{"_id":{"$oid":"5b5839d7d51d295f08bd5990"},"name":"ISOBAX OD 30mg Tablet 30's","composition":"Isosorbide 5 Mononitrate 30mg (OD)","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.164.00"}
+{"_id":{"$oid":"5b5839d9d51d295f08bd5991"},"name":"ISOBAX 60mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 60mg+Aspirin 150mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b5839dbd51d295f08bd5992"},"name":"ISOCOR 20mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 20mg","manufacturer":"Merck Ltd","price":"Rs.33.20"}
+{"_id":{"$oid":"5b5839ddd51d295f08bd5993"},"name":"ISOLAZINE Tablet 10's","composition":"Isosorbide Dinitrate 20mg+Hydralazine 37.5mg","manufacturer":"Lupin Ltd","price":"Rs.79.15"}
+{"_id":{"$oid":"5b5839dfd51d295f08bd5994"},"name":"ISONIT 20mg Tablet 10's","composition":"ISOSORBIDE 5 MONONITRATE 20MG","manufacturer":"Tasmed India (P) Limited","price":"Rs.40.00"}
+{"_id":{"$oid":"5b5839e1d51d295f08bd5995"},"name":"ISONIT SR 30mg Tablet 10's","composition":"ISOSORBIDE 5 MONONITRATE 30MG","manufacturer":"Tasmed India (P) Limited","price":"Rs.50.00"}
+{"_id":{"$oid":"5b5839e3d51d295f08bd5996"},"name":"ISONORM 10mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 10mg","manufacturer":"Lupin Ltd","price":"Rs.19.28"}
+{"_id":{"$oid":"5b5839e5d51d295f08bd5997"},"name":"ISONORM 20mg Tablet 10's","composition":"Isosorbide Mononitrate 20mg","manufacturer":"Lupin Ltd","price":"Rs.21.36"}
+{"_id":{"$oid":"5b5839e7d51d295f08bd5998"},"name":"ISONORM 30mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 30mg","manufacturer":"Lupin Ltd","price":"Rs.32.09"}
+{"_id":{"$oid":"5b5839e9d51d295f08bd5999"},"name":"ISONORM SR 60mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 60mg (SR)","manufacturer":"Lupin Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b5839ebd51d295f08bd599a"},"name":"ISONORM SR 30mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 30mg (SR)","manufacturer":"Lupin Ltd","price":"Rs.41.50"}
+{"_id":{"$oid":"5b5839edd51d295f08bd599b"},"name":"ISOPREG 10mg Injection 2ml","composition":"Isoxsuprine 10mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.14.18"}
+{"_id":{"$oid":"5b5839efd51d295f08bd599c"},"name":"ISORDIL 5mg Tablet 10's","composition":"Isosorbide Dinitrate 5mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.9.60"}
+{"_id":{"$oid":"5b5839f1d51d295f08bd599d"},"name":"ISORDIL 10mg Tablet 10's","composition":"Isosorbide Dinitrate 10mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.7.75"}
+{"_id":{"$oid":"5b5839f3d51d295f08bd599e"},"name":"ISOWOK 40mg Tablet 30's","composition":"Isoxsuprine 40mg","manufacturer":"Wockhardt Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b5839f5d51d295f08bd599f"},"name":"ISOWOK SR Tablet 10's","composition":"Isoxsuprine 40mg","manufacturer":"Wockhardt Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b5839f7d51d295f08bd59a0"},"name":"IVABEAT 5mg Tablet 10's","composition":"Ivabradine 5mg","manufacturer":"Cipla Ltd","price":"Rs.159.50"}
+{"_id":{"$oid":"5b5839f9d51d295f08bd59a1"},"name":"IVABEAT 7.5mg Tablet 10's","composition":"Ivabradine 7.5mg","manufacturer":"Cipla Ltd","price":"Rs.159.50"}
+{"_id":{"$oid":"5b5839fbd51d295f08bd59a2"},"name":"IVABID 5mg Tablet 10's","composition":"Ivabradine 5mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.185.73"}
+{"_id":{"$oid":"5b5839fdd51d295f08bd59a3"},"name":"IVABID 7.5mg Tablet 10's","composition":"Ivabradine 7.5mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.224.90"}
+{"_id":{"$oid":"5b5839ffd51d295f08bd59a4"},"name":"IVABLES 7.5mg Tablet 10's","composition":"IVABRADINE 7.5MG","manufacturer":"Lloyd Healthcare Pvt Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b583a01d51d295f08bd59a5"},"name":"IVABRAD 5mg Tablet 15's","composition":"Ivabradine 5mg","manufacturer":"Lupin Ltd","price":"Rs.254.85"}
+{"_id":{"$oid":"5b583a03d51d295f08bd59a6"},"name":"IVABRAD 7.5mg Tablet 15's","composition":"Ivabradine 7.5mg","manufacturer":"Lupin Ltd","price":"Rs.329.00"}
+{"_id":{"$oid":"5b583a04d51d295f08bd59a7"},"name":"IVABRAD 5mg Tablet 10's","composition":"IVABRADINE 5MG","manufacturer":"Lupin Ltd","price":"Rs.254.85"}
+{"_id":{"$oid":"5b583a06d51d295f08bd59a8"},"name":"IVABRAD 7.5mg Tablet 10's","composition":"Ivabradine 7.5mg","manufacturer":"Lupin Ltd","price":"Rs.199.50"}
+{"_id":{"$oid":"5b583a08d51d295f08bd59a9"},"name":"IVABRATCO 5mg Tablet 10's","composition":"Ivabradine 5mg","manufacturer":"Natco Pharma Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b583a0ad51d295f08bd59aa"},"name":"IVAMAC 5mg Tablet 10's","composition":"Ivabradine 5mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.146.00"}
+{"_id":{"$oid":"5b583a0cd51d295f08bd59ab"},"name":"IVANODE 5mg Tablet 10's","composition":"Ivabradine 5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.174.70"}
+{"_id":{"$oid":"5b583a0ed51d295f08bd59ac"},"name":"IVANODE 7.5mg Tablet 10's","composition":"Ivabradine 7.5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.145.00"}
+{"_id":{"$oid":"5b583a10d51d295f08bd59ad"},"name":"IVAZINE 5mg Tablet 10's","composition":"Ivabradine 5mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.186.01"}
+{"_id":{"$oid":"5b583a12d51d295f08bd59ae"},"name":"IVAZINE 7.5mg Tablet 10's","composition":"Ivabradine 7.5mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.211.55"}
+{"_id":{"$oid":"5b583a14d51d295f08bd59af"},"name":"IVERZAC 5mg Tablet 10's","composition":"Ivabradine 5mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.159.00"}
+{"_id":{"$oid":"5b583a16d51d295f08bd59b0"},"name":"K ION 10mg Tablet 10's","composition":"Nicorandil 10mg","manufacturer":"Nouveau Medicament Pvt Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b583a18d51d295f08bd59b1"},"name":"KAIZEM CD 90mg Capsule 7's","composition":"Diltiazem 90mg","manufacturer":"Wockhardt Ltd","price":"Rs.63.20"}
+{"_id":{"$oid":"5b583a1ad51d295f08bd59b2"},"name":"KAIZEM CD 120mg Capsule 7's","composition":"Diltiazem 120mg","manufacturer":"Wockhardt Ltd","price":"Rs.75.25"}
+{"_id":{"$oid":"5b583a1cd51d295f08bd59b3"},"name":"KCOR 10mg Tablet 20's","composition":"Nicorandil 10mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.372.00"}
+{"_id":{"$oid":"5b583a1ed51d295f08bd59b4"},"name":"KCOR 5mg Tablet 20's","composition":"Nicorandil 5mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.249.00"}
+{"_id":{"$oid":"5b583a20d51d295f08bd59b5"},"name":"KION Tablet 10's","composition":"NICORANDIL 10MG","manufacturer":"Nouveau Medicament Pvt Ltd","price":"Rs.54.75"}
+{"_id":{"$oid":"5b583a22d51d295f08bd59b6"},"name":"KORANDIL 5mg Tablet 10's","composition":"Nicorandil 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.114.00"}
+{"_id":{"$oid":"5b583a24d51d295f08bd59b7"},"name":"KORANDIL 10mg Tablet 10's","composition":"Nicorandil 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b583a25d51d295f08bd59b8"},"name":"LASIX HD 500mg Tablet 10's","composition":"FRUSEMIDE 500MG","manufacturer":"Sanofi India Ltd","price":"Rs.32.03"}
+{"_id":{"$oid":"5b583a27d51d295f08bd59b9"},"name":"LHD 10MG TABLET 10'S","composition":"TORSEMIDE 10MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.31.90"}
+{"_id":{"$oid":"5b583a29d51d295f08bd59ba"},"name":"METAGARD Tablet 10's","composition":"Trimetazidine 20mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.77.00"}
+{"_id":{"$oid":"5b583a2bd51d295f08bd59bb"},"name":"METAGARD CR 35mg Tablet 10's","composition":"Trimetazidine 35mg (CR)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.115.55"}
+{"_id":{"$oid":"5b583a2dd51d295f08bd59bc"},"name":"METAGARD CR 60mg Tablet 10's","composition":"Trimetazidine 60mg (CR)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.174.46"}
+{"_id":{"$oid":"5b583a2ed51d295f08bd59bd"},"name":"MILICOR 10mg Injection 10ml","composition":"Milrinone 10mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.1,092.30"}
+{"_id":{"$oid":"5b583a31d51d295f08bd59be"},"name":"MONICOR 20mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 20mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.19.40"}
+{"_id":{"$oid":"5b583a33d51d295f08bd59bf"},"name":"MONIT 10mg Tablet 15's","composition":"Isosorbide 5 Mononitrate 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.30.91"}
+{"_id":{"$oid":"5b583a35d51d295f08bd59c0"},"name":"MONIT SR 30mg Tablet 15's","composition":"Isosorbide 5 Mononitrate 30mg (SR)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.71.55"}
+{"_id":{"$oid":"5b583a37d51d295f08bd59c1"},"name":"MONIT 20mg Tablet 15's","composition":"Isosorbide 5 Mononitrate 20mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.51.74"}
+{"_id":{"$oid":"5b583a39d51d295f08bd59c2"},"name":"MONIT AS 60/75mg Capsule 10's","composition":"Isosorbide 5 Mononitrate 60mg+Aspirin 75mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.46.08"}
+{"_id":{"$oid":"5b583a3ad51d295f08bd59c3"},"name":"MONIT AS 30/75mg Capsule 10's","composition":"Isosorbide 5 Mononitrate 30mg+Aspirin 75mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.45.96"}
+{"_id":{"$oid":"5b583a3cd51d295f08bd59c4"},"name":"MONIT AS G 60/150mg Capsule 10's","composition":"Isosorbide 5 Mononitrate 60mg+Aspirin 150mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.64.50"}
+{"_id":{"$oid":"5b583a3ed51d295f08bd59c5"},"name":"MONIT AS G 30/150mg Capsule 10's","composition":"Isosorbide 5 Mononitrate 30mg+Aspirin 150mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.61.95"}
+{"_id":{"$oid":"5b583a40d51d295f08bd59c6"},"name":"MONIT AS SR 30/75mg Capsule 10's","composition":"Isosorbide 5 Mononitrate 30mg+Aspirin 75mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.5.81"}
+{"_id":{"$oid":"5b583a41d51d295f08bd59c7"},"name":"MONIT GTN 6.4mg Tablet 30's","composition":"Glyceryl Trinitrate 6.4mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.183.00"}
+{"_id":{"$oid":"5b583a43d51d295f08bd59c8"},"name":"MONIT GTN 2.6mg Tablet 30's","composition":"Glyceryl Trinitrate 2.6mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.146.00"}
+{"_id":{"$oid":"5b583a45d51d295f08bd59c9"},"name":"MONIT SR 60mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 60mg (SR)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.67.09"}
+{"_id":{"$oid":"5b583a47d51d295f08bd59ca"},"name":"MONO 30mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 30mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.38.38"}
+{"_id":{"$oid":"5b583a49d51d295f08bd59cb"},"name":"MONO ISORDIL SR 30mg Tablet 10's","composition":"ISOSORBIDE 5 MONONITRATE 30MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.47.90"}
+{"_id":{"$oid":"5b583a4dd51d295f08bd59cc"},"name":"MONO ISORDIL 20mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 20mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.30.00"}
+{"_id":{"$oid":"5b583a4fd51d295f08bd59cd"},"name":"MONO ISORDIL SR 60mg Capsule 10's","composition":"Isosorbide 5 Mononitrate 60mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.47.67"}
+{"_id":{"$oid":"5b583a51d51d295f08bd59ce"},"name":"MONOBID 20mg Tablet 10's","composition":"Isosorbide Mononitrate 20mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.33.00"}
+{"_id":{"$oid":"5b583a53d51d295f08bd59cf"},"name":"MONOCONTIN 25mg Tablet 7'S","composition":"Isosorbide 5 Mononitrate 25mg","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.30.75"}
+{"_id":{"$oid":"5b583a55d51d295f08bd59d0"},"name":"MONOCONTIN 25mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 25mg","manufacturer":"Win Medicare Pvt Ltd","price":"Rs.64.85"}
+{"_id":{"$oid":"5b583a56d51d295f08bd59d1"},"name":"MONOCONTIN 50mg Tablet 7's","composition":"Isosorbide 5 Mononitrate 50mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.62.75"}
+{"_id":{"$oid":"5b583a58d51d295f08bd59d2"},"name":"MONOSORBEX 20mg Tablet 20's","composition":"Isosorbide 5 Mononitrate 20mg","manufacturer":"Others","price":"Rs.48.31"}
+{"_id":{"$oid":"5b583a5ad51d295f08bd59d3"},"name":"MONOSORBITRATE 20mg Tablet 10's","composition":"ISOSORBIDE MONONITRATE 20MG","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.37.07"}
+{"_id":{"$oid":"5b583a5cd51d295f08bd59d4"},"name":"MONOSORBITRATE 10mg Tablet 10's","composition":"ISOSORBIDE MONONITRATE 10MG","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.21.63"}
+{"_id":{"$oid":"5b583a5ed51d295f08bd59d5"},"name":"MONOSORBITRATE OD 30MG TABLET 10'S","composition":"ISOSORBIDE 5 MONONITRATE 30MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b583a60d51d295f08bd59d6"},"name":"MONOSPRIN 30mg Capsule 10's","composition":"Aspirin 75mg+Isosorbide 5 Mononitrate 30mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.15.00"}
+{"_id":{"$oid":"5b583a61d51d295f08bd59d7"},"name":"MONOSPRIN 60mg Capsule 10's","composition":"Aspirin 75mg+Isosorbide 5 Mononitrate 60mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.20.39"}
+{"_id":{"$oid":"5b583a64d51d295f08bd59d8"},"name":"MONOTRACE 20mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 20mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.30.40"}
+{"_id":{"$oid":"5b583a66d51d295f08bd59d9"},"name":"MONOTRATE SR 60mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 60mg (SR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.64.83"}
+{"_id":{"$oid":"5b583a68d51d295f08bd59da"},"name":"MONOTRATE 10mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.19.92"}
+{"_id":{"$oid":"5b583a6ad51d295f08bd59db"},"name":"MONOTRATE SR 30mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 30mg (SR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.49.71"}
+{"_id":{"$oid":"5b583a6cd51d295f08bd59dc"},"name":"MONOTRATE 20mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 20mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.31.09"}
+{"_id":{"$oid":"5b583a6ed51d295f08bd59dd"},"name":"MONOTRATE OD 50mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 50mg (OD)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.96.00"}
+{"_id":{"$oid":"5b583a70d51d295f08bd59de"},"name":"MONOTRATE 40mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 40mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.84.00"}
+{"_id":{"$oid":"5b583a72d51d295f08bd59df"},"name":"MONOTRATE OD 25mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 25mg (OD)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.66.00"}
+{"_id":{"$oid":"5b583a74d51d295f08bd59e0"},"name":"MONOTUS 20mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 20mg","manufacturer":"Aretaeus Pharmaceuticals Pvt Ltd","price":"Rs.36.00"}
+{"_id":{"$oid":"5b583a76d51d295f08bd59e1"},"name":"MONOTUS 10mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 10mg","manufacturer":"Aretaeus Pharmaceuticals Pvt Ltd","price":"Rs.19.00"}
+{"_id":{"$oid":"5b583a78d51d295f08bd59e2"},"name":"MUZIKA Tablet 10's","composition":"ISOSORBIDE DINITRATE 20MG+HYDRALAZINE 37.5MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b583a7ad51d295f08bd59e3"},"name":"MYODURA 5mg Tablet 14's","composition":"Amlodipine 5mg","manufacturer":"Wockhardt Ltd","price":"Rs.63.50"}
+{"_id":{"$oid":"5b583a7bd51d295f08bd59e4"},"name":"MYONERG 20mg Tablet 20's","composition":"Trimetazidine 20mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.71.75"}
+{"_id":{"$oid":"5b583a7ed51d295f08bd59e5"},"name":"MYONIT SR 2.6mg Tablet 30's","composition":"Glyceryl Trinitrate 2.6mg (SR)","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.176.00"}
+{"_id":{"$oid":"5b583a80d51d295f08bd59e6"},"name":"MYONIT INSTA Tablet 30's","composition":"Glyceryl Trinitrate 0.5mg","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.45.18"}
+{"_id":{"$oid":"5b583a82d51d295f08bd59e7"},"name":"MYONIT Injection 5ml","composition":"Glyceryl Trinitrate 5mg","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b583a84d51d295f08bd59e8"},"name":"MYONIT 0.5mg Tablet 30's","composition":"Glyceryl Trinitrate 0.5mg","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.44.17"}
+{"_id":{"$oid":"5b583a85d51d295f08bd59e9"},"name":"MYONIT Injection 10ml","composition":"Glyceryl Trinitrate 5mg","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.84.41"}
+{"_id":{"$oid":"5b583a88d51d295f08bd59ea"},"name":"MYONIT SR 6.4mg Tablet 30's","composition":"Glyceryl Trinitrate 6.4mg (SR)","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.218.90"}
+{"_id":{"$oid":"5b583a8ad51d295f08bd59eb"},"name":"NATRIEM 60mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 60mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.13.50"}
+{"_id":{"$oid":"5b583a8cd51d295f08bd59ec"},"name":"NATRIEM 30mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 30mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b583a8ed51d295f08bd59ed"},"name":"NEW GTN 2.6mg Tablet 10's","composition":"Glyceryl Trinitrate 2.6mg","manufacturer":"Aprica Pharmaceuticals Pvt Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b583a90d51d295f08bd59ee"},"name":"NEW GTN 6.4mg Tablet 30's","composition":"Glyceryl Trinitrate 6.4mg","manufacturer":"Aprica Pharmaceuticals Pvt Ltd","price":"Rs.225.00"}
+{"_id":{"$oid":"5b583a92d51d295f08bd59ef"},"name":"NICODAY 10mg Tablet 20's","composition":"Nicorandil 10mg","manufacturer":"Invision Medi Sciences Pvt Ltd","price":"Rs.310.85"}
+{"_id":{"$oid":"5b583a93d51d295f08bd59f0"},"name":"NICODUCE 48mg Injection 1'S","composition":"Nicorandil 48mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b583a95d51d295f08bd59f1"},"name":"NICODUCE 5mg Tablet 20's","composition":"Nicorandil 5mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b583a98d51d295f08bd59f2"},"name":"NICODUCE 10mg Tablet 20's","composition":"Nicorandil 10mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.432.80"}
+{"_id":{"$oid":"5b583a9ad51d295f08bd59f3"},"name":"NICODUCE OD 20mg Tablet 10's","composition":"Nicorandil 20mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.285.71"}
+{"_id":{"$oid":"5b583a9ad51d295f08bd59f4"},"name":"NICOPRESS 5MG TABLET 10'S","composition":"NICORANDIL 5MG","manufacturer":"Pfizer Limited","price":"Rs.187.63"}
+{"_id":{"$oid":"5b583a9cd51d295f08bd59f5"},"name":"NICOREX 5mg Tablet 10's","composition":"Nicorandil 5mg","manufacturer":"Aprica Pharmaceuticals Pvt Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b583a9ed51d295f08bd59f6"},"name":"NICOREX 10mg Tablet 10's","composition":"Nicorandil 10mg","manufacturer":"Aprica Pharmaceuticals Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b583aa0d51d295f08bd59f7"},"name":"NICOSTAR 5mg Tablet 20's","composition":"Nicorandil 5mg","manufacturer":"Lupin Ltd","price":"Rs.136.35"}
+{"_id":{"$oid":"5b583aa2d51d295f08bd59f8"},"name":"NICOSTAR OD 10mg Tablet 10's","composition":"Nicorandil 10mg (OD)","manufacturer":"Lupin Ltd","price":"Rs.144.00"}
+{"_id":{"$oid":"5b583aa4d51d295f08bd59f9"},"name":"NICOSTAR 10mg Tablet 20's","composition":"Nicorandil 10mg","manufacturer":"Lupin Ltd","price":"Rs.176.50"}
+{"_id":{"$oid":"5b583aa6d51d295f08bd59fa"},"name":"NIFELAT 5mg Capsule 10's","composition":"Nifedipine 5mg","manufacturer":"Cipla Ltd","price":"Rs.7.65"}
+{"_id":{"$oid":"5b583aa8d51d295f08bd59fb"},"name":"NIFELAT 10mg Capsule 10's","composition":"Nifedipine 10mg","manufacturer":"Cipla Ltd","price":"Rs.10.02"}
+{"_id":{"$oid":"5b583aaad51d295f08bd59fc"},"name":"NIG 5mg Injection 5ml","composition":"Glyceryl Trinitrate 5mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.41.00"}
+{"_id":{"$oid":"5b583aacd51d295f08bd59fd"},"name":"NIKORAN 10mg Tablet 20's","composition":"Nicorandil 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.409.90"}
+{"_id":{"$oid":"5b583aaed51d295f08bd59fe"},"name":"NIKORAN 5mg Tablet 20's","composition":"Nicorandil 5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.250.40"}
+{"_id":{"$oid":"5b583ab0d51d295f08bd59ff"},"name":"NIKORAN 48mg Injection","composition":"Nicorandil 48mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.265.00"}
+{"_id":{"$oid":"5b583ab1d51d295f08bd5a00"},"name":"NIKORAN OD 10mg Tablet 10's","composition":"Nicorandil 10mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.216.50"}
+{"_id":{"$oid":"5b583ab2d51d295f08bd5a01"},"name":"NIKORAN 2mg Injection","composition":"Nicorandil 2mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b583ab5d51d295f08bd5a02"},"name":"NIKOS 5mg Tablet 30's","composition":"Nicorandil 5mg","manufacturer":"Lloyd Healthcare Pvt Ltd","price":"Rs.340.00"}
+{"_id":{"$oid":"5b583ab6d51d295f08bd5a03"},"name":"NIKOS 10mg Tablet 30's","composition":"Nicorandil 10mg","manufacturer":"Lloyd Healthcare Pvt Ltd","price":"Rs.380.00"}
+{"_id":{"$oid":"5b583ab8d51d295f08bd5a04"},"name":"NITRACT SR 6.5mg Capsule 25's","composition":"Glyceryl Trinitrate 6.5 mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b583abad51d295f08bd5a05"},"name":"NITRO 6.4mg Tablet 30's","composition":"Glyceryl Trinitrate 6.4mg","manufacturer":"Others","price":"Rs.165.00"}
+{"_id":{"$oid":"5b583abcd51d295f08bd5a06"},"name":"NITRO 2.6mg Tablet 30's","composition":"Glyceryl Trinitrate 2.6mg","manufacturer":"Others","price":"Rs.149.00"}
+{"_id":{"$oid":"5b583abed51d295f08bd5a07"},"name":"NITRO G 6.4mg Tablet 30's","composition":"Glyceryl Trinitrate 6.4mg","manufacturer":"Knoll Pharmaceuticals Ltd","price":"Rs.41.00"}
+{"_id":{"$oid":"5b583ac0d51d295f08bd5a08"},"name":"NITROBID 2.6mg Tablet 30's","composition":"Glyceryl Trinitrate 2.6mg","manufacturer":"Biogenics India Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b583ac2d51d295f08bd5a09"},"name":"NITROCIN 25mg SPRAY 15ml","composition":"Glyceryl Trinitrate 25mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.133.33"}
+{"_id":{"$oid":"5b583ac4d51d295f08bd5a0a"},"name":"NITROCIN 25mg Injection 5ml","composition":"Glyceryl Trinitrate 25mg","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.41.83"}
+{"_id":{"$oid":"5b583ac6d51d295f08bd5a0b"},"name":"NITROCIN 25mg SPRAY 5ml","composition":"GLYCERYL TRINITRATE 25MG","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.133.45"}
+{"_id":{"$oid":"5b583ac7d51d295f08bd5a0c"},"name":"NITROCIN 50mg Injection 10ml","composition":"Glyceryl Trinitrate 50mg","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.403.70"}
+{"_id":{"$oid":"5b583ac9d51d295f08bd5a0d"},"name":"NITROCIN LINGUAL 0.4mg SPRAY 15ml","composition":"Glyceryl Trinitrate 0.4mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.204.75"}
+{"_id":{"$oid":"5b583acbd51d295f08bd5a0e"},"name":"NITROCONTIN 6.4mg Tablet 30's","composition":"Nitroglycerin (Glyceryl Trinitrate) 6.4mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.251.00"}
+{"_id":{"$oid":"5b583acdd51d295f08bd5a0f"},"name":"NITROCONTIN 2.6mg Tablet 30's","composition":"Glyceryl Trinitrate 2.6mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.194.00"}
+{"_id":{"$oid":"5b583acfd51d295f08bd5a10"},"name":"NITROCURE 25mg Injection 5ml","composition":"Glyceryl Trinitrate 25mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b583ad2d51d295f08bd5a11"},"name":"NITRODAY 2.5mg Capsule 25'S","composition":"Glyceryl Trinitrate 2.5mg","manufacturer":"Invision Medi Sciences Pvt Ltd","price":"Rs.91.44"}
+{"_id":{"$oid":"5b583ad3d51d295f08bd5a12"},"name":"NITRODERM TTS 5mg Patch","composition":"Glyceryl Trinitrate 5mg","manufacturer":"Novartis India Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b583ad5d51d295f08bd5a13"},"name":"NITRODERM TTS 10mg Patch","composition":"Glyceryl Trinitrate 10mg","manufacturer":"Novartis India Ltd","price":"Rs.620.00"}
+{"_id":{"$oid":"5b583ad7d51d295f08bd5a14"},"name":"NITROFIRST 10MG TABLET 10'S","composition":"ISOSORBIDE 5 MONONITRATE 10MG","manufacturer":"Sinsan Pharmaceuticals Pvt Ltd","price":"Rs.18.10"}
+{"_id":{"$oid":"5b583ad9d51d295f08bd5a15"},"name":"NITROFIRST 60MG TABLET 10'S","composition":"ISOSORBIDE 5 MONONITRATE 60MG","manufacturer":"Sinsan Pharmaceuticals Pvt Ltd","price":"Rs.68.57"}
+{"_id":{"$oid":"5b583adcd51d295f08bd5a16"},"name":"NITROFIRST 20MG TABLET 10'S","composition":"ISOSORBIDE 5 MONONITRATE 20MG","manufacturer":"Sinsan Pharmaceuticals Pvt Ltd","price":"Rs.38.10"}
+{"_id":{"$oid":"5b583aded51d295f08bd5a17"},"name":"NITROFIX 10mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 10mg","manufacturer":"Micro Labs Ltd","price":"Rs.21.63"}
+{"_id":{"$oid":"5b583ae0d51d295f08bd5a18"},"name":"NITROFIX SR 60mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 60mg (SR)","manufacturer":"Micro Labs Ltd","price":"Rs.62.16"}
+{"_id":{"$oid":"5b583ae2d51d295f08bd5a19"},"name":"NITROFIX 30mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 30mg","manufacturer":"Micro Labs Ltd","price":"Rs.21.40"}
+{"_id":{"$oid":"5b583ae4d51d295f08bd5a1a"},"name":"NITROFIX 20mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 20mg","manufacturer":"Micro Labs Ltd","price":"Rs.31.14"}
+{"_id":{"$oid":"5b583ae7d51d295f08bd5a1b"},"name":"NITROFIX SR 30mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 30mg (SR)","manufacturer":"Micro Labs Ltd","price":"Rs.49.73"}
+{"_id":{"$oid":"5b583ae9d51d295f08bd5a1c"},"name":"NITROGARD 2.6mg Tablet 30's","composition":"Glyceryl Trinitrate 2.6mg","manufacturer":"Cipla Ltd","price":"Rs.122.62"}
+{"_id":{"$oid":"5b583aedd51d295f08bd5a1d"},"name":"NITROGESIC 0.20% Ointment 30gm","composition":"Glyceryl Trinitrate 0.002","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b583aefd51d295f08bd5a1e"},"name":"NITROGESIC M Ointment 30gm","composition":"Glyceryl Trinitrate 0.2%W/W","manufacturer":"Troikaa Pharmaceuticals Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b583af1d51d295f08bd5a1f"},"name":"NITROGLYN 25mg Injection 5ml","composition":"Glyceryl Trinitrate 25mg","manufacturer":"United Biotech Pvt Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b583af3d51d295f08bd5a20"},"name":"NITROLONG 6.4mg Tablet 30's","composition":"Nitroglycerin 6.4mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.184.14"}
+{"_id":{"$oid":"5b583af5d51d295f08bd5a21"},"name":"NITROLONG 2.6mg Tablet 30's","composition":"Glyceryl Trinitrate 2.6mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.137.94"}
+{"_id":{"$oid":"5b583af7d51d295f08bd5a22"},"name":"NITROPLUS Injection 5ml","composition":"Glyceryl Trinitrate 25mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.41.60"}
+{"_id":{"$oid":"5b583af9d51d295f08bd5a23"},"name":"NITROSPAN 2.6mg Tablet 30's","composition":"Glyceryl Trinitrate 2.6mg","manufacturer":"KAISER PHARMACEUTICALS","price":"Rs.114.40"}
+{"_id":{"$oid":"5b583afbd51d295f08bd5a24"},"name":"NITROSPAN 2.6mg Tablet 25's","composition":"GLYCERYL TRINITRATE(NITROGLYCERIN) 2.6MG","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b583afdd51d295f08bd5a25"},"name":"NITROSPAN 6.4mg Tablet 30's","composition":"Glyceryl Trinitrate 6.4mg","manufacturer":"KAISER PHARMACEUTICALS","price":"Rs.149.00"}
+{"_id":{"$oid":"5b583afed51d295f08bd5a26"},"name":"NITROWOK CR 6.4mg Tablet 14's","composition":"Glyceryl Trinitrate 6.4mg","manufacturer":"Wockhardt Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b583b00d51d295f08bd5a27"},"name":"NITROWOK CR 2.6mg Tablet 30's","composition":"Glyceryl Trinitrate 2.6mg","manufacturer":"Wockhardt Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b583b02d51d295f08bd5a28"},"name":"NITRT TTS5 5mg PATCH 10's","composition":"Glyceryl Trinitrate 5mg","manufacturer":"Novartis India Ltd","price":"Rs.590.47"}
+{"_id":{"$oid":"5b583b03d51d295f08bd5a29"},"name":"NITRUS CR 2.6mg Tablet 30's","composition":"Nitroglycerine 2.6mg (CR)","manufacturer":"Icarus Health Care Pvt Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b583b04d51d295f08bd5a2a"},"name":"NORAD Injection 2ml","composition":"Noradrenaline 2mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.186.40"}
+{"_id":{"$oid":"5b583b07d51d295f08bd5a2b"},"name":"NTGN 6.4mg Tablet 30's","composition":"Glyceryl Trinitrate 6.4mg","manufacturer":"Others","price":"Rs.145.00"}
+{"_id":{"$oid":"5b583b09d51d295f08bd5a2c"},"name":"NTGN 2.6mg Tablet 30's","composition":"Glyceryl Trinitrate 2.6mg","manufacturer":"Others","price":"Rs.130.00"}
+{"_id":{"$oid":"5b583b0cd51d295f08bd5a2d"},"name":"NUCORIL 10MG TABLET 10'S","composition":"NICORANDIL 10MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.392.85"}
+{"_id":{"$oid":"5b583b0ed51d295f08bd5a2e"},"name":"NUCORIL OD Tablet 20's","composition":"Nicorandil 5mg (OD)","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.357.50"}
+{"_id":{"$oid":"5b583b10d51d295f08bd5a2f"},"name":"ODIPRIL 5mg Capsule 15's","composition":"Ramipril 5mg","manufacturer":"Blue Cross Laboratories Ltd","price":"Rs.60.60"}
+{"_id":{"$oid":"5b583b12d51d295f08bd5a30"},"name":"PLANEP T 20mg Kit 10+10's","composition":"Eplerenone 25mg+Torsemide 20mg","manufacturer":"Lupin Ltd","price":"Rs.208.90"}
+{"_id":{"$oid":"5b583b14d51d295f08bd5a31"},"name":"PLEGIOCARD Injection 20ml","composition":"Potassium Chloride 59.65mg+Magnesium Carbonate 162.65mg+Procaine 13.64mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.148.05"}
+{"_id":{"$oid":"5b583b16d51d295f08bd5a32"},"name":"PLENDIL 2.5mg Tablet 10's","composition":"Felodipine 2.5mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.40.27"}
+{"_id":{"$oid":"5b583b18d51d295f08bd5a33"},"name":"PRASUSAFE 10mg Tablet 10's","composition":"Prasugrel 10mg","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.142.00"}
+{"_id":{"$oid":"5b583b1ad51d295f08bd5a34"},"name":"PRODIUM 20mg Tablet 10's","composition":"Trimetazidine 20mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.33.39"}
+{"_id":{"$oid":"5b583b1cd51d295f08bd5a35"},"name":"RAN CV 500mg Tablet 10's","composition":"Ranolazine 500mg","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.81.80"}
+{"_id":{"$oid":"5b583b1ed51d295f08bd5a36"},"name":"RAN CV 1gm Tablet 10's","composition":"Ranolazine 1gm","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.121.00"}
+{"_id":{"$oid":"5b583b20d51d295f08bd5a37"},"name":"RANCAD 500mg Tablet 10's","composition":"Ranolazine 500mg","manufacturer":"Lupin Ltd","price":"Rs.118.75"}
+{"_id":{"$oid":"5b583b22d51d295f08bd5a38"},"name":"RANCAD 1000mg Tablet 10's","composition":"Ranolazine 1000mg","manufacturer":"Lupin Ltd","price":"Rs.171.55"}
+{"_id":{"$oid":"5b583b24d51d295f08bd5a39"},"name":"RANDEAR ER 1000mg Tablet 10's","composition":"Ranolazine 1000mg (ER)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b583b26d51d295f08bd5a3a"},"name":"RANGIL XL 500mg Tablet 10's","composition":"Ranolazine 500mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.88.40"}
+{"_id":{"$oid":"5b583b28d51d295f08bd5a3b"},"name":"RANOGARD 500mg Tablet 10's","composition":"Ranolazine 500mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b583b2ad51d295f08bd5a3c"},"name":"RANOLAZ 500mg Tablet 10's","composition":"Ranolazine 500mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.114.20"}
+{"_id":{"$oid":"5b583b2cd51d295f08bd5a3d"},"name":"RANOLAZ OD Tablet 10's","composition":"Ranolazine 1gm (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.178.00"}
+{"_id":{"$oid":"5b583b2ed51d295f08bd5a3e"},"name":"RANOPILL 500mg Tablet 10's","composition":"Ranolazine 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b583b30d51d295f08bd5a3f"},"name":"RANOPLAN 500mg Tablet 10's","composition":"Ranolazine 500mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.93.50"}
+{"_id":{"$oid":"5b583b32d51d295f08bd5a40"},"name":"RANOZEX Tablet 10's","composition":"Ranolazine 500mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b583b34d51d295f08bd5a41"},"name":"RANX 500mg Tablet 15's","composition":"Ranolazine 500mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.185.18"}
+{"_id":{"$oid":"5b583b37d51d295f08bd5a42"},"name":"RANX 1gm Tablet 10's","composition":"Ranolazine 1gm","manufacturer":"Unichem Laboratories Ltd","price":"Rs.165.40"}
+{"_id":{"$oid":"5b583b39d51d295f08bd5a43"},"name":"RECARD 5mg Tablet 10's","composition":"Ivabradine 5mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b583b3bd51d295f08bd5a44"},"name":"ROLAZIN Tablet 10's","composition":"Ranolazine 500mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.94.90"}
+{"_id":{"$oid":"5b583b3cd51d295f08bd5a45"},"name":"S AMLOSAFE 1.25mg Tablet 10's","composition":"S AMLODIPINE 1.25MG","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.10.20"}
+{"_id":{"$oid":"5b583b3ed51d295f08bd5a46"},"name":"S WELLAMO 5mg Tablet 10's","composition":"S AMLODIPINE 5MG","manufacturer":"Leeford Healthcare Ltd","price":"Rs.14.25"}
+{"_id":{"$oid":"5b583b40d51d295f08bd5a47"},"name":"S WELLAMO 2.5mg Tablet 10's","composition":"S AMLODIPINE 2.5MG","manufacturer":"Leeford Healthcare Ltd","price":"Rs.11.25"}
+{"_id":{"$oid":"5b583b42d51d295f08bd5a48"},"name":"SAMLOKIND 5mg Tablet 10's","composition":"S AMLODIPINE 5MG","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.44.47"}
+{"_id":{"$oid":"5b583b43d51d295f08bd5a49"},"name":"SAMPILL 2.5mg Tablet 10's","composition":"S AMLODIPINE 2.5MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.29.00"}
+{"_id":{"$oid":"5b583b44d51d295f08bd5a4a"},"name":"SOLOSPRIN 30/150mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 30mg+Aspirin 150mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.28.00"}
+{"_id":{"$oid":"5b583b46d51d295f08bd5a4b"},"name":"SOLOSPRIN 30/75mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 30mg+Aspirin 75mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.104.50"}
+{"_id":{"$oid":"5b583b48d51d295f08bd5a4c"},"name":"SOLOTRATE 20mg Tablet 40's","composition":"Isosorbide 5 Mononitrate 20mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.109.60"}
+{"_id":{"$oid":"5b583b4ad51d295f08bd5a4d"},"name":"SOLOTRATE SR 60mg Tablet 10's","composition":"Isosorbide Mononitrate 60mg (SR)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.124.32"}
+{"_id":{"$oid":"5b583b4cd51d295f08bd5a4e"},"name":"SORBITRATE 10mg Tablet 50's","composition":"Isosorbide Dinitrate 10mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.38.80"}
+{"_id":{"$oid":"5b583b4ed51d295f08bd5a4f"},"name":"SORBITRATE 5mg Tablet 50's","composition":"Isosorbide Dinitrate 5mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.38.64"}
+{"_id":{"$oid":"5b583b50d51d295f08bd5a50"},"name":"STARPRESS MN XL 30mg Capsule 10's","composition":"Isosorbide 5 Mononitrate 5mg+Metoprolol 25mg (XL)","manufacturer":"Lupin Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b583b52d51d295f08bd5a51"},"name":"SYNOTRATE 20mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 20mg","manufacturer":"Synokem Pharmaceuticals Ltd","price":"Rs.36.43"}
+{"_id":{"$oid":"5b583b54d51d295f08bd5a52"},"name":"SYNX 500mg Tablet 10's","composition":"Ranolazine 500mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.117.15"}
+{"_id":{"$oid":"5b583b56d51d295f08bd5a53"},"name":"TAZ 20mg Tablet 10's","composition":"Trimetazidine 20mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.41.90"}
+{"_id":{"$oid":"5b583b58d51d295f08bd5a54"},"name":"TAZ 60mg Tablet 10's","composition":"Trimetazidine 60mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.67.05"}
+{"_id":{"$oid":"5b583b5ad51d295f08bd5a55"},"name":"TOFANTA 15mg Tablet 4's","composition":"Tolvaptan 15mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.430.00"}
+{"_id":{"$oid":"5b583b5cd51d295f08bd5a56"},"name":"TOFANTA 30mg Tablet 4's","composition":"Tolvaptan 30mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.820.00"}
+{"_id":{"$oid":"5b583b5ed51d295f08bd5a57"},"name":"TOLVAMAC 15mg Tablet 4's","composition":"Tolvaptan 15mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.396.00"}
+{"_id":{"$oid":"5b583b60d51d295f08bd5a58"},"name":"TOP NITRO 10mg PATCH 1'S","composition":"Glyceryl Trinitrate 10mg","manufacturer":"Fulford India Ltd","price":"Rs.42.15"}
+{"_id":{"$oid":"5b583b62d51d295f08bd5a59"},"name":"TOP NITRO 5mg PATCH 1'S","composition":"Glyceryl Trinitrate 5mg","manufacturer":"Fulford India Ltd","price":"Rs.39.00"}
+{"_id":{"$oid":"5b583b64d51d295f08bd5a5a"},"name":"TRIADIN 20mg Tablet 10's","composition":"Trimetazidine 20mg","manufacturer":"Medley Pharmaceuticals Pvt Ltd","price":"Rs.34.90"}
+{"_id":{"$oid":"5b583b64d51d295f08bd5a5b"},"name":"TRILONG 60mg Capsule 10's","composition":"Trimetazidine 60mg","manufacturer":"Elder Pharmaceuticals Ltd","price":"Rs.80.77"}
+{"_id":{"$oid":"5b583b67d51d295f08bd5a5c"},"name":"TRIMACONTIN 35mg Tablet 10's","composition":"Trimetazidine 35mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.138.00"}
+{"_id":{"$oid":"5b583b69d51d295f08bd5a5d"},"name":"TRIMACONTIN 60mg Tablet 10's","composition":"Trimetazidine 60mg","manufacturer":"Modi Mundi Pharma Ltd","price":"Rs.167.70"}
+{"_id":{"$oid":"5b583b6bd51d295f08bd5a5e"},"name":"TRIMEDOR 20mg Tablet 10's","composition":"Trimetazidine 20mg","manufacturer":"Avinash Health Products Pvt Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b583b6cd51d295f08bd5a5f"},"name":"TRIVED 20mg Tablet 10's","composition":"Trimetazidine 20mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b583b6fd51d295f08bd5a60"},"name":"TRIVEDON 20mg Tablet 10's","composition":"Trimetazidine 20mg","manufacturer":"Cipla Ltd","price":"Rs.55.50"}
+{"_id":{"$oid":"5b583b71d51d295f08bd5a61"},"name":"TRIVEDON MR Tablet 10's","composition":"Trimetazidine","manufacturer":"Cipla Ltd","price":"Rs.128.50"}
+{"_id":{"$oid":"5b583b73d51d295f08bd5a62"},"name":"TRIZID 20mg Tablet 10's","composition":"Trimetazidine 20mg","manufacturer":"Aretaeus Pharmaceuticals Pvt Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b583b75d51d295f08bd5a63"},"name":"TRIZID SR Tablet 10's","composition":"Trimetazidine 35mg (SR)","manufacturer":"Aretaeus Pharmaceuticals Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b583b77d51d295f08bd5a64"},"name":"UBINEXT LC Tablet 10's","composition":"Coenzyme Q10(Ubidecarenone) 30mg+Levocarnitine 500mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b583b78d51d295f08bd5a65"},"name":"UBNICHE 100mg Capsule 10's","composition":"COENZYME Q10(UBIDECARENONE) 100MG","manufacturer":"Alniche Life Sciences Pvt Ltd","price":"Rs.790.00"}
+{"_id":{"$oid":"5b583b7ad51d295f08bd5a66"},"name":"URIX 10mg Injection 2ml","composition":"FRUSEMIDE 10MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.2.95"}
+{"_id":{"$oid":"5b583b7dd51d295f08bd5a67"},"name":"VASODIL 20mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 20mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.29.82"}
+{"_id":{"$oid":"5b583b7fd51d295f08bd5a68"},"name":"VASOTRATE 20mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 20mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.35.07"}
+{"_id":{"$oid":"5b583b81d51d295f08bd5a69"},"name":"VASOTRATE 10mg Tablet 10's","composition":"Isosorbide 5 Mononitrate 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.18.07"}
+{"_id":{"$oid":"5b583b83d51d295f08bd5a6a"},"name":"VASOTRATE OD 30mg Tablet 7's","composition":"Isosorbide 5 Mononitrate 30mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.33.36"}
+{"_id":{"$oid":"5b583b85d51d295f08bd5a6b"},"name":"VASOVIN XL 2.5mg Capsule 25's","composition":"Glyceryl Trinitrate 2.5mg (XL)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.128.60"}
+{"_id":{"$oid":"5b583b87d51d295f08bd5a6c"},"name":"VASOVIN XL 6.5mg Capsule 25's","composition":"GLYCERYL TRINITRATE(NITROGLYCERIN) 6.5MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.142.57"}
+{"_id":{"$oid":"5b583b89d51d295f08bd5a6d"},"name":"VPL 2.5mg Injection 2ml","composition":"Verapamil 2.5mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.2.13"}
+{"_id":{"$oid":"5b583b8ad51d295f08bd5a6e"},"name":"VPL 5mg Injection 2ml","composition":"Verapamil 5mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.2.22"}
+{"_id":{"$oid":"5b583b8bd51d295f08bd5a6f"},"name":"WINITRO 2.6mg Tablet 30's","composition":"Glyceryl Trinitrate 2.6mg","manufacturer":"Others","price":"Rs.135.00"}
+{"_id":{"$oid":"5b583b8dd51d295f08bd5a70"},"name":"WINITRO 6.4mg Tablet 30's","composition":"Glyceryl Trinitrate 6.4mg","manufacturer":"Others","price":"Rs.152.37"}
+{"_id":{"$oid":"5b583b8fd51d295f08bd5a71"},"name":"ZYNICOR 5mg Tablet 30's","composition":"Nicorandil 5mg","manufacturer":"Others","price":"Rs.376.20"}
+{"_id":{"$oid":"5b583b91d51d295f08bd5a72"},"name":"ZYNICOR 10mg Tablet 30's","composition":"NICORANDIL 10MG","manufacturer":"Others","price":"Rs.650.60"}
+{"_id":{"$oid":"5b583b93d51d295f08bd5a73"},"name":"ZYNICOR 5mg Tablet 20's","composition":"NICORANDIL 5MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.376.20"}

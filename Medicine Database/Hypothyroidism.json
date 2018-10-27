@@ -1,0 +1,92 @@
+{"_id":{"$oid":"5b584eb1d51d2961a77ad2ad"},"name":"EltrOXIN 75mcg Tablet 20's","composition":"Levothyroxine 75mcg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b584eb3d51d2961a77ad2ae"},"name":"ELTROXIN 75mcg Tablet 60's","composition":"Thyroxine Sodium 75mcg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.79.30"}
+{"_id":{"$oid":"5b584ebad51d2961a77ad2af"},"name":"ELTROXIN 100mcg Tablet 100's","composition":"Thyroxine Sodium 100mcg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.120.96"}
+{"_id":{"$oid":"5b584ebbd51d2961a77ad2b0"},"name":"EltrOXIN 25mcg Tablet 60's","composition":"Thyroxine Sodium 25mcg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.78.20"}
+{"_id":{"$oid":"5b584ebdd51d2961a77ad2b1"},"name":"ELTROXIN 50mcg Tablet 100's","composition":"Thyroxine Sodium 50mcg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.72.64"}
+{"_id":{"$oid":"5b584ebfd51d2961a77ad2b2"},"name":"EltrOXIN 125mcg Tablet 60's","composition":"Thyroxine Sodium 125mcg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.93.32"}
+{"_id":{"$oid":"5b584ec0d51d2961a77ad2b3"},"name":"EUTHYROID 100mcg Tablet 4's","composition":"Levothyroxine Sodium","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b584ec2d51d2961a77ad2b4"},"name":"LETHYROX 50mcg Tablet 100's","composition":"Thyroxine Sodium 50mcg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.99.68"}
+{"_id":{"$oid":"5b584ec4d51d2961a77ad2b5"},"name":"LETHYROX 75mcg Tablet 30's","composition":"Levothyroxine 75mcg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b584ec6d51d2961a77ad2b6"},"name":"LETHYROX 75mcg Tablet 100's","composition":"Thyroxine Sodium 75mcg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.129.15"}
+{"_id":{"$oid":"5b584ec8d51d2961a77ad2b7"},"name":"LETHYROX 25mcg Tablet 100's","composition":"Thyroxine Sodium 25mcg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.107.58"}
+{"_id":{"$oid":"5b584ecad51d2961a77ad2b8"},"name":"LETHYROX 100mcg Tablet 100's","composition":"Thyroxine Sodium 100mcg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.116.55"}
+{"_id":{"$oid":"5b584ecbd51d2961a77ad2b9"},"name":"LETHYROX 88mcg Tablet 30's","composition":"Levo Thyroxine 88mcg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b584ecdd51d2961a77ad2ba"},"name":"LETHYROX 12.5mcg Tablet 50's","composition":"Thyroxine Sodium 12.5mcg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.49.73"}
+{"_id":{"$oid":"5b584ecfd51d2961a77ad2bb"},"name":"LETHYROX 100mcg Tablet 30's","composition":"Levothyroxine 100mcg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.35.32"}
+{"_id":{"$oid":"5b584ed1d51d2961a77ad2bc"},"name":"LETHYROX 150mcg Tablet 100's","composition":"Thyroxine Sodium 150mcg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.149.19"}
+{"_id":{"$oid":"5b584ed3d51d2961a77ad2bd"},"name":"SUNTHYROID 100mg Tablet 4's","composition":"Levothyroxine Sodium 100mcg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b584ed5d51d2961a77ad2be"},"name":"SUNTHYROID 50mg Tablet 4's","composition":"Levothyroxine Sodium 50mcg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b584ed7d51d2961a77ad2bf"},"name":"THORMONE 50mcg Tablet 100's","composition":"Thyroxine Sodium 50mcg","manufacturer":"Lupin Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b584ed9d51d2961a77ad2c0"},"name":"THYOBUILD 25mcg Tablet 100's","composition":"Thyroxine Sodium 25mcg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.117.00"}
+{"_id":{"$oid":"5b584edbd51d2961a77ad2c1"},"name":"THYOBUILD 75mcg Tablet 100's","composition":"Thyroxine Sodium 75mcg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.123.90"}
+{"_id":{"$oid":"5b584eddd51d2961a77ad2c2"},"name":"THYOBUILD 100mcg Tablet 100's","composition":"Thyroxine Sodium 100mcg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.123.90"}
+{"_id":{"$oid":"5b584edfd51d2961a77ad2c3"},"name":"THYOBUILD 50mcg Tablet 100's","composition":"Thyroxine Sodium 50mcg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.112.35"}
+{"_id":{"$oid":"5b584ee1d51d2961a77ad2c4"},"name":"THYROBEST 100mcg Tablet 10's","composition":"Levothyroxine 100mcg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.10.95"}
+{"_id":{"$oid":"5b584ee3d51d2961a77ad2c5"},"name":"THYROBEST 25mcg Tablet 10's","composition":"Thyroxine 25mcg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.9.00"}
+{"_id":{"$oid":"5b584ee5d51d2961a77ad2c6"},"name":"THYROBEST 50mcg Tablet 10's","composition":"Thyroxine 50mcg","manufacturer":"Bestochem Formulations Ind Ltd","price":"Rs.9.53"}
+{"_id":{"$oid":"5b584ee7d51d2961a77ad2c7"},"name":"THYROCHEK 100mg Tablet 10's","composition":"Dextrothyroxine 100mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.369.61"}
+{"_id":{"$oid":"5b584ee9d51d2961a77ad2c8"},"name":"THYROCHEK 50mg Tablet 10's","composition":"Dextrothyroxine 50mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.7.00"}
+{"_id":{"$oid":"5b584eebd51d2961a77ad2c9"},"name":"THYROCHEK 100mg Tablet 60's","composition":"Dextrothyroxine 100mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b584eedd51d2961a77ad2ca"},"name":"THYROCHEK 50mg Tablet 60's","composition":"Dextrothyroxine 50mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.42.00"}
+{"_id":{"$oid":"5b584eefd51d2961a77ad2cb"},"name":"THYROCHEK 25mg Tablet 60's","composition":"Dextrothyroxine 25mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.36.00"}
+{"_id":{"$oid":"5b584ef1d51d2961a77ad2cc"},"name":"THYROFIT 50mcg Tablet 30's","composition":"Thyroxine Sodium 50mcg","manufacturer":"Others","price":"Rs.29.89"}
+{"_id":{"$oid":"5b584ef3d51d2961a77ad2cd"},"name":"THYROFIT 125mcg Tablet 30's","composition":"Thyroxine Sodium 125mcg","manufacturer":"Others","price":"Rs.38.04"}
+{"_id":{"$oid":"5b584ef5d51d2961a77ad2ce"},"name":"THYROFIT 25mcg Tablet 30's","composition":"Thyroxine Sodium 25mcg","manufacturer":"Others","price":"Rs.35.16"}
+{"_id":{"$oid":"5b584ef7d51d2961a77ad2cf"},"name":"THYROFIT 100mcg Tablet 30's","composition":"Thyroxine Sodium 100mcg","manufacturer":"Others","price":"Rs.36.28"}
+{"_id":{"$oid":"5b584ef7d51d2961a77ad2d0"},"name":"THYROFIT 150mcg Tablet 30's","composition":"Thyroxine Sodium 150mcg","manufacturer":"Others","price":"Rs.39.05"}
+{"_id":{"$oid":"5b584efad51d2961a77ad2d1"},"name":"THYROFIT 75mcg Tablet 30's","composition":"Thyroxine Sodium 75mcg","manufacturer":"Others","price":"Rs.37.39"}
+{"_id":{"$oid":"5b584efcd51d2961a77ad2d2"},"name":"THYROMED 75mcg Tablet 100's","composition":"Thyroxine Sodium 75mcg","manufacturer":"Comed Chemicals Pvt Ltd","price":"Rs.132.16"}
+{"_id":{"$oid":"5b584efed51d2961a77ad2d3"},"name":"THYROMED 25mcg Tablet 100's","composition":"Thyroxine Sodium 25mcg","manufacturer":"Comed Chemicals Pvt Ltd","price":"Rs.133.28"}
+{"_id":{"$oid":"5b584f00d51d2961a77ad2d4"},"name":"THYROMED 50mcg Tablet 100's","composition":"Thyroxine Sodium 50mcg","manufacturer":"Comed Chemicals Pvt Ltd","price":"Rs.99.68"}
+{"_id":{"$oid":"5b584f01d51d2961a77ad2d5"},"name":"THYROMED 100mcg Tablet 100's","composition":"Thyroxine Sodium 100mcg","manufacturer":"Comed Chemicals Pvt Ltd","price":"Rs.120.96"}
+{"_id":{"$oid":"5b584f03d51d2961a77ad2d6"},"name":"THYRONORM 25mcg Tablet 100's","composition":"Thyroxine Sodium 25mcg","manufacturer":"Abbott India Ltd","price":"Rs.133.13"}
+{"_id":{"$oid":"5b584f05d51d2961a77ad2d7"},"name":"THYRONORM 62.5mcg Tablet 100's","composition":"Thyroxine Sodium 62.5mcg","manufacturer":"Abbott India Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b584f07d51d2961a77ad2d8"},"name":"THYRONORM 25mcg Tablet 120's","composition":"Thyroxine Sodium 25mcg","manufacturer":"Abbott India Ltd","price":"Rs.165.19"}
+{"_id":{"$oid":"5b584f09d51d2961a77ad2d9"},"name":"THYRONORM 137MCG TABLET 120'S","composition":"THYROXINE SODIUM 137MCG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.212.69"}
+{"_id":{"$oid":"5b584f0bd51d2961a77ad2da"},"name":"THYRONORM 125mcg Tablet 100's","composition":"THYROXINE SODIUM 125MCG","manufacturer":"Abbott India Ltd","price":"Rs.186.54"}
+{"_id":{"$oid":"5b584f0dd51d2961a77ad2db"},"name":"THYRONORM 100MCG TABLET 30'S","composition":"THYROXINE SODIUM 137MCG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.36.28"}
+{"_id":{"$oid":"5b584f0ed51d2961a77ad2dc"},"name":"THYRONORM 112mcg Tablet 100's","composition":"THYROXINE SODIUM 112MCG","manufacturer":"Abbott India Ltd","price":"Rs.145.60"}
+{"_id":{"$oid":"5b584f0fd51d2961a77ad2dd"},"name":"THYRONORM 75mcg Tablet 120's","composition":"Thyroxine Sodium 75mcg","manufacturer":"Abbott India Ltd","price":"Rs.158.47"}
+{"_id":{"$oid":"5b584f11d51d2961a77ad2de"},"name":"THYRONORM 25MCG TABLET 30'S","composition":"THYROXINE SODIUM 25MCG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.39.93"}
+{"_id":{"$oid":"5b584f13d51d2961a77ad2df"},"name":"THYRONORM 125mcg Tablet 120's","composition":"Thyroxine Sodium 125mcg","manufacturer":"Abbott India Ltd","price":"Rs.186.54"}
+{"_id":{"$oid":"5b584f15d51d2961a77ad2e0"},"name":"THYRONORM 150mcg Tablet 100's","composition":"Thyroxine Sodium 150mcg","manufacturer":"Abbott India Ltd","price":"Rs.187.00"}
+{"_id":{"$oid":"5b584f16d51d2961a77ad2e1"},"name":"THYRONORM 12.5mcg Tablet 120's","composition":"Thyroxine Sodium 12.5mcg","manufacturer":"Abbott India Ltd","price":"Rs.170.52"}
+{"_id":{"$oid":"5b584f18d51d2961a77ad2e2"},"name":"THYRONORM 137MCG TABLET 100'S","composition":"THYROXINE SODIUM 100MCG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.177.24"}
+{"_id":{"$oid":"5b584f1ad51d2961a77ad2e3"},"name":"THYRONORM 88mcg Tablet 100's","composition":"Thyroxine Sodium 88mcg","manufacturer":"Abbott India Ltd","price":"Rs.149.10"}
+{"_id":{"$oid":"5b584f1cd51d2961a77ad2e4"},"name":"THYRONORM 50MCG TABLET 30'S","composition":"THYROXINE SODIUM 50MCG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.29.90"}
+{"_id":{"$oid":"5b584f1ed51d2961a77ad2e5"},"name":"THYROPIL 100mcg Tablet 30's","composition":"Levothyroxine 100mcg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.31.00"}
+{"_id":{"$oid":"5b584f20d51d2961a77ad2e6"},"name":"THYROPIL 50mcg Tablet 30's","composition":"Levothyroxine 50mcg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.31.82"}
+{"_id":{"$oid":"5b584f21d51d2961a77ad2e7"},"name":"THYROPIL 25mcg Tablet 30's","composition":"Levothyroxine 25mcg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.31.50"}
+{"_id":{"$oid":"5b584f23d51d2961a77ad2e8"},"name":"THYROPIL 75mcg Tablet 30's","composition":"Levothyroxine 75mcg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.33.50"}
+{"_id":{"$oid":"5b584f25d51d2961a77ad2e9"},"name":"THYROPIL 50mcg Tablet 10's","composition":"Levothyroxine 50mcg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.25.71"}
+{"_id":{"$oid":"5b584f27d51d2961a77ad2ea"},"name":"THYROSURZ 50mcg Tablet 100's","composition":"Levothyroxine Sodium 50mcg","manufacturer":"Novartis India Ltd","price":"Rs.112.50"}
+{"_id":{"$oid":"5b584f29d51d2961a77ad2eb"},"name":"THYROTOP 50mcg Tablet 30's","composition":"Thyroxine Sodium","manufacturer":"Micro Labs Ltd","price":"Rs.34.96"}
+{"_id":{"$oid":"5b584f2ad51d2961a77ad2ec"},"name":"THYROTOP 25mcg Tablet 30's","composition":"Thyroxine Sodium","manufacturer":"Micro Labs Ltd","price":"Rs.38.43"}
+{"_id":{"$oid":"5b584f2dd51d2961a77ad2ed"},"name":"THYROUP 25mcg Tablet 100's","composition":"Thyroxine Sodium 25mcg","manufacturer":"Lupin Ltd","price":"Rs.133.19"}
+{"_id":{"$oid":"5b584f2fd51d2961a77ad2ee"},"name":"THYROUP 75mcg Tablet 100's","composition":"Thyroxine Sodium 75mcg","manufacturer":"Lupin Ltd","price":"Rs.132.11"}
+{"_id":{"$oid":"5b584f31d51d2961a77ad2ef"},"name":"THYROUP 100mcg Tablet 100's","composition":"Thyroxine Sodium 100mcg","manufacturer":"Lupin Ltd","price":"Rs.120.96"}
+{"_id":{"$oid":"5b584f33d51d2961a77ad2f0"},"name":"THYROUP 125mcg Tablet 100's","composition":"Thyroxine Sodium 125mcg","manufacturer":"Lupin Ltd","price":"Rs.155.42"}
+{"_id":{"$oid":"5b584f34d51d2961a77ad2f1"},"name":"THYROUP 50mcg Tablet 100's","composition":"Thyroxine Sodium 50mcg","manufacturer":"Lupin Ltd","price":"Rs.99.61"}
+{"_id":{"$oid":"5b584f38d51d2961a77ad2f2"},"name":"THYROUP 88mcg Tablet 100's","composition":"Thyroxine Sodium 88mcg","manufacturer":"Lupin Ltd","price":"Rs.127.50"}
+{"_id":{"$oid":"5b584f3ad51d2961a77ad2f3"},"name":"THYROUP 12.5mcg Tablet 50's","composition":"Thyroxine Sodium 12.5mcg","manufacturer":"Lupin Ltd","price":"Rs.68.73"}
+{"_id":{"$oid":"5b584f3cd51d2961a77ad2f4"},"name":"THYROUP 175 MCG Tablet 100's","composition":"Levothyroxine 175mcg","manufacturer":"Lupin Ltd","price":"Rs.118.87"}
+{"_id":{"$oid":"5b584f3dd51d2961a77ad2f5"},"name":"THYROUP 200 MCG Tablet 100's","composition":"Levothyroxine 200mcg","manufacturer":"Lupin Ltd","price":"Rs.143.86"}
+{"_id":{"$oid":"5b584f3ed51d2961a77ad2f6"},"name":"THYROUP 120 MCG Tablet 100's","composition":"Levothyroxine 120mcg","manufacturer":"Lupin Ltd","price":"Rs.123.45"}
+{"_id":{"$oid":"5b584f40d51d2961a77ad2f7"},"name":"THYROWEEK 100mg Tablet 4's","composition":"Levothyroxine Sodium 100mcg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b584f42d51d2961a77ad2f8"},"name":"THYROWIN 100mcg Tablet 100's","composition":"Dextrothyroxine 100mcg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.174.28"}
+{"_id":{"$oid":"5b584f45d51d2961a77ad2f9"},"name":"THYROWIN 50mcg Tablet 100's","composition":"Dextrothyroxine 50mcg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b584f47d51d2961a77ad2fa"},"name":"THYROWIN 50mg Tablet 14's","composition":"Dextrothyroxine 50mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.70.48"}
+{"_id":{"$oid":"5b584f4ad51d2961a77ad2fb"},"name":"THYROX 125mcg Tablet 100's","composition":"Thyroxine Sodium 125mcg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.149.10"}
+{"_id":{"$oid":"5b584f4bd51d2961a77ad2fc"},"name":"THYROX 100mcg Tablet 100's","composition":"Thyroxine Sodium 100mcg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.120.96"}
+{"_id":{"$oid":"5b584f4dd51d2961a77ad2fd"},"name":"THYROX 200mcg Tablet 100's","composition":"Thyroxine Sodium","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b584f4fd51d2961a77ad2fe"},"name":"THYROX 150mcg Tablet 100's","composition":"Thyroxine Sodium 150","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.156.80"}
+{"_id":{"$oid":"5b584f51d51d2961a77ad2ff"},"name":"THYROX 12.5mcg Tablet 100's","composition":"Thyroxine Sodium 12.5mcg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.142.50"}
+{"_id":{"$oid":"5b584f53d51d2961a77ad300"},"name":"THYROX 75mcg Tablet 100's","composition":"Thyroxine Sodium 75mcg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.136.70"}
+{"_id":{"$oid":"5b584f55d51d2961a77ad301"},"name":"THYROX 25mcg Tablet 100's","composition":"Thyroxine Sodium 25mcg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.137.86"}
+{"_id":{"$oid":"5b584f57d51d2961a77ad302"},"name":"THYROX 88mcg Tablet 100's","composition":"Thyroxine Sodium 88mcg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.161.03"}
+{"_id":{"$oid":"5b584f59d51d2961a77ad303"},"name":"THYROX 50mcg Tablet 100's","composition":"Thyroxine Sodium 50mcg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.99.68"}
+{"_id":{"$oid":"5b584f5bd51d2961a77ad304"},"name":"UTHYROX 25mcg Tablet 100's","composition":"THYROXINE SODIUM 25MCG","manufacturer":"Merck Ltd","price":"Rs.131.00"}
+{"_id":{"$oid":"5b584f5dd51d2961a77ad305"},"name":"UTHYROX 12.5mcg Tablet 50's","composition":"THYROXINE SODIUM 12.5MCG","manufacturer":"Merck Ltd","price":"Rs.66.15"}
+{"_id":{"$oid":"5b584f5fd51d2961a77ad306"},"name":"UTHYROX 75mcg Tablet 100's","composition":"Thyroxine Sodium 75mcg","manufacturer":"Merck Ltd","price":"Rs.131.25"}
+{"_id":{"$oid":"5b584f61d51d2961a77ad307"},"name":"UTHYROX 100mcg Tablet 100's","composition":"Thyroxine Sodium 100mcg","manufacturer":"Merck Ltd","price":"Rs.120.31"}
+{"_id":{"$oid":"5b584f63d51d2961a77ad308"},"name":"UTHYROX 50mcg Tablet 100's","composition":"THYROXINE SODIUM 50MCG","manufacturer":"Merck Ltd","price":"Rs.99.68"}

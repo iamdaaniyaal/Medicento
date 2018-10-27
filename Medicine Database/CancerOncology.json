@@ -1,0 +1,983 @@
+{"_id":{"$oid":"5b583f3fd51d295f99e730a6"},"name":"6 MP 50mg Tablet 10's","composition":"Mercaptopurine 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.78.11"}
+{"_id":{"$oid":"5b583f41d51d295f99e730a7"},"name":"ABIRAPRO 500mg Tablet 60's","composition":"ABIRATERONE ACETATE 500MG","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.25,000.00"}
+{"_id":{"$oid":"5b583f43d51d295f99e730a8"},"name":"ABIRATAS 250mg Tablet 30's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.24,750.00"}
+{"_id":{"$oid":"5b583f45d51d295f99e730a9"},"name":"ABIRATAS 250mg Tablet 120's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.94,285.70"}
+{"_id":{"$oid":"5b583f47d51d295f99e730aa"},"name":"ABITATE 250mg Injection 1's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"Rpg Life Science Ltd","price":"Rs.95,000.00"}
+{"_id":{"$oid":"5b583f49d51d295f99e730ab"},"name":"ABITATE U 250mg Tablet 120's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"Rpg Life Science Ltd","price":"Rs.42,655.00"}
+{"_id":{"$oid":"5b583f4bd51d295f99e730ac"},"name":"ABLU 50mg Tablet 10's","composition":"BICALUTAMIDE 50MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.205.00"}
+{"_id":{"$oid":"5b583f4cd51d295f99e730ad"},"name":"ABRAXANE 100mg Injection 20ml","composition":"Albumin Paclita 100mg","manufacturer":"Biocon Ltd","price":"Rs.16,640.00"}
+{"_id":{"$oid":"5b583f4ed51d295f99e730ae"},"name":"ABRETONE 250mg Tablet 60's","composition":"Abiraterone Acetate 250mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.49,524.30"}
+{"_id":{"$oid":"5b583f51d51d295f99e730af"},"name":"ABSTET 250mg Tablet 60's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"Biocon Ltd","price":"Rs.39,285.62"}
+{"_id":{"$oid":"5b583f53d51d295f99e730b0"},"name":"ABSTET 250mg Tablet 120's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"Biocon Ltd","price":"Rs.73,750.00"}
+{"_id":{"$oid":"5b583f54d51d295f99e730b1"},"name":"ADNEXA 50mg Injection 25ml","composition":"EPIRUBICIN HYDROCHLORIDE 50MG","manufacturer":"Biocon Ltd","price":"Rs.1,980.00"}
+{"_id":{"$oid":"5b583f58d51d295f99e730b2"},"name":"ADNEXA 100mg Injection 5ml","composition":"Epirubicin Hydrochloride 100mg","manufacturer":"Biocon Ltd","price":"Rs.403.00"}
+{"_id":{"$oid":"5b583f5ad51d295f99e730b3"},"name":"ADOVA 1mg Capsule 5's","composition":"Anastrozole 1mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.225.00"}
+{"_id":{"$oid":"5b583f5cd51d295f99e730b4"},"name":"ADOXI 120mg Injection 3ml","composition":"Docetaxel 120mg","manufacturer":"Adley Formulation","price":"Rs.14,570.00"}
+{"_id":{"$oid":"5b583f5ed51d295f99e730b5"},"name":"ADOXI 20mg Injection 0.5ml","composition":"Docetaxel 20mg","manufacturer":"Adley Formulation","price":"Rs.3,690.00"}
+{"_id":{"$oid":"5b583f60d51d295f99e730b6"},"name":"ADOXI 80mg Injection 2ml","composition":"Docetaxel 80mg","manufacturer":"Adley Formulation","price":"Rs.10,900.00"}
+{"_id":{"$oid":"5b583f63d51d295f99e730b7"},"name":"ADRIAMYCIN RTU 50mg Injection 1's","composition":"Doxorubicin 50mg","manufacturer":"Pfizer Limited","price":"Rs.874.39"}
+{"_id":{"$oid":"5b583f64d51d295f99e730b8"},"name":"ADRIAMYCIN RTU 10mg Injection 1's","composition":"Doxorubicin 10mg","manufacturer":"Pfizer Limited","price":"Rs.174.88"}
+{"_id":{"$oid":"5b583f66d51d295f99e730b9"},"name":"ADRIM 10mg Injection 5ml","composition":"Doxorubicin 10mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.214.28"}
+{"_id":{"$oid":"5b583f68d51d295f99e730ba"},"name":"ADRIM 50mg Injection 25ml","composition":"Doxorubicin 50mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.722.85"}
+{"_id":{"$oid":"5b583f6ad51d295f99e730bb"},"name":"ADSIDE 100mg Injection 1ml","composition":"Etoposide 100mg","manufacturer":"Adley Formulation","price":"Rs.220.00"}
+{"_id":{"$oid":"5b583f6cd51d295f99e730bc"},"name":"ADSIDE 50mg Capsule 8's","composition":"Etoposide 50mg","manufacturer":"Adley Formulation","price":"Rs.740.00"}
+{"_id":{"$oid":"5b583f6ed51d295f99e730bd"},"name":"ADVAMAB 100mg Injection 1's","composition":"BEVACIZUMAB 100MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.28,000.00"}
+{"_id":{"$oid":"5b583f70d51d295f99e730be"},"name":"AGOPRIDE 1mg Injection 0.5ml","composition":"LEUPRORELIN(LEUPROLIDE) ACETATE 1MG","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.238.10"}
+{"_id":{"$oid":"5b583f72d51d295f99e730bf"},"name":"AGOPRIDE DEPOT 3.75mg Injection 1's","composition":"LEUPRORELIN(LEUPROLIDE) ACETATE 3.75MG","manufacturer":"Ordain Healthcare Pvt Ltd","price":"Rs.3,937.50"}
+{"_id":{"$oid":"5b583f73d51d295f99e730c0"},"name":"AHABIR 250mg Tablet 120's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.30,000.00"}
+{"_id":{"$oid":"5b583f75d51d295f99e730c1"},"name":"ALBUPAX 100mg Injection 1's","composition":"ALBUMIN HUMAN 100MG","manufacturer":"Natco Pharma Ltd","price":"Rs.11,500.00"}
+{"_id":{"$oid":"5b583f76d51d295f99e730c2"},"name":"ALCRIST 1mg Injection 1's","composition":"Vincristine 1mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.51.93"}
+{"_id":{"$oid":"5b583f78d51d295f99e730c3"},"name":"ALIMTA 500mg Injection 1's","composition":"Pemetrexed 500mg","manufacturer":"Eli Lilly And Company","price":"Rs.73,660.00"}
+{"_id":{"$oid":"5b583f7ad51d295f99e730c4"},"name":"ALIMTA 100mg Injection 1's","composition":"Pemetrexed 100mg","manufacturer":"Eli Lilly And Company","price":"Rs.18,235.00"}
+{"_id":{"$oid":"5b583f7cd51d295f99e730c5"},"name":"ALKEPROST 250mg Tablet 120's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.49,500.00"}
+{"_id":{"$oid":"5b583f7dd51d295f99e730c6"},"name":"ALPHALAN 2mg Tablet 25's","composition":"Melphalan 2mg","manufacturer":"Natco Pharma Ltd","price":"Rs.2,175.00"}
+{"_id":{"$oid":"5b583f7fd51d295f99e730c7"},"name":"ALPHALAN 5mg Tablet 25's","composition":"Melphalan 5mg","manufacturer":"Natco Pharma Ltd","price":"Rs.4,540.00"}
+{"_id":{"$oid":"5b583f82d51d295f99e730c8"},"name":"ALRUBICIN 100mg Injection 1's","composition":"EPIRUBICIN HYDROCHLORIDE 100MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.4,290.00"}
+{"_id":{"$oid":"5b583f84d51d295f99e730c9"},"name":"ALRUBICIN 50mg Injection 1's","composition":"EPIRUBICIN HYDROCHLORIDE 50MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.2,210.47"}
+{"_id":{"$oid":"5b583f86d51d295f99e730ca"},"name":"ALRUBICIN 150mg Injection","composition":"Epirubicine 150mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.6,480.00"}
+{"_id":{"$oid":"5b583f88d51d295f99e730cb"},"name":"ALRUBICIN 10mg Injection 1's","composition":"EPIRUBICIN HYDROCHLORIDE 10MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.573.00"}
+{"_id":{"$oid":"5b583f8ad51d295f99e730cc"},"name":"ALTANIB 400mg Tablet 10's","composition":"IMATINIB MESYLATE 400MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.3,026.52"}
+{"_id":{"$oid":"5b583f8cd51d295f99e730cd"},"name":"ALTAXEL 250mg Injection 1's","composition":"Paclitaxel 250mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.8,100.00"}
+{"_id":{"$oid":"5b583f8ed51d295f99e730ce"},"name":"ALTAXEL 30mg Injection 5ml","composition":"Paclitaxel 30mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.1,617.15"}
+{"_id":{"$oid":"5b583f90d51d295f99e730cf"},"name":"ALTAXEL 260mg Injection 43.4ml","composition":"Paclitaxel 260mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.11,652.83"}
+{"_id":{"$oid":"5b583f93d51d295f99e730d0"},"name":"ALTAXEL 300mg Injection 50ml","composition":"Paclitaxel 300mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.11,760.23"}
+{"_id":{"$oid":"5b583f95d51d295f99e730d1"},"name":"ALTAXEL 100mg Injection 16.7ml","composition":"Paclitaxel 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.5,394.25"}
+{"_id":{"$oid":"5b583f97d51d295f99e730d2"},"name":"AltrAZ 1mg Tablet 14's","composition":"Anastrozole 1mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.810.00"}
+{"_id":{"$oid":"5b583f99d51d295f99e730d3"},"name":"ANABREZ 1mg Tablet 5's","composition":"Anastrozole 1mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.263.75"}
+{"_id":{"$oid":"5b583f9bd51d295f99e730d4"},"name":"ANACAN 1mg Tablet 10's","composition":"Anastrozole 1mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.398.88"}
+{"_id":{"$oid":"5b583f9cd51d295f99e730d5"},"name":"ANADAY 1mg Tablet 10's","composition":"Anastrozole 1mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.535.53"}
+{"_id":{"$oid":"5b583f9fd51d295f99e730d6"},"name":"ANARZOLE 1mg Tablet 10's","composition":"Anastrozole 1mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.294.11"}
+{"_id":{"$oid":"5b583fa1d51d295f99e730d7"},"name":"ANASTRA 1mg Tablet 14's","composition":"Anastrozole 1mg","manufacturer":"Wockhardt Ltd","price":"Rs.672.12"}
+{"_id":{"$oid":"5b583fa2d51d295f99e730d8"},"name":" ","composition":" NA ","manufacturer":" NA ","price":" NA "}
+{"_id":{"$oid":"5b583fa4d51d295f99e730d9"},"name":"ANASTRONAT 1mg Tablet 30's","composition":"ANASTROZOLE 1MG","manufacturer":"Natco Pharma Ltd","price":"Rs.1,200.00"}
+{"_id":{"$oid":"5b583fa6d51d295f99e730da"},"name":"ANATERO 1mg Tablet 10's","composition":"Anastrozole 1mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.470.00"}
+{"_id":{"$oid":"5b583fa8d51d295f99e730db"},"name":"ANAZOL 1mg Tablet 10's","composition":"Anastrozole 1mg","manufacturer":"United Biotech Pvt Ltd","price":"Rs.524.00"}
+{"_id":{"$oid":"5b583faad51d295f99e730dc"},"name":"ANDROBLOK 50mg Tablet 10's","composition":"Bicalutamide 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.422.00"}
+{"_id":{"$oid":"5b583fabd51d295f99e730dd"},"name":"ANOLET 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Maneesh Pharmaceuticals Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b583faed51d295f99e730de"},"name":"ANOLET 5mg Tablet 5's","composition":"Letrozole 5mg","manufacturer":"Maneesh Pharmaceuticals Ltd","price":"Rs.133.92"}
+{"_id":{"$oid":"5b583fb0d51d295f99e730df"},"name":"ANOSAM 1mg Tablet 10's","composition":"Anastrozole 1mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.255.00"}
+{"_id":{"$oid":"5b583fb2d51d295f99e730e0"},"name":"ANOSAM 1mg Tablet 5's","composition":"Anastrozole 1mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.292.07"}
+{"_id":{"$oid":"5b583fb4d51d295f99e730e1"},"name":"ANZEN 2.5mg Tablet 10's","composition":"LETROZOLE 2.5MG","manufacturer":"Sanzyme Pvt Ltd","price":"Rs.24.87"}
+{"_id":{"$oid":"5b583fb5d51d295f99e730e2"},"name":"APRELIEF 125mg Capsule","composition":"Aprepitant 125mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.1,320.00"}
+{"_id":{"$oid":"5b583fb7d51d295f99e730e3"},"name":"APREPEP 125mg Capsule 3's","composition":"Aprepitant 125mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.1,090.00"}
+{"_id":{"$oid":"5b583fb9d51d295f99e730e4"},"name":"APRISET Capsule KIT 3's","composition":"Aprepitant","manufacturer":"Alkem Laboratories Ltd","price":"Rs.1,530.00"}
+{"_id":{"$oid":"5b583fb9d51d295f99e730e5"},"name":"APRISET 150mg Injection","composition":"Aprepitant 150mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.2,430.00"}
+{"_id":{"$oid":"5b583fbcd51d295f99e730e6"},"name":"ARASID 500mg Injection 5ml","composition":"Cytarabine 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.536.00"}
+{"_id":{"$oid":"5b583fbed51d295f99e730e7"},"name":"ARASID 1gm Injection 10ml","composition":"Cytarabine 1gm","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.1,107.00"}
+{"_id":{"$oid":"5b583fc0d51d295f99e730e8"},"name":"ARASID 100mg Injection 1ml","composition":"Cytarabine 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.194.00"}
+{"_id":{"$oid":"5b583fc2d51d295f99e730e9"},"name":"ARBITUS 500mg Tablet 60's","composition":"ABIRATERONE ACETATE 500MG","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.35,267.00"}
+{"_id":{"$oid":"5b583fc4d51d295f99e730ea"},"name":"ARBITUS 250mg Tablet 40's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.15,684.72"}
+{"_id":{"$oid":"5b583fc6d51d295f99e730eb"},"name":"ARBITUS 250mg Tablet 120's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.39,500.00"}
+{"_id":{"$oid":"5b583fc7d51d295f99e730ec"},"name":"ARIMIDEX 1mg Tablet 14's","composition":"Anastrozole 1mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.3,435.00"}
+{"_id":{"$oid":"5b583fc9d51d295f99e730ed"},"name":"ARITERON 250mg Tablet 120's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"UTH HEALTHCARE LTD","price":"Rs.30,000.00"}
+{"_id":{"$oid":"5b583fcbd51d295f99e730ee"},"name":"ARITERON 250mg Tablet 30's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"UTH HEALTHCARE LTD","price":"Rs.7,500.00"}
+{"_id":{"$oid":"5b583fcdd51d295f99e730ef"},"name":"ARMOTRAZ 1mg Tablet 10's","composition":"Anastrozole 1mg","manufacturer":"Cipla Ltd","price":"Rs.598.95"}
+{"_id":{"$oid":"5b583fced51d295f99e730f0"},"name":"AROMASIN 25mg Tablet 15's","composition":"Exemestane 25mg","manufacturer":"Pfizer Limited","price":"Rs.5,284.00"}
+{"_id":{"$oid":"5b583fd0d51d295f99e730f1"},"name":"AROMATIN 2.5mg Tablet 5'S","composition":"Letrozole 2.5mg","manufacturer":"Ttk Healthcare Ltd","price":"Rs.141.82"}
+{"_id":{"$oid":"5b583fd3d51d295f99e730f2"},"name":"AROMATIN 2.5mg Tablet 10's","composition":"Letrozole 2.5mg","manufacturer":"Ttk Healthcare Ltd","price":"Rs.141.15"}
+{"_id":{"$oid":"5b583fd5d51d295f99e730f3"},"name":"ARSENIDE 10mg Injection","composition":"Arsenic Trioxide 10mg","manufacturer":"Natco Pharma Ltd","price":"Rs.475.00"}
+{"_id":{"$oid":"5b583fd7d51d295f99e730f4"},"name":"ARSENOX 10mg Injection 10ml","composition":"Arsenic Trioxide 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.818.00"}
+{"_id":{"$oid":"5b583fd9d51d295f99e730f5"},"name":"ARSIKEM Injection 10ml","composition":"Arsenic Trioxide 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.429.00"}
+{"_id":{"$oid":"5b583fdbd51d295f99e730f6"},"name":"ASGINASE 5000iu Injection 1's","composition":"ASPARAGINASE 5000IU","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.1,205.00"}
+{"_id":{"$oid":"5b583fddd51d295f99e730f7"},"name":"ASGINASE 10000iu Injection 1's","composition":"ASPARAGINASE 10000IU","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.1,596.00"}
+{"_id":{"$oid":"5b583fdfd51d295f99e730f8"},"name":"ASPERAG 10000iu Injection 1's","composition":"ASPARAGINASE 10000IU","manufacturer":"Alkem Laboratories Ltd","price":"Rs.2,430.00"}
+{"_id":{"$oid":"5b583fe1d51d295f99e730f9"},"name":"ATSURE 1gm Injection","composition":"Gemcitabine 1gm","manufacturer":"Biocon Ltd","price":"Rs.6,821.00"}
+{"_id":{"$oid":"5b583fe3d51d295f99e730fa"},"name":"ATSURE 200mg Injection","composition":"Gemcitabine 200mg","manufacturer":"Biocon Ltd","price":"Rs.1,493.00"}
+{"_id":{"$oid":"5b583fe5d51d295f99e730fb"},"name":"ATUBRI 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Pfizer Limited","price":"Rs.1,231.00"}
+{"_id":{"$oid":"5b583fe8d51d295f99e730fc"},"name":"AURATREX 5mg Tablet 4's","composition":"Methotrexate 5mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b583fead51d295f99e730fd"},"name":"AURATREX 10mg Tablet 4's","composition":"Methotrexate 10mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b583fecd51d295f99e730fe"},"name":"AURATREX 7.5mg Tablet 4's","composition":"Methotrexate 7.5mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.47.20"}
+{"_id":{"$oid":"5b583feed51d295f99e730ff"},"name":"AURATREX 2.5mg Tablet 4's","composition":"Methotrexate 2.5mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.18.00"}
+{"_id":{"$oid":"5b583ff0d51d295f99e73100"},"name":"AVASTIN 400mg Injection 16ml","composition":"Bevacizumab 400mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.116,000.00"}
+{"_id":{"$oid":"5b583ff2d51d295f99e73101"},"name":"AVASTIN 100mg Injection 4ml","composition":"Bevacizumab 100mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.35,020.00"}
+{"_id":{"$oid":"5b583ff3d51d295f99e73102"},"name":"AZACTIVE 100mg Injection 1's","composition":"Azacitidine 100mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.7,967.40"}
+{"_id":{"$oid":"5b583ff5d51d295f99e73103"},"name":"AZADINE 100mg Injection 30ml","composition":"Azacitidine 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.8,900.00"}
+{"_id":{"$oid":"5b583ff7d51d295f99e73104"},"name":"AZALIVE 100mg Injection 1's","composition":"Azacitidine 100mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.9,139.20"}
+{"_id":{"$oid":"5b583ff9d51d295f99e73105"},"name":"AZAPLAST 100mg Injection 1ml","composition":"Azacitidine 100mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.8,500.00"}
+{"_id":{"$oid":"5b583ffbd51d295f99e73106"},"name":"BEMUSTIN 100mg Injection 1ml","composition":"Bendamustine 100mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.6,950.00"}
+{"_id":{"$oid":"5b583ffdd51d295f99e73107"},"name":"BENDIT 100mg Injection","composition":"Bendamustine 100mg","manufacturer":"Natco Pharma Ltd","price":"Rs.6,950.00"}
+{"_id":{"$oid":"5b583fffd51d295f99e73108"},"name":"BENZZ 100mg Injection","composition":"Bendamustine 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.7,848.00"}
+{"_id":{"$oid":"5b584001d51d295f99e73109"},"name":"BESTOVA L 2.5mg Tablet 5'S","composition":"Letrozole 2.5mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.172.00"}
+{"_id":{"$oid":"5b584002d51d295f99e7310a"},"name":"BEVATAS 100mg Injection 4ml","composition":"BEVACIZUMAB 100MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.25,990.00"}
+{"_id":{"$oid":"5b584003d51d295f99e7310b"},"name":"BEVETEX 100 mg Injection 1's","composition":"PACLITAXEL 100MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.12,500.00"}
+{"_id":{"$oid":"5b584005d51d295f99e7310c"},"name":"BICAL 50mg Tablet 10's","composition":"Bicalutamide 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.327.00"}
+{"_id":{"$oid":"5b584007d51d295f99e7310d"},"name":"BICALPRO 50mg Tablet 10's","composition":"Bicalutamide 50mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.440.00"}
+{"_id":{"$oid":"5b584009d51d295f99e7310e"},"name":"BICATERO 50mg Tablet 10's","composition":"Bicalutamide 50mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.300.00"}
+{"_id":{"$oid":"5b58400bd51d295f99e7310f"},"name":"BIOBIN 100mg Injection 1ml","composition":"Cytarabine 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.239.00"}
+{"_id":{"$oid":"5b58400dd51d295f99e73110"},"name":"BIOBIN 500mg Injection 5ml","composition":"Cytarabine 500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.564.00"}
+{"_id":{"$oid":"5b58400fd51d295f99e73111"},"name":"BIOBIN 1gm Injection 10ml","composition":"Cytarabine 1gm","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.1,241.00"}
+{"_id":{"$oid":"5b584013d51d295f99e73112"},"name":"BIOCARB 150mg Injection","composition":"Carboplatin 150mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.913.53"}
+{"_id":{"$oid":"5b584015d51d295f99e73113"},"name":"BIOCARB 450mg Injection","composition":"Carboplatin 450mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.2,807.61"}
+{"_id":{"$oid":"5b584017d51d295f99e73114"},"name":"BIOCRISTINE AQ Injection 1ml","composition":"Vincristine 1mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.54.60"}
+{"_id":{"$oid":"5b584019d51d295f99e73115"},"name":"BIOCUMIN 500mg Capsule 10's","composition":"Curcuma 500mg+Lycopene 25mg+Piperine 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.199.00"}
+{"_id":{"$oid":"5b58401bd51d295f99e73116"},"name":"BIOMAB EGFR X 50mg Injection 1ml","composition":"Nimotuzumab 50mg","manufacturer":"Biocon Ltd","price":"Rs.54,350.00"}
+{"_id":{"$oid":"5b58401dd51d295f99e73117"},"name":"BIONASE 10000iu Injection 1's","composition":"ASPARAGINASE 10000IU","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.2,448.00"}
+{"_id":{"$oid":"5b58401fd51d295f99e73118"},"name":"BIONASE 5000iu Injection 1's","composition":"ASPARAGINASE 5000IU","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.1,290.90"}
+{"_id":{"$oid":"5b584021d51d295f99e73119"},"name":"BIOPOSIDE 100mg Injection 5ml","composition":"Etoposide 100mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.195.50"}
+{"_id":{"$oid":"5b584022d51d295f99e7311a"},"name":"BIORUBIN 50mg Injection 1's","composition":"EPIRUBICIN HYDROCHLORIDE 50MG","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.2,940.30"}
+{"_id":{"$oid":"5b584024d51d295f99e7311b"},"name":"BIORUBIN 10mg Injection 1's","composition":"EPIRUBICIN HYDROCHLORIDE 10MG","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.598.90"}
+{"_id":{"$oid":"5b584026d51d295f99e7311c"},"name":"BIOTREXATE 2.5mg Tablet 10's","composition":"Methotrexate 2.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.45.57"}
+{"_id":{"$oid":"5b584028d51d295f99e7311d"},"name":"BIOTREXATE 50mg Injection 1's","composition":"METHOTREXATE 50MG","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.64.80"}
+{"_id":{"$oid":"5b58402ad51d295f99e7311e"},"name":"BIOTREXATE 50mg Tablet 10's","composition":"Methotrexate 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.62.31"}
+{"_id":{"$oid":"5b58402cd51d295f99e7311f"},"name":"BIOVORIN 50mg Injection 5ml","composition":"Calcium Pantothenate 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.326.00"}
+{"_id":{"$oid":"5b58402ed51d295f99e73120"},"name":"BIOVORIN 15mg Injection 5X2ml","composition":"CALCIUM FOLINATE(LEUCOVORIN) 15MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.653.00"}
+{"_id":{"$oid":"5b584030d51d295f99e73121"},"name":"BIOVORIN 15mg Tablet 10's","composition":"LEUCOVORIN CALCIUM 15MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.381.15"}
+{"_id":{"$oid":"5b584032d51d295f99e73122"},"name":"BIPROSTA 50mg Tablet 10's","composition":"BICALUTAMIDE 50MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.427.00"}
+{"_id":{"$oid":"5b584034d51d295f99e73123"},"name":"BLEOCHEM 15IU Injection","composition":"Bleomycin 15IU","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.694.84"}
+{"_id":{"$oid":"5b584036d51d295f99e73124"},"name":"BLEOCIP 15IU Injection","composition":"Bleomycin 15IU","manufacturer":"Cipla Ltd","price":"Rs.591.42"}
+{"_id":{"$oid":"5b584038d51d295f99e73125"},"name":"BLOZZOM 3.75MG INJECTION 1'S","composition":"LEUPRORELIN 3.75MG","manufacturer":"Usv Private Ltd","price":"Rs.4,000.00"}
+{"_id":{"$oid":"5b58403ad51d295f99e73126"},"name":"BORTECAD 2mg Injection","composition":"Bortezomib 2mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.12,499.29"}
+{"_id":{"$oid":"5b58403cd51d295f99e73127"},"name":"BORTEMAP 2mg Injection 1's","composition":"Bortezomib 2mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.11,308.00"}
+{"_id":{"$oid":"5b58403ed51d295f99e73128"},"name":"BORTENAT 2mg Injection","composition":"Bortezomib 2mg","manufacturer":"Natco Pharma Ltd","price":"Rs.11,300.00"}
+{"_id":{"$oid":"5b584040d51d295f99e73129"},"name":"BORTENAT 3.5mg Injection","composition":"Bortezomib 3.5mg","manufacturer":"Natco Pharma Ltd","price":"Rs.17,640.00"}
+{"_id":{"$oid":"5b584042d51d295f99e7312a"},"name":"BORTEPLUS 2mg Injection","composition":"Bortezomib 2mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.12,600.00"}
+{"_id":{"$oid":"5b584044d51d295f99e7312b"},"name":"BORTETRUST 2mg Injection 1's","composition":"Bortezomib 2mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.12,499.00"}
+{"_id":{"$oid":"5b584045d51d295f99e7312c"},"name":"BORVIZ 2mg Injection","composition":"Bortezomib 2mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.14,715.00"}
+{"_id":{"$oid":"5b584047d51d295f99e7312d"},"name":"BUSARLIN 7mg Injection 1's","composition":"Buserelin 7mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.2,117.00"}
+{"_id":{"$oid":"5b584049d51d295f99e7312e"},"name":"BUSELIN 7mg Injection 7ml","composition":"Buserelin 7mg","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.2,897.65"}
+{"_id":{"$oid":"5b58404bd51d295f99e7312f"},"name":"CACIT 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.1,284.42"}
+{"_id":{"$oid":"5b58404dd51d295f99e73130"},"name":"CAELYX 20mg Injection 10ml","composition":"Doxorubicin 20mg","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.49,427.00"}
+{"_id":{"$oid":"5b58404fd51d295f99e73131"},"name":"CALCIUM FOLINATE (DR. REDDYS) 15mg Injection 1's","composition":"Calcium Folinate 15mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b584051d51d295f99e73132"},"name":"CALUDEC 50mg Tablet 10's","composition":"Bicalutamide 50mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.346.63"}
+{"_id":{"$oid":"5b584053d51d295f99e73133"},"name":"CALURAN 50mg Tablet 10's","composition":"BICALUTAMIDE 50MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.570.60"}
+{"_id":{"$oid":"5b584055d51d295f99e73134"},"name":"CALURAN CP 50mg Tablet 30's","composition":"BICALUTAMIDE 50MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.1,010.81"}
+{"_id":{"$oid":"5b584057d51d295f99e73135"},"name":"CALUTIDE 50mg Tablet 10's","composition":"Bicalutamide 50mg","manufacturer":"Cipla Ltd","price":"Rs.489.33"}
+{"_id":{"$oid":"5b584059d51d295f99e73136"},"name":"CAMPTO 100mg Injection 5ml","composition":"Irinotecan 100mg","manufacturer":"Pfizer Limited","price":"Rs.21,835.00"}
+{"_id":{"$oid":"5b58405bd51d295f99e73137"},"name":"CAMPTO 40mg Injection 2ml","composition":"Irinotecan 40mg","manufacturer":"Pfizer Limited","price":"Rs.8,236.00"}
+{"_id":{"$oid":"5b58405cd51d295f99e73138"},"name":"CANMAB 150mg Injection 1","composition":"Trastuzumab 150mg","manufacturer":"Biocon Ltd","price":"Rs.19,807.72"}
+{"_id":{"$oid":"5b58405dd51d295f99e73139"},"name":"CANTRET 50mg Capsule 10's","composition":"ALTRETAMINE 50MG","manufacturer":"Natco Pharma Ltd","price":"Rs.4,680.00"}
+{"_id":{"$oid":"5b584061d51d295f99e7313a"},"name":"CAPCITA 500mg Tablet 12's","composition":"Capecitabine 500mg","manufacturer":"Wockhardt Ltd","price":"Rs.81.25"}
+{"_id":{"$oid":"5b584063d51d295f99e7313b"},"name":"CAPECAD 500mg Tablet 10's","composition":"CAPECITABINE 500MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.952.37"}
+{"_id":{"$oid":"5b584065d51d295f99e7313c"},"name":"CAPECITAPER 500mg Tablet 1's","composition":"CAPECITABINE 500MG","manufacturer":"Parenteral Drugs India Ltd","price":"Rs.1,714.30"}
+{"_id":{"$oid":"5b584067d51d295f99e7313d"},"name":"CAPECITE 500mg Tablet 8's","composition":"Capecitabine 500mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.985.06"}
+{"_id":{"$oid":"5b584069d51d295f99e7313e"},"name":"CAPEGARD 500mg Tablet 10's","composition":"CAPECITABINE 500MG","manufacturer":"Cipla Ltd","price":"Rs.600.00"}
+{"_id":{"$oid":"5b58406bd51d295f99e7313f"},"name":"CAPETA 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.1,530.00"}
+{"_id":{"$oid":"5b58406dd51d295f99e73140"},"name":"CAPETA NOVA 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.1,284.42"}
+{"_id":{"$oid":"5b58406fd51d295f99e73141"},"name":"CAPETERO 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.1,223.00"}
+{"_id":{"$oid":"5b584072d51d295f99e73142"},"name":"CAPEZAM 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.1,490.00"}
+{"_id":{"$oid":"5b584074d51d295f99e73143"},"name":"CAPIIBINE 500mg Tablet 30's","composition":"Capecitabine 500mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.3,131.56"}
+{"_id":{"$oid":"5b584076d51d295f99e73144"},"name":"CAPIIBINE 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,021.76"}
+{"_id":{"$oid":"5b584077d51d295f99e73145"},"name":"CAPNAT 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Natco Pharma Ltd","price":"Rs.1,114.00"}
+{"_id":{"$oid":"5b584079d51d295f99e73146"},"name":"CAPOSTAT 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.875.00"}
+{"_id":{"$oid":"5b58407bd51d295f99e73147"},"name":"CAPSY 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.1,231.34"}
+{"_id":{"$oid":"5b58407dd51d295f99e73148"},"name":"CAPXCEL 500mg Tablet 10's","composition":"CAPECITABINE 500MG","manufacturer":"Khandelwal Laboratories Ltd","price":"Rs.1,536.00"}
+{"_id":{"$oid":"5b58407fd51d295f99e73149"},"name":"CARBOKEM 450mg Injection 45ml","composition":"Carboplatin 450mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.2,604.85"}
+{"_id":{"$oid":"5b584081d51d295f99e7314a"},"name":"CARBOKEM 150mg Injection 15ml","composition":"Carboplatin 150mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.847.56"}
+{"_id":{"$oid":"5b584083d51d295f99e7314b"},"name":"CARBOKEM 600mg Injection 60ml","composition":"Carboplatin 600mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.6,336.00"}
+{"_id":{"$oid":"5b584085d51d295f99e7314c"},"name":"CARBOPA 450mg Injection 45ml","composition":"Carboplatin 450mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.2,808.00"}
+{"_id":{"$oid":"5b584086d51d295f99e7314d"},"name":"CARBOPA 150mg Injection 15ml","composition":"Carboplatin 150mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.914.00"}
+{"_id":{"$oid":"5b584088d51d295f99e7314e"},"name":"CARBOZAR 150mg Injection 1ml","composition":"Carboplatin 150mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.798.19"}
+{"_id":{"$oid":"5b584089d51d295f99e7314f"},"name":"CARBOZAR 450mg Injection 1ml","composition":"CARBOPLATIN 450MG","manufacturer":"Rpg Life Science Ltd","price":"Rs.2,700.00"}
+{"_id":{"$oid":"5b58408bd51d295f99e73150"},"name":"CARCIDOX 200mg Capsule 6's","composition":"DOXIFLURIDINE 200MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.253.65"}
+{"_id":{"$oid":"5b58408dd51d295f99e73151"},"name":"CARDIARONE 100mg Tablet 10's","composition":"Doxorubicin 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.65.47"}
+{"_id":{"$oid":"5b58408ed51d295f99e73152"},"name":"CARFILNAT 60mg Injection 1's","composition":"CARFILZOMIB 60MG","manufacturer":"Natco Pharma Ltd","price":"Rs.9,990.00"}
+{"_id":{"$oid":"5b584090d51d295f99e73153"},"name":"CASODEX 50mg Tablet 14's","composition":"BICALUTAMIDE 50MG","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.952.70"}
+{"_id":{"$oid":"5b584092d51d295f99e73154"},"name":"CASODEX 50mg Tablet 7's","composition":"Bicalutamide 50mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.2,742.66"}
+{"_id":{"$oid":"5b584096d51d295f99e73155"},"name":"CAXETA 500 mg Tablet 4's","composition":"CAPECITABINE 500MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.492.53"}
+{"_id":{"$oid":"5b584097d51d295f99e73156"},"name":"CAZAT 60mg Injection 1.5ml","composition":"Cabazitaxel 60mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.25,000.00"}
+{"_id":{"$oid":"5b58409ad51d295f99e73157"},"name":"CCQ L 2.5mg Tablet 5'S","composition":"Letrozole 2.5mg","manufacturer":"Ttk Healthcare Ltd","price":"Rs.172.00"}
+{"_id":{"$oid":"5b58409cd51d295f99e73158"},"name":"CELGEM 200mg Injection","composition":"Gemcitabine 200mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.1,404.68"}
+{"_id":{"$oid":"5b58409ed51d295f99e73159"},"name":"CELGEM 1gm Injection","composition":"Gemcitabine 1gm","manufacturer":"Alkem Laboratories Ltd","price":"Rs.6,412.04"}
+{"_id":{"$oid":"5b5840a0d51d295f99e7315a"},"name":"CHEMLET 2.5mg Tablet 10's","composition":"Letrozole 2.5mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.46.25"}
+{"_id":{"$oid":"5b5840a3d51d295f99e7315b"},"name":"CHEMODOC 80mg Injection 2ml","composition":"Docetaxel 80mg","manufacturer":"Lupin Ltd","price":"Rs.10,979.00"}
+{"_id":{"$oid":"5b5840a4d51d295f99e7315c"},"name":"CHEMOFIT 250mg Tablet 10's","composition":"Gefitinib 250mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.3,388.80"}
+{"_id":{"$oid":"5b5840a7d51d295f99e7315d"},"name":"CHEMOFLURA 500mg Injection 10ml","composition":"Fluorouracil 500mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.20.40"}
+{"_id":{"$oid":"5b5840a8d51d295f99e7315e"},"name":"CHEMOFLURA 250mg Injection 5ml","composition":"FLUOROURACIL 250MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.10.90"}
+{"_id":{"$oid":"5b5840acd51d295f99e7315f"},"name":"CHEMORESSA 250mg Tablet 10's","composition":"Gefitinib 250mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.3,795.00"}
+{"_id":{"$oid":"5b5840aed51d295f99e73160"},"name":"CHOPHOS 1000mg Injection 1's","composition":"Cyclophosphamide 1000mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.117.85"}
+{"_id":{"$oid":"5b5840b0d51d295f99e73161"},"name":"CIPRUBICIN 10mg Injection 1's","composition":"EPIRUBICIN HYDROCHLORIDE 10MG","manufacturer":"Cipla Ltd","price":"Rs.426.00"}
+{"_id":{"$oid":"5b5840b1d51d295f99e73162"},"name":"CISPLAT 10mg Injection 1ml","composition":"CISPLATIN 10MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.70.00"}
+{"_id":{"$oid":"5b5840b3d51d295f99e73163"},"name":"CISPLAT 50mg Injection 50ml","composition":"Cisplatin 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.350.00"}
+{"_id":{"$oid":"5b5840b6d51d295f99e73164"},"name":"CISPLATIN (DR.REDDYS) 50mg Infusion 50ml","composition":"Cisplatin 50mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.309.15"}
+{"_id":{"$oid":"5b5840b8d51d295f99e73165"},"name":"CISPLATIN (DR.REDDYS) 10mg Injection 10ml","composition":"Cisplatin 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.89.10"}
+{"_id":{"$oid":"5b5840bad51d295f99e73166"},"name":"CITABIN 500mg Tablet 10's","composition":"CAPECITABINE 500MG","manufacturer":"United Biotech Pvt Ltd","price":"Rs.1,695.00"}
+{"_id":{"$oid":"5b5840bcd51d295f99e73167"},"name":"CIZCAN 50mg Injection 50ml","composition":"CISPLATIN 50MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.335.00"}
+{"_id":{"$oid":"5b5840bed51d295f99e73168"},"name":"CIZUMAB 100mg Injection 4ml","composition":"Bevacizumab","manufacturer":"Hetero Healthcare Ltd","price":"Rs.27,095.23"}
+{"_id":{"$oid":"5b5840c0d51d295f99e73169"},"name":"CLADRIM 10mg Injection 1's","composition":"Cladribine 10mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.13,400.00"}
+{"_id":{"$oid":"5b5840c2d51d295f99e7316a"},"name":"CLOKERAN 5mg Tablet 30's","composition":"Chlorambucil 5mg","manufacturer":"Natco Pharma Ltd","price":"Rs.2,190.00"}
+{"_id":{"$oid":"5b5840c4d51d295f99e7316b"},"name":"CLOKERAN 2mg Tablet 30's","composition":"Chlorambucil 2mg","manufacturer":"Natco Pharma Ltd","price":"Rs.1,356.00"}
+{"_id":{"$oid":"5b5840c6d51d295f99e7316c"},"name":"CLOMIPURE L 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.172.00"}
+{"_id":{"$oid":"5b5840c7d51d295f99e7316d"},"name":"COLSTIM 300mcg Injection","composition":"Filgrastim 300mcg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.460.71"}
+{"_id":{"$oid":"5b5840c9d51d295f99e7316e"},"name":"COSMEGEN 500mcg Injection 1ml","composition":"Dactinomycin 500mcg","manufacturer":"Wockhardt Ltd","price":"Rs.90.58"}
+{"_id":{"$oid":"5b5840cbd51d295f99e7316f"},"name":"CRIZALK 250mg Capsule 60's","composition":"Crizotinib 250mg","manufacturer":"Pfizer Limited","price":"Rs.97,884.00"}
+{"_id":{"$oid":"5b5840cdd51d295f99e73170"},"name":"CRIZALK 200mg Capsule 60's","composition":"Crizotinib 200mg","manufacturer":"Pfizer Limited","price":"Rs.97,884.00"}
+{"_id":{"$oid":"5b5840cfd51d295f99e73171"},"name":"CYCLOXAN 50mg Tablet 50's","composition":"Cyclophosphamide 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.189.55"}
+{"_id":{"$oid":"5b5840d0d51d295f99e73172"},"name":"CYCLOXAN 200mg Injection","composition":"Cyclophosphamide 200mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.44.00"}
+{"_id":{"$oid":"5b5840d2d51d295f99e73173"},"name":"CYCLOXAN 1gm Injection","composition":"Cyclophosphamide 1gm","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.144.00"}
+{"_id":{"$oid":"5b5840d3d51d295f99e73174"},"name":"CYCLOXAN 500mg Injection","composition":"Cyclophosphamide 500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.71.92"}
+{"_id":{"$oid":"5b5840d5d51d295f99e73175"},"name":"CYCLOXAN 50mg Tablet 10's","composition":"CYCLOPHOSPHAMIDE 50MG","manufacturer":" NA ","price":"Rs.38.64"}
+{"_id":{"$oid":"5b5840d8d51d295f99e73176"},"name":"CYENDIV 100mg Capsule 10's","composition":"Nintedanib 100mg","manufacturer":"Boehringer Ingelheim India Pvt Ltd","price":"Rs.12,180.46"}
+{"_id":{"$oid":"5b5840d9d51d295f99e73177"},"name":"CYPHOS 1000mg Infusion 50ml","composition":"Cyclophosphamide 1000mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b5840dbd51d295f99e73178"},"name":"CYPHOS 500mg Injection 30ml","composition":"Cyclophosphamide 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.40.18"}
+{"_id":{"$oid":"5b5840ddd51d295f99e73179"},"name":"CYPHOS 200mg Injection 15ml","composition":"Cyclophosphamide 200mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.30.50"}
+{"_id":{"$oid":"5b5840e0d51d295f99e7317a"},"name":"CYTARINE 500mg Injection 5ml","composition":"Cytarabine 500mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.540.00"}
+{"_id":{"$oid":"5b5840e2d51d295f99e7317b"},"name":"CYTARINE 100mg Injection 1ml","composition":"Cytarabine 100mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.177.00"}
+{"_id":{"$oid":"5b5840e4d51d295f99e7317c"},"name":"CYTARINE 1000mg Injection 10ml","composition":"Cytarabine 1000mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.947.00"}
+{"_id":{"$oid":"5b5840e6d51d295f99e7317d"},"name":"CYTAX 100mg Injection 16.7ml","composition":"Paclitaxel 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.4,019.00"}
+{"_id":{"$oid":"5b5840e9d51d295f99e7317e"},"name":"CYTAX 300mg Injection 50ml","composition":"Paclitaxel 300mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.10,334.59"}
+{"_id":{"$oid":"5b5840ebd51d295f99e7317f"},"name":"CYTAX 260mg Injection 43.4ml","composition":"Paclitaxel 260mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.8,852.38"}
+{"_id":{"$oid":"5b5840ecd51d295f99e73180"},"name":"CYTAX 200mg Injection 33.4ml","composition":"Paclitaxel 200mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.7,463.87"}
+{"_id":{"$oid":"5b5840efd51d295f99e73181"},"name":"CYTAX 30mg Injection 5ml","composition":"Paclitaxel 30mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.1,665.02"}
+{"_id":{"$oid":"5b5840f0d51d295f99e73182"},"name":"CYTOBENDAMA 100mg Injection","composition":"Bendamustine 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.7,200.00"}
+{"_id":{"$oid":"5b5840f2d51d295f99e73183"},"name":"CYTOBENDOMA 100mg Injection 1's","composition":"Bendamustine 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.7,200.00"}
+{"_id":{"$oid":"5b5840f4d51d295f99e73184"},"name":"CYTOCARB 450mg Injection 45ml","composition":"Carboplatin 450mg","manufacturer":"Cipla Ltd","price":"Rs.1,767.31"}
+{"_id":{"$oid":"5b5840f6d51d295f99e73185"},"name":"CYTOCARB 150mg Injection 15ml","composition":"Carboplatin 150mg","manufacturer":"Cipla Ltd","price":"Rs.892.85"}
+{"_id":{"$oid":"5b5840f8d51d295f99e73186"},"name":"CYTOCRISTIN 2mg Injection 2ml","composition":"Vincristine 2mg","manufacturer":"Cipla Ltd","price":"Rs.53.00"}
+{"_id":{"$oid":"5b5840fbd51d295f99e73187"},"name":"CYTOCRISTIN AQUEOUS 1mg Injection 1ml","composition":"VINCRISTINE 1MG","manufacturer":"Cipla Ltd","price":"Rs.56.89"}
+{"_id":{"$oid":"5b5840fcd51d295f99e73188"},"name":"CYTODROX 500mg Capsule 10's","composition":"Hydroxyurea 500mg","manufacturer":"Cipla Ltd","price":"Rs.122.12"}
+{"_id":{"$oid":"5b5840ffd51d295f99e73189"},"name":"CYTOGEM 1gm Injection","composition":"Gemcitabine 1gm","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.6,592.90"}
+{"_id":{"$oid":"5b584101d51d295f99e7318a"},"name":"CYTOGEM 200mg Injection","composition":"Gemcitabine 200mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,456.69"}
+{"_id":{"$oid":"5b584103d51d295f99e7318b"},"name":"CYTOMAB 100mg Injection","composition":"Rituximab 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.7,000.00"}
+{"_id":{"$oid":"5b584105d51d295f99e7318c"},"name":"CYTOMAB 500mg Injection 1","composition":"Rituximab 500mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.38,541.44"}
+{"_id":{"$oid":"5b584108d51d295f99e7318d"},"name":"CYTOMID 250mg Tablet 10's","composition":"Flutamide 250mg","manufacturer":"Cipla Ltd","price":"Rs.106.50"}
+{"_id":{"$oid":"5b584109d51d295f99e7318e"},"name":"CYTOMUSTINE 100mg Injection","composition":"Bendamustine 100mg","manufacturer":"Cipla Ltd","price":"Rs.6,900.00"}
+{"_id":{"$oid":"5b58410bd51d295f99e7318f"},"name":"CYTOPLATIN 10mg Injection 20ml","composition":"Cisplatin 10mg","manufacturer":"Cipla Ltd","price":"Rs.99.74"}
+{"_id":{"$oid":"5b58410dd51d295f99e73190"},"name":"CYTOPLATIN 50mg Infusion 50ml","composition":"Cisplatin 50mg","manufacturer":"Cipla Ltd","price":"Rs.267.85"}
+{"_id":{"$oid":"5b58410fd51d295f99e73191"},"name":"CYTOTAM 10mg Tablet 10's","composition":"Tamoxifen Citrate 10mg","manufacturer":"Cipla Ltd","price":"Rs.17.63"}
+{"_id":{"$oid":"5b584111d51d295f99e73192"},"name":"CYTOTAM 20mg Tablet 10's","composition":"Tamoxifen Citrate","manufacturer":"Cipla Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b584112d51d295f99e73193"},"name":"DABAZ 200mg Injection","composition":"Dacarbazine 200mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.714.00"}
+{"_id":{"$oid":"5b584114d51d295f99e73194"},"name":"DABAZ 500mg Injection","composition":"Dacarbazine 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.1,193.00"}
+{"_id":{"$oid":"5b584116d51d295f99e73195"},"name":"DACAREX 200mg Injection","composition":"Dacarbazine 200mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.407.00"}
+{"_id":{"$oid":"5b584118d51d295f99e73196"},"name":"DACAREX 500mg Injection","composition":"Dacarbazine 500mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.919.54"}
+{"_id":{"$oid":"5b58411ad51d295f99e73197"},"name":"DACAREX 100mg Injection","composition":"Dacarbazine 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.312.00"}
+{"_id":{"$oid":"5b58411cd51d295f99e73198"},"name":"DACOTIN 50mg Injection 25ml","composition":"Oxaliplatin 50mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.3,375.62"}
+{"_id":{"$oid":"5b58411ed51d295f99e73199"},"name":"DACOTIN 100mg Injection 50ml","composition":"Oxaliplatin 100mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.6,940.00"}
+{"_id":{"$oid":"5b584120d51d295f99e7319a"},"name":"DASANAT 20mg Tablet 60's","composition":"DASATINIB 20MG","manufacturer":"Natco Pharma Ltd","price":"Rs.4,450.00"}
+{"_id":{"$oid":"5b584121d51d295f99e7319b"},"name":"DASANAT 50mg Tablet 60's","composition":"DASATINIB 50MG","manufacturer":"Natco Pharma Ltd","price":"Rs.8,900.00"}
+{"_id":{"$oid":"5b584123d51d295f99e7319c"},"name":"DAUNOMYCIN 20mg Injection 1's","composition":"Daunorubicin 20mg","manufacturer":"Pfizer Limited","price":"Rs.398.00"}
+{"_id":{"$oid":"5b584125d51d295f99e7319d"},"name":"DAUNOTEC 20mg Injection 10ml","composition":"Daunorubicin 20mg","manufacturer":"Cipla Ltd","price":"Rs.285.71"}
+{"_id":{"$oid":"5b584127d51d295f99e7319e"},"name":"DAUNOTEC 20mg Injection 1's","composition":"Daunorubicin 20mg","manufacturer":"Cipla Ltd","price":"Rs.406.48"}
+{"_id":{"$oid":"5b584129d51d295f99e7319f"},"name":"DAXOTEL 80mg Injection 2ml","composition":"Docetaxel 80mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.11,087.64"}
+{"_id":{"$oid":"5b58412cd51d295f99e731a0"},"name":"DAXOTEL 120mg Injection 3ml","composition":"Docetaxel 120mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.16,117.93"}
+{"_id":{"$oid":"5b58412ed51d295f99e731a1"},"name":"DAXOTEL 20mg Injection 0.5ml","composition":"Docetaxel 20mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.2,916.22"}
+{"_id":{"$oid":"5b584130d51d295f99e731a2"},"name":"DC FILL 20mg Injection 1's","composition":"Docetaxel 20mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.597.50"}
+{"_id":{"$oid":"5b584132d51d295f99e731a3"},"name":"DC FILL 80mg Injection 1's","composition":"Docetaxel 80mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.2,350.00"}
+{"_id":{"$oid":"5b584134d51d295f99e731a4"},"name":"DC FILL 120mg Injection 1's","composition":"Docetaxel 120mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.15,000.00"}
+{"_id":{"$oid":"5b584136d51d295f99e731a5"},"name":"DECARB 500mg Injection","composition":"Dacarbazine 500mg","manufacturer":"Cipla Ltd","price":"Rs.1,073.40"}
+{"_id":{"$oid":"5b584138d51d295f99e731a6"},"name":"DECARB 200mg Injection","composition":"Dacarbazine 200mg","manufacturer":"Cipla Ltd","price":"Rs.427.99"}
+{"_id":{"$oid":"5b584139d51d295f99e731a7"},"name":"DECAREX 200mg Injection 1's","composition":"Dacarbazine 200mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.434.00"}
+{"_id":{"$oid":"5b58413cd51d295f99e731a8"},"name":"DECITEX 50mg Injection","composition":"Decitabine 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.7,973.05"}
+{"_id":{"$oid":"5b58413ed51d295f99e731a9"},"name":"DECITEX 30 mg Injection 1's","composition":"DECITABINE 30MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.5,753.55"}
+{"_id":{"$oid":"5b58413fd51d295f99e731aa"},"name":"DENRIT 250mg Tablet 10's","composition":"Geftinib 250mg","manufacturer":"Pfizer Limited","price":"Rs.4,175.00"}
+{"_id":{"$oid":"5b584142d51d295f99e731ab"},"name":"DERMOTREX 2.5mg Tablet 10's","composition":"Methotrexate 2.5mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.42.60"}
+{"_id":{"$oid":"5b584144d51d295f99e731ac"},"name":"DERMOTREX 7.5mg Tablet 10's","composition":"Methotrexate 7.5mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.103.20"}
+{"_id":{"$oid":"5b584146d51d295f99e731ad"},"name":"DERMOTREX 5mg Tablet 10's","composition":"Methotrexate 5mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.74.50"}
+{"_id":{"$oid":"5b584148d51d295f99e731ae"},"name":"DISTAMINE 500mg Tablet 10's","composition":"CAPECITABINE 500MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.706.00"}
+{"_id":{"$oid":"5b584149d51d295f99e731af"},"name":"DOCECAD 80mg Injection 2ml","composition":"Docetaxel 80mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.13,541.70"}
+{"_id":{"$oid":"5b58414bd51d295f99e731b0"},"name":"DOCEFREZ 20mg Injection","composition":"Docetaxel 20mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.3,720.00"}
+{"_id":{"$oid":"5b58414dd51d295f99e731b1"},"name":"DOCEFREZ 80mg Injection","composition":"Docetaxel 80mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.12,280.00"}
+{"_id":{"$oid":"5b58414fd51d295f99e731b2"},"name":"DOCEL 20mg Injection 1's","composition":"Docetaxel 20mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.3,500.00"}
+{"_id":{"$oid":"5b584151d51d295f99e731b3"},"name":"DOCEL 80mg Injection 1's","composition":"Docetaxel 80mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.11,559.00"}
+{"_id":{"$oid":"5b584153d51d295f99e731b4"},"name":"DOCEL 120mg Injection 1's","composition":"Docetaxel 120mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.14,500.00"}
+{"_id":{"$oid":"5b584155d51d295f99e731b5"},"name":"DOCENAT 120mg Injection","composition":"Docetaxel 120mg","manufacturer":"Natco Pharma Ltd","price":"Rs.15,000.00"}
+{"_id":{"$oid":"5b584157d51d295f99e731b6"},"name":"DOCETAX 20mg SOLVENT FOR Injection 0.5ml","composition":"Docetaxel 20mg","manufacturer":"Cipla Ltd","price":"Rs.853.61"}
+{"_id":{"$oid":"5b584158d51d295f99e731b7"},"name":"DOCETAX 20mg Injection 1.5ml","composition":"Docetaxel 20mg","manufacturer":"Cipla Ltd","price":"Rs.3,375.00"}
+{"_id":{"$oid":"5b58415ad51d295f99e731b8"},"name":"DOCETERE 20mg Injection","composition":"Docetaxel 20mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.3,840.80"}
+{"_id":{"$oid":"5b58415cd51d295f99e731b9"},"name":"DOCETERE 80mg Injection","composition":"Docetaxel 80mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.11,760.80"}
+{"_id":{"$oid":"5b58415fd51d295f99e731ba"},"name":"DOCETERE 120mg Injection","composition":"Docetaxel 120mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.15,378.00"}
+{"_id":{"$oid":"5b584161d51d295f99e731bb"},"name":"DOCETRUST 80mg Injection 4ml","composition":"Docetaxel 80mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.11,566.00"}
+{"_id":{"$oid":"5b584163d51d295f99e731bc"},"name":"DOCETRUST 20mg Injection 1's","composition":"Docetaxel 20mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.3,626.00"}
+{"_id":{"$oid":"5b584165d51d295f99e731bd"},"name":"DOCETRUST 120mg Injection 6ml","composition":"Docetaxel 120mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.14,694.90"}
+{"_id":{"$oid":"5b584167d51d295f99e731be"},"name":"DOCEZAP 80mg Injection","composition":"Docetaxel 80mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.11,750.00"}
+{"_id":{"$oid":"5b584169d51d295f99e731bf"},"name":"DOCEZAP 20mg Injection","composition":"Docetaxel 20mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.2,400.00"}
+{"_id":{"$oid":"5b58416bd51d295f99e731c0"},"name":"DOCEZAP 120mg Injection","composition":"Docetaxel 120mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.14,450.00"}
+{"_id":{"$oid":"5b58416dd51d295f99e731c1"},"name":"DOTEL 120mg Injection 3ml","composition":"Docetaxel 120mg","manufacturer":"Wockhardt Ltd","price":"Rs.14,999.00"}
+{"_id":{"$oid":"5b58416fd51d295f99e731c2"},"name":"DOXOREX 50mg Injection 25ml","composition":"Doxorubicin 50mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.928.57"}
+{"_id":{"$oid":"5b584171d51d295f99e731c3"},"name":"DOXOREX 10mg Injection 1's","composition":"Doxorubicin 10mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.321.75"}
+{"_id":{"$oid":"5b584172d51d295f99e731c4"},"name":"DOXORUBICIN 10mg Injection 1's","composition":"Doxorubicin 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.116.66"}
+{"_id":{"$oid":"5b584175d51d295f99e731c5"},"name":"DOXORUBICIN 50mg Injection 1's","composition":"Doxorubicin 50mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.421.77"}
+{"_id":{"$oid":"5b584177d51d295f99e731c6"},"name":"DOXOTERO 10mg Injection 1's","composition":"Doxorubicin 10mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b584179d51d295f99e731c7"},"name":"DUREA 500mg Capsule 10's","composition":"Hydroxyurea 500mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.122.11"}
+{"_id":{"$oid":"5b58417bd51d295f99e731c8"},"name":"DUTAXEL 100mg Injection 16.7ml","composition":"Paclitaxel 100mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.4,085.70"}
+{"_id":{"$oid":"5b58417dd51d295f99e731c9"},"name":"DUTAXEL 260mg Injection 43.4ml","composition":"Paclitaxel 260mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.8,666.60"}
+{"_id":{"$oid":"5b58417fd51d295f99e731ca"},"name":"DUXOCIN 10mg Injection","composition":"Doxorubicin 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.218.60"}
+{"_id":{"$oid":"5b584181d51d295f99e731cb"},"name":"DUXOCIN 50mg Injection","composition":"Doxorubicin 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.894.30"}
+{"_id":{"$oid":"5b584182d51d295f99e731cc"},"name":"EGLITON 3MIU Injection","composition":"Interferon Alpha-2B 3MIU","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.438.00"}
+{"_id":{"$oid":"5b584185d51d295f99e731cd"},"name":"ELIGARD 22.5mg Injection 1's","composition":"LEUPROLIDE ACETATE 22.5MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.24,000.00"}
+{"_id":{"$oid":"5b584185d51d295f99e731ce"},"name":"ELINAL 1mg Tablet 10's","composition":"Anastrozole 1mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.445.45"}
+{"_id":{"$oid":"5b584188d51d295f99e731cf"},"name":"EMCITABEN 1000mg Injection 1's","composition":"Gemcitabine 1000mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.6,000.00"}
+{"_id":{"$oid":"5b58418ad51d295f99e731d0"},"name":"EMCITABEN 200mg Injection 1's","composition":"Gemcitabine 200mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.1,350.00"}
+{"_id":{"$oid":"5b58418bd51d295f99e731d1"},"name":"EMEND 80mg Capsule 3's","composition":"Aprepitant 125mg+Aprepitant 80mg","manufacturer":"Msd Pharmaceuticals Pvt Ltd","price":"Rs.1,400.00"}
+{"_id":{"$oid":"5b58418dd51d295f99e731d2"},"name":"EMEND 150mg Injection 1's","composition":"FOSAPREPITANT DIMEGLUMINE 150MG","manufacturer":"Msd Pharmaceuticals Pvt Ltd","price":"Rs.2,464.00"}
+{"_id":{"$oid":"5b58418fd51d295f99e731d3"},"name":"ENDACE 40mg Tablet 10's","composition":"MEGESTROLACETATE 40MG","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.283.28"}
+{"_id":{"$oid":"5b584191d51d295f99e731d4"},"name":"ENDACE 160mg Tablet 10's","composition":"Megestrol Acetate 160mg","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.1,095.46"}
+{"_id":{"$oid":"5b584193d51d295f99e731d5"},"name":"ENDOXAN 50mg Tablet 10's","composition":"Cyclophosphamide 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.39.97"}
+{"_id":{"$oid":"5b584195d51d295f99e731d6"},"name":"ENDOXAN 1000mg Injection 1's","composition":"Cyclophosphamide 1000mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.158.73"}
+{"_id":{"$oid":"5b584197d51d295f99e731d7"},"name":"ENDOXAN N 500mg Injection","composition":"Cyclophosphamide 500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.74.57"}
+{"_id":{"$oid":"5b58419ad51d295f99e731d8"},"name":"ENDOXAN 500mg Tablet 10's","composition":"Cyclophosphamide 500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.41.86"}
+{"_id":{"$oid":"5b58419cd51d295f99e731d9"},"name":"ENDOXAN N 200mg Injection","composition":"Cyclophosphamide 200mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.60.30"}
+{"_id":{"$oid":"5b58419ed51d295f99e731da"},"name":"ENDOXAN ASTA 1gm Injection","composition":"Cyclophosphamide 1gm","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.118.47"}
+{"_id":{"$oid":"5b5841a0d51d295f99e731db"},"name":"ENDOXAN ASTA 500mg Injection","composition":"Cyclophosphamide 500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.82.03"}
+{"_id":{"$oid":"5b5841a2d51d295f99e731dc"},"name":"ENDOXAN ASTA 200mg Injection ","composition":"Cyclophosphamide 200mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.38.49"}
+{"_id":{"$oid":"5b5841a4d51d295f99e731dd"},"name":"ENDOXAN ASTA 50mg Tablet 10's","composition":"CYCLOPHOSPHAMIDE 50MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.37.91"}
+{"_id":{"$oid":"5b5841a6d51d295f99e731de"},"name":"ENDOXAN N 1gm Injection ","composition":"Cyclophosphamide 1gm","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.255.40"}
+{"_id":{"$oid":"5b5841a8d51d295f99e731df"},"name":"ENTAX 10mg Tablet 10's","composition":"TAMOXIFEN 10MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.15.75"}
+{"_id":{"$oid":"5b5841aad51d295f99e731e0"},"name":"ENTAX 20mg Tablet 10's","composition":"TAMOXIFEN 20MG","manufacturer":"Neon Laboratories Ltd","price":"Rs.26.00"}
+{"_id":{"$oid":"5b5841acd51d295f99e731e1"},"name":"EOVA L 2.5mg Capsule 5'S","composition":"Letrozole 2.5mg","manufacturer":"Koye Pharmaceuticals Pvt Ltd","price":"Rs.144.00"}
+{"_id":{"$oid":"5b5841aed51d295f99e731e2"},"name":"EPIDOX 10mg Injection 1's","composition":"Epirubicin 10mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.523.81"}
+{"_id":{"$oid":"5b5841b0d51d295f99e731e3"},"name":"EPIDOX 50mg Injection 1's","composition":"Epirubicin 50mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.3,071.40"}
+{"_id":{"$oid":"5b5841b2d51d295f99e731e4"},"name":"EPIRUBICIN 10mg Injection 1's","composition":"Epirubicin 10mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.434.52"}
+{"_id":{"$oid":"5b5841b4d51d295f99e731e5"},"name":"EPIRUBICIN 50mg Injection 25ml","composition":"Epirubicin 50mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.2,190.47"}
+{"_id":{"$oid":"5b5841b6d51d295f99e731e6"},"name":"EPITAZ 50mg Injection 1's","composition":"EPIRUBICIN HYDROCHLORIDE 50MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.2,235.00"}
+{"_id":{"$oid":"5b5841b8d51d295f99e731e7"},"name":"EPITAZ 100mg Injection 1's","composition":"EPIRUBICIN HYDROCHLORIDE 100MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.4,000.00"}
+{"_id":{"$oid":"5b5841bad51d295f99e731e8"},"name":"EPITAZ 10mg Injection 1's","composition":"EPIRUBICIN HYDROCHLORIDE 10MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.600.00"}
+{"_id":{"$oid":"5b5841bcd51d295f99e731e9"},"name":"EPIXTRA 50mg Injection 1's","composition":"EPIRUBICIN HYDROCHLORIDE 50MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.2,550.00"}
+{"_id":{"$oid":"5b5841bed51d295f99e731ea"},"name":"EPIXTRA 10mg Injection 1's","composition":"EPIRUBICIN HYDROCHLORIDE 10MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.609.00"}
+{"_id":{"$oid":"5b5841c0d51d295f99e731eb"},"name":"ERBITUX 100mg Infusion 50ml","composition":"Cetuximab 100mg","manufacturer":"Merck Ltd","price":"Rs.20,222.00"}
+{"_id":{"$oid":"5b5841c2d51d295f99e731ec"},"name":"ERBITUX 500mg Infusion 50ml","composition":"Cetuximab 500mg","manufacturer":"Merck Ltd","price":"Rs.101,110.00"}
+{"_id":{"$oid":"5b5841c4d51d295f99e731ed"},"name":"ERLOKEM 100mg Tablet 10's","composition":"Erlotinib 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.8,100.00"}
+{"_id":{"$oid":"5b5841c5d51d295f99e731ee"},"name":"ERLOKEM 150mg Tablet 10's","composition":"Erlotinib 150mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.10,800.00"}
+{"_id":{"$oid":"5b5841c7d51d295f99e731ef"},"name":"ERLOMY 150mg Tablet 30's","composition":"Erlotinib 150mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.11,900.00"}
+{"_id":{"$oid":"5b5841c9d51d295f99e731f0"},"name":"ERLOMY 100mg Tablet 30's","composition":"Erlotinib 100mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.9,990.00"}
+{"_id":{"$oid":"5b5841cbd51d295f99e731f1"},"name":"ERLONAT 100mg Tablet 30's","composition":"Erlotinib 100mg","manufacturer":"Natco Pharma Ltd","price":"Rs.9,990.00"}
+{"_id":{"$oid":"5b5841cdd51d295f99e731f2"},"name":"ERLONAT 150mg Tablet 30's","composition":"Erlotinib 150mg","manufacturer":"Natco Pharma Ltd","price":"Rs.11,900.00"}
+{"_id":{"$oid":"5b5841cfd51d295f99e731f3"},"name":"ERLONS 150mg Tablet 30's","composition":"Erlotinib 150mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.25,000.00"}
+{"_id":{"$oid":"5b5841d1d51d295f99e731f4"},"name":"ERLOTAD 150mg Tablet 10's","composition":"Erlotinib 150mg","manufacturer":"Adley Formulation","price":"Rs.11,000.00"}
+{"_id":{"$oid":"5b5841d3d51d295f99e731f5"},"name":"ERLOTAD 100mg Tablet 10's","composition":"Erlotinib 100mg","manufacturer":"Adley Formulation","price":"Rs.7,500.00"}
+{"_id":{"$oid":"5b5841d5d51d295f99e731f6"},"name":"ERUBIN 50mg Injection 1's","composition":"Epirubicin 50mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.2,000.00"}
+{"_id":{"$oid":"5b5841d7d51d295f99e731f7"},"name":"ERUBIN 10mg Injection 1's","composition":"Epirubicin 10mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.500.00"}
+{"_id":{"$oid":"5b5841d9d51d295f99e731f8"},"name":"ETHYOL 500mg Injection","composition":"Amifostine 500mg","manufacturer":"Fulford India Ltd","price":"Rs.479.00"}
+{"_id":{"$oid":"5b5841dbd51d295f99e731f9"},"name":"ETOSID 100mg Injection 5ml","composition":"Etoposide 100mg","manufacturer":"Cipla Ltd","price":"Rs.180.95"}
+{"_id":{"$oid":"5b5841ddd51d295f99e731fa"},"name":"ETOSID 50mg Capsule 4's","composition":"Etoposide 50mg","manufacturer":"Cipla Ltd","price":"Rs.50.02"}
+{"_id":{"$oid":"5b5841dfd51d295f99e731fb"},"name":"EUROLIDE 1mg Injection 0.5ml","composition":"Leuprolide 1mg","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.304.37"}
+{"_id":{"$oid":"5b5841e3d51d295f99e731fc"},"name":"EUROLIDE 4mg Injection 4ml","composition":"Leuprolide 4mg","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.723.60"}
+{"_id":{"$oid":"5b5841e5d51d295f99e731fd"},"name":"EUROLIDE 3.75mg Injection 1's","composition":"LEUPRORELIN(LEUPROLIDE) ACETATE 3.75MG","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.4,611.60"}
+{"_id":{"$oid":"5b5841e6d51d295f99e731fe"},"name":"EXETRAZ 25mg Tablet 10's","composition":"Exemestane 25mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.810.00"}
+{"_id":{"$oid":"5b5841e8d51d295f99e731ff"},"name":"EXMASIN 25 mg Tablet 5's","composition":"EXEMESTANE 25MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b5841e9d51d295f99e73200"},"name":"FARMORUBICIN RD 10mg Injection 1's","composition":"Epirubicin 10mg","manufacturer":"Pfizer Limited","price":"Rs.580.00"}
+{"_id":{"$oid":"5b5841ebd51d295f99e73201"},"name":"FARMORUBICIN RTU 50mg Injection 1's","composition":"Epirubicin 50mg","manufacturer":"Pfizer Limited","price":"Rs.3,604.00"}
+{"_id":{"$oid":"5b5841edd51d295f99e73202"},"name":"FASLODEX 250mg Injection 2X5ml","composition":"Fulvestrant 250mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.42,200.00"}
+{"_id":{"$oid":"5b5841efd51d295f99e73203"},"name":"FASNORM 250mg Injection 1ml","composition":"Fulvestrant 250mg","manufacturer":"Biocon Ltd","price":"Rs.21,428.00"}
+{"_id":{"$oid":"5b5841f0d51d295f99e73204"},"name":"FASTOGRAF 300mcg Injection(PFS) 0.5ml","composition":"Filgrastim 300mcg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.2,416.86"}
+{"_id":{"$oid":"5b5841f2d51d295f99e73205"},"name":"FASTOVORIN 50mg Injection 5ml","composition":"Calcium Folinate (Leucovorin) 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.325.00"}
+{"_id":{"$oid":"5b5841f4d51d295f99e73206"},"name":"FEMARA 2.5MG TABLET 10'S","composition":"LETROZOLE 2.5MG","manufacturer":"Novartis India Ltd","price":"Rs.2,383.00"}
+{"_id":{"$oid":"5b5841f6d51d295f99e73207"},"name":"FEMISTRA 1mg Tablet 10's","composition":"Anastrozole 1mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.366.81"}
+{"_id":{"$oid":"5b5841f8d51d295f99e73208"},"name":"FEMISTRA 1mg Tablet 5'S","composition":"Anastrozole 1mg","manufacturer":"Others","price":"Rs.35.90"}
+{"_id":{"$oid":"5b5841f9d51d295f99e73209"},"name":"FEMITRAZ 1mg Tablet 10's","composition":"Anastrozole 1mg","manufacturer":"Lupin Ltd","price":"Rs.507.00"}
+{"_id":{"$oid":"5b5841fad51d295f99e7320a"},"name":"FEMPRO 2.5mg Tablet 10's","composition":"Letrozole 2.5mg","manufacturer":"Cipla Ltd","price":"Rs.67.50"}
+{"_id":{"$oid":"5b5841fcd51d295f99e7320b"},"name":"FERTLET 2.5mg Tablet 5'S","composition":"Letrozole 2.5mg","manufacturer":"West Coast Pharmaceutical Works Ltd","price":"Rs.100.80"}
+{"_id":{"$oid":"5b5841ffd51d295f99e7320c"},"name":"FERTOLET 2.5mg Tablet 10's","composition":"Letrozole 2.5mg","manufacturer":"Cipla Ltd","price":"Rs.30.59"}
+{"_id":{"$oid":"5b584201d51d295f99e7320d"},"name":"FERTOLET 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Cipla Ltd","price":"Rs.30.59"}
+{"_id":{"$oid":"5b584203d51d295f99e7320e"},"name":"FINEOVA 40mg Softgel 5's","composition":"Tamoxifen Citrate 40mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b584204d51d295f99e7320f"},"name":"FIRMAGON 80mg Injection 1's","composition":"Degarelix 80mg","manufacturer":"Ferring Pharmaceuticals Pvt Ltd","price":"Rs.15,000.00"}
+{"_id":{"$oid":"5b584205d51d295f99e73210"},"name":"FIVOCIL 250mg Injection 5ml","composition":"Fluorouracil 250mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.11.70"}
+{"_id":{"$oid":"5b584207d51d295f99e73211"},"name":"FIXPRITANT Kit 1's","composition":"APREPITANT 125MG+APREPITANT 80MG","manufacturer":" NA ","price":"Rs.1,450.00"}
+{"_id":{"$oid":"5b584209d51d295f99e73212"},"name":"FLONIDA 1% Cream 10gm","composition":"Fluorouracil 1%W/W","manufacturer":"Menarini India Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b58420bd51d295f99e73213"},"name":"FLONIDA 5% Cream 10gm","composition":"Fluorouracil 5%W/W","manufacturer":"Menarini India Pvt Ltd","price":"Rs.194.00"}
+{"_id":{"$oid":"5b58420fd51d295f99e73214"},"name":"FLUDOCYTE 50mg Injection 2ml","composition":"FLUDARABINE PHOSPHATE 50MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.10,791.00"}
+{"_id":{"$oid":"5b584211d51d295f99e73215"},"name":"FLURACIL 250mg Capsule 10's","composition":"Fluorouracil 250mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.65.50"}
+{"_id":{"$oid":"5b584212d51d295f99e73216"},"name":"FLURACIL 500mg Injection 5X10ml","composition":"Flurouracil 500mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.117.15"}
+{"_id":{"$oid":"5b584214d51d295f99e73217"},"name":"FLURACIL 250mg Injection 5X5ml","composition":"Flurouracil 250mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.54.85"}
+{"_id":{"$oid":"5b584216d51d295f99e73218"},"name":"FLUTAMIDE 250mg Tablet 10's","composition":"Flutamide 250mg","manufacturer":"Cipla Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b584217d51d295f99e73219"},"name":"FLUTAS 500mg Injection 10ml","composition":"Fluorouracil 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.14.87"}
+{"_id":{"$oid":"5b584219d51d295f99e7321a"},"name":"FLUTIDE 250mg Tablet 30's","composition":"Flutamide 250mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.92.81"}
+{"_id":{"$oid":"5b58421bd51d295f99e7321b"},"name":"FLUTIDE 250mg Tablet 10's","composition":"Flutamide 250mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b58421dd51d295f99e7321c"},"name":"FOLIRIPE 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Alembic Pharmaceuticals Ltd","price":"Rs.172.00"}
+{"_id":{"$oid":"5b58421fd51d295f99e7321d"},"name":"FOLITRAX 5mg Tablet 10's","composition":"Methotrexate 5mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.79.79"}
+{"_id":{"$oid":"5b584221d51d295f99e7321e"},"name":"FOLITRAX 7.5mg Injection 1ml","composition":"Methotrexate 7.5mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.31.90"}
+{"_id":{"$oid":"5b584223d51d295f99e7321f"},"name":"FOLITRAX 25mg Tablet 4's","composition":"Methotrexate 25mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.192.90"}
+{"_id":{"$oid":"5b584225d51d295f99e73220"},"name":"FOLITRAX 10mg Tablet 10's","composition":"Methotrexate 10mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.119.67"}
+{"_id":{"$oid":"5b584227d51d295f99e73221"},"name":"FOLITRAX 15mg Injection 1ml","composition":"Methotrexate 15mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.48.25"}
+{"_id":{"$oid":"5b584229d51d295f99e73222"},"name":"FOLITRAX 20mg Tablet 4's","composition":"Methotrexate 20mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.142.80"}
+{"_id":{"$oid":"5b58422bd51d295f99e73223"},"name":"FOLITRAX 20mg Injection 1ml","composition":"Methotrexate 20mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.78.34"}
+{"_id":{"$oid":"5b58422dd51d295f99e73224"},"name":"FOLITRAX 7.5mg Tablet 10's","composition":"Methotrexate 7.5mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.110.45"}
+{"_id":{"$oid":"5b58422fd51d295f99e73225"},"name":"FOLITRAX 25mg Injection 1ml","composition":"Methotrexate 25mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.47.37"}
+{"_id":{"$oid":"5b584230d51d295f99e73226"},"name":"FOLITRAX 15mg Tablet 10's","composition":"Methotrexate 15mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.302.25"}
+{"_id":{"$oid":"5b584232d51d295f99e73227"},"name":"FOLITRAX 2.5mg Tablet 10's","composition":"Methotrexate 2.5mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.45.56"}
+{"_id":{"$oid":"5b584234d51d295f99e73228"},"name":"FOLITRAX 50mg Injection 2ml","composition":"Methotrexate 50mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.91.60"}
+{"_id":{"$oid":"5b584236d51d295f99e73229"},"name":"FOSAPORT 150mg Injection","composition":"Fosaprepitant Dimeglumine 150mg","manufacturer":"Biocon Ltd","price":"Rs.2,400.00"}
+{"_id":{"$oid":"5b584238d51d295f99e7322a"},"name":"FOSAPREPIT 150mg Injection 1's","composition":"FOSAPREPITANT DIMEGLUMINE 150MG","manufacturer":"Cipla Ltd","price":"Rs.2,400.00"}
+{"_id":{"$oid":"5b58423ad51d295f99e7322b"},"name":"FOSARAN 150mg Injection 1's","composition":"FOSAPREPITANT DIMEGLUMINE 150MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.2,100.00"}
+{"_id":{"$oid":"5b58423cd51d295f99e7322c"},"name":"FOSPRITANT 150mg Injection 1's","composition":"FOSAPREPITANT DIMEGLUMINE 150MG","manufacturer":"Rpg Life Science Ltd","price":"Rs.2,500.00"}
+{"_id":{"$oid":"5b58423ed51d295f99e7322d"},"name":"FULVENAT 250mg Injection","composition":"Fulvestrant 250mg","manufacturer":"Natco Pharma Ltd","price":"Rs.18,000.00"}
+{"_id":{"$oid":"5b584240d51d295f99e7322e"},"name":"FULVETRAZ 250mg Injection 5ml","composition":"Fulvestrant 250mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.24,000.00"}
+{"_id":{"$oid":"5b584241d51d295f99e7322f"},"name":"FYTOP 100mg Injection 5ml","composition":"Etoposide 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.206.66"}
+{"_id":{"$oid":"5b584243d51d295f99e73230"},"name":"FYTOSID 100mg Injection 5ml","composition":"Etoposide 100mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.190.47"}
+{"_id":{"$oid":"5b584245d51d295f99e73231"},"name":"GEFFY 250mg Tablet 10's","composition":"Gefitinib 250mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.3,865.95"}
+{"_id":{"$oid":"5b584247d51d295f99e73232"},"name":"GEFFON 250mg Tablet 10's","composition":"Gefitinib 250mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.3,449.41"}
+{"_id":{"$oid":"5b584249d51d295f99e73233"},"name":"GEFITERO 250mg Tablet 10's","composition":"Gefitinib 250mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.2,900.00"}
+{"_id":{"$oid":"5b58424bd51d295f99e73234"},"name":"GEFITRUST 250mg Tablet 10's","composition":"Gefitinib 250mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.3,303.00"}
+{"_id":{"$oid":"5b58424fd51d295f99e73235"},"name":"GEFTICIP 250mg Tablet 30's","composition":"GEFITINIB 250MG","manufacturer":"Cipla Ltd","price":"Rs.4,250.00"}
+{"_id":{"$oid":"5b584252d51d295f99e73236"},"name":"GEFTICIP 250mg Tablet 10's","composition":"Gefitinib 250mg","manufacturer":"Cipla Ltd","price":"Rs.1,585.66"}
+{"_id":{"$oid":"5b584255d51d295f99e73237"},"name":"GEFTINAT 250mg Tablet 30's","composition":"Gefitinib 250mg","manufacturer":"Natco Pharma Ltd","price":"Rs.5,900.00"}
+{"_id":{"$oid":"5b584256d51d295f99e73238"},"name":"GEFTISTAR 250mg Tablet 10's","composition":"Geftinib 250mg","manufacturer":"Lupin Ltd","price":"Rs.1,053.00"}
+{"_id":{"$oid":"5b584258d51d295f99e73239"},"name":"GEMBIN 200mg Injection","composition":"Gemcitabine 200mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.776.49"}
+{"_id":{"$oid":"5b584259d51d295f99e7323a"},"name":"GEMBIN 1gm Injection","composition":"Gemcitabine 1gm","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.2,904.30"}
+{"_id":{"$oid":"5b58425cd51d295f99e7323b"},"name":"GEMCE FIL 1000mg Injection 1's","composition":"Gemcitabine 1000mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.1,900.00"}
+{"_id":{"$oid":"5b58425dd51d295f99e7323c"},"name":"GEMCE FIL 200mg Injection 1's","composition":"Gemcitabine 200mg","manufacturer":"Fourrts India Laboratories Pvt Ltd","price":"Rs.475.00"}
+{"_id":{"$oid":"5b58425fd51d295f99e7323d"},"name":"GEMCITE 1000mg Injection 1's","composition":"Gemcitabine 1000mg","manufacturer":"Eli Lilly And Company","price":"Rs.5,168.00"}
+{"_id":{"$oid":"5b584261d51d295f99e7323e"},"name":"GEMCITE 200mg Injection 1's","composition":"Gemcitabine 200mg","manufacturer":"Eli Lilly And Company","price":"Rs.1,144.50"}
+{"_id":{"$oid":"5b584262d51d295f99e7323f"},"name":"GEMIBINE 1gm Injection","composition":"Gemcitabine 1000mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.6,316.00"}
+{"_id":{"$oid":"5b584263d51d295f99e73240"},"name":"GEMIBINE 200mg Injection","composition":"Gemcitabine 200mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.1,378.00"}
+{"_id":{"$oid":"5b584264d51d295f99e73241"},"name":"GEMITA 1gm Injection","composition":"Gemcitabine 1gm","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.6,663.73"}
+{"_id":{"$oid":"5b584266d51d295f99e73242"},"name":"GEMITA 200mg Injection","composition":"Gemcitabine 200mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.1,370.01"}
+{"_id":{"$oid":"5b584268d51d295f99e73243"},"name":"GEMITA 1.4gm Injection","composition":"Gemcitabine 1.4gm","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.9,387.76"}
+{"_id":{"$oid":"5b58426ad51d295f99e73244"},"name":"GEMTAZ 200mg Injection","composition":"Gemcitabine 200mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.1,122.79"}
+{"_id":{"$oid":"5b58426cd51d295f99e73245"},"name":"GEMTAZ 1gm Injection","composition":"Gemcitabine 1gm","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.4,526.77"}
+{"_id":{"$oid":"5b58426cd51d295f99e73246"},"name":"GEMTRUST 1000mg Injection 1's","composition":"Gemcitabine 1000mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.5,168.00"}
+{"_id":{"$oid":"5b58426ed51d295f99e73247"},"name":"GEMTRUST 200mg Injection 1's","composition":"Gemcitabine 200mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.1,439.00"}
+{"_id":{"$oid":"5b584270d51d295f99e73248"},"name":"GENXTOR 25mg Injection 1","composition":"Temsirolimus 25mg","manufacturer":"Biocon Ltd","price":"Rs.47,618.75"}
+{"_id":{"$oid":"5b584272d51d295f99e73249"},"name":"GLANCAP 500mg Tablet 10's","composition":"CAPECITABINE 500MG","manufacturer":"Gland Pharma Limited","price":"Rs.1,299.00"}
+{"_id":{"$oid":"5b584274d51d295f99e7324a"},"name":"GLENZA 40mg Capsule 28's","composition":"Enzalutamide 40mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.34,375.00"}
+{"_id":{"$oid":"5b584276d51d295f99e7324b"},"name":"GLIOTEM 250mg Capsule","composition":"Temozolomide 250mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.4,515.00"}
+{"_id":{"$oid":"5b584278d51d295f99e7324c"},"name":"GLIOTEM 20mg Capsule","composition":"Temozolomide 20mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.421.80"}
+{"_id":{"$oid":"5b58427ad51d295f99e7324d"},"name":"GLIOTEM 20MG CAPSULE 10'S","composition":"TEMOZOLOMIDE 20MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.421.80"}
+{"_id":{"$oid":"5b58427cd51d295f99e7324e"},"name":"GLIOTEM 100mg Capsule 1's","composition":"TEMOZOLOMIDE 100MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.1,872.45"}
+{"_id":{"$oid":"5b58427ed51d295f99e7324f"},"name":"GLIOZ 250mg Capsule 5's","composition":"Temozolomide 250mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.22,614.70"}
+{"_id":{"$oid":"5b584280d51d295f99e73250"},"name":"GLIOZ 100mg Capsule 5's","composition":"Temozolomide 100mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.9,341.20"}
+{"_id":{"$oid":"5b584281d51d295f99e73251"},"name":"GLIOZ 20mg Capsule 5's","composition":"Temozolomide 20mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.2,121.70"}
+{"_id":{"$oid":"5b584283d51d295f99e73252"},"name":"GLIOZOLAMIDE 250mg Capsule 5's","composition":"Temozolomide 250mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.18,262.00"}
+{"_id":{"$oid":"5b584286d51d295f99e73253"},"name":"GLIOZOLAMIDE 20mg Capsule 5's","composition":"Temozolomide 20mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.2,131.00"}
+{"_id":{"$oid":"5b584288d51d295f99e73254"},"name":"GLIOZOLAMIDE 100mg Capsule 5's","composition":"Temozolomide 100mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.7,609.00"}
+{"_id":{"$oid":"5b58428ad51d295f99e73255"},"name":"GLISTROMA 100mg Capsule 5's","composition":"Temozolomide 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.8,100.00"}
+{"_id":{"$oid":"5b58428cd51d295f99e73256"},"name":"GLISTROMA 250mg Capsule 5's","composition":"Temozolomide 250mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.18,900.00"}
+{"_id":{"$oid":"5b58428dd51d295f99e73257"},"name":"GLISTROMA 20mg Capsule 5's","composition":"Temozolomide 20mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.2,430.00"}
+{"_id":{"$oid":"5b58428fd51d295f99e73258"},"name":"GLIVEC 400mg Tablet 10's","composition":"IMATINIB MESYLATE 400MG","manufacturer":"Novartis India Ltd","price":"Rs.2,986.50"}
+{"_id":{"$oid":"5b584291d51d295f99e73259"},"name":"GONADOREG 3.75mg Injection 2ML","composition":"LEUPRORELIN(LEUPROLIDE) ACETATE 3.75MG","manufacturer":"Jagsonpal Pharmaceuticals Ltd","price":"Rs.4,050.87"}
+{"_id":{"$oid":"5b584293d51d295f99e7325a"},"name":"GOODOVA L 5mg Tablet 5'S","composition":"Letrozole 5mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.340.00"}
+{"_id":{"$oid":"5b584295d51d295f99e7325b"},"name":"GOODOVA L 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.172.00"}
+{"_id":{"$oid":"5b584296d51d295f99e7325c"},"name":"GRAFEEL 30mg Injection 1ml","composition":"Filgrastim 300mcg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.540.00"}
+{"_id":{"$oid":"5b58429ad51d295f99e7325d"},"name":"GRANICIP Injection 3ml","composition":"Granisetron Hydrochloride 3mg","manufacturer":"Cipla Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b58429cd51d295f99e7325e"},"name":"GRANITERO 3mg Injection 1's","composition":"GRANISETRON HYDROCHLORIDE 3MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b58429ed51d295f99e7325f"},"name":"GYNACT 1 mg Injection 0.5ml","composition":"Leuprorelin 1mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.121.25"}
+{"_id":{"$oid":"5b58429fd51d295f99e73260"},"name":"GYNACT 4 mg Injection 4ml","composition":"Leuprorelin 4mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.525.00"}
+{"_id":{"$oid":"5b5842a1d51d295f99e73261"},"name":"GYNACT M.D 4 mg Injection 4ml","composition":"Leuprorelin 4mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.525.00"}
+{"_id":{"$oid":"5b5842a2d51d295f99e73262"},"name":"HERCEPTIN 440mg Infusion 50ml","composition":"Trastuzumab 440mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.110,700.00"}
+{"_id":{"$oid":"5b5842a3d51d295f99e73263"},"name":"HERCLON 440mg Injection 1's","composition":"TRASTUZUMAB 440MG","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.66,156.25"}
+{"_id":{"$oid":"5b5842a5d51d295f99e73264"},"name":"HERHOPE Tablet 5's","composition":"LETROZOLE 2.5MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.139.00"}
+{"_id":{"$oid":"5b5842a7d51d295f99e73265"},"name":"HERLET 2.5mg Tablet 10's","composition":"Letrozole 2.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.167.00"}
+{"_id":{"$oid":"5b5842a9d51d295f99e73266"},"name":"HERLET 5mg Tablet 10's","composition":"Letrozole 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.167.00"}
+{"_id":{"$oid":"5b5842abd51d295f99e73267"},"name":"HERSIMA 440mg Injection 1's","composition":"TRASTUZUMAB 440MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.59,400.00"}
+{"_id":{"$oid":"5b5842add51d295f99e73268"},"name":"HERSIMA 150mg Injection 1's","composition":"TRASTUZUMAB 150MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.19,132.00"}
+{"_id":{"$oid":"5b5842afd51d295f99e73269"},"name":"HERTRAZ 440mg Injection 1","composition":"Trastuzumab 440mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.58,820.00"}
+{"_id":{"$oid":"5b5842b1d51d295f99e7326a"},"name":"HERTRAZ 150mg Injection","composition":"Trastuzumab 150mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.19,500.00"}
+{"_id":{"$oid":"5b5842b3d51d295f99e7326b"},"name":"HOLOXAN WITH UROMITEXAN 1gm Injection 3X2ml","composition":"Ifosfamide 1gm+Mesna 200mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.525.23"}
+{"_id":{"$oid":"5b5842b5d51d295f99e7326c"},"name":"HOLOXAN 500mg Injection 1's","composition":"Ifosfamide 500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.316.90"}
+{"_id":{"$oid":"5b5842b6d51d295f99e7326d"},"name":"HOLOXAN WITH UROMITEXAN 2gm Injection 3X2ml","composition":"Ifosfamide 2gm+Mesna 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.1,217.00"}
+{"_id":{"$oid":"5b5842b8d51d295f99e7326e"},"name":"HONDREA 500mg Capsule 10's","composition":"HYDROXYUREA 500MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.148.50"}
+{"_id":{"$oid":"5b5842b9d51d295f99e7326f"},"name":"HONDREA 500mg Injection 1's","composition":"Hydroxyurea 500mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.148.50"}
+{"_id":{"$oid":"5b5842bbd51d295f99e73270"},"name":"HONVAN Tablet 10's","composition":"Fosfestrol Tetrasodium","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.265.10"}
+{"_id":{"$oid":"5b5842bdd51d295f99e73271"},"name":"HONVAN 300mg Injection 5ml","composition":"Fosfestrol 300mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.49.22"}
+{"_id":{"$oid":"5b5842c0d51d295f99e73272"},"name":"HONVAN 60mg Injection 5ml","composition":"Fosfestrol 60mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.49.22"}
+{"_id":{"$oid":"5b5842c2d51d295f99e73273"},"name":"HYDREA 500mg Capsule 10's","composition":"Hydroxyurea 500mg","manufacturer":"Sarabhai Piramal Pharma Ltd","price":"Rs.119.81"}
+{"_id":{"$oid":"5b5842c4d51d295f99e73274"},"name":"HYDREA 100mg Capsule 10's","composition":"Hydroxyurea 100mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.138.47"}
+{"_id":{"$oid":"5b5842c6d51d295f99e73275"},"name":"HYDROSAR Capsule 10's","composition":"Hydroxyurea 500mg","manufacturer":"Sarabhai Chemicals India Pvt Ltd","price":"Rs.117.08"}
+{"_id":{"$oid":"5b5842c8d51d295f99e73276"},"name":"HYUREA 500mg Capsule 10's","composition":"HYDROXYUREA 500MG","manufacturer":"Natco Pharma Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b5842cad51d295f99e73277"},"name":"IBATKIN 400mg Injection 1's","composition":"IMATINIB 400MG","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.2,994.00"}
+{"_id":{"$oid":"5b5842ccd51d295f99e73278"},"name":"IFEX M 1gm Injection","composition":"Ifosfamide 1gm+Mesna 200mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.399.80"}
+{"_id":{"$oid":"5b5842ced51d295f99e73279"},"name":"IFOXAN WITH MESNA 2gm Injection","composition":"Ifosfamide 2gm+Mesna 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.1,017.00"}
+{"_id":{"$oid":"5b5842d0d51d295f99e7327a"},"name":"IFOXAN WITH MESNA 1gm Injection 1's","composition":"IFOSFAMIDE 100MG+MESNA 1GM","manufacturer":"Alkem Laboratories Ltd","price":"Rs.528.81"}
+{"_id":{"$oid":"5b5842d1d51d295f99e7327b"},"name":"IMALEK 400mg Tablet 6's","composition":"IMATINIB MESYLATE 400MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.1,796.98"}
+{"_id":{"$oid":"5b5842d2d51d295f99e7327c"},"name":"IMALEK 400 mg Tablet 10's","composition":"IMATINIB MESYLATE 400MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.1,950.96"}
+{"_id":{"$oid":"5b5842d5d51d295f99e7327d"},"name":"IMALEK 100mg Tablet 10's","composition":"IMATINIB MESYLATE 100MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.952.00"}
+{"_id":{"$oid":"5b5842d6d51d295f99e7327e"},"name":"IMANIB 400mg Tablet 10's","composition":"IMATINIB MESYLATE 400MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.2,239.86"}
+{"_id":{"$oid":"5b5842d8d51d295f99e7327f"},"name":"IMANIB 100mg Tablet 10's","composition":"IMATINIB MESYLATE 100MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.1,015.00"}
+{"_id":{"$oid":"5b5842dad51d295f99e73280"},"name":"IMAT 100mg Tablet 10's","composition":"IMATINIB MESYLATE 100MG","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.483.33"}
+{"_id":{"$oid":"5b5842dcd51d295f99e73281"},"name":"IMAT 400mg Tablet 10's","composition":"IMATINIB MESYLATE 400MG","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.1,643.51"}
+{"_id":{"$oid":"5b5842ded51d295f99e73282"},"name":"IMATIB 400mg Tablet 10's","composition":"Imatinib Mesylate 400mg","manufacturer":"Cipla Ltd","price":"Rs.2,086.25"}
+{"_id":{"$oid":"5b5842e0d51d295f99e73283"},"name":"IMATIB A 100mg Capsule 10's","composition":"Imatinib Mesylate 100mg","manufacturer":"Cipla Ltd","price":"Rs.575.00"}
+{"_id":{"$oid":"5b5842e2d51d295f99e73284"},"name":"IMICAP 100mg Capsule 10's","composition":"Imatinib Mesylate 100mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.900.00"}
+{"_id":{"$oid":"5b5842e4d51d295f99e73285"},"name":"IMICAP 400mg Capsule 's","composition":"Imatinib Mesylate 400mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.3,317.31"}
+{"_id":{"$oid":"5b5842e8d51d295f99e73286"},"name":"IMUTREX 20mg Tablet 10's","composition":"Methotrexate 20mg","manufacturer":"Cipla Ltd","price":"Rs.60.12"}
+{"_id":{"$oid":"5b5842ead51d295f99e73287"},"name":"IMUTREX 10mg Tablet 4's","composition":"Methotrexate 10mg","manufacturer":"Cipla Ltd","price":"Rs.45.40"}
+{"_id":{"$oid":"5b5842ebd51d295f99e73288"},"name":"IMUTREX 15mg Injection 2ml","composition":"METHOTREXATE 15MG","manufacturer":"Cipla Ltd","price":"Rs.51.00"}
+{"_id":{"$oid":"5b5842edd51d295f99e73289"},"name":"IMUTREX 5mg Tablet 10's","composition":"Methotrexate 5mg","manufacturer":"Cipla Ltd","price":"Rs.124.63"}
+{"_id":{"$oid":"5b5842eed51d295f99e7328a"},"name":"IMUTREX 7.5mg Tablet 10's","composition":"Methotrexate 7.5mg","manufacturer":"Cipla Ltd","price":"Rs.108.36"}
+{"_id":{"$oid":"5b5842f0d51d295f99e7328b"},"name":"IMUTREX 2.5mg Tablet 10's","composition":"Methotrexate 2.5mg","manufacturer":"Cipla Ltd","price":"Rs.44.73"}
+{"_id":{"$oid":"5b5842f2d51d295f99e7328c"},"name":"INDUKT 2.5mg Tablet 5'S","composition":"Letrozole 2.5mg","manufacturer":"Wanbury Ltd","price":"Rs.169.00"}
+{"_id":{"$oid":"5b5842f4d51d295f99e7328d"},"name":"INLYTA 1mg Tablet 14's","composition":"Axitinib 1mg","manufacturer":"Pfizer Limited","price":"Rs.41,737.00"}
+{"_id":{"$oid":"5b5842f6d51d295f99e7328e"},"name":"INSTANTINO 0.25mg Injection 5ml","composition":"Palanosetron 0.25mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.168.00"}
+{"_id":{"$oid":"5b5842f7d51d295f99e7328f"},"name":"INTALFA 3MIU PENFILL Injection","composition":"Interferon Alpha-2B 3MIU","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.647.74"}
+{"_id":{"$oid":"5b5842f9d51d295f99e73290"},"name":"INTAXEL 100mg Injection 17ml","composition":"Paclitaxel 100mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.3,787.75"}
+{"_id":{"$oid":"5b5842fbd51d295f99e73291"},"name":"INTAXEL 30mg Injection 5ml","composition":"Paclitaxel 30mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.1,108.59"}
+{"_id":{"$oid":"5b5842fed51d295f99e73292"},"name":"INTAXEL 260mg Injection 43.4ml","composition":"Paclitaxel 260mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.11,172.42"}
+{"_id":{"$oid":"5b584300d51d295f99e73293"},"name":"IPAMIDE 1000mg Injection 1's","composition":"Ifosfamide 1000mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.410.70"}
+{"_id":{"$oid":"5b584301d51d295f99e73294"},"name":"IRESSA 250mg Tablet 10's","composition":"Gefitinib 250mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.4,256.66"}
+{"_id":{"$oid":"5b584303d51d295f99e73295"},"name":"IRICIP 100mg Injection 5ml","composition":"Irinotecan 100mg","manufacturer":"Cipla Ltd","price":"Rs.1,500.00"}
+{"_id":{"$oid":"5b584305d51d295f99e73296"},"name":"IRINOTEL 40mg Injection 2ml","composition":"Irinotecan 40mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.1,424.76"}
+{"_id":{"$oid":"5b584307d51d295f99e73297"},"name":"IRINOTEL 100mg Injection 5ml","composition":"Irinotecan 1000mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.3,052.38"}
+{"_id":{"$oid":"5b584309d51d295f99e73298"},"name":"IRINOTRAZ 40mg Injection","composition":"Irinotecan 40mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.1,980.00"}
+{"_id":{"$oid":"5b58430bd51d295f99e73299"},"name":"IRINOTRAZ 100mg Injection 5ml","composition":"Irinotecan 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.4,500.00"}
+{"_id":{"$oid":"5b58430dd51d295f99e7329a"},"name":"IRITERO 100mg Injection 1's","composition":"Irinotecan 100mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.4,100.00"}
+{"_id":{"$oid":"5b58430ed51d295f99e7329b"},"name":"IRNOCAM 40mg Injection 2ml","composition":"Irinotecan 40mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,825.50"}
+{"_id":{"$oid":"5b584310d51d295f99e7329c"},"name":"IRNOCAM 100mg Injection 5ml","composition":"Irinotecan 100mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.4,084.00"}
+{"_id":{"$oid":"5b584312d51d295f99e7329d"},"name":"ITACT 300mcg PREFILL Injection","composition":"Filgrastim 300mcg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.2,391.00"}
+{"_id":{"$oid":"5b584314d51d295f99e7329e"},"name":"JAKAVI 5mg Tablet 14's","composition":"Ruxolitinib 5mg","manufacturer":"Novartis India Ltd","price":"Rs.25,750.00"}
+{"_id":{"$oid":"5b584316d51d295f99e7329f"},"name":"JAKAVI 15mg Tablet 14's","composition":"RUXOLITINIB 15MG","manufacturer":"Novartis India Ltd","price":"Rs.50,000.00"}
+{"_id":{"$oid":"5b584318d51d295f99e732a0"},"name":"JAKAVI 20mg Tablet 14's","composition":"Ruxolitinib 20mg","manufacturer":"Novartis India Ltd","price":"Rs.56,300.00"}
+{"_id":{"$oid":"5b58431ad51d295f99e732a1"},"name":"KABIGEF 250mg Tablet 10's","composition":"Geftinib 250mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.1,778.00"}
+{"_id":{"$oid":"5b58431bd51d295f99e732a2"},"name":"KABIPEM 500mg Injection","composition":"Pemetrexed 500mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.21,060.00"}
+{"_id":{"$oid":"5b58431dd51d295f99e732a3"},"name":"KABIPEM 100mg Injection","composition":"Pemetrexed 100mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.5,265.00"}
+{"_id":{"$oid":"5b58431fd51d295f99e732a4"},"name":"KADCYLA 160mg Injection 8ml","composition":"ADO TRASTUZUMAB 160MG","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.248,937.00"}
+{"_id":{"$oid":"5b584321d51d295f99e732a5"},"name":"KEMOCARB 450mg Injection 45ml","composition":"Carboplatin 450mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.2,333.21"}
+{"_id":{"$oid":"5b584323d51d295f99e732a6"},"name":"KEMOCARB 150mg Injection 15ml","composition":"Carboplatin 150mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.777.74"}
+{"_id":{"$oid":"5b584325d51d295f99e732a7"},"name":"KEMODOXA 2mg/10ml Injection 1's","composition":"Doxorubicin 2mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.7,963.71"}
+{"_id":{"$oid":"5b584327d51d295f99e732a8"},"name":"KEMOPLAT 10mg Injection 10ml","composition":"Cisplatin 10mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.67.10"}
+{"_id":{"$oid":"5b584328d51d295f99e732a9"},"name":"KEMOPLAT 50mg Infusion 50ml","composition":"Cisplatin 50mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.309.52"}
+{"_id":{"$oid":"5b58432bd51d295f99e732aa"},"name":"KRABEVA 100mg Injection 4ml","composition":"Bevacizumab 100mg","manufacturer":"Biocon Ltd","price":"Rs.24,844.00"}
+{"_id":{"$oid":"5b58432dd51d295f99e732ab"},"name":"L ASPARAGINASE 10000IU Injection 1's","composition":"Asparaginase 10000IU","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,749.54"}
+{"_id":{"$oid":"5b58432ed51d295f99e732ac"},"name":"L ASPARAGINASE 5000IU Injection 1's","composition":"Asparaginase 5000IU","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,077.00"}
+{"_id":{"$oid":"5b584330d51d295f99e732ad"},"name":"L ASPINASE 5000iu Injection 1's","composition":"L ASPARAGINASE 5000IU","manufacturer":" NA ","price":"Rs.978.20"}
+{"_id":{"$oid":"5b584332d51d295f99e732ae"},"name":"LEDOXAN 50mg Tablet 's","composition":"Cyclophosphamide 50mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.31.00"}
+{"_id":{"$oid":"5b584334d51d295f99e732af"},"name":"LENALID 10mg Capsule 30's","composition":"Lenalidomide 10mg","manufacturer":"Natco Pharma Ltd","price":"Rs.8,976.00"}
+{"_id":{"$oid":"5b584336d51d295f99e732b0"},"name":"LENALID 25mg Capsule 30's","composition":"Lenalidomide 25mg","manufacturer":"Natco Pharma Ltd","price":"Rs.18,360.00"}
+{"_id":{"$oid":"5b584338d51d295f99e732b1"},"name":"LENALID 5mg Capsule 30's","composition":"Lenalidomide 5mg","manufacturer":"Natco Pharma Ltd","price":"Rs.4,386.00"}
+{"_id":{"$oid":"5b58433ad51d295f99e732b2"},"name":"LENANGIO 10mg Capsule 10's","composition":"LENALIDOMIDE 10MG","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.2,821.70"}
+{"_id":{"$oid":"5b58433cd51d295f99e732b3"},"name":"LENMID 10MG TABLET 10'S","composition":"LENALIDOMIDE 10MG","manufacturer":"Cipla Ltd","price":"Rs.2,000.00"}
+{"_id":{"$oid":"5b58433ed51d295f99e732b4"},"name":"LENMID 25mg Capsule 10's","composition":"Lenalidomide 25mg","manufacturer":"Cipla Ltd","price":"Rs.4,300.00"}
+{"_id":{"$oid":"5b58433fd51d295f99e732b5"},"name":"LENMID 10mg Capsule 10's","composition":"Lenalidomide 10mg","manufacturer":"Cipla Ltd","price":"Rs.2,000.00"}
+{"_id":{"$oid":"5b584341d51d295f99e732b6"},"name":"LENMID 5mg Capsule 10's","composition":"Lenalidomide 5mg","manufacturer":"Cipla Ltd","price":"Rs.1,000.00"}
+{"_id":{"$oid":"5b584343d51d295f99e732b7"},"name":"LENOME 25mg Capsule 10's","composition":"Lenalidomide 25mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.6,000.00"}
+{"_id":{"$oid":"5b584345d51d295f99e732b8"},"name":"LENOME 10mg Capsule 10's","composition":"Lenalidomide 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.3,815.00"}
+{"_id":{"$oid":"5b584347d51d295f99e732b9"},"name":"LENOME 5mg Capsule 10's","composition":"Lenalidomide 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.2,180.00"}
+{"_id":{"$oid":"5b584349d51d295f99e732ba"},"name":"LENZEST 10mg Capsule 10's","composition":"Lenalidomide 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.2,869.00"}
+{"_id":{"$oid":"5b58434bd51d295f99e732bb"},"name":"LENZEST 25mg Capsule 10's","composition":"Lenalidomide 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.5,829.00"}
+{"_id":{"$oid":"5b58434cd51d295f99e732bc"},"name":"LENZEST 5mg CAPSULE 10's","composition":"Lenalidomide 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.2,888.20"}
+{"_id":{"$oid":"5b58434fd51d295f99e732bd"},"name":"LETALL 2.5mg Tablet 5'S","composition":"Letrozole 2.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.139.00"}
+{"_id":{"$oid":"5b584350d51d295f99e732be"},"name":"LETEGG Tablet 5's","composition":"LETROZOLE 2.5MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.167.00"}
+{"_id":{"$oid":"5b584352d51d295f99e732bf"},"name":"LETEGG (LETOV) 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.167.00"}
+{"_id":{"$oid":"5b584354d51d295f99e732c0"},"name":"LETERO 2.5mg Tablet 10's","composition":"Letrozole 2.5mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b584356d51d295f99e732c1"},"name":"LETISHA 2.5mg Tablet 5's","composition":"LETROZOLE 2.5MG","manufacturer":"Others","price":"Rs.190.47"}
+{"_id":{"$oid":"5b584358d51d295f99e732c2"},"name":"LETOVAL 2.5mg Tablet 5's","composition":"LETROZOLE 2.5MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.187.08"}
+{"_id":{"$oid":"5b58435bd51d295f99e732c3"},"name":"LETOZIS 2.5mg Tablet 5'S","composition":"Letrozole 2.5mg","manufacturer":"Akesiss Pharma Pvt Ltd","price":"Rs.169.00"}
+{"_id":{"$oid":"5b58435dd51d295f99e732c4"},"name":"LETPRO 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.149.00"}
+{"_id":{"$oid":"5b58435fd51d295f99e732c5"},"name":"LETRO PLUS 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b584360d51d295f99e732c6"},"name":"LETROHOPE 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b584362d51d295f99e732c7"},"name":"LETROLIFE 2.5MG TABLET 5'S","composition":"LETROZOLE 2.5MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.207.20"}
+{"_id":{"$oid":"5b584364d51d295f99e732c8"},"name":"LETROMAC 2.5MG TABLET 5'S","composition":"LETROZOLE 2.5MG","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.160.95"}
+{"_id":{"$oid":"5b584366d51d295f99e732c9"},"name":"LETRONAT 2.5mg Tablet 10's","composition":"Letrozole 2.5mg","manufacturer":"Natco Pharma Ltd","price":"Rs.208.00"}
+{"_id":{"$oid":"5b584368d51d295f99e732ca"},"name":"LETROZ 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.187.08"}
+{"_id":{"$oid":"5b58436ad51d295f99e732cb"},"name":"LETS 2.5mg Tablet 10's","composition":"Letrozole 2.5mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.238.26"}
+{"_id":{"$oid":"5b58436cd51d295f99e732cc"},"name":"LETSI 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Serum Institute Of India Ltd","price":"Rs.169.00"}
+{"_id":{"$oid":"5b58436ed51d295f99e732cd"},"name":"LEUBEN 100mg Injection 1's","composition":"BENDAMUSTINE 100MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.8,200.00"}
+{"_id":{"$oid":"5b584370d51d295f99e732ce"},"name":"LEUCORIN 50mg Injection 5ml","composition":"Leucovorin Calcium 10mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.326.00"}
+{"_id":{"$oid":"5b584372d51d295f99e732cf"},"name":"LEUCORIN 15mg Tablet 10's","composition":"CALCIUM FOLINATE(LEUCOVORIN) 15MG","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.381.15"}
+{"_id":{"$oid":"5b584373d51d295f99e732d0"},"name":"LEUCOVORIN (DRL) 50mg Injection 5ml","composition":"Calcium Folinate 50mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.285.57"}
+{"_id":{"$oid":"5b584376d51d295f99e732d1"},"name":"LEUFOL 3.75mg Injection 1ml","composition":"LEUPRORELIN(LEUPROLIDE) ACETATE 3.75MG","manufacturer":"Others","price":"Rs.3,900.00"}
+{"_id":{"$oid":"5b584378d51d295f99e732d2"},"name":"LEUPO 22.5mg Injection 1ml","composition":"LEUPRORELIN(LEUPROLIDE) ACETATE 22.5MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.21,000.00"}
+{"_id":{"$oid":"5b584379d51d295f99e732d3"},"name":"LEUPO 11.25mg Injection 1ml","composition":"LEUPRORELIN(LEUPROLIDE) ACETATE 11.25MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.11,500.00"}
+{"_id":{"$oid":"5b58437bd51d295f99e732d4"},"name":"LEUPROGON 3.75mg Injection 1ml","composition":"LEUPRORELIN(LEUPROLIDE) ACETATE 3.75MG","manufacturer":"Lg Life Sciences India Pvt Ltd","price":"Rs.3,820.30"}
+{"_id":{"$oid":"5b58437cd51d295f99e732d5"},"name":"LEUPROSTA 22.5mg Injection(DEPOT)","composition":"Leuprolide 22.5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.19,980.00"}
+{"_id":{"$oid":"5b58437ed51d295f99e732d6"},"name":"LEUPROSTA 11.25mg Injection(DEPOT)","composition":"Leuprolide 11.25mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.11,250.00"}
+{"_id":{"$oid":"5b584380d51d295f99e732d7"},"name":"LEUREN 22.5mg Injection 1's","composition":"LEUPROLIDE ACETATE 22.5MG","manufacturer":"UTH HEALTHCARE LTD","price":"Rs.30,000.00"}
+{"_id":{"$oid":"5b584382d51d295f99e732d8"},"name":"LEUREN 11.25mg Injection 1's","composition":"LEUPROLIDE ACETATE 11.25MG","manufacturer":"UTH HEALTHCARE LTD","price":"Rs.12,000.00"}
+{"_id":{"$oid":"5b584384d51d295f99e732d9"},"name":"LEVIN(DRL) 100mg Tablet 30's","composition":"Imatinib Mesylate 100mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.3,323.81"}
+{"_id":{"$oid":"5b584386d51d295f99e732da"},"name":"LIPISOL Injection 10ml","composition":"Doxorubicin 20mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.9,000.00"}
+{"_id":{"$oid":"5b584387d51d295f99e732db"},"name":"LIPODOX Injection 10ml","composition":"Doxorubicin 20mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.8,040.00"}
+{"_id":{"$oid":"5b584389d51d295f99e732dc"},"name":"LIPODOX Injection 5ml","composition":"Doxorubicin 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.4,425.00"}
+{"_id":{"$oid":"5b58438bd51d295f99e732dd"},"name":"LIPODOX Injection 25ml","composition":"Doxorubicin 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.18,400.00"}
+{"_id":{"$oid":"5b58438dd51d295f99e732de"},"name":"LIPOPEG 20mg Injection 1's","composition":"Doxorubicin 20mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.8,000.00"}
+{"_id":{"$oid":"5b584391d51d295f99e732df"},"name":"LOMTIN 40mg Capsule 5's","composition":"Lomustine 40mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.719.00"}
+{"_id":{"$oid":"5b584393d51d295f99e732e0"},"name":"LORTINIB 150mg Tablet 10's","composition":"Erlotinib 150mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.6,375.00"}
+{"_id":{"$oid":"5b584395d51d295f99e732e1"},"name":"LORTINIB 100mg Tablet 10's","composition":"ERLOTINIB 100MG","manufacturer":" NA ","price":"Rs.7,900.00"}
+{"_id":{"$oid":"5b584397d51d295f99e732e2"},"name":"LUCRIN DEPOT 3.75mg Injection 1's","composition":"LEUPRORELIN(LEUPROLIDE) ACETATE 3.75MG","manufacturer":"Abbott India Ltd","price":"Rs.9,250.00"}
+{"_id":{"$oid":"5b584398d51d295f99e732e3"},"name":"LUCRIN DEPOT 11.25mg Injection 1's","composition":"LEUPRORELIN(LEUPROLIDE) ACETATE 11.25MG","manufacturer":"Abbott India Ltd","price":"Rs.15,625.00"}
+{"_id":{"$oid":"5b58439ad51d295f99e732e4"},"name":"LUGONIST 3.75mg Injection 1ml","composition":"LEUPRORELIN(LEUPROLIDE) ACETATE 3.75MG","manufacturer":"Others","price":"Rs.2,337.50"}
+{"_id":{"$oid":"5b58439cd51d295f99e732e5"},"name":"LUKATRET 10mg Capsule 100's","composition":"Tretinoin 10mg","manufacturer":"Natco Pharma Ltd","price":"Rs.7,000.00"}
+{"_id":{"$oid":"5b58439ed51d295f99e732e6"},"name":"LUPARD 11.25mg Injection(DEPOT)","composition":"Leuprolide 11.25mg","manufacturer":"Adley Formulation","price":"Rs.11,000.00"}
+{"_id":{"$oid":"5b5843a1d51d295f99e732e7"},"name":"LUPINIB 400mg Tablet 10's","composition":"IMATINIB MESYLATE 400MG","manufacturer":"Lupin Ltd","price":"Rs.2,004.00"}
+{"_id":{"$oid":"5b5843a3d51d295f99e732e8"},"name":"LUPORAL Capsule 10's","composition":"Tegafur 100mg+Uracil 224mg","manufacturer":"Lupin Ltd","price":"Rs.1,416.00"}
+{"_id":{"$oid":"5b5843a4d51d295f99e732e9"},"name":"LUPRIDE 1mg Injection 0.5ml","composition":"Leuprolide 1mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.239.00"}
+{"_id":{"$oid":"5b5843a7d51d295f99e732ea"},"name":"LUPRIDE 3.75mg Injection(DEPOT)","composition":"Leuprolide 3.75mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.4,200.00"}
+{"_id":{"$oid":"5b5843a9d51d295f99e732eb"},"name":"LUPRIDE 7.5mg Injection 1's","composition":"Leuprorelin 7.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.7,142.86"}
+{"_id":{"$oid":"5b5843abd51d295f99e732ec"},"name":"LUPRIDE 11.25mg Injection(DEPOT)","composition":"Leuprolide 11.25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.11,500.00"}
+{"_id":{"$oid":"5b5843acd51d295f99e732ed"},"name":"LUPRIDE 0.5mg Injection 2ml","composition":"Leuprorelin 0.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.239.00"}
+{"_id":{"$oid":"5b5843aed51d295f99e732ee"},"name":"LUPRIDE 22.5mg Injection(DEPOT)","composition":"Leuprolide 22.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.18,700.00"}
+{"_id":{"$oid":"5b5843b0d51d295f99e732ef"},"name":"LUPRIDE 45mg Injection 1's","composition":"Leuprorelin 45mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.30,285.71"}
+{"_id":{"$oid":"5b5843b2d51d295f99e732f0"},"name":"LUPRIDE 4mg Injection 4ml","composition":"Leuprolide 4mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.660.00"}
+{"_id":{"$oid":"5b5843b5d51d295f99e732f1"},"name":"LUPRODEX 22.5mg Injection","composition":"Leuprorelin 22.5mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.20,100.00"}
+{"_id":{"$oid":"5b5843b7d51d295f99e732f2"},"name":"LUPRODEX 11.25mg Injection","composition":"Leuprorelin 11.25mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.11,025.00"}
+{"_id":{"$oid":"5b5843b9d51d295f99e732f3"},"name":"LUPRODEX 3M 11.25mg Injection 2ml","composition":"LEUPRORELIN 11.25MG","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.11,025.00"}
+{"_id":{"$oid":"5b5843bad51d295f99e732f4"},"name":"LUPROFACT 4mg Injection 4ml","composition":"Leuprorelin 4mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.552.16"}
+{"_id":{"$oid":"5b5843bcd51d295f99e732f5"},"name":"LUPROFACT 1mg Injection 0.5ml","composition":"Leuprorelin 1mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.213.31"}
+{"_id":{"$oid":"5b5843bdd51d295f99e732f6"},"name":"LUPROLIDE DEPOT 3.75mg Injection 1's","composition":"Leuprolide Acetate 3.75mg","manufacturer":"Lupin Ltd","price":"Rs.4,200.00"}
+{"_id":{"$oid":"5b5843bfd51d295f99e732f7"},"name":"LUPRORIN 3.75MG INJECTION 1'S","composition":"LEUPROLIDE ACETATE 3.75 ","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.4,634.00"}
+{"_id":{"$oid":"5b5843c1d51d295f99e732f8"},"name":"LUPRORIN 1mg Injection 0.5ml","composition":"Leuprorelin 1mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.179.00"}
+{"_id":{"$oid":"5b5843c3d51d295f99e732f9"},"name":"LUPRORIN 4MG INJECTION 4ML","composition":"LEUPRORELIN(LEUPROLIDE) ACETATE 4MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.560.00"}
+{"_id":{"$oid":"5b5843c4d51d295f99e732fa"},"name":"LUTRAZOLE Tablet 5's","composition":"LETROZOLE 2.5MG","manufacturer":"Lupin Ltd","price":"Rs.198.65"}
+{"_id":{"$oid":"5b5843c5d51d295f99e732fb"},"name":" ","composition":" NA ","manufacturer":" NA ","price":" NA "}
+{"_id":{"$oid":"5b5843c7d51d295f99e732fc"},"name":"LUTROZOLE 2.5mg Tablet 5's","composition":"LETROZOLE 2.5MG","manufacturer":"Lupin Ltd","price":"Rs.198.65"}
+{"_id":{"$oid":"5b5843c9d51d295f99e732fd"},"name":"LUTROZOLE 2.5mg Tablet 15's","composition":"LETROZOLE 2.5MG","manufacturer":"Lupin Ltd","price":"Rs.177.36"}
+{"_id":{"$oid":"5b5843cbd51d295f99e732fe"},"name":"LYMFUDA 10mg Tablet 5's","composition":"Fludarabine Phosphate 10mg","manufacturer":"Natco Pharma Ltd","price":"Rs.5,775.00"}
+{"_id":{"$oid":"5b5843cdd51d295f99e732ff"},"name":"LYPHIDOX 10mg Injection","composition":"Doxorubicin 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.211.60"}
+{"_id":{"$oid":"5b5843ced51d295f99e73300"},"name":"LYPHIDOX 50mg Injection","composition":"Doxorubicin 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.1,024.58"}
+{"_id":{"$oid":"5b5843d0d51d295f99e73301"},"name":"LYTROL 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.152.00"}
+{"_id":{"$oid":"5b5843d2d51d295f99e73302"},"name":"MABALL 100mg Injection 10ml","composition":"Rituximab 100mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.5,990.00"}
+{"_id":{"$oid":"5b5843d4d51d295f99e73303"},"name":"MABALL 500mg Injection 50ml","composition":"Rituximab 500mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.30,285.00"}
+{"_id":{"$oid":"5b5843d6d51d295f99e73304"},"name":"MABAREX 100mg Injection","composition":"Rituximab 100mg","manufacturer":"UTH HEALTHCARE LTD","price":"Rs.7,500.00"}
+{"_id":{"$oid":"5b5843d8d51d295f99e73305"},"name":"MABAREX 500mg Injection","composition":"Rituximab 500mg","manufacturer":"UTH HEALTHCARE LTD","price":"Rs.35,000.00"}
+{"_id":{"$oid":"5b5843dad51d295f99e73306"},"name":"MABTAS 100mg Injection 10ml","composition":"Rituximab 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.7,500.00"}
+{"_id":{"$oid":"5b5843dcd51d295f99e73307"},"name":"MABTAS 500mg Injection 50ml","composition":"Rituximab 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.38,541.44"}
+{"_id":{"$oid":"5b5843ded51d295f99e73308"},"name":"MABTHERA 100mg Injection 1's","composition":"Rituximab 100mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.16,000.00"}
+{"_id":{"$oid":"5b5843e1d51d295f99e73309"},"name":"MAMAZOL 2.5mg Tablet 10's","composition":"Letrozole 2.5mg","manufacturer":"Khandelwal Laboratories Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5843e3d51d295f99e7330a"},"name":"MAMOFEN 20mg Tablet 10's","composition":"Tamoxifen Citrate 20mg","manufacturer":"Khandelwal Laboratories Ltd","price":"Rs.26.00"}
+{"_id":{"$oid":"5b5843e5d51d295f99e7330b"},"name":"MAMOFEN 10mg Tablet 10's","composition":"Tamoxifen Citrate 10mg","manufacturer":"Khandelwal Laboratories Ltd","price":"Rs.20.00"}
+{"_id":{"$oid":"5b5843e7d51d295f99e7330c"},"name":"MATERNA 3.75mg Injection(DEPOT)","composition":"Leuprolide 3.75mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.4,395.00"}
+{"_id":{"$oid":"5b5843e9d51d295f99e7330d"},"name":"MAXTORIN 100mg Injection 1's","composition":"Bendamustine 100mg","manufacturer":"Pfizer Limited","price":"Rs.8,383.00"}
+{"_id":{"$oid":"5b5843ebd51d295f99e7330e"},"name":"MEGAPLAT 50mg Injection 25ml","composition":"Oxaliplatin 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.2,581.88"}
+{"_id":{"$oid":"5b5843edd51d295f99e7330f"},"name":"MEGAPLAT 100mg Injection 50ml","composition":"Oxaliplatin 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.4,293.00"}
+{"_id":{"$oid":"5b5843efd51d295f99e73310"},"name":"MEREX 1000mg Injection 10ml","composition":"Methotrexate 1000mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.1,093.00"}
+{"_id":{"$oid":"5b5843f1d51d295f99e73311"},"name":"MEREX 500mg Injection 5ml","composition":"Methotrexate 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.601.00"}
+{"_id":{"$oid":"5b5843f2d51d295f99e73312"},"name":"MESNA 200mg Injection 3X2ml","composition":"Mesna 200mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.74.25"}
+{"_id":{"$oid":"5b5843f4d51d295f99e73313"},"name":"MESNA 100mg Injection 2ml","composition":"Mesna 100mg","manufacturer":"Cipla Ltd","price":"Rs.95.13"}
+{"_id":{"$oid":"5b5843f6d51d295f99e73314"},"name":"METHOCIP 50mg Injection 2ml","composition":"Methotrexate 50mg","manufacturer":"Cipla Ltd","price":"Rs.48.75"}
+{"_id":{"$oid":"5b5843f7d51d295f99e73315"},"name":"METHOREX 2.5mg Tablet 10's","composition":"Methotrexate 2.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.20.41"}
+{"_id":{"$oid":"5b5843f9d51d295f99e73316"},"name":"MEXATE 20mg Injection 1ml","composition":"Methotrexate 20mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.275.00"}
+{"_id":{"$oid":"5b5843fbd51d295f99e73317"},"name":"MEXATE 5mg Tablet 12's","composition":"Methotrexate 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.288.60"}
+{"_id":{"$oid":"5b5843fdd51d295f99e73318"},"name":"MEXATE 7.5mg Tablet 10's","composition":"Methotrexate 7.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.52.25"}
+{"_id":{"$oid":"5b5843fed51d295f99e73319"},"name":"MEXATE 7.5mg Tablet 4's","composition":"Methotrexate 7.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.44.18"}
+{"_id":{"$oid":"5b584400d51d295f99e7331a"},"name":"MEXATE 25mg Injection 1's","composition":"Methotrexate 25mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.55.00"}
+{"_id":{"$oid":"5b584401d51d295f99e7331b"},"name":"MEXATE 10mg Tablet 4's","composition":"Methotrexate 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.46.28"}
+{"_id":{"$oid":"5b584404d51d295f99e7331c"},"name":"MEXAT 2.5mg Tablet 4's","composition":"METHOTREXATE 2.5MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.18.23"}
+{"_id":{"$oid":"5b584405d51d295f99e7331d"},"name":"MEXATE 250mg Injection 10ml","composition":"Methotrexate 250mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.55.00"}
+{"_id":{"$oid":"5b584407d51d295f99e7331e"},"name":"MEXATE 7.5mg Tablet 2's","composition":"Methotrexate 7.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.73.20"}
+{"_id":{"$oid":"5b584409d51d295f99e7331f"},"name":"MEXATE 2.5mg Tablet 10's","composition":"Methotrexate 2.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.21.88"}
+{"_id":{"$oid":"5b58440bd51d295f99e73320"},"name":"MEXATE 5mg Tablet 4's","composition":"Methotrexate 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.31.29"}
+{"_id":{"$oid":"5b58440dd51d295f99e73321"},"name":"MEXATE 15mg Injection 1ml","composition":"Methotrexate 15mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.51.42"}
+{"_id":{"$oid":"5b58440fd51d295f99e73322"},"name":"MEXATE 10mg Tablet 12's","composition":"Methotrexate 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.73.33"}
+{"_id":{"$oid":"5b584411d51d295f99e73323"},"name":"MEXATE 25mg Injection 1ml","composition":"Methotrexate 25mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.55.00"}
+{"_id":{"$oid":"5b584413d51d295f99e73324"},"name":"MEXATE 7.5mg Injection 1ml","composition":"Methotrexate 7.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.30.00"}
+{"_id":{"$oid":"5b584415d51d295f99e73325"},"name":"MEXT 15mg Tablet 10's","composition":"Methotrexate 15mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.227.75"}
+{"_id":{"$oid":"5b584417d51d295f99e73326"},"name":"MEXT 50mg Injection 2ml","composition":"Methotrexate 50mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.89.88"}
+{"_id":{"$oid":"5b584419d51d295f99e73327"},"name":"MEXT 7.5mg Tablet 10's","composition":"Methotrexate 7.5mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.108.36"}
+{"_id":{"$oid":"5b58441bd51d295f99e73328"},"name":"MEXT 5mg Tablet 10's","composition":"METHOTREXATE 5MG","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.78.22"}
+{"_id":{"$oid":"5b58441cd51d295f99e73329"},"name":"MEXT 10mg Tablet 10's","composition":"Methotrexate 10mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.113.50"}
+{"_id":{"$oid":"5b58441ed51d295f99e7332a"},"name":"MEXT F 7.5mg Tablet 28's","composition":"Folic Acid 7.5mg+Methotrexate 1mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.65.90"}
+{"_id":{"$oid":"5b584420d51d295f99e7332b"},"name":"MITINAB 100mg Tablet 10's","composition":"Imatinib Mesylate 100mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.900.00"}
+{"_id":{"$oid":"5b584422d51d295f99e7332c"},"name":"MITOMYCIN Injection 40mg","composition":"Mitomycin 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.2,620.00"}
+{"_id":{"$oid":"5b584424d51d295f99e7332d"},"name":"MITOMYCIN 10mg Injection","composition":"Mitomycin 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.506.50"}
+{"_id":{"$oid":"5b584426d51d295f99e7332e"},"name":"MITOMYCIN 2 Injection 2mg","composition":"Mitomycin 2mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.196.70"}
+{"_id":{"$oid":"5b584428d51d295f99e7332f"},"name":"MITOMYCIN C 2mg Injection","composition":"Mitomycin 2mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.196.70"}
+{"_id":{"$oid":"5b58442ad51d295f99e73330"},"name":"MITOMYCIN C KYOWA 40mg Injection","composition":"Mitomycin 40mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.2,168.00"}
+{"_id":{"$oid":"5b58442bd51d295f99e73331"},"name":"MITOTAX 300mg Injection 50ml","composition":"Paclitaxel 300mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.10,875.20"}
+{"_id":{"$oid":"5b58442dd51d295f99e73332"},"name":"MITOTAX 30mg Injection 5ml","composition":"Paclitaxel 30mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,681.45"}
+{"_id":{"$oid":"5b58442fd51d295f99e73333"},"name":"MITOTAX 100mg Injection 16.7ml","composition":"Paclitaxel 100mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.3,624.62"}
+{"_id":{"$oid":"5b584431d51d295f99e73334"},"name":"MITOTAX 250mg Injection 41.7ml","composition":"Paclitaxel 250mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.9,588.10"}
+{"_id":{"$oid":"5b584433d51d295f99e73335"},"name":"MmlINODA 10mg Tablet 10's","composition":"Lenalidomide 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.2,970.00"}
+{"_id":{"$oid":"5b584435d51d295f99e73336"},"name":"TAMODEX 10mg Tablet 10's","composition":"Tamoxifen Citrate 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.25.17"}
+{"_id":{"$oid":"5b584437d51d295f99e73337"},"name":"MYAZA 100mg Injection 1's","composition":"Azacitidine 100mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.4,950.00"}
+{"_id":{"$oid":"5b584439d51d295f99e73338"},"name":"MYELOSTAT 500mg Capsule 10's","composition":"Hydroxyurea 500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.114.00"}
+{"_id":{"$oid":"5b58443ad51d295f99e73339"},"name":"MYEZOM 2mg Injection","composition":"Bortezomib 2mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.11,982.20"}
+{"_id":{"$oid":"5b58443cd51d295f99e7333a"},"name":"MYGEM 200mg Injection 1's","composition":"Gemcitabine 200mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.1,069.00"}
+{"_id":{"$oid":"5b58443dd51d295f99e7333b"},"name":"MYGEM 1000mg Injection 1's","composition":"Gemcitabine 1000mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.4,922.00"}
+{"_id":{"$oid":"5b58443ed51d295f99e7333c"},"name":"MYLOSOME 2mg Injection","composition":"Bortezomib 2mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.12,999.00"}
+{"_id":{"$oid":"5b584440d51d295f99e7333d"},"name":"MYMUST 100mg Injection 1's","composition":"Bendamustine 100mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.4,950.00"}
+{"_id":{"$oid":"5b584442d51d295f99e7333e"},"name":"MYTAXEL 30mg Injection 5ml","composition":"Paclitaxel 30mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.1,035.00"}
+{"_id":{"$oid":"5b584443d51d295f99e7333f"},"name":"MYTREX 500mg Injection","composition":"Pemetrexed 500mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.19,000.00"}
+{"_id":{"$oid":"5b584445d51d295f99e73340"},"name":"MYTREX 100mg Injection","composition":"Pemetrexed 100mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.4,500.00"}
+{"_id":{"$oid":"5b584447d51d295f99e73341"},"name":"MYZOMIB 2mg Injection 1's","composition":"Bortezomib 2mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.4,950.00"}
+{"_id":{"$oid":"5b584449d51d295f99e73342"},"name":"NABPAC 100mg Injection 1's","composition":"PACLITAXEL 100MG","manufacturer":" NA ","price":"Rs.12,333.00"}
+{"_id":{"$oid":"5b58444bd51d295f99e73343"},"name":"NANOPACLI 100mg Injection 1's","composition":"Paclitaxel 100mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.9,891.00"}
+{"_id":{"$oid":"5b58444dd51d295f99e73344"},"name":"NANOXEL 100mg Injection 5ml","composition":"PACLITAXEL 100MG","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.7,220.43"}
+{"_id":{"$oid":"5b58444ed51d295f99e73345"},"name":"NANOXEL 300mg Injection 15ml","composition":"PACLITAXEL 300MG","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.16,245.97"}
+{"_id":{"$oid":"5b584450d51d295f99e73346"},"name":"NATDECITA 50mg Injection","composition":"Decitabine 50mg","manufacturer":"Natco Pharma Ltd","price":"Rs.7,800.00"}
+{"_id":{"$oid":"5b584454d51d295f99e73347"},"name":"NATDOX LP 20mg Injection 10ml","composition":"Doxorubicin 20mg","manufacturer":"Natco Pharma Ltd","price":"Rs.8,040.00"}
+{"_id":{"$oid":"5b584456d51d295f99e73348"},"name":"NATFOST 500mg Injection","composition":"Amifostine 500mg","manufacturer":"Natco Pharma Ltd","price":"Rs.1,000.00"}
+{"_id":{"$oid":"5b584458d51d295f99e73349"},"name":"NAVELBINE 10mg Injection 1's","composition":"Vinorelbine 10mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.3,864.00"}
+{"_id":{"$oid":"5b58445ad51d295f99e7334a"},"name":"NAVELBINE 50mg Injection 5ml","composition":"Vinorelbine 50mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.16,895.00"}
+{"_id":{"$oid":"5b58445cd51d295f99e7334b"},"name":"NEOMUSTIN 100mg Injection 1's","composition":"Bendamustine 100mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.19.90"}
+{"_id":{"$oid":"5b58445ed51d295f99e7334c"},"name":"NEOXAL 100mg Injection 1's","composition":"Oxaliplatin 100mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.5,000.00"}
+{"_id":{"$oid":"5b58445fd51d295f99e7334d"},"name":"NEOXAL 50mg Injection 1's","composition":"Oxaliplatin 50mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.2,800.00"}
+{"_id":{"$oid":"5b584461d51d295f99e7334e"},"name":"NEUKINE 300mcg Injection(Pfs) 1ml","composition":"FILGRASTIM 300MCG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.1,394.65"}
+{"_id":{"$oid":"5b584462d51d295f99e7334f"},"name":"NEUKINE 300mcg Injection 1's","composition":"FILGRASTIM 300MCG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.496.00"}
+{"_id":{"$oid":"5b584464d51d295f99e73350"},"name":"NEUPEG 6mg PENFILL Injection","composition":"Pegfilgrastim 6mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.18,530.00"}
+{"_id":{"$oid":"5b584466d51d295f99e73351"},"name":"NEUPOKINE 10mg Tablet 10's","composition":"Filgrastim 10mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b584468d51d295f99e73352"},"name":"NEUPOKINE 20mg Tablet 10's","composition":"Filgrastim 20mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b58446ad51d295f99e73353"},"name":"NEUPOKINE 300mcg Injection(Pfs) 1ml","composition":"Filgrastim 300mcg","manufacturer":"Panacea Biotec Ltd","price":"Rs.2,524.00"}
+{"_id":{"$oid":"5b58446cd51d295f99e73354"},"name":"NEWOVA 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Akumentis Healthcare Ltd","price":"Rs.172.00"}
+{"_id":{"$oid":"5b58446ed51d295f99e73355"},"name":"NUBLAST 250mg Capsule 5's","composition":"Temozolomide 250mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.18,261.59"}
+{"_id":{"$oid":"5b58446fd51d295f99e73356"},"name":"NUBLAST 20mg Capsule 5's","composition":"Temozolomide 20mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.2,130.52"}
+{"_id":{"$oid":"5b584470d51d295f99e73357"},"name":"NUBLAST 100mg Capsule 5's","composition":"Temozolomide 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.7,608.99"}
+{"_id":{"$oid":"5b584472d51d295f99e73358"},"name":"NUBLEXA 40mg Tablet 28's","composition":"Regorafenib 40mg","manufacturer":"Others","price":"Rs.59,294.00"}
+{"_id":{"$oid":"5b584474d51d295f99e73359"},"name":"NUDOXA 20mg Injection 10ml","composition":"Doxorubicin 20mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.20,490.00"}
+{"_id":{"$oid":"5b584476d51d295f99e7335a"},"name":"NUFIL SF 300mcg Injection 1's","composition":"FILGRASTIM 300MCG","manufacturer":"Biocon Ltd","price":"Rs.2,249.90"}
+{"_id":{"$oid":"5b584479d51d295f99e7335b"},"name":"ONCOCARBIN AQ 150 mg Injection 15ml","composition":"CARBOPLATIN 150MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.858.00"}
+{"_id":{"$oid":"5b58447bd51d295f99e7335c"},"name":"ONCODOX 50mg Injection","composition":"Doxorubicin 50mg","manufacturer":"Cipla Ltd","price":"Rs.873.34"}
+{"_id":{"$oid":"5b58447cd51d295f99e7335d"},"name":"ONCODOX 10mg Injection","composition":"Doxorubicin 10mg","manufacturer":"Cipla Ltd","price":"Rs.174.88"}
+{"_id":{"$oid":"5b58447ed51d295f99e7335e"},"name":"ONCODOX PEG 2mg Injection 10ml","composition":"Doxorubicin 2mg","manufacturer":"Cipla Ltd","price":"Rs.8,500.00"}
+{"_id":{"$oid":"5b584480d51d295f99e7335f"},"name":"ONCOGEM 1400mg Injection 20ml","composition":"Gemcitabine 1400mg","manufacturer":"Cipla Ltd","price":"Rs.10,216.35"}
+{"_id":{"$oid":"5b584482d51d295f99e73360"},"name":"ONCOGEM 200mg Injection","composition":"Gemcitabine 200mg","manufacturer":"Cipla Ltd","price":"Rs.1,144.93"}
+{"_id":{"$oid":"5b584484d51d295f99e73361"},"name":"ONCOLET 2.5mg Tablet 10's","composition":"Letrozole 2.5mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b584486d51d295f99e73362"},"name":"ONCOPLATIN AQ 10 mg Injection 20ml","composition":"CISPLATIN 10MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.87.50"}
+{"_id":{"$oid":"5b584488d51d295f99e73363"},"name":"ONCOPLATIN AQ 50 mg Infusion 100ml","composition":"CISPLATIN 50MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.320.00"}
+{"_id":{"$oid":"5b58448ad51d295f99e73364"},"name":"ONCOTAXEL 260mg Injection","composition":"Paclitaxel 260mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.7,265.00"}
+{"_id":{"$oid":"5b58448cd51d295f99e73365"},"name":"ONCOTAXEL 100mg Injection 1ml","composition":"Paclitaxel 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.3,296.00"}
+{"_id":{"$oid":"5b58448ed51d295f99e73366"},"name":"ONCOTREX 7.5mg Tablet 10's","composition":"Methotrexate 7.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.110.46"}
+{"_id":{"$oid":"5b584491d51d295f99e73367"},"name":"ONCOTREX 5mg Tablet 10's","composition":"Methotrexate 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.79.76"}
+{"_id":{"$oid":"5b584492d51d295f99e73368"},"name":"ONCOTREX 2.5mg Tablet 10's","composition":"Methotrexate 2.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.45.57"}
+{"_id":{"$oid":"5b584493d51d295f99e73369"},"name":"ONCOTREX 50 mg Injection 5ml","composition":"METHOTREXATE 50MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.51.00"}
+{"_id":{"$oid":"5b584495d51d295f99e7336a"},"name":"ONCOTREX 50 mg Injection 1.5ml","composition":"METHOTREXATE 50MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.354.50"}
+{"_id":{"$oid":"5b584497d51d295f99e7336b"},"name":"ONCOTRON 2mg Injection 10ml","composition":"Mitoxantrone 2mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.467.00"}
+{"_id":{"$oid":"5b584499d51d295f99e7336c"},"name":"OPILO Kit","composition":"Aprepitant 80mg+Aprepitant 125mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.1,318.80"}
+{"_id":{"$oid":"5b58449bd51d295f99e7336d"},"name":"ORETA 2.5mg Tablet 10's","composition":"Letrozole 2.5mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.385.45"}
+{"_id":{"$oid":"5b58449dd51d295f99e7336e"},"name":"ORTEZ 2mg Injection","composition":"Bortezomib 2mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.12,591.25"}
+{"_id":{"$oid":"5b58449fd51d295f99e7336f"},"name":"OVULET 2.5mg Tablet 10's","composition":"Letrozole 2.5mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.239.76"}
+{"_id":{"$oid":"5b5844a1d51d295f99e73370"},"name":"OVULET 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b5844a3d51d295f99e73371"},"name":"OVULET 5mg Tablet 5's","composition":"Letrozole 5mg","manufacturer":"Bharat Serums \u0026 Vaccines Ltd","price":"Rs.250.00"}
+{"_id":{"$oid":"5b5844a5d51d295f99e73372"},"name":"OXIPLAT 100mg Injection 20ml","composition":"Oxaliplatin 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.4,808.00"}
+{"_id":{"$oid":"5b5844a7d51d295f99e73373"},"name":"OXIPLAT 50mg Injection 25ml","composition":"Oxaliplatin 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.2,556.52"}
+{"_id":{"$oid":"5b5844a9d51d295f99e73374"},"name":"OXITAN 50mg Injection 25ml","composition":"Oxaliplatin 50mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.1,904.76"}
+{"_id":{"$oid":"5b5844abd51d295f99e73375"},"name":"OXITAN 100mg Infusion 50ml","composition":"Oxaliplatin 100mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.4,722.85"}
+{"_id":{"$oid":"5b5844add51d295f99e73376"},"name":"OXITOZ 50mg Injection","composition":"Oxaliplatin 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.3,312.00"}
+{"_id":{"$oid":"5b5844afd51d295f99e73377"},"name":"OXITOZ 100mg Injection","composition":"Oxaliplatin 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.6,322.00"}
+{"_id":{"$oid":"5b5844b1d51d295f99e73378"},"name":"OXITRUST 50mg Injection 25ml","composition":"Oxaliplatin 50mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.2,623.20"}
+{"_id":{"$oid":"5b5844b3d51d295f99e73379"},"name":"OXITRUST 100mg Injection 50ml","composition":"Oxaliplatin 100mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.4,683.11"}
+{"_id":{"$oid":"5b5844b5d51d295f99e7337a"},"name":"OXOPLAN 100mg Injection 1's","composition":"Oxaliplatin 100mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.6,726.70"}
+{"_id":{"$oid":"5b5844b7d51d295f99e7337b"},"name":"OXPLA 50mg Injection 25ml","composition":"Oxaliplatin 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.2,042.63"}
+{"_id":{"$oid":"5b5844b9d51d295f99e7337c"},"name":"OXPLA 100mg Injection 50ml","composition":"Oxaliplatin 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.3,490.00"}
+{"_id":{"$oid":"5b5844bcd51d295f99e7337d"},"name":"P CARZINE 50mg Capsule 10's","composition":"Procarbazine 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.339.80"}
+{"_id":{"$oid":"5b5844bed51d295f99e7337e"},"name":"PACLIALL 100mg Injection 1's","composition":"Paclitaxel 100mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.11,543.00"}
+{"_id":{"$oid":"5b5844bfd51d295f99e7337f"},"name":"PACLITAX 6mg Injection 5ml","composition":"Paclitaxel 6mg","manufacturer":"Cipla Ltd","price":"Rs.9,000.00"}
+{"_id":{"$oid":"5b5844c1d51d295f99e73380"},"name":"PACLITAX 300mg Injection 50ml","composition":"Paclitaxel 300mg","manufacturer":"Cipla Ltd","price":"Rs.10,871.70"}
+{"_id":{"$oid":"5b5844c4d51d295f99e73381"},"name":"PACLITAX NAB 100mg Injection 1's","composition":"Paclitaxel 100mg","manufacturer":"Cipla Ltd","price":"Rs.11,975.00"}
+{"_id":{"$oid":"5b5844c6d51d295f99e73382"},"name":"PACLITERO 260mg Injection 1's","composition":"Paclitaxel 260mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.9,900.00"}
+{"_id":{"$oid":"5b5844c8d51d295f99e73383"},"name":"PACLITRUST 30mg Injection 5ml","composition":"Paclitaxel 30mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.1,500.00"}
+{"_id":{"$oid":"5b5844cad51d295f99e73384"},"name":"PACLITRUST 260mg Injection 1's","composition":"Paclitaxel 260mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.9,000.00"}
+{"_id":{"$oid":"5b5844ccd51d295f99e73385"},"name":"PACLITRUST 100mg Injection 16.7ml","composition":"Paclitaxel 100ml","manufacturer":"Panacea Biotec Ltd","price":"Rs.3,800.00"}
+{"_id":{"$oid":"5b5844cdd51d295f99e73386"},"name":"PALONEW 0.25mg Injection 5ml","composition":"Palonosetron Hydrochloride 0.25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.145.95"}
+{"_id":{"$oid":"5b5844ced51d295f99e73387"},"name":"PALOTRON Injection 5ml","composition":"Palonosetron Hydrochloride 0.25mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b5844cfd51d295f99e73388"},"name":"PAXTAL 260mg Infusion 50ml","composition":"Paclitaxel 260mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.3,013.00"}
+{"_id":{"$oid":"5b5844d3d51d295f99e73389"},"name":"PAXTAL 30mg Injection 5ml","composition":"Paclitaxel 30mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.1,778.00"}
+{"_id":{"$oid":"5b5844d5d51d295f99e7338a"},"name":"PAXTAL 100mg Injection 20ml","composition":"Paclitaxel 100mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.3,997.50"}
+{"_id":{"$oid":"5b5844d7d51d295f99e7338b"},"name":"PEG FRASTIM Injection(Pfs) 1's","composition":"GRANULOCYTE COLONY STIMULATING FACTOR 6MG","manufacturer":" NA ","price":"Rs.14,500.00"}
+{"_id":{"$oid":"5b5844d8d51d295f99e7338c"},"name":"PEGADRIA 50mg Injection","composition":"Doxorubicin 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.18,400.00"}
+{"_id":{"$oid":"5b5844dad51d295f99e7338d"},"name":"PEGADRIA 20mg Injection","composition":"Doxorubicin 20mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.7,848.00"}
+{"_id":{"$oid":"5b5844dcd51d295f99e7338e"},"name":"PEGASTA 6mg PENFILL Injection","composition":"Pegfilgrastim 6mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.9,374.00"}
+{"_id":{"$oid":"5b5844ddd51d295f99e7338f"},"name":"PEGHEAL 6mg PREFILL Injection 0.6ml","composition":"Pegylated Filgrastim 6mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.10,990.00"}
+{"_id":{"$oid":"5b5844e0d51d295f99e73390"},"name":"PEGLAST 3mg PREFILL Injection 0.6ml","composition":"Pegfilgrastim 3mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.17,900.00"}
+{"_id":{"$oid":"5b5844e1d51d295f99e73391"},"name":"PEGSTIM 6mg Injection 0.6ml","composition":"Pegfilgrastim 6mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.5,500.00"}
+{"_id":{"$oid":"5b5844e3d51d295f99e73392"},"name":"PEGSTIM 6mg PENFILL Injection","composition":"Pegfilgrastim 6mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.10,990.00"}
+{"_id":{"$oid":"5b5844e5d51d295f99e73393"},"name":"PEMEETRON 500mg Injection","composition":"Pemetrexed 500mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.22,200.00"}
+{"_id":{"$oid":"5b5844e7d51d295f99e73394"},"name":"PEMEETRON 100mg Injection","composition":"Pemetrexed 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.8,200.00"}
+{"_id":{"$oid":"5b5844e9d51d295f99e73395"},"name":"PEMETA 100mg Injection","composition":"Pemetrexed 100mg","manufacturer":"Cipla Ltd","price":"Rs.4,500.00"}
+{"_id":{"$oid":"5b5844ebd51d295f99e73396"},"name":"PEMETA 500mg Injection","composition":"Pemetrexed 500mg","manufacturer":"Cipla Ltd","price":"Rs.19,500.00"}
+{"_id":{"$oid":"5b5844edd51d295f99e73397"},"name":"PEMETERO 100mg Injection 1's","composition":"Pemetrexed 100mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.2,750.00"}
+{"_id":{"$oid":"5b5844f1d51d295f99e73398"},"name":"PEMETERO 500mg Injection 1's","composition":"Pemetrexed 500mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.13,200.00"}
+{"_id":{"$oid":"5b5844f3d51d295f99e73399"},"name":"PEMEXAR 500mg Injection 1's","composition":"Pemetrexed 500mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.19,000.00"}
+{"_id":{"$oid":"5b5844f5d51d295f99e7339a"},"name":"PEMEXAR 100mg Injection 1's","composition":"Pemetrexed 100mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.5,000.00"}
+{"_id":{"$oid":"5b5844f7d51d295f99e7339b"},"name":"PEmgEM 100mg Injection","composition":"Pemetrexed 100mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.5,073.10"}
+{"_id":{"$oid":"5b5844f9d51d295f99e7339c"},"name":"PEmgEM 500mg Injection","composition":"Pemetrexed 500mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.19,714.80"}
+{"_id":{"$oid":"5b5844fbd51d295f99e7339d"},"name":"PEMMET 500mg Injection","composition":"Pemetrexed 500mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.19,075.00"}
+{"_id":{"$oid":"5b5844fdd51d295f99e7339e"},"name":"PEMMET 100mg Injection","composition":"Pemetrexed 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.5,450.00"}
+{"_id":{"$oid":"5b5844ffd51d295f99e7339f"},"name":"PEMNAT 100mg Injection","composition":"Pemetrexed 100mg","manufacturer":"Natco Pharma Ltd","price":"Rs.4,900.00"}
+{"_id":{"$oid":"5b584501d51d295f99e733a0"},"name":"PEMNAT 500mg Injection","composition":"Pemetrexed 500mg","manufacturer":"Natco Pharma Ltd","price":"Rs.19,800.00"}
+{"_id":{"$oid":"5b584503d51d295f99e733a1"},"name":"PEMPRO 500mg Injection","composition":"Pemetrexed 500mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.27,500.00"}
+{"_id":{"$oid":"5b584505d51d295f99e733a2"},"name":"PEMPRO 100mg Injection","composition":"Pemetrexed 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.8,500.00"}
+{"_id":{"$oid":"5b584507d51d295f99e733a3"},"name":"PERJETA 420mg Injection 14ml","composition":"Pertuzumab 420mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.246,798.75"}
+{"_id":{"$oid":"5b584509d51d295f99e733a4"},"name":"PETAXEL 30mg Injection 5ml","composition":"Paclitaxel Usp 30mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.1,746.10"}
+{"_id":{"$oid":"5b58450bd51d295f99e733a5"},"name":"PETAXEL 100mg Injection 16.7ml","composition":"Paclitaxel Usp 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.5,187.00"}
+{"_id":{"$oid":"5b58450dd51d295f99e733a6"},"name":"PETAXEL 260mg Injection 43.4ml","composition":"Paclitaxel 260mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.11,025.20"}
+{"_id":{"$oid":"5b58450fd51d295f99e733a7"},"name":"PETAXEL N 100mg Injection","composition":"Nab Paclitaxel 100mg","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.12,804.00"}
+{"_id":{"$oid":"5b584511d51d295f99e733a8"},"name":"PEXETRUST 100mg Injection 1's","composition":"Pemetrexed 100mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.5,000.00"}
+{"_id":{"$oid":"5b584513d51d295f99e733a9"},"name":"PEXETRUST 500mg Injection 1's","composition":"Pemetrexed 500mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.19,800.00"}
+{"_id":{"$oid":"5b584515d51d295f99e733aa"},"name":"PEXITAZ 500mg Injection","composition":"Pemetrexed 500mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.12,785.05"}
+{"_id":{"$oid":"5b584517d51d295f99e733ab"},"name":"PEXITAZ 100mg Injection","composition":"Pemetrexed 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.2,516.75"}
+{"_id":{"$oid":"5b584519d51d295f99e733ac"},"name":"PLATIKEM 10mg Injection 10ml","composition":"Cisplatin 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.91.13"}
+{"_id":{"$oid":"5b58451bd51d295f99e733ad"},"name":"PLATIKEM 50mg Injection 50ml","composition":"Cisplatin 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.323.61"}
+{"_id":{"$oid":"5b58451dd51d295f99e733ae"},"name":"PLATIKEM Injection 1's","composition":"CISPLATIN ","manufacturer":"Alkem Laboratories Ltd","price":"Rs.197.45"}
+{"_id":{"$oid":"5b58451fd51d295f99e733af"},"name":"PLATIKEM NOVO 100mg Injection 1's","composition":"Cisplatin 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.886.90"}
+{"_id":{"$oid":"5b584520d51d295f99e733b0"},"name":"PLATIN 50mg Injection 50ml","composition":"Cisplatin 50mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.316.32"}
+{"_id":{"$oid":"5b584521d51d295f99e733b1"},"name":"PLEUMET 100mg Injection 1's","composition":"Pemetrexed 100mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.5,330.10"}
+{"_id":{"$oid":"5b584525d51d295f99e733b2"},"name":"PLEUMET 500mg Injection 1's","composition":"Pemetrexed 500mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.2,159.30"}
+{"_id":{"$oid":"5b584527d51d295f99e733b3"},"name":"POMAHOP 2MG CAPSULE 21'S","composition":"POMALIDOMIDE 2MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.10,000.00"}
+{"_id":{"$oid":"5b584529d51d295f99e733b4"},"name":"POMAHOP 3MG CAPSULE 21'S","composition":"POMALIDOMIDE 3MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.16,000.00"}
+{"_id":{"$oid":"5b58452bd51d295f99e733b5"},"name":"POMAHOP 1MG CAPSULE 21'S","composition":"POMALIDOMIDE 1MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.5,500.00"}
+{"_id":{"$oid":"5b58452dd51d295f99e733b6"},"name":"POMAHOP 4MG CAPSULE 21'S","composition":"POMALIDOMIDE 4MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.21,000.00"}
+{"_id":{"$oid":"5b58452fd51d295f99e733b7"},"name":"POMALID 4mg Capsule 21's","composition":"Pomalidomide 4mg","manufacturer":"Natco Pharma Ltd","price":"Rs.19,047.62"}
+{"_id":{"$oid":"5b584531d51d295f99e733b8"},"name":"POMALID 1mg Capsule 21's","composition":"Pomalidomide 1mg","manufacturer":"Natco Pharma Ltd","price":"Rs.4,761.00"}
+{"_id":{"$oid":"5b584533d51d295f99e733b9"},"name":"POMALONG 1mg Capsule 21's","composition":"Pomalidomide 1mg","manufacturer":"Cipla Ltd","price":"Rs.5,000.00"}
+{"_id":{"$oid":"5b584536d51d295f99e733ba"},"name":"POMALONG 4mg Capsule 21's","composition":"POMALIDOMIDE 4MG","manufacturer":"Cipla Ltd","price":"Rs.20,000.00"}
+{"_id":{"$oid":"5b584536d51d295f99e733bb"},"name":"POMYELO 2mg Capsule 21's","composition":"Pomalidomide 2mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.10,000.00"}
+{"_id":{"$oid":"5b584538d51d295f99e733bc"},"name":"POMYELO 4mg Capsule 21's","composition":"Pomalidomide 4mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.20,000.00"}
+{"_id":{"$oid":"5b58453ad51d295f99e733bd"},"name":"POSID 100mg Injection 5ml","composition":"Etoposide 100mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.182.17"}
+{"_id":{"$oid":"5b58453cd51d295f99e733be"},"name":"PRO 5 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.1,173.00"}
+{"_id":{"$oid":"5b58453ed51d295f99e733bf"},"name":"PROTEOZ 2mg Injection","composition":"Bortezomib 2mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.10,652.60"}
+{"_id":{"$oid":"5b584542d51d295f99e733c0"},"name":"PROTEOZ 2.5mg Injection","composition":"Bortezomib 2.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.16,500.00"}
+{"_id":{"$oid":"5b584544d51d295f99e733c1"},"name":"PURPLZ Injection","composition":"Bendamustine 100mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.7,830.00"}
+{"_id":{"$oid":"5b584546d51d295f99e733c2"},"name":"QUBOL 1mg Tablet 14'S","composition":"Anastrozole 1mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.866.25"}
+{"_id":{"$oid":"5b584548d51d295f99e733c3"},"name":"RA MEX 15mg Tablet 10's","composition":"Methotrexate 15mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.185.00"}
+{"_id":{"$oid":"5b584549d51d295f99e733c4"},"name":"RANIDOM ON Injection 2ml","composition":"Ondansetron 2mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.81.40"}
+{"_id":{"$oid":"5b58454bd51d295f99e733c5"},"name":"RASBURNAT 1.5mg Injection","composition":"Rasburicase 1.5mg","manufacturer":"Natco Pharma Ltd","price":"Rs.8,800.00"}
+{"_id":{"$oid":"5b58454ed51d295f99e733c6"},"name":"RECOVORIN 15mg Injection 2ml","composition":"Calcium Folinate 15mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.95.63"}
+{"_id":{"$oid":"5b584550d51d295f99e733c7"},"name":"RECOVORIN 50mg Injection 5ml","composition":"Calcium Folinate 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.265.62"}
+{"_id":{"$oid":"5b584551d51d295f99e733c8"},"name":"REDITUX 500mg Injection 1's","composition":"RITUXIMAB 500MG","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.37,675.40"}
+{"_id":{"$oid":"5b584552d51d295f99e733c9"},"name":"REDITUX 100mg Injection 1's","composition":"RITUXIMAB 100MG","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.7,535.08"}
+{"_id":{"$oid":"5b584554d51d295f99e733ca"},"name":"REMCYTA 500mg Injection","composition":"Cytarabine 500mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.541.13"}
+{"_id":{"$oid":"5b584555d51d295f99e733cb"},"name":"REMTREX 15mg Injection","composition":"Methotrexate 15mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b584557d51d295f99e733cc"},"name":"REMTREX 50mg Injection","composition":"Methotrexate 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.71.30"}
+{"_id":{"$oid":"5b584559d51d295f99e733cd"},"name":"REMTREX 2.5mg Tablet 10's","composition":"Methotrexate 2.5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.43.40"}
+{"_id":{"$oid":"5b58455bd51d295f99e733ce"},"name":"REMTREX 500mg Injection","composition":"Methotrexate 500mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.720.00"}
+{"_id":{"$oid":"5b58455dd51d295f99e733cf"},"name":"RESIHANCE 40mg Tablet 28's","composition":"Regorafenib 40mg","manufacturer":"Bayer India Ltd","price":"Rs.34,434.82"}
+{"_id":{"$oid":"5b58455fd51d295f99e733d0"},"name":"RIBOREA Capsule 10's","composition":"Hydroxyurea 500mg","manufacturer":"Mg Nutraceuticals","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584561d51d295f99e733d1"},"name":"RISTOVA 500mg Injection 50ml","composition":"Rituximab 500mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.33,125.00"}
+{"_id":{"$oid":"5b584563d51d295f99e733d2"},"name":"RISTOVA 100mg Injection 10ml","composition":"Rituximab 100mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.7,500.00"}
+{"_id":{"$oid":"5b584565d51d295f99e733d3"},"name":"ROLANDA 100mg Injection 1's","composition":"Bendamustine 100mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.7,900.00"}
+{"_id":{"$oid":"5b584568d51d295f99e733d4"},"name":"ROLCADE 2mg Injection 1's","composition":"Bortezomib 2mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.11,411.00"}
+{"_id":{"$oid":"5b58456ad51d295f99e733d5"},"name":"SAMITIB 400mg Capsule 10's","composition":"Imatinib Mesylate 400mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.1.25"}
+{"_id":{"$oid":"5b58456cd51d295f99e733d6"},"name":"SMARTOVA L 2.5mg Tablet 5'S","composition":"Letrozole 2.5mg","manufacturer":"Pharmanova Specialties Pvt Ltd","price":"Rs.172.00"}
+{"_id":{"$oid":"5b58456ed51d295f99e733d7"},"name":"SOLVENT 20mg Injection","composition":"Docetaxel 20mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.19.30"}
+{"_id":{"$oid":"5b584570d51d295f99e733d8"},"name":"SOLVENT FOR DAXOTEL 80mg Injection","composition":"Solvent Docetaxel 80mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.25.00"}
+{"_id":{"$oid":"5b584572d51d295f99e733d9"},"name":"SOLVENT 80mg Injection","composition":"Docetaxel 80mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.29.40"}
+{"_id":{"$oid":"5b584574d51d295f99e733da"},"name":"SOLVENT FOR DAXOTEL 120mg Injection","composition":"Solvent Docetaxel 120mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b584576d51d295f99e733db"},"name":"SOLVENT 120mg Injection","composition":"Docetaxel 120mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.32.40"}
+{"_id":{"$oid":"5b584578d51d295f99e733dc"},"name":"SOLVENT FOR DAXOTEL 20mg Injection","composition":"Solvent Docetaxel 20mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.20.00"}
+{"_id":{"$oid":"5b58457ad51d295f99e733dd"},"name":"SORAFENAT 200mg Tablet","composition":"Sorafenib Tosylate 2O0mg","manufacturer":"Natco Pharma Ltd","price":"Rs.8,880.00"}
+{"_id":{"$oid":"5b58457cd51d295f99e733de"},"name":"SORAFENIB 200mg Tablet 30's","composition":"SORAFENIB TOSYLATE 200MG","manufacturer":"Cipla Ltd","price":"Rs.1,710.00"}
+{"_id":{"$oid":"5b58457dd51d295f99e733df"},"name":"SORAFENIB 200mg Tablet 10's","composition":"SORAFENIB TOSYLATE 200MG","manufacturer":"Natco Pharma Ltd","price":"Rs.74.00"}
+{"_id":{"$oid":"5b58457fd51d295f99e733e0"},"name":"SORANIB 200mg Tablet 20's","composition":"SORAFENIB TOSYLATE 200MG","manufacturer":"Cipla Ltd","price":"Rs.1,710.00"}
+{"_id":{"$oid":"5b584581d51d295f99e733e1"},"name":"SORANIB Tablet 30's","composition":"Sorafenib Tosylate 200mg","manufacturer":"Cipla Ltd","price":"Rs.1,710.00"}
+{"_id":{"$oid":"5b584583d51d295f99e733e2"},"name":"SORANIB 200mg Tablet 120's","composition":"SORAFENIB TOSYLATE 200MG","manufacturer":"Cipla Ltd","price":"Rs.6,840.00"}
+{"_id":{"$oid":"5b584585d51d295f99e733e3"},"name":"SOXPLAT 100mg Injection 20ml","composition":"Oxaliplatin 100mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.4,950.00"}
+{"_id":{"$oid":"5b584587d51d295f99e733e4"},"name":"SOXPLAT 50mg Injection 10ml","composition":"Oxaliplatin 50mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.2,850.00"}
+{"_id":{"$oid":"5b584589d51d295f99e733e5"},"name":"STAZONEX 1gm Tablet 10's","composition":"Anastrozole 1gm","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.582.50"}
+{"_id":{"$oid":"5b58458bd51d295f99e733e6"},"name":"STIMUFOL 2.5mg Tablet 5's","composition":"Letrozole 2.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.150.22"}
+{"_id":{"$oid":"5b58458dd51d295f99e733e7"},"name":"STIMUFOL 5mg Tablet 5'S","composition":"Letrozole 5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.124.70"}
+{"_id":{"$oid":"5b58458fd51d295f99e733e8"},"name":"STIMULET 2.5mg Tablet 5's","composition":"Letrozole 25mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.162.65"}
+{"_id":{"$oid":"5b584590d51d295f99e733e9"},"name":"STIMULET 5mg Tablet 5's","composition":"Letrozole 5mg","manufacturer":"Corona Remedies Pvt Ltd","price":"Rs.169.00"}
+{"_id":{"$oid":"5b584591d51d295f99e733ea"},"name":"STRANTAS Injection 5ml","composition":"FULVESTRANT 250MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.20,000.00"}
+{"_id":{"$oid":"5b584592d51d295f99e733eb"},"name":"STRIBICIN 10mg Injection 1's","composition":"Epirubicin 10mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.522.00"}
+{"_id":{"$oid":"5b584594d51d295f99e733ec"},"name":"STRIBICIN 50mg Injection 1's","composition":"Epirubicin 50mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.2,015.00"}
+{"_id":{"$oid":"5b584596d51d295f99e733ed"},"name":"STRICARB 450mg Injection 45ml","composition":"Carboplatin 450mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.2,222.00"}
+{"_id":{"$oid":"5b584597d51d295f99e733ee"},"name":"STRICARB 150mg Injection 15ml","composition":"Carboplatin 150mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.740.00"}
+{"_id":{"$oid":"5b584599d51d295f99e733ef"},"name":"STRICYTE 1400mg Injection 36.8ml","composition":"Gemcitabine 1400mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.6,100.00"}
+{"_id":{"$oid":"5b58459bd51d295f99e733f0"},"name":"STRICYTE 1000mg Injection","composition":"Gemcitabine 1000mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.4,922.00"}
+{"_id":{"$oid":"5b58459dd51d295f99e733f1"},"name":"STRICYTE 200mg Injection","composition":"Gemcitabine 200mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.1,397.00"}
+{"_id":{"$oid":"5b58459fd51d295f99e733f2"},"name":"STRIDESSA 250mg Tablet 30's","composition":"Geftinib 250mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.10,200.00"}
+{"_id":{"$oid":"5b5845a1d51d295f99e733f3"},"name":"STRIDOTERE 20mg Injection 0.5ml","composition":"Docetaxel 20mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.2,777.00"}
+{"_id":{"$oid":"5b5845a3d51d295f99e733f4"},"name":"STRIDOTERE 120mg Injection 3ml","composition":"Docetaxel 120mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.15,570.00"}
+{"_id":{"$oid":"5b5845a5d51d295f99e733f5"},"name":"STRIDOTERE 80mg Injection 2ml","composition":"Docetaxel 80mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.10,559.00"}
+{"_id":{"$oid":"5b5845a5d51d295f99e733f6"},"name":"STRIDOX 50mg Injection 25ml","composition":"Doxorubicin 50mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.982.00"}
+{"_id":{"$oid":"5b5845a6d51d295f99e733f7"},"name":"STRIDOX 10mg Injection 5ml","composition":"Doxorubicin 10mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.206.00"}
+{"_id":{"$oid":"5b5845a8d51d295f99e733f8"},"name":"STRIMODAL 250mg Capsule 5's","composition":"Temozolomide 250mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.21,741.00"}
+{"_id":{"$oid":"5b5845aad51d295f99e733f9"},"name":"STRIMODAL 200mg Capsule 5's","composition":"Temozolomide 200mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.2,050.00"}
+{"_id":{"$oid":"5b5845acd51d295f99e733fa"},"name":"STRITIN 50mg Injection 50ml","composition":"Cisplatin 50mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.319.00"}
+{"_id":{"$oid":"5b5845aed51d295f99e733fb"},"name":"STRITIN 10mg Injection 10ml","composition":"Cisplatin 10mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b5845b0d51d295f99e733fc"},"name":"STRITINIB 100mg Tablet 10's","composition":"IMATINIB MESYLATE 100MG","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.716.00"}
+{"_id":{"$oid":"5b5845b2d51d295f99e733fd"},"name":"STRITINIB 400mg Tablet 10's","composition":"IMATINIB MESYLATE 400MG","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.2,133.00"}
+{"_id":{"$oid":"5b5845b4d51d295f99e733fe"},"name":"STRITOSAR 100mg Injection 5ml","composition":"Irinotecan 100mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.4,003.00"}
+{"_id":{"$oid":"5b5845b8d51d295f99e733ff"},"name":"STRITOSAR 40mg Injection 2ml","composition":"Irinotecan 40mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.1,879.00"}
+{"_id":{"$oid":"5b5845bad51d295f99e73400"},"name":"STRITOXOL 30mg Injection 5ml","composition":"Paclitaxel 30mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.1,035.00"}
+{"_id":{"$oid":"5b5845bcd51d295f99e73401"},"name":"STRITOXOL 100mg Injection 16.7ml","composition":"Paclitaxel 100mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.3,458.00"}
+{"_id":{"$oid":"5b5845bed51d295f99e73402"},"name":"STRITOXOL 260mg Injection 43.3ml","composition":"Paclitaxel 260mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.9,010.00"}
+{"_id":{"$oid":"5b5845c0d51d295f99e73403"},"name":"SUTENT 50mg Tablet 7's","composition":"Sunitinib 50mg","manufacturer":"Pfizer Limited","price":"Rs.61,003.44"}
+{"_id":{"$oid":"5b5845c2d51d295f99e73404"},"name":"TABI 50mg Tablet 30's","composition":"Bicalutamide 50mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,209.00"}
+{"_id":{"$oid":"5b5845c3d51d295f99e73405"},"name":"TAGRISSO 80mg Tablet 10's","composition":"Osimertinib 80mg","manufacturer":"Astrazeneca Pharma India Ltd","price":"Rs.182,532.00"}
+{"_id":{"$oid":"5b5845c6d51d295f99e73406"},"name":"TAMOXIFEN CITRATE 10mg Tablet 10's","composition":"Tamoxifen Citrate 10mg","manufacturer":"Vhb Pharma Pvt Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b5845c7d51d295f99e73407"},"name":"TAMOXIFEN (HET) 10mg Tablet 10's","composition":"Tamoxifen 10mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b5845c9d51d295f99e73408"},"name":"TAMOXIFEN (HET) 20mg Tablet 10's","composition":"Tamoxifen 20mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b5845cbd51d295f99e73409"},"name":"TAMOXIFEN (HETERO) 10mg Tablet 10's","composition":"Tamoxifen 10mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b5845cdd51d295f99e7340a"},"name":"TARCEVA 100mg Tablet 10's","composition":"Erlotinib 100mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.40,300.00"}
+{"_id":{"$oid":"5b5845d1d51d295f99e7340b"},"name":"TARCEVA 150mg Tablet 10's","composition":"Erlotinib 150mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.40,300.00"}
+{"_id":{"$oid":"5b5845d3d51d295f99e7340c"},"name":"TAXOCAB Injection 1's","composition":"CABAZITAXEL 60MG","manufacturer":" NA ","price":"Rs.35,000.00"}
+{"_id":{"$oid":"5b5845d4d51d295f99e7340d"},"name":"TAXOCARE 20mg Injection","composition":"Dacetaxel 20mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.3,500.00"}
+{"_id":{"$oid":"5b5845d6d51d295f99e7340e"},"name":"TAXOCARE 80mg Injection","composition":"Dacetaxel 80mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.10,500.00"}
+{"_id":{"$oid":"5b5845d7d51d295f99e7340f"},"name":"TAXOCARE 120mg Injection","composition":"Dacetaxel 120mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.13,500.00"}
+{"_id":{"$oid":"5b5845d9d51d295f99e73410"},"name":"TAXONAB 100mg Injection 1's","composition":"ALBUMIN BOUND PACLITAXEL 100MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.11,640.00"}
+{"_id":{"$oid":"5b5845dbd51d295f99e73411"},"name":"TAZENTA 2mg Injection 1's","composition":"Bortezomib 2mg","manufacturer":"Biocon Ltd","price":"Rs.13,115.00"}
+{"_id":{"$oid":"5b5845ddd51d295f99e73412"},"name":"TEMODAL 100mg Capsule 5's","composition":"Temozolomide 100mg","manufacturer":"Msd Pharmaceuticals Pvt Ltd","price":"Rs.10,149.72"}
+{"_id":{"$oid":"5b5845dfd51d295f99e73413"},"name":"TEMODAL 250mg Capsule 5's","composition":"Temozolomide 250mg","manufacturer":"Msd Pharmaceuticals Pvt Ltd","price":"Rs.22,828.47"}
+{"_id":{"$oid":"5b5845e1d51d295f99e73414"},"name":"TEMODAL 20mg Capsule 5's","composition":"Temozolomide 20mg","manufacturer":"Msd Pharmaceuticals Pvt Ltd","price":"Rs.2,905.30"}
+{"_id":{"$oid":"5b5845e3d51d295f99e73415"},"name":"TEMONAT 250mg Capsule 5's","composition":"Temozolomide 250mg","manufacturer":"Natco Pharma Ltd","price":"Rs.23,795.00"}
+{"_id":{"$oid":"5b5845e5d51d295f99e73416"},"name":"TEMONAT 20mg Capsule 15's","composition":"Temozolomide 20mg","manufacturer":"Natco Pharma Ltd","price":"Rs.6,495.00"}
+{"_id":{"$oid":"5b5845e7d51d295f99e73417"},"name":"TEMONAT 100mg CAPSULE 5's","composition":"Temozolomide 100mg","manufacturer":"Natco Pharma Ltd","price":"Rs.9,735.00"}
+{"_id":{"$oid":"5b5845e9d51d295f99e73418"},"name":"TEMOSIDE 100mg Capsule 5's","composition":"Temozolamide 100mg","manufacturer":"Cipla Ltd","price":"Rs.2,400.00"}
+{"_id":{"$oid":"5b5845ebd51d295f99e73419"},"name":"TEMOSIDE 20mg Capsule 5's","composition":"Temozolamide 20mg","manufacturer":"Cipla Ltd","price":"Rs.517.85"}
+{"_id":{"$oid":"5b5845edd51d295f99e7341a"},"name":"TEMOSIDE 250mg Capsule 5's","composition":"Temozolamide 250mg","manufacturer":"Cipla Ltd","price":"Rs.5,000.00"}
+{"_id":{"$oid":"5b5845efd51d295f99e7341b"},"name":"TEMOTERO 100mg Capsule 5's","composition":"TEMOZOLOMIDE 100MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.8,157.00"}
+{"_id":{"$oid":"5b5845f0d51d295f99e7341c"},"name":"TEMOTERO 250mg Capsule 5's","composition":"Temozolomide 250mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.19,578.00"}
+{"_id":{"$oid":"5b5845f2d51d295f99e7341d"},"name":"TEMOTERO 100mg Capsule 10's","composition":"TEMOZOLOMIDE 100MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.7,500.00"}
+{"_id":{"$oid":"5b5845f4d51d295f99e7341e"},"name":"TEMOTIDE 20mg Capsule 1's","composition":"Temozolomide 20mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.510.00"}
+{"_id":{"$oid":"5b5845f6d51d295f99e7341f"},"name":"TEMOTIDE 250mg Capsule 5's","composition":"TEMOZOLOMIDE 250MG","manufacturer":" NA ","price":"Rs.6,000.00"}
+{"_id":{"$oid":"5b5845f8d51d295f99e73420"},"name":"TEMOTIDE 100mg Capsule 5's","composition":"TEMOZOLOMIDE 100MG","manufacturer":" NA ","price":"Rs.2,500.00"}
+{"_id":{"$oid":"5b5845fad51d295f99e73421"},"name":"TEMOTOR 100mg Capsule 5's","composition":"Temozolomide 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.3,848.50"}
+{"_id":{"$oid":"5b5845fcd51d295f99e73422"},"name":"TEMOTRUST 250mg Capsule 5's","composition":"Temozolomide 250mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.21,323.00"}
+{"_id":{"$oid":"5b5845fed51d295f99e73423"},"name":"TEMOTRUST 100mg Capsule 5's","composition":"Temozolomide 100mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.3,364.00"}
+{"_id":{"$oid":"5b584600d51d295f99e73424"},"name":"TEMOTRUST 20mg Capsule 5's","composition":"Temozolomide 20mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.1,146.30"}
+{"_id":{"$oid":"5b584601d51d295f99e73425"},"name":"TEMOZAM 20mg Capsule","composition":"Temozolomide 20mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.411.69"}
+{"_id":{"$oid":"5b584604d51d295f99e73426"},"name":"TEMOZAM 250mg Capsule","composition":"Temozolomide 250mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.4,446.33"}
+{"_id":{"$oid":"5b584605d51d295f99e73427"},"name":"THEMISET 75mg Injection","composition":"Palonosetron Hydrochloride 75mg","manufacturer":"Themis Pharmaceutical Ltd","price":"Rs.163.90"}
+{"_id":{"$oid":"5b584608d51d295f99e73428"},"name":"TIMINIB 100mg Tablet 10's","composition":"IMATINIB MESYLATE 100MG","manufacturer":" NA ","price":"Rs.750.00"}
+{"_id":{"$oid":"5b58460ad51d295f99e73429"},"name":"TIMINIB 400mg Capsule 10's","composition":"Imatinib Mesylate 400mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.3,500.00"}
+{"_id":{"$oid":"5b58460bd51d295f99e7342a"},"name":"TOMIFEN 10mg Tablet 10's","composition":"Tamoxifen 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.19.80"}
+{"_id":{"$oid":"5b58460fd51d295f99e7342b"},"name":"TOMIFEN 20mg Tablet 10's","composition":"Tamoxifen Citrate 20mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.27.00"}
+{"_id":{"$oid":"5b584611d51d295f99e7342c"},"name":"TOPOTEL 2.5mg Injection 2.5ml","composition":"Topotecan 2.5mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.4,902.82"}
+{"_id":{"$oid":"5b584613d51d295f99e7342d"},"name":"TORISEL 25mg Injection 1's","composition":"Temsirolimus 25mg","manufacturer":"Pfizer Limited","price":"Rs.74,300.00"}
+{"_id":{"$oid":"5b584615d51d295f99e7342e"},"name":"TRABEC 1mg Injection","composition":"Trabectedin 1mg","manufacturer":"Natco Pharma Ltd","price":"Rs.28,600.00"}
+{"_id":{"$oid":"5b584617d51d295f99e7342f"},"name":"TRAZOCAD 1MG TABLET 10'S","composition":"ANASTROZOLE 1MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.519.75"}
+{"_id":{"$oid":"5b584619d51d295f99e73430"},"name":"TUBITERE 80mg Injection 2ml","composition":"Docetaxel 80mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.10,200.00"}
+{"_id":{"$oid":"5b58461bd51d295f99e73431"},"name":"TUBITERE 20mg Injection 0.5ml","composition":"Docetaxel 20mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.3,430.00"}
+{"_id":{"$oid":"5b58461dd51d295f99e73432"},"name":"TUBITERE 120mg Injection 3ml","composition":"Docetaxel 120mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.14,550.00"}
+{"_id":{"$oid":"5b58461fd51d295f99e73433"},"name":"TYKERB 250mg Tablet 30's","composition":"Lapatinib 250mg","manufacturer":"Novartis India Ltd","price":"Rs.13,350.00"}
+{"_id":{"$oid":"5b584621d51d295f99e73434"},"name":"TYKERB 250mg Tablet 10's","composition":"Lapatinib 250mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.3,000.00"}
+{"_id":{"$oid":"5b584623d51d295f99e73435"},"name":"TYROGEF 250mg Tablet 10's","composition":"Gefitinib 250mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.2,856.00"}
+{"_id":{"$oid":"5b584624d51d295f99e73436"},"name":"TYROKININ 150mg Tablet 30's","composition":"Erlotinib 150mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.29,625.41"}
+{"_id":{"$oid":"5b584626d51d295f99e73437"},"name":"TYROKININ 100mg Tablet 30's","composition":"Erlotinib 100mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.18,990.00"}
+{"_id":{"$oid":"5b584628d51d295f99e73438"},"name":"UROMITEXAN 200mg Injection 2ml","composition":"Mesna 200mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.103.89"}
+{"_id":{"$oid":"5b58462ad51d295f99e73439"},"name":"UTAMIDE 50mg Tablet 10's","composition":"Bicalutamide 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.386.29"}
+{"_id":{"$oid":"5b58462bd51d295f99e7343a"},"name":"VALODEX 10mg Tablet 10's","composition":"Tamoxifen 10mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.14.64"}
+{"_id":{"$oid":"5b58462bd51d295f99e7343b"},"name":"VALODEX 20mg Tablet 10's","composition":"Tamoxifen 20mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.29.56"}
+{"_id":{"$oid":"5b58462ed51d295f99e7343c"},"name":"VALODEX 10mg Tablet 50's","composition":"Tamoxifen 10mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.20.61"}
+{"_id":{"$oid":"5b584630d51d295f99e7343d"},"name":"VEENAT 100mg Capsule 120's","composition":"Imatinib Mesylate 100mg","manufacturer":"Natco Pharma Ltd","price":"Rs.10,260.00"}
+{"_id":{"$oid":"5b584632d51d295f99e7343e"},"name":"VEENAT 400mg Tablet 10's","composition":"IMATINIB MESYLATE 400MG","manufacturer":"Natco Pharma Ltd","price":"Rs.2,027.00"}
+{"_id":{"$oid":"5b584633d51d295f99e7343f"},"name":"VEENAT 100mg Capsule 10's","composition":"Imatinib Mesylate 100mg","manufacturer":"Natco Pharma Ltd","price":"Rs.708.00"}
+{"_id":{"$oid":"5b584636d51d295f99e73440"},"name":"VELCADE 1mg Injection","composition":"Bortezomib 1mg","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.19,850.00"}
+{"_id":{"$oid":"5b584638d51d295f99e73441"},"name":"VELTIP 2mg Injection 1's","composition":"Bortezomib 2mg","manufacturer":"Pfizer Limited","price":"Rs.12,218.21"}
+{"_id":{"$oid":"5b584639d51d295f99e73442"},"name":"VINCRISTINE (DR.REDDYS) 1mg Injection 1's","composition":"Vincristine 1mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b58463bd51d295f99e73443"},"name":"VINELBINE 10mg Injection 1ml","composition":"Vinorelbine 10mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.3,298.53"}
+{"_id":{"$oid":"5b58463dd51d295f99e73444"},"name":"VIVITRA 440mg Infusion 1's","composition":"TRASTUZUMAB 440MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.61,132.12"}
+{"_id":{"$oid":"5b584641d51d295f99e73445"},"name":"VIVITRA 150mg Infusion","composition":"Trastuzumab 150mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.22,447.00"}
+{"_id":{"$oid":"5b584643d51d295f99e73446"},"name":"VOTRIENT 400mg Tablet 30's","composition":"Pazopanib 400mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.14,500.00"}
+{"_id":{"$oid":"5b584645d51d295f99e73447"},"name":"VOTRIENT 200mg Tablet 30's","composition":"Pazopanib 200mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.7,250.00"}
+{"_id":{"$oid":"5b584647d51d295f99e73448"},"name":"X TRANT 140mg Capsule 100's","composition":"Estramustine Phosphate 140mg","manufacturer":"Natco Pharma Ltd","price":"Rs.14,650.00"}
+{"_id":{"$oid":"5b584649d51d295f99e73449"},"name":"X-PLAT 100mg Injection 50ml","composition":"Oxaliplatin 100mg","manufacturer":"Cipla Ltd","price":"Rs.3,550.00"}
+{"_id":{"$oid":"5b58464bd51d295f99e7344a"},"name":"X-PLAT 50mg Injection 25ml","composition":"Oxaliplatin 50mg","manufacturer":"Cipla Ltd","price":"Rs.1,932.11"}
+{"_id":{"$oid":"5b58464dd51d295f99e7344b"},"name":"XABINE 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.1,609.50"}
+{"_id":{"$oid":"5b58464fd51d295f99e7344c"},"name":"XALIBO Injection","composition":"Decitabine 50mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.8,100.00"}
+{"_id":{"$oid":"5b584651d51d295f99e7344d"},"name":"XBIRA 250mg Tablet 120's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"Cipla Ltd","price":"Rs.28,500.00"}
+{"_id":{"$oid":"5b584653d51d295f99e7344e"},"name":"XECAP 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.1,250.00"}
+{"_id":{"$oid":"5b584655d51d295f99e7344f"},"name":"XEFTA Tablet 10's","composition":"Gefitinib 250mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.4,023.10"}
+{"_id":{"$oid":"5b584657d51d295f99e73450"},"name":"XELODA 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.1,284.17"}
+{"_id":{"$oid":"5b584659d51d295f99e73451"},"name":"XENOSOUL Tablet 5's","composition":"Anastrozole 1mg","manufacturer":"Xeno Pharmaceuticals Pvt Ltd","price":"Rs.299.00"}
+{"_id":{"$oid":"5b58465ad51d295f99e73452"},"name":"XGRAST 300mcg Injection(PFS) 0.5ml","composition":"Filgrastim 300mcg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.2,249.90"}
+{"_id":{"$oid":"5b58465dd51d295f99e73453"},"name":"XORTIB 150mg Tablet 10's","composition":"Capecitabine 150mg","manufacturer":"Biocon Ltd","price":"Rs.800.00"}
+{"_id":{"$oid":"5b58465ed51d295f99e73454"},"name":"XORTIB 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Biocon Ltd","price":"Rs.1,500.00"}
+{"_id":{"$oid":"5b58465fd51d295f99e73455"},"name":"XOVOLTIB 40mg Tablet 7's","composition":"AFATINIB DIMALEATE 40MG","manufacturer":"Boehringer Ingelheim India Pvt Ltd","price":"Rs.14,747.00"}
+{"_id":{"$oid":"5b584661d51d295f99e73456"},"name":"XPHIL 300mcg Injection 1ml","composition":"Capecitabine 300mcg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.2,249.93"}
+{"_id":{"$oid":"5b584663d51d295f99e73457"},"name":"XTANE 25mg Tablet 30's","composition":"EXEMESTANE 25MG","manufacturer":"Natco Pharma Ltd","price":"Rs.1,290.00"}
+{"_id":{"$oid":"5b584664d51d295f99e73458"},"name":"XTIDE 100mg Injection 20ml","composition":"Oxaliplatin 100mg","manufacturer":"Biocon Ltd","price":"Rs.4,840.00"}
+{"_id":{"$oid":"5b584666d51d295f99e73459"},"name":"XTIDE 50mg Injection 10ml","composition":"Oxaliplatin 50mg","manufacturer":"Biocon Ltd","price":"Rs.2,200.00"}
+{"_id":{"$oid":"5b584668d51d295f99e7345a"},"name":"ZAVEDOS 5mg Injection 1's","composition":"Idarubicin 5mg","manufacturer":"Pfizer Limited","price":"Rs.7,448.00"}
+{"_id":{"$oid":"5b58466ad51d295f99e7345b"},"name":"ZAVINEX 5MIU Injection 1's","composition":"Interferon Alpha 2B 5 MIU","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.1,755.00"}
+{"_id":{"$oid":"5b58466cd51d295f99e7345c"},"name":"ZECYTE 250mg Tablet 120's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"Cipla Ltd","price":"Rs.28,500.00"}
+{"_id":{"$oid":"5b58466ed51d295f99e7345d"},"name":"ZEFOTIB 250mg Tablet 10's","composition":"Gefitinib 250mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.3,420.00"}
+{"_id":{"$oid":"5b58466fd51d295f99e7345e"},"name":"ZELGOR 250mg Tablet 120's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.18,000.00"}
+{"_id":{"$oid":"5b584671d51d295f99e7345f"},"name":"ZELGOR 500mg Tablet 60's","composition":"ABIRATERONE ACETATE 500MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.22,500.00"}
+{"_id":{"$oid":"5b584673d51d295f99e73460"},"name":"ZEXATE 2.5mg Tablet 10's","composition":"Methotrexate 2.5mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.41.25"}
+{"_id":{"$oid":"5b584675d51d295f99e73461"},"name":"ZEXATE 500mg Injection 20ml","composition":"Methotrexate 500mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.601.00"}
+{"_id":{"$oid":"5b584677d51d295f99e73462"},"name":"ZEXATE 15mg Injection 3ml","composition":"Methotrexate 15mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b584679d51d295f99e73463"},"name":"ZEXATE 50mg Injection 2ml","composition":"Methotrexate 50mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.63.00"}
+{"_id":{"$oid":"5b58467bd51d295f99e73464"},"name":"ZOCITAB 500mg Tablet 10's","composition":"Capecitabine 500mg","manufacturer":"Fresenius Kabi India Pvt Ltd","price":"Rs.1,542.40"}
+{"_id":{"$oid":"5b58467dd51d295f99e73465"},"name":"ZODOX 10mg Injection","composition":"Doxorubicin 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.228.00"}
+{"_id":{"$oid":"5b58467ed51d295f99e73466"},"name":"ZODOX 50mg Injection","composition":"Doxorubicin 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.1,062.00"}
+{"_id":{"$oid":"5b584680d51d295f99e73467"},"name":"ZORELBIN 10mg Injection","composition":"Vinorelbine 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.2,700.00"}
+{"_id":{"$oid":"5b584682d51d295f99e73468"},"name":"ZORELBIN 50mg Injection 5ml","composition":"Vinorelbine 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.11,700.00"}
+{"_id":{"$oid":"5b584683d51d295f99e73469"},"name":"ZPAC 30mg Injection 5ml","composition":"PACLITAXEL 30MG","manufacturer":"Others","price":"Rs.1,680.00"}
+{"_id":{"$oid":"5b584685d51d295f99e7346a"},"name":"ZPAC 260mg Injection 1's","composition":"Paclitaxel 260mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.7,142.50"}
+{"_id":{"$oid":"5b584687d51d295f99e7346b"},"name":"ZPAC 100mg Injection 1's","composition":"Paclitaxel 100mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.2,267.50"}
+{"_id":{"$oid":"5b584689d51d295f99e7346c"},"name":"ZUBIDOX 50mg Injection 1's","composition":"Doxorubicin 50mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.950.00"}
+{"_id":{"$oid":"5b58468ad51d295f99e7346d"},"name":"ZUBIDOX 10mg Injection 1's","composition":"Doxorubicin 10mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.200.00"}
+{"_id":{"$oid":"5b58468cd51d295f99e7346e"},"name":"ZUMUSTIN 100mg Injection","composition":"Bendamustine 100mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.7,745.00"}
+{"_id":{"$oid":"5b58468ed51d295f99e7346f"},"name":"ZUPAXEL 260mg Injection 43.4ml","composition":"Paclitaxel 260mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.10,938.00"}
+{"_id":{"$oid":"5b584690d51d295f99e73470"},"name":"ZUPAXEL 300mg Injection","composition":"Paclitaxel 300mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.12,726.00"}
+{"_id":{"$oid":"5b584692d51d295f99e73471"},"name":"ZUPAXEL 100mg Injection 16.7ml","composition":"Paclitaxel 100mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.4,787.80"}
+{"_id":{"$oid":"5b584696d51d295f99e73472"},"name":"ZUPEMED 100mg Injection","composition":"Pemetrxed 100mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.4,550.00"}
+{"_id":{"$oid":"5b584699d51d295f99e73473"},"name":"ZUPEMED 500mg Injection","composition":"Pemetrxed 500mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.14,900.00"}
+{"_id":{"$oid":"5b58469bd51d295f99e73474"},"name":"ZUVICIN 50mg Injection","composition":"Epirubicine 50mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.2,392.00"}
+{"_id":{"$oid":"5b58469dd51d295f99e73475"},"name":"ZUVICIN 10mg Injection 1's","composition":"EPIRUBICIN HYDROCHLORIDE 10MG","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.526.00"}
+{"_id":{"$oid":"5b58469fd51d295f99e73476"},"name":"ZYBEV 100mg Injection 4ml","composition":"Bevacizumab 100mg","manufacturer":"Others","price":"Rs.27,000.00"}
+{"_id":{"$oid":"5b5846a1d51d295f99e73477"},"name":"ZYBIRAA 250mg Tablet 120's","composition":"ABIRATERONE ACETATE 250","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.80,952.40"}
+{"_id":{"$oid":"5b5846a3d51d295f99e73478"},"name":"ZYCLASTIN 4mg Injection","composition":"Zoledronic 4mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.3,097.00"}
+{"_id":{"$oid":"5b5846a5d51d295f99e73479"},"name":"ZYGEM 1gm Injection","composition":"Gemcitabine 1gm","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.6,920.22"}
+{"_id":{"$oid":"5b5846a7d51d295f99e7347a"},"name":"ZYGEM 200mg Injection","composition":"Gemcitabine 200mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.1,512.76"}
+{"_id":{"$oid":"5b5846a9d51d295f99e7347b"},"name":"ZYLUTA Tablet 10's","composition":"BICALUTAMIDE 50MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.422.90"}
+{"_id":{"$oid":"5b5846abd51d295f99e7347c"},"name":"ZYTIGA 250mg Tablet 120's","composition":"ABIRATERONE ACETATE 250MG","manufacturer":"Johnson \u0026 Johnson Pvt Ltd","price":"Rs.150,000.00"}

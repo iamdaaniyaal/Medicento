@@ -1,0 +1,21 @@
+{"_id":{"$oid":"5b572ba5d51d2953731aade1"},"name":"ACAMPROL 333mg Tablet 6's","composition":"Acamprosate Calcium 333mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b572ba8d51d2953731aade2"},"name":"ACAMPTAS 333mg Tablet 6's","composition":"Acamprosate Calcium 333mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.68.00"}
+{"_id":{"$oid":"5b572baad51d2953731aade3"},"name":"ACUTROL C 400mg Tablet 10's","composition":"Sevelamer 400mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.209.00"}
+{"_id":{"$oid":"5b572bacd51d2953731aade4"},"name":"ALCOLIV 500mg Tablet 10's","composition":"Metadoxine 500mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.159.00"}
+{"_id":{"$oid":"5b572baed51d2953731aade5"},"name":"DESIROX 250mg Tablet 30's","composition":"Deferasirox 250mg","manufacturer":"Cipla Ltd","price":"Rs.829.50"}
+{"_id":{"$oid":"5b572bb1d51d2953731aade6"},"name":"DESIROX 500mg Tablet 30's","composition":"Deferasirox 500mg","manufacturer":"Cipla Ltd","price":"Rs.1,383.50"}
+{"_id":{"$oid":"5b572bb2d51d2953731aade7"},"name":"DESIROX 500mg Tablet 10's","composition":"Deferasirox 500mg","manufacturer":"Cipla Ltd","price":"Rs.1,318.00"}
+{"_id":{"$oid":"5b572bb4d51d2953731aade8"},"name":"DISULFIRAM 250mg Tablet 10's","composition":"Disulfiram 250mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.22.50"}
+{"_id":{"$oid":"5b572bb6d51d2953731aade9"},"name":"ESPERAL Tablet 10's","composition":"Disulfiram 250mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.26.00"}
+{"_id":{"$oid":"5b572bb8d51d2953731aadea"},"name":"FOSEND 500mg Tablet 10's","composition":"Lanthanum Carbonate 500mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.205.00"}
+{"_id":{"$oid":"5b572bbad51d2953731aadeb"},"name":"LIVODOX Tablet 10's","composition":"Metadoxine 500mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.165.00"}
+{"_id":{"$oid":"5b572bbdd51d2953731aadec"},"name":"METADOXIL 500mg Tablet 6's","composition":"Metadoxine 500mg","manufacturer":"Micro Labs Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b572bc0d51d2953731aaded"},"name":"NALTIMA 50mg Tablet 10's","composition":"Naltrexone 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.766.00"}
+{"_id":{"$oid":"5b572bc1d51d2953731aadee"},"name":"NEPHLOMER 400mg Tablet 10's","composition":"Sevelamer 400mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.209.52"}
+{"_id":{"$oid":"5b572bc4d51d2953731aadef"},"name":"NEPHLOMER 800mg Tablet 10's","composition":"Sevelamer 800mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.342.86"}
+{"_id":{"$oid":"5b572bc5d51d2953731aadf0"},"name":"NODICT 50mg Tablet 10's","composition":"Naloxone 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.680.00"}
+{"_id":{"$oid":"5b572bc7d51d2953731aadf1"},"name":"TONELIV 500mg Tablet 10's","composition":"Metadoxine 500mg","manufacturer":"Esmatrix Life Sciences Pvt Ltd","price":"Rs.360.00"}
+{"_id":{"$oid":"5b572bc9d51d2953731aadf2"},"name":"TYFUSIN 250mg Tablet 10's","composition":"DISULFIRAM 250MG","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.58.80"}
+{"_id":{"$oid":"5b572bcbd51d2953731aadf3"},"name":"TYFUSIN 500mg Tablet 10's","composition":"Disulfiram 500mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.118.60"}
+{"_id":{"$oid":"5b572bcdd51d2953731aadf4"},"name":"ZYNAGel 400mg Tablet 10's","composition":"Sevelamer 400mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.198.67"}
+{"_id":{"$oid":"5b572bcfd51d2953731aadf5"},"name":"ZYNAGel 800mg Tablet 10's","composition":"Sevelamer 800mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.326.14"}

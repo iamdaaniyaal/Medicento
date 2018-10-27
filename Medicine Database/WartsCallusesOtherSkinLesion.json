@@ -1,0 +1,31 @@
+{"_id":{"$oid":"5b59c6e5d51d297550323f5f"},"name":"BETASALIC 0.06/3% Ointment 5gm","composition":"Betamethasone 0.06mg+Salicylic Acid 3%","manufacturer":"Cipla Ltd","price":"Rs.11.25"}
+{"_id":{"$oid":"5b59c6e7d51d297550323f60"},"name":"CLEARWIN Soap 75gm","composition":"Salicylic Acid+Sulphur","manufacturer":"Zee Laboratories Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b59c6e9d51d297550323f61"},"name":"DEBRIDACE Ointment 15gm","composition":"Papain 521700IU+Urea 100mg","manufacturer":"Virchow Biotech Pvt Ltd","price":"Rs.162.00"}
+{"_id":{"$oid":"5b59c6ebd51d297550323f62"},"name":"DERSOL 30% Ointment 25gm","composition":"Salicylic Acid 30%W/W","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.113.00"}
+{"_id":{"$oid":"5b59c6eed51d297550323f63"},"name":"DERSOL 3% Ointment 25gm","composition":"Salicylic Acid 3%W/W","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.54.50"}
+{"_id":{"$oid":"5b59c6f0d51d297550323f64"},"name":"DERSOL 12% Ointment 25gm","composition":"Salicylic Acid 12%W/W","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.74.30"}
+{"_id":{"$oid":"5b59c6f2d51d297550323f65"},"name":"DERSOL 24% Ointment 25gm","composition":"Salicylic Acid 24%W/W","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b59c6f6d51d297550323f66"},"name":"DERSOL 40% Ointment 25gm","composition":"Salicylic Acid 40%W/W","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.122.00"}
+{"_id":{"$oid":"5b59c6f8d51d297550323f67"},"name":"DERSOL 18% Ointment 25gm","composition":"Salicylic Acid 18%W/W","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.81.00"}
+{"_id":{"$oid":"5b59c6fad51d297550323f68"},"name":"DERSOL L Solution 15ml","composition":"Salicylic Acid 17%+Lactic Acid 17%","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.194.00"}
+{"_id":{"$oid":"5b59c6fbd51d297550323f69"},"name":"DERSOL L SOLUTION 10ml","composition":"Lactic Acid+Salicylic Acid","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.194.00"}
+{"_id":{"$oid":"5b59c6fdd51d297550323f6a"},"name":"DUOFILM Solution 15ml","composition":"Lactic Acid 16.7%+Salicylic Acid 16.7%W/W","manufacturer":"Stiefel Laboratories Inc","price":"Rs.218.50"}
+{"_id":{"$oid":"5b59c6ffd51d297550323f6b"},"name":"GLUTIHYDE 2.45% Solution 5ltr","composition":"Glutaraldehyde 2.45%","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.634.87"}
+{"_id":{"$oid":"5b59c701d51d297550323f6c"},"name":"GLUTIHYDE 2% Solution 5ltr","composition":"Glutaraldehyde 2%","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.775.00"}
+{"_id":{"$oid":"5b59c703d51d297550323f6d"},"name":"KERALIN Ointment 15gm","composition":"Hydrocortisone Acetate 0.5 %+Salicylic Acid 0.06+Benzoic Acid 12 % W/W","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b59c705d51d297550323f6e"},"name":"PODOWART PAINT 10ml","composition":"Aloe Vera+Benzoic Acid+Podophyllum Resin","manufacturer":"Menarini India Pvt Ltd","price":"Rs.154.00"}
+{"_id":{"$oid":"5b59c707d51d297550323f6f"},"name":"PODOWART S PAINT 10ml","composition":"Aloe Vera+Benzoic Acid+Podophyllum Resin+Salicylic Acid","manufacturer":"Menarini India Pvt Ltd","price":"Rs.171.00"}
+{"_id":{"$oid":"5b59c709d51d297550323f70"},"name":"SALACTIN Paint 10ml","composition":"Lactic Acid 16.7%W/V+Salicylic Acid 16.7%W/V","manufacturer":"Nulife Pharmaceuticals Pvt Ltd","price":"Rs.271.00"}
+{"_id":{"$oid":"5b59c70bd51d297550323f71"},"name":"SALEX L Solution 10ml","composition":"Lactic Acid 16.7%+Salicylic Acid 16.7%W/W","manufacturer":"Menarini India Pvt Ltd","price":"Rs.123.00"}
+{"_id":{"$oid":"5b59c70dd51d297550323f72"},"name":"SALICYLIX SF 12% Ointment 50gm","composition":"Salicylic Acid 125W/W%","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.131.00"}
+{"_id":{"$oid":"5b59c70fd51d297550323f73"},"name":"SALICYLIX SF 6% Ointment 50gm","composition":"Salicylic Acid 6%W/W","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.91.28"}
+{"_id":{"$oid":"5b59c711d51d297550323f74"},"name":"SALIFACE FACE WASH FOAM 60ml","composition":"Salicylic Acid","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.235.00"}
+{"_id":{"$oid":"5b59c713d51d297550323f75"},"name":"SALISIA 2% Shampoo 60ml","composition":"Salicylic Acid 2%","manufacturer":"Ajanta Pharma Ltd","price":"Rs.125.11"}
+{"_id":{"$oid":"5b59c714d51d297550323f76"},"name":"SALTOPIC Lotion 15ml","composition":"Betamethasone+Salicylic","manufacturer":"Systopic Laboratories Pvt Ltd","price":"Rs.62.50"}
+{"_id":{"$oid":"5b59c716d51d297550323f77"},"name":"SALYROME Lotion 15ml","composition":"Lactic Acid+Salicylic Acid","manufacturer":"Zee Laboratories Ltd","price":"Rs.189.00"}
+{"_id":{"$oid":"5b59c71ad51d297550323f78"},"name":"SASLIC DS FACE WASH FOAM 60ml","composition":"Salicylic Acid","manufacturer":"Cipla Ltd","price":"Rs.327.25"}
+{"_id":{"$oid":"5b59c71ed51d297550323f79"},"name":"SASLIC FACE WASH FOAM 60ml","composition":"Salicylic Acid 1%W/W","manufacturer":"Cipla Ltd","price":"Rs.284.00"}
+{"_id":{"$oid":"5b59c720d51d297550323f7a"},"name":"STERIDERM S OLD 0.05/6% Lotion 30ml","composition":"Betamethasone 0.05mg+Salicylic Acid 6%","manufacturer":"Micro Labs Ltd","price":"Rs.75.34"}
+{"_id":{"$oid":"5b59c721d51d297550323f7b"},"name":"STERNON S Lotion 32ml","composition":"Betamethasone+Salicylic Acid","manufacturer":"Palsons Derma Pvt Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b59c723d51d297550323f7c"},"name":"WAPIOSALIC Ointment 20gm","composition":"Betamethasone+Salicylic","manufacturer":"Walter Bushnell Pvt Ltd","price":"Rs.68.00"}
+{"_id":{"$oid":"5b59c725d51d297550323f7d"},"name":"WATNIL Solution 15ml","composition":"Lactic Acid+Salicylic Acid","manufacturer":"Apple Therapeutics Pvt Ltd","price":"Rs.211.00"}

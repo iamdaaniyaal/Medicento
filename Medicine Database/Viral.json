@@ -1,0 +1,313 @@
+{"_id":{"$oid":"5b59c81fd51d297571b94c0e"},"name":"ABAMUNE 300MG TABLET 30'S","composition":"Abacavir 300mg","manufacturer":"Cipla Ltd","price":"Rs.1,437.74"}
+{"_id":{"$oid":"5b59c822d51d297571b94c0f"},"name":"ABAMUNE L Tablet 30's","composition":"Abacavir 600mg+Lamivudine 300mg","manufacturer":"Cipla Ltd","price":"Rs.2,778.38"}
+{"_id":{"$oid":"5b59c824d51d297571b94c10"},"name":"ABAVIR 300mg Tablet 30's","composition":"Abacavir 300mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.1,410.00"}
+{"_id":{"$oid":"5b59c826d51d297571b94c11"},"name":"ACIVIR Syrup 100ml","composition":"Aciclovir ","manufacturer":"Cipla Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b59c828d51d297571b94c12"},"name":"ACIVIR Cream 5gm","composition":"Acyclovir","manufacturer":"Cipla Ltd","price":"Rs.59.95"}
+{"_id":{"$oid":"5b59c82ad51d297571b94c13"},"name":"ACIVIR DT 200mg Tablet 10's","composition":"Acyclovir 200mg","manufacturer":"Cipla Ltd","price":"Rs.67.31"}
+{"_id":{"$oid":"5b59c82cd51d297571b94c14"},"name":"ACIVIR Eye Drops 5ml","composition":"Aciclovir ","manufacturer":"Cipla Ltd","price":"Rs.48.35"}
+{"_id":{"$oid":"5b59c82fd51d297571b94c15"},"name":"ACIVIR DT 800mg Tablet 5's","composition":"Acyclovir 800mg","manufacturer":"Cipla Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b59c831d51d297571b94c16"},"name":"ACIVIR Injection 10ml","composition":"Acyclovir 250mg","manufacturer":"Cipla Ltd","price":"Rs.361.10"}
+{"_id":{"$oid":"5b59c833d51d297571b94c17"},"name":"ACIVIR DT 400mg Tablet 5's","composition":"Acyclovir 400mg","manufacturer":"Cipla Ltd","price":"Rs.61.13"}
+{"_id":{"$oid":"5b59c836d51d297571b94c18"},"name":"ACLOVEER 400mg Tablet 10's","composition":"Acyclovir 400mg","manufacturer":"Knoll Pharmaceuticals Ltd","price":"Rs.125.10"}
+{"_id":{"$oid":"5b59c838d51d297571b94c19"},"name":"ACLOVEER 200mg Tablet 10's","composition":"Acyclovir 200mg","manufacturer":"Knoll Pharmaceuticals Ltd","price":"Rs.81.00"}
+{"_id":{"$oid":"5b59c83ad51d297571b94c1a"},"name":"ACYCLOVIR 800mg Ointment 5's","composition":"Aciclovir 800mg","manufacturer":"Cipla Ltd","price":"Rs.14.88"}
+{"_id":{"$oid":"5b59c83cd51d297571b94c1b"},"name":"ADESERA 10mg Tablet 30's","composition":"Adefovir 10mg","manufacturer":"Cipla Ltd","price":"Rs.673.51"}
+{"_id":{"$oid":"5b59c83dd51d297571b94c1c"},"name":"ADFOVIR 10mg Tablet 10's","composition":"Adefovir","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b59c83fd51d297571b94c1d"},"name":"ALBAVIR PED 60/30mg Tablet 60's","composition":"Abacavir 60mg+Lamivudine 30mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.1,238.00"}
+{"_id":{"$oid":"5b59c840d51d297571b94c1e"},"name":"ALENTOS 0.5mg Tablet 10's","composition":"Entecavir 0.5mg","manufacturer":"Wockhardt Ltd","price":"Rs.745.50"}
+{"_id":{"$oid":"5b59c842d51d297571b94c1f"},"name":"ALLTERA Tablet 120's","composition":"Lopinavir 200mg+Ritonavir 50mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.4,500.00"}
+{"_id":{"$oid":"5b59c844d51d297571b94c20"},"name":"ALLUVIA Tablet 120's","composition":"LOPINAVIR 200MG+RITONAVIR 50MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.5,555.40"}
+{"_id":{"$oid":"5b59c846d51d297571b94c21"},"name":"ALUVIA FT 200/50mg Tablet 120's","composition":"Lopinavir 200mg+Ritonavir 50mg","manufacturer":"Abbott India Ltd","price":"Rs.5,328.54"}
+{"_id":{"$oid":"5b59c849d51d297571b94c22"},"name":"ANTIFLU 75mg Capsule 10's","composition":"Oseltamivir 75mg","manufacturer":"Cipla Ltd","price":"Rs.520.00"}
+{"_id":{"$oid":"5b59c84bd51d297571b94c23"},"name":"ANTIFLU Syrup 75ml","composition":"Oseltamivir 12mg","manufacturer":"Cipla Ltd","price":"Rs.522.50"}
+{"_id":{"$oid":"5b59c84dd51d297571b94c24"},"name":"ANTIFLU 12mg Syrup 100ml","composition":"Oseltamivir 12mg","manufacturer":"Cipla Ltd","price":"Rs.455.56"}
+{"_id":{"$oid":"5b59c84fd51d297571b94c25"},"name":"ANZAVIR R Tablet 30's","composition":"Atazanavir 300mg+Ritonavir 100mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.2,500.00"}
+{"_id":{"$oid":"5b59c851d51d297571b94c26"},"name":"ATAVIR 300mg Capsule 30's","composition":"Atazanavir 300mg","manufacturer":"Cipla Ltd","price":"Rs.2,300.00"}
+{"_id":{"$oid":"5b59c853d51d297571b94c27"},"name":"ATAZOR 300mg Capsule 30's","composition":"Atazanavir 300mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.2,253.00"}
+{"_id":{"$oid":"5b59c855d51d297571b94c28"},"name":"AVONZA Tablet 30's","composition":"Lamivudine 300mg+Tenofovir 300mg+Efavirenz 400mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.1,800.00"}
+{"_id":{"$oid":"5b59c857d51d297571b94c29"},"name":"AXOVIR 250mg Injection 1's","composition":"Acyclovir 250mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.271.90"}
+{"_id":{"$oid":"5b59c859d51d297571b94c2a"},"name":"AXOVIR 500mg Injection 1's","composition":"Acyclovir 500mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.466.88"}
+{"_id":{"$oid":"5b59c85cd51d297571b94c2b"},"name":"AXOVIR 200mg Tablet 10's","composition":"Acyclovir 200mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b59c85ed51d297571b94c2c"},"name":"AXOVIR 800mg Tablet 10's","composition":"Acyclovir 800mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.180.96"}
+{"_id":{"$oid":"5b59c860d51d297571b94c2d"},"name":"AXOVIR 400mg Tablet 10's","composition":"Acyclovir 400mg","manufacturer":"Samarth Life Sciences Pvt Ltd","price":"Rs.94.22"}
+{"_id":{"$oid":"5b59c862d51d297571b94c2e"},"name":"BARACLUDE 1mg Tablet 10's","composition":"Entecavir","manufacturer":"Bristol Myers Squibb India Pvt Ltd","price":"Rs.11,892.00"}
+{"_id":{"$oid":"5b59c865d51d297571b94c2f"},"name":"CIMIVIR 400mg Tablet 28's","composition":"Sofosbuvir 400mg","manufacturer":"Biocon Ltd","price":"Rs.18,207.00"}
+{"_id":{"$oid":"5b59c867d51d297571b94c30"},"name":"CIMIVIR 400mg Tablet 7's","composition":"Sofosbuvir 400mg","manufacturer":"Biocon Ltd","price":"Rs.4,752.30"}
+{"_id":{"$oid":"5b59c869d51d297571b94c31"},"name":"CLARIGARD 500mg Tablet 10's","composition":"Clarithromycin 500mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.253.72"}
+{"_id":{"$oid":"5b59c86bd51d297571b94c32"},"name":"CMVEE 450mg Tablet 2's","composition":"Valganciclovir 450mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.849.37"}
+{"_id":{"$oid":"5b59c86dd51d297571b94c33"},"name":"CRONIVIR 0.5mg Tablet 30's","composition":"ENTECAVIR 0.5MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.2,235.00"}
+{"_id":{"$oid":"5b59c86fd51d297571b94c34"},"name":"CYMEVENE 500mg Injection 1's","composition":"Ganciclovir 500mg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.1,687.50"}
+{"_id":{"$oid":"5b59c872d51d297571b94c35"},"name":"CYTOGAN 250mg Capsule 10's","composition":"Ganciclovir 250mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.1,212.50"}
+{"_id":{"$oid":"5b59c874d51d297571b94c36"},"name":"CYTOGANIR TM 450mg Tablet 2's","composition":"Valganciclovir 450mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.900.00"}
+{"_id":{"$oid":"5b59c876d51d297571b94c37"},"name":"DACIHEP 30mg Tablet 28's","composition":"Daclatasvir 30mg","manufacturer":"Others","price":"Rs.3,830.00"}
+{"_id":{"$oid":"5b59c878d51d297571b94c38"},"name":"DACLAHEP 60mg Tablet 28's","composition":"Daclatasvir 60mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.6,000.00"}
+{"_id":{"$oid":"5b59c87ad51d297571b94c39"},"name":"DACLAWIN 60mg Tablet 28's","composition":"Daclatasvir 60mg","manufacturer":"Biocon Ltd","price":"Rs.6,500.00"}
+{"_id":{"$oid":"5b59c87cd51d297571b94c3a"},"name":"DACLITOF 60mg Tablet 28's","composition":"Daclatasvir 60mg","manufacturer":"Wockhardt Ltd","price":"Rs.5,759.00"}
+{"_id":{"$oid":"5b59c87ed51d297571b94c3b"},"name":"DALSICLEAR 30mg Tablet 28's","composition":"DACLATASVIR DIHYDROCHLORIDE 30MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.4,000.00"}
+{"_id":{"$oid":"5b59c880d51d297571b94c3c"},"name":"DALSICLEAR 60mg Tablet 28's","composition":"Daclatasvir 60mg","manufacturer":"Abbott India Ltd","price":"Rs.6,000.00"}
+{"_id":{"$oid":"5b59c882d51d297571b94c3d"},"name":"DARUVIR 300mg Tablet 30's","composition":"Darunavir 300mg","manufacturer":"Cipla Ltd","price":"Rs.4,571.51"}
+{"_id":{"$oid":"5b59c884d51d297571b94c3e"},"name":"DARUVIR 300mg Tablet 60's","composition":"Darunavir 300mg","manufacturer":"Cipla Ltd","price":"Rs.4,571.51"}
+{"_id":{"$oid":"5b59c887d51d297571b94c3f"},"name":"DINEX EC 250mg Capsule 10's","composition":"Didanosine 250mg","manufacturer":"Cipla Ltd","price":"Rs.745.40"}
+{"_id":{"$oid":"5b59c888d51d297571b94c40"},"name":"DINEX EC 250mg Tablet 30's","composition":"Didanosine 250mg","manufacturer":"Cipla Ltd","price":"Rs.738.30"}
+{"_id":{"$oid":"5b59c88ad51d297571b94c41"},"name":"DINEX EC 400mg Capsule 10's","composition":"Didanosine 400mg","manufacturer":"Cipla Ltd","price":"Rs.984.91"}
+{"_id":{"$oid":"5b59c88cd51d297571b94c42"},"name":"DINEX EC 400mg Tablet 30's","composition":"Didanosine 400mg","manufacturer":"Cipla Ltd","price":"Rs.1,131.13"}
+{"_id":{"$oid":"5b59c88ed51d297571b94c43"},"name":"DINMEK Tablet 30's","composition":"Efavirenz 600mg+Lamivudine 300mg+Tenofovir 300ml","manufacturer":"Msd Pharmaceuticals Pvt Ltd","price":"Rs.2,250.00"}
+{"_id":{"$oid":"5b59c890d51d297571b94c44"},"name":"DINOSIN 400mg Capsule 30's","composition":"Didanosine 400mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.1,170.00"}
+{"_id":{"$oid":"5b59c892d51d297571b94c45"},"name":"DUOVIR Tablet 60's","composition":"Lamivudine 150mg+Zidovudine 300mg","manufacturer":"Cipla Ltd","price":"Rs.1,172.43"}
+{"_id":{"$oid":"5b59c893d51d297571b94c46"},"name":"DUOVIR N Tablet 30's","composition":"Lamivudine 150mg+Nevirapine 200mg+Zidovudine 300mg","manufacturer":"Cipla Ltd","price":"Rs.614.21"}
+{"_id":{"$oid":"5b59c895d51d297571b94c47"},"name":"DUOVIR Tablet 10's","composition":"Lamivudine 150mg+Zidovudine 300mg","manufacturer":"Cipla Ltd","price":"Rs.195.40"}
+{"_id":{"$oid":"5b59c898d51d297571b94c48"},"name":"DUOVIR E KIT 3's","composition":"Efavirenz 600mg+Lamivudine 150mg+Zidovudine 300mg","manufacturer":"Cipla Ltd","price":"Rs.117.70"}
+{"_id":{"$oid":"5b59c89ad51d297571b94c49"},"name":"EFAMAT 600mg Tablet 30's","composition":"Efavirenz 600mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.1,990.00"}
+{"_id":{"$oid":"5b59c89ed51d297571b94c4a"},"name":"EFAVIR 200mg Tablet 60's","composition":"Efavirenz 200mg","manufacturer":"Cipla Ltd","price":"Rs.822.37"}
+{"_id":{"$oid":"5b59c8a0d51d297571b94c4b"},"name":"EFAVIR 600mg Tablet 30's","composition":"Efavirenz 600mg","manufacturer":"Cipla Ltd","price":"Rs.1,792.68"}
+{"_id":{"$oid":"5b59c8a2d51d297571b94c4c"},"name":"EFAVIR 300mg Tablet 30's","composition":"Efavirenz 300mg","manufacturer":"Cipla Ltd","price":"Rs.822.37"}
+{"_id":{"$oid":"5b59c8a4d51d297571b94c4d"},"name":"EFAVIR 200mg Capsule 30's","composition":"Efavirenz 200mg","manufacturer":"Cipla Ltd","price":"Rs.675.04"}
+{"_id":{"$oid":"5b59c8a6d51d297571b94c4e"},"name":"EFAVIR 100mg Capsule 30's","composition":"Efavirenz 100mg","manufacturer":"Cipla Ltd","price":"Rs.852.77"}
+{"_id":{"$oid":"5b59c8a8d51d297571b94c4f"},"name":"EFCURE 600mg Tablet 30's","composition":"Efavirenz 600mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.1,990.49"}
+{"_id":{"$oid":"5b59c8aad51d297571b94c50"},"name":"EMLETRA Tablet 10's","composition":"Lopinavir 200mg+Ritonavir 50mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.3,000.00"}
+{"_id":{"$oid":"5b59c8acd51d297571b94c51"},"name":"EMTRI Tablet 60's","composition":"LAMIVUDINE 150MG+STAVUDINE 40MG+NEVIRAPINE 200MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.1,210.00"}
+{"_id":{"$oid":"5b59c8afd51d297571b94c52"},"name":"ENCURE 0.5mg Tablet 10's","composition":"Entecavir 0.5mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.744.03"}
+{"_id":{"$oid":"5b59c8b1d51d297571b94c53"},"name":"ENTOS 0.5mg Tablet 30's","composition":"Entecavir 0.5mg","manufacturer":"Virchow Biotech Pvt Ltd","price":"Rs.2,257.30"}
+{"_id":{"$oid":"5b59c8b3d51d297571b94c54"},"name":"ESTIVA 600mg Capsule 10's","composition":"Efavirenz 600mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.700.00"}
+{"_id":{"$oid":"5b59c8b6d51d297571b94c55"},"name":"ESTIVA 600mg Capsule 30's","composition":"Efavirenz 600mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.1,441.56"}
+{"_id":{"$oid":"5b59c8b8d51d297571b94c56"},"name":"FAMCIMAC 500mg Tablet 3's","composition":"Famciclovir 500mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.214.00"}
+{"_id":{"$oid":"5b59c8bad51d297571b94c57"},"name":"FAMCIMAC 250mg Tablet 6's","composition":"Famciclovir 250mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.195.50"}
+{"_id":{"$oid":"5b59c8bcd51d297571b94c58"},"name":"FAMTREX 250mg Tablet 10's","composition":"FAMCICLOVIR 250MG","manufacturer":"Cipla Ltd","price":"Rs.431.00"}
+{"_id":{"$oid":"5b59c8bfd51d297571b94c59"},"name":"FAMTREX 125mg Tablet 10's","composition":"Famciclovir 125mg","manufacturer":"Cipla Ltd","price":"Rs.315.75"}
+{"_id":{"$oid":"5b59c8c1d51d297571b94c5a"},"name":"FAMTREX 500mg Tablet 7's","composition":"Famciclovir 500mg","manufacturer":"Cipla Ltd","price":"Rs.287.22"}
+{"_id":{"$oid":"5b59c8c4d51d297571b94c5b"},"name":"FLUHALT 75mg Capsule 10's","composition":"Oseltamivir 75mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.461.53"}
+{"_id":{"$oid":"5b59c8c6d51d297571b94c5c"},"name":"FLUVIR DRY Syrup 75ml","composition":"Oseltamivir 12mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.570.00"}
+{"_id":{"$oid":"5b59c8c8d51d297571b94c5d"},"name":"FRITHVIR 0.5mg Tablet 10's","composition":"Entecavir 0.5mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.714.28"}
+{"_id":{"$oid":"5b59c8c9d51d297571b94c5e"},"name":"GLENVIRAX 200mg Tablet 10's","composition":"Aciclovir 200mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.18.00"}
+{"_id":{"$oid":"5b59c8ccd51d297571b94c5f"},"name":"GLENVIRAX 400mg Tablet 10's","composition":"Aciclovir 400mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.84.37"}
+{"_id":{"$oid":"5b59c8ced51d297571b94c60"},"name":"GLENVIRAX 5% Cream 5gm","composition":"Aciclovir 5%","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b59c8d0d51d297571b94c61"},"name":"GLENVIRAX 800mg Tablet 10's","composition":"Aciclovir 800mg","manufacturer":"Glenmark Pharmaceuticals Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b59c8d2d51d297571b94c62"},"name":"HEPALO 0.5mg Tablet 10's","composition":"Entecavir 0.5mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.744.03"}
+{"_id":{"$oid":"5b59c8d5d51d297571b94c63"},"name":"HEPCDAC 60MG TABLET 28'S","composition":"DACLATASVIR 60MG","manufacturer":"Cipla Ltd","price":"Rs.7,000.00"}
+{"_id":{"$oid":"5b59c8d7d51d297571b94c64"},"name":"HEPCFIX 60mg Tablet 28's","composition":"Daclatasvir 60mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.6,600.00"}
+{"_id":{"$oid":"5b59c8d9d51d297571b94c65"},"name":"HEPCVEL Tablet 28's","composition":"Sofosbuvir 400mg+Velpatasvir 100mg","manufacturer":"Cipla Ltd","price":"Rs.18,500.00"}
+{"_id":{"$oid":"5b59c8dbd51d297571b94c66"},"name":"HEPCVIR TABLET 15'S","composition":"SOFOSBUVIR 400MG","manufacturer":"Cipla Ltd","price":"Rs.9,754.13"}
+{"_id":{"$oid":"5b59c8ddd51d297571b94c67"},"name":"HEPCVIR L 90mg Tablet 28's","composition":"Sofosbuvir 400mg+Ledipasvir 90mg","manufacturer":"Cipla Ltd","price":"Rs.25,000.00"}
+{"_id":{"$oid":"5b59c8ded51d297571b94c68"},"name":"HEPCVIR 400MG TABLET 28'S","composition":"SOFOSBUVIR 400MG","manufacturer":"Cipla Ltd","price":"Rs.18,207.71"}
+{"_id":{"$oid":"5b59c8e0d51d297571b94c69"},"name":"HEPCVIR L 90mg Tablet 14's","composition":"SOFOSBUVIR 400MG+LEDIPASVIR 90MG","manufacturer":"Cipla Ltd","price":"Rs.12,800.00"}
+{"_id":{"$oid":"5b59c8e2d51d297571b94c6a"},"name":"HEPCVIR L 90mg Tablet 29's","composition":"SOFOSBUVIR 400MG+LEDIPASVIR 90MG","manufacturer":"Cipla Ltd","price":"Rs.25,000.00"}
+{"_id":{"$oid":"5b59c8e3d51d297571b94c6b"},"name":"HEPDOZE 300mg Tablet 30's","composition":"Tenofovir 300Mcg","manufacturer":"Biocon Ltd","price":"Rs.1,404.70"}
+{"_id":{"$oid":"5b59c8e5d51d297571b94c6c"},"name":"HEPITEC 100mg Tablet 14's","composition":"LAMIVUDINE 100MG","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.565.00"}
+{"_id":{"$oid":"5b59c8e8d51d297571b94c6d"},"name":"HEPTAVIR 10mg Syrup 100ml","composition":"Lamivudine 10mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b59c8ead51d297571b94c6e"},"name":"HEPTOS 200mg Capsule 10's","composition":"Ribavirin 200mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b59c8ecd51d297571b94c6f"},"name":"HERPERAX 400mg Tablet 10's","composition":"Acyclovir 400mg","manufacturer":"Micro Labs Ltd","price":"Rs.119.91"}
+{"_id":{"$oid":"5b59c8eed51d297571b94c70"},"name":"HERPERAX Ointment 5gm","composition":"Acyclovir","manufacturer":"Micro Labs Ltd","price":"Rs.50.03"}
+{"_id":{"$oid":"5b59c8f0d51d297571b94c71"},"name":"HERPERAX 800mg Tablet 10's","composition":"Acyclovir 800mg","manufacturer":"Micro Labs Ltd","price":"Rs.283.00"}
+{"_id":{"$oid":"5b59c8f2d51d297571b94c72"},"name":"HERPERAX 200mg Tablet 5's","composition":"Acyclovir 200mg","manufacturer":"Micro Labs Ltd","price":"Rs.33.02"}
+{"_id":{"$oid":"5b59c8f4d51d297571b94c73"},"name":"HERPESAFE 5% Gel 10gm","composition":"Aciclovir 5%","manufacturer":"Alkem Laboratories Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b59c8f6d51d297571b94c74"},"name":"HERPESAFE 5% Cream 10gm","composition":"Aciclovir 5%","manufacturer":"Alkem Laboratories Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b59c8f8d51d297571b94c75"},"name":"HERPESAFE DT 800mg Tablet 10's","composition":"Aciclovir 800mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.154.00"}
+{"_id":{"$oid":"5b59c8f9d51d297571b94c76"},"name":"HERPESAFE DT 200mg Tablet 5's","composition":"Aciclovir 200mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.30.47"}
+{"_id":{"$oid":"5b59c8fdd51d297571b94c77"},"name":"HERPESAFE DT 400mg Tablet 5's","composition":"Aciclovir 400mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.66.66"}
+{"_id":{"$oid":"5b59c8ffd51d297571b94c78"},"name":"HERPESAFE DT 800mg Tablet 5's","composition":"Aciclovir 800mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.154.00"}
+{"_id":{"$oid":"5b59c903d51d297571b94c79"},"name":"HERPESAFE DT 400mg Tablet 10's","composition":"Aciclovir 400mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.66.66"}
+{"_id":{"$oid":"5b59c905d51d297571b94c7a"},"name":"HERPESAFE DT 200mg Tablet 10's","composition":"Aciclovir 200mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.32.00"}
+{"_id":{"$oid":"5b59c907d51d297571b94c7b"},"name":"HERPEX 200mg Tablet 10's","composition":"Acyclovir 200mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.66.04"}
+{"_id":{"$oid":"5b59c90ad51d297571b94c7c"},"name":"HERPEX 5% Cream 5gm","composition":"Acyclovir","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b59c90cd51d297571b94c7d"},"name":"HERPEX DT 800mg Tablet 5's","composition":"Acyclovir 800mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.186.50"}
+{"_id":{"$oid":"5b59c90ed51d297571b94c7e"},"name":"HERPEX 3 3% Eye Ointment 5gm","composition":"Aciclovir 3%","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b59c910d51d297571b94c7f"},"name":"HERPIKIND 400mg Tablet 10's","composition":"Acyclovir 400mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b59c914d51d297571b94c80"},"name":"HERPIKIND 200mg Tablet 10's","composition":"Acyclovir 200mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.66.04"}
+{"_id":{"$oid":"5b59c916d51d297571b94c81"},"name":"HERPIKIND Ointment 10gm","composition":"ACYCLOVIR 5%","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.69.70"}
+{"_id":{"$oid":"5b59c918d51d297571b94c82"},"name":"HERPIKIND 800mg Tablet 10's","composition":"Acyclovir 800mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.246.84"}
+{"_id":{"$oid":"5b59c91ad51d297571b94c83"},"name":"INDINAVIR 400mg Capsule 10's","composition":"Indinavir 400mg","manufacturer":"Cipla Ltd","price":"Rs.115.71"}
+{"_id":{"$oid":"5b59c91cd51d297571b94c84"},"name":"INDIVAN 400mg Capsule 30's","composition":"Indinavir 400mg","manufacturer":"Cipla Ltd","price":"Rs.619.77"}
+{"_id":{"$oid":"5b59c91ed51d297571b94c85"},"name":"IONSIL Cream 15gm","composition":"SULPHADIAZINE 0.2%","manufacturer":"Virchow Biotech Pvt Ltd","price":"Rs.54.50"}
+{"_id":{"$oid":"5b59c921d51d297571b94c86"},"name":"LAMIMAT 150mg Tablet 60's","composition":"Lamivudine 150mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.592.00"}
+{"_id":{"$oid":"5b59c923d51d297571b94c87"},"name":"LAMISTAR 40mg Tablet 60's","composition":"LAMIVUDINE 150MG+STAVUDINE 40MG","manufacturer":"Hetero Healthcare Ltd","price":"Rs.560.85"}
+{"_id":{"$oid":"5b59c925d51d297571b94c88"},"name":"LAMIVIR 300mg Solution 100ml","composition":"Lamivudine 300mg","manufacturer":"Cipla Ltd","price":"Rs.99.99"}
+{"_id":{"$oid":"5b59c927d51d297571b94c89"},"name":"LAMIVIR 150mg Tablet 10's","composition":"Lamivudine 150mg","manufacturer":"Cipla Ltd","price":"Rs.122.10"}
+{"_id":{"$oid":"5b59c929d51d297571b94c8a"},"name":"LAMIVIR S 30mg Tablet 60's","composition":"Lamivudine 150mg+Stavudine 30mg","manufacturer":"Cipla Ltd","price":"Rs.558.18"}
+{"_id":{"$oid":"5b59c92bd51d297571b94c8b"},"name":"LAMIVIR 300mg Tablet 60's","composition":"Lamivudine 300mg","manufacturer":"Cipla Ltd","price":"Rs.720.00"}
+{"_id":{"$oid":"5b59c92dd51d297571b94c8c"},"name":"LAMIVIR 300mg Tablet 10's","composition":"Lamivudine 300mg","manufacturer":"Cipla Ltd","price":"Rs.205.00"}
+{"_id":{"$oid":"5b59c92fd51d297571b94c8d"},"name":"LAMIVIR 300mg Syrup 100ml","composition":"Lamivudine 300mg","manufacturer":"Cipla Ltd","price":"Rs.99.99"}
+{"_id":{"$oid":"5b59c931d51d297571b94c8e"},"name":"LAMIVIR 150mg Tablet 60's","composition":"LAMIVUDINE 150MG","manufacturer":"Cipla Ltd","price":"Rs.640.74"}
+{"_id":{"$oid":"5b59c933d51d297571b94c8f"},"name":"LAMIVIR 30mg Capsule 30's","composition":"Lamivudine 30mg","manufacturer":"Cipla Ltd","price":"Rs.638.91"}
+{"_id":{"$oid":"5b59c935d51d297571b94c90"},"name":"LAMIVIR HBV Tablet 10's","composition":"Lamivudine 100mg","manufacturer":"Cipla Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b59c937d51d297571b94c91"},"name":"LAMIVIR S 12/60mg Tablet 10's","composition":"Lamivudine 12mg+Stavudine 60mg","manufacturer":"Cipla Ltd","price":"Rs.28.70"}
+{"_id":{"$oid":"5b59c939d51d297571b94c92"},"name":"LAMIVIR S 40mg Tablet 60's","composition":"Lamivudine 150mg+Stavudine 40mg","manufacturer":"Cipla Ltd","price":"Rs.706.20"}
+{"_id":{"$oid":"5b59c93bd51d297571b94c93"},"name":"LAMIVIR S 150mg/60mg Tablet 7's","composition":"Lamivudine 150mg+Stavudine 60mg","manufacturer":"Cipla Ltd","price":"Rs.621.00"}
+{"_id":{"$oid":"5b59c93dd51d297571b94c94"},"name":"LAMIVIR S 150/30mg Tablet 10's","composition":"Lamivudine 150mg+Stavudine 30mg","manufacturer":"Cipla Ltd","price":"Rs.117.75"}
+{"_id":{"$oid":"5b59c93fd51d297571b94c95"},"name":"LAMIVIR SE Kit 30's","composition":"Stavudine 30mg+Lamivudine 150mg+Efavirenz 600mg","manufacturer":"Cipla Ltd","price":"Rs.96.30"}
+{"_id":{"$oid":"5b59c943d51d297571b94c96"},"name":"LAMIVIR SE 40/150/600mg Kit 40's","composition":"Stavudine 40mg+Lamivudine 150mg+Efavirenz 4600mg","manufacturer":"Cipla Ltd","price":"Rs.92.00"}
+{"_id":{"$oid":"5b59c945d51d297571b94c97"},"name":"LAMOSTAD 30mg Tablet 10's","composition":"Lamivudine 150mg+Stavudine 30mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.109.80"}
+{"_id":{"$oid":"5b59c946d51d297571b94c98"},"name":"LAMOSTAD 40mg Tablet 10's","composition":"Lamivudine 150mg+Stavudine 40mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.114.30"}
+{"_id":{"$oid":"5b59c948d51d297571b94c99"},"name":"LAZID E Kit","composition":"Efavirenz 600mg+Lamivudine 150mg+Zidovudine 300mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.128.15"}
+{"_id":{"$oid":"5b59c94ad51d297571b94c9a"},"name":"LAZID N Tablet 60's","composition":"Lamivudine 150mg+Nevirapine 200mg+Zidovudine 300mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.1,246.15"}
+{"_id":{"$oid":"5b59c94cd51d297571b94c9b"},"name":"LEDIFOS Tablet 28's","composition":"Ledipasvir 90mg+Sofosbuvir 400mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.25,000.00"}
+{"_id":{"$oid":"5b59c94ed51d297571b94c9c"},"name":"LEDVICLEAR 400mg Tablet 28's","composition":"Ledipasvir 90mg+Sofosbuvir 400mg","manufacturer":"Abbott India Ltd","price":"Rs.25,000.00"}
+{"_id":{"$oid":"5b59c94fd51d297571b94c9d"},"name":"LOPIMUNE Tablet 60's","composition":"Lopinavir 200mg+Ritonavir 50mg","manufacturer":"Cipla Ltd","price":"Rs.2,716.56"}
+{"_id":{"$oid":"5b59c951d51d297571b94c9e"},"name":"LOPIMUNE Capsule 90's","composition":"Ritonavir 50mg+Lopinavir 200mg","manufacturer":"Cipla Ltd","price":"Rs.2,539.43"}
+{"_id":{"$oid":"5b59c954d51d297571b94c9f"},"name":"LOVIR 400mg Tablet 5's","composition":"Acyclovir 400mg","manufacturer":"Eli Lilly And Company","price":"Rs.124.56"}
+{"_id":{"$oid":"5b59c956d51d297571b94ca0"},"name":"LOVIR 200mg Tablet 5's","composition":"Acyclovir 200mg","manufacturer":"Eli Lilly And Company","price":"Rs.365.00"}
+{"_id":{"$oid":"5b59c95ad51d297571b94ca1"},"name":"MAXIMUNE 500mg Tablet 60's","composition":"Saquinavir 500mg","manufacturer":"Cipla Ltd","price":"Rs.3,086.53"}
+{"_id":{"$oid":"5b59c95cd51d297571b94ca2"},"name":"MICROVIR 500mg Tablet 3's","composition":"Famciclovir 500mg","manufacturer":"Micro Labs Ltd","price":"Rs.290.00"}
+{"_id":{"$oid":"5b59c95ed51d297571b94ca3"},"name":"MYDEKLA 60mg Tablet 28's","composition":"Daclatasvir 60mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.5,000.00"}
+{"_id":{"$oid":"5b59c960d51d297571b94ca4"},"name":"NATCLOVIR 250mg Injection 1's","composition":"Gancyclovir 250mg","manufacturer":"Natco Pharma Ltd","price":"Rs.1,735.00"}
+{"_id":{"$oid":"5b59c963d51d297571b94ca5"},"name":"NATCLOVIR 500mg Injection","composition":"Ganciclovir 500mg","manufacturer":"Natco Pharma Ltd","price":"Rs.1,500.00"}
+{"_id":{"$oid":"5b59c964d51d297571b94ca6"},"name":"NATFLU 75mg Capsule 10's","composition":"Oseltamivir 75mg","manufacturer":"Natco Pharma Ltd","price":"Rs.457.15"}
+{"_id":{"$oid":"5b59c967d51d297571b94ca7"},"name":"NELFIN 625mg Tablet 30's","composition":"Nelfinavir 625mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.1,528.85"}
+{"_id":{"$oid":"5b59c969d51d297571b94ca8"},"name":"NELFIN 625mg Tablet 10's","composition":"Nelfinavir 625mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.540.00"}
+{"_id":{"$oid":"5b59c96bd51d297571b94ca9"},"name":"NELVIR Tablet 100's","composition":"Nelfinavir 250mg","manufacturer":"Cipla Ltd","price":"Rs.2,400.00"}
+{"_id":{"$oid":"5b59c96dd51d297571b94caa"},"name":"NEVILAST 150/30/200mg Tablet 30's","composition":"Lamivudine 150mg+Stavudine 30mg+Nevirapine 200mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.210.00"}
+{"_id":{"$oid":"5b59c96fd51d297571b94cab"},"name":"NEVILAST 150/30/200mg Tablet 60's","composition":"Lamivudine 150mg+Stavudine 30mg+Nevirapine 200mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.1,665.12"}
+{"_id":{"$oid":"5b59c972d51d297571b94cac"},"name":"NEVIMAT 200mg Tablet 60's","composition":"Nevirapine 200mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.857.13"}
+{"_id":{"$oid":"5b59c974d51d297571b94cad"},"name":"NEVIMUNE Tablet 60's","composition":"Nevirapine 200mg","manufacturer":"Cipla Ltd","price":"Rs.853.02"}
+{"_id":{"$oid":"5b59c976d51d297571b94cae"},"name":"NEVIMUNE 50mg Suspension 100ml","composition":"Nevirapine 50mg","manufacturer":"Cipla Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b59c978d51d297571b94caf"},"name":"NEVIMUNE Oral Suspension 10ml","composition":"Nevirapine 50mg","manufacturer":"Cipla Ltd","price":"Rs.115.67"}
+{"_id":{"$oid":"5b59c97ad51d297571b94cb0"},"name":"NEVIMUNE 200mg Tablet 10's","composition":"Nevirapine","manufacturer":"Cipla Ltd","price":"Rs.142.17"}
+{"_id":{"$oid":"5b59c97dd51d297571b94cb1"},"name":"NEVIMUNE XR 400mg Tablet 10's","composition":"Nevirapine 400mg","manufacturer":"Cipla Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b59c97fd51d297571b94cb2"},"name":"NEVIRETRO 200mg Tablet 10's","composition":"Nevirapine 200mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.143.10"}
+{"_id":{"$oid":"5b59c981d51d297571b94cb3"},"name":"NOVISOF 400mg Tablet 28's","composition":"Sofosbuvir 400mg","manufacturer":"Wockhardt Ltd","price":"Rs.19,146.00"}
+{"_id":{"$oid":"5b59c983d51d297571b94cb4"},"name":"NOVISOF L Tablet 28's","composition":"Sofosbuvir 400mg+Ledipasvir 90mg","manufacturer":"Wockhardt Ltd","price":"Rs.25,000.00"}
+{"_id":{"$oid":"5b59c984d51d297571b94cb5"},"name":"OCURAX 400mg Tablet 5's","composition":"Aciclovir 400mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.70.00"}
+{"_id":{"$oid":"5b59c986d51d297571b94cb6"},"name":"OCURAX 200mg Tablet 10's","composition":"Aciclovir 200mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.65.00"}
+{"_id":{"$oid":"5b59c988d51d297571b94cb7"},"name":"OCURAX 800mg Tablet 5's","composition":"Aciclovir 800mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.116.35"}
+{"_id":{"$oid":"5b59c98ad51d297571b94cb8"},"name":"OCURAX 200mg Tablet 2's","composition":"Aciclovir 200mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.61.90"}
+{"_id":{"$oid":"5b59c98cd51d297571b94cb9"},"name":"OCUVIR 400mg Suspension 60ml","composition":"Acyclovir 400mg","manufacturer":"Fdc Ltd","price":"Rs.115.50"}
+{"_id":{"$oid":"5b59c98ed51d297571b94cba"},"name":"OCUVIR SKIN Cream 5gm","composition":"Acyclovir","manufacturer":"Fdc Ltd","price":"Rs.56.32"}
+{"_id":{"$oid":"5b59c990d51d297571b94cbb"},"name":"OCUVIR SR 1.2gm Tablet 3's","composition":"Acyclovir 1.2gm (SR)","manufacturer":"Fdc Ltd","price":"Rs.193.60"}
+{"_id":{"$oid":"5b59c992d51d297571b94cbc"},"name":"OCUVIR DT 400mg Tablet 5's","composition":"Acyclovir 400mg","manufacturer":"Fdc Ltd","price":"Rs.62.52"}
+{"_id":{"$oid":"5b59c994d51d297571b94cbd"},"name":"OCUVIR DT 200mg Tablet 10's","composition":"Acyclovir 200mg","manufacturer":"Fdc Ltd","price":"Rs.67.30"}
+{"_id":{"$oid":"5b59c997d51d297571b94cbe"},"name":"OCUVIR DT 800mg Tablet 5's","composition":"Acyclovir 800mg","manufacturer":"Fdc Ltd","price":"Rs.158.00"}
+{"_id":{"$oid":"5b59c999d51d297571b94cbf"},"name":"ODIVIR 250mg Kit 3's","composition":"Didanosine 250mg+Efavirenz 600mg+Lamivudine 300mg","manufacturer":"Cipla Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b59c99bd51d297571b94cc0"},"name":"ODIVIR KIT 300mg/400mg/600mg Tablet 7's","composition":"Lamivudine 300mg+Didanosine 250mg+Efavirenz 600mg","manufacturer":"Cipla Ltd","price":"Rs.125.19"}
+{"_id":{"$oid":"5b59c99dd51d297571b94cc1"},"name":"ODIVIR KIT 300mg/250mg/600mg Tablet 1's","composition":"Lamivudine 300mg+Didanosine 250mg+Efavirenz 600mg","manufacturer":"Cipla Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b59c99fd51d297571b94cc2"},"name":"ORIAK FCT 300mg Tablet 30's","composition":"Tenofovir 300mg","manufacturer":"Novartis India Ltd","price":"Rs.1,455.30"}
+{"_id":{"$oid":"5b59c9a1d51d297571b94cc3"},"name":"PEGASYS 135mcg Injection 1's","composition":"Peg Interferon Alfa 2B 135mcg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.13,884.00"}
+{"_id":{"$oid":"5b59c9a3d51d297571b94cc4"},"name":"PEGASYS 180mcg Injection 1's","composition":"Peg Interferon Alfa 2B 180mcg","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.16,553.00"}
+{"_id":{"$oid":"5b59c9a7d51d297571b94cc5"},"name":"PRIMACORT Cream 5gm","composition":"Aciclovir ","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b59c9a9d51d297571b94cc6"},"name":"QVIR Kit","composition":"ATAZANAVIR 300MG+RITONAVIR 100MG+TENOFOVIR 30MG+EMTRICITABINE 200MG ","manufacturer":"Cipla Ltd","price":"Rs.182.00"}
+{"_id":{"$oid":"5b59c9abd51d297571b94cc7"},"name":"RETROLAM 150mg Injection 1's","composition":"Lamivudine 150mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.11.52"}
+{"_id":{"$oid":"5b59c9add51d297571b94cc8"},"name":"RETROLAM 150mg Tablet 10's","composition":"Lamivudine 150mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b59c9afd51d297571b94cc9"},"name":"RETRONEL Tablet 90's","composition":"Nelfinavir 250mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.2,232.00"}
+{"_id":{"$oid":"5b59c9b3d51d297571b94cca"},"name":"REVIRO 300mg Tablet 30's","composition":"Tenofovir 300mg","manufacturer":"Dr Reddy's Laboratories Ltd","price":"Rs.1,438.75"}
+{"_id":{"$oid":"5b59c9b6d51d297571b94ccb"},"name":"RIBAHEP Capsule 10's","composition":"Ribavirin ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.750.00"}
+{"_id":{"$oid":"5b59c9b8d51d297571b94ccc"},"name":"RIBAVIN 200mg Capsule 4's","composition":"Ribavirin 200mg","manufacturer":"Lupin Ltd","price":"Rs.312.50"}
+{"_id":{"$oid":"5b59c9bad51d297571b94ccd"},"name":"RIBAVIRIN 200mg Capsule 40's","composition":"Ribavirin 200mg","manufacturer":"Natco Pharma Ltd","price":"Rs.800.00"}
+{"_id":{"$oid":"5b59c9bcd51d297571b94cce"},"name":"RIBAVIRIN 200MG CAPSULE 7'S","composition":"RIBAVIRIN 200MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.142.76"}
+{"_id":{"$oid":"5b59c9bed51d297571b94ccf"},"name":"RIBAWOK 200mg Capsule 35's","composition":"Ribavirin 200mg","manufacturer":"Wockhardt Ltd","price":"Rs.1,995.00"}
+{"_id":{"$oid":"5b59c9c0d51d297571b94cd0"},"name":"RICOVIR 300mg Tablet 30's","composition":"Tenofovir 300mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.1,100.00"}
+{"_id":{"$oid":"5b59c9c2d51d297571b94cd1"},"name":"RICOVIR EM Tablet 30's","composition":"Tenofovir 300mg+Emtricitabine 200mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.2,050.00"}
+{"_id":{"$oid":"5b59c9c4d51d297571b94cd2"},"name":"RICOVIR L Tablet 30's","composition":"Tenofovir 300mg+Lamivudine 300mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.1,200.00"}
+{"_id":{"$oid":"5b59c9c6d51d297571b94cd3"},"name":"RINHIB 200mg Capsule 42's","composition":"Ribavirin 200mg","manufacturer":"Biocon Ltd","price":"Rs.1,666.60"}
+{"_id":{"$oid":"5b59c9c8d51d297571b94cd4"},"name":"RITOMAX 100mg Capsule 60's","composition":"Ritonavir 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.2,648.25"}
+{"_id":{"$oid":"5b59c9cad51d297571b94cd5"},"name":"RITOMUNE 100mg Capsule 30's","composition":"Ritonavir 100mg","manufacturer":"Cipla Ltd","price":"Rs.1,714.28"}
+{"_id":{"$oid":"5b59c9ccd51d297571b94cd6"},"name":"SAQUIN 500mg Tablet 10's","composition":"Saquinavir 500mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.500.00"}
+{"_id":{"$oid":"5b59c9cfd51d297571b94cd7"},"name":"SIMPLOVIR EYE Gel 5gm","composition":"Ganciclovir","manufacturer":"Sunways India Pvt Ltd","price":"Rs.63.70"}
+{"_id":{"$oid":"5b59c9d1d51d297571b94cd8"},"name":"SOFOVIR 400mg Tablet 28's","composition":"Sofosbuvir 400mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.18,200.00"}
+{"_id":{"$oid":"5b59c9d3d51d297571b94cd9"},"name":"SOVALDI 400mg Tablet 28's","composition":"Sofosbuvir 400mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.18,207.00"}
+{"_id":{"$oid":"5b59c9d5d51d297571b94cda"},"name":"SOVIHEP 400mg Tablet 28's","composition":"Sofosbuvir 400mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.19,900.00"}
+{"_id":{"$oid":"5b59c9d8d51d297571b94cdb"},"name":"SOVIHEP V Tablet 28's","composition":"Sofosbuvir 400mg+Velpatasvir 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.18,500.00"}
+{"_id":{"$oid":"5b59c9dad51d297571b94cdc"},"name":"STARFLU 75mg Capsule 10's","composition":"Oseltamivir 75mg","manufacturer":"Strides Shasun Ltd","price":"Rs.475.00"}
+{"_id":{"$oid":"5b59c9dcd51d297571b94cdd"},"name":"STAVIR 30mg Capsule 60's","composition":"Stavudine 30mg","manufacturer":"Cipla Ltd","price":"Rs.240.30"}
+{"_id":{"$oid":"5b59c9ddd51d297571b94cde"},"name":"STAVIR 40mg Capsule 10's","composition":"Stavudine 40mg","manufacturer":"Cipla Ltd","price":"Rs.36.14"}
+{"_id":{"$oid":"5b59c9e0d51d297571b94cdf"},"name":"STAVIR 30mg Capsule 10's","composition":"Stavudine 30mg","manufacturer":"Cipla Ltd","price":"Rs.35.31"}
+{"_id":{"$oid":"5b59c9e2d51d297571b94ce0"},"name":"SYNTHIVAN Tablet 30's","composition":"Atazanavir 300mg+Ritonavir 100mg","manufacturer":"Cipla Ltd","price":"Rs.2,942.30"}
+{"_id":{"$oid":"5b59c9e4d51d297571b94ce1"},"name":"TAFNAT 25mg Tablet 30's","composition":"Tenofovir 25mg","manufacturer":"Natco Pharma Ltd","price":"Rs.1,900.00"}
+{"_id":{"$oid":"5b59c9e7d51d297571b94ce2"},"name":"TAVIN EM Tablet 30's","composition":"EMTRICITABINE 200MG+TENOFOVIR 300MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.2,000.00"}
+{"_id":{"$oid":"5b59c9ead51d297571b94ce3"},"name":"TEEVIR Tablet 30's","composition":"Tenofovir 300mg+Emtricitabine 200mg+Efavirenz 600mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.3,000.00"}
+{"_id":{"$oid":"5b59c9ecd51d297571b94ce4"},"name":"TELBIHEP Tablet 10's","composition":"Telbivudine 600mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.833.81"}
+{"_id":{"$oid":"5b59c9eed51d297571b94ce5"},"name":"TELURA Tablet 30's","composition":"Lamivudine 300mg+Tenofovir 300mg+Efavirenz 600mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.2,880.00"}
+{"_id":{"$oid":"5b59c9f0d51d297571b94ce6"},"name":"TENFOCLEAR 300mg Tablet 30's","composition":"Tenofovir 300mg","manufacturer":"Abbott India Ltd","price":"Rs.1,500.00"}
+{"_id":{"$oid":"5b59c9f2d51d297571b94ce7"},"name":"TENOCRUZ 300mg Tablet 10's","composition":"Tenofovir 300mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.479.58"}
+{"_id":{"$oid":"5b59c9f4d51d297571b94ce8"},"name":"TENOF 300mg Tablet 30's","composition":"Tenofovir 300mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.1,325.60"}
+{"_id":{"$oid":"5b59c9f6d51d297571b94ce9"},"name":"TENOF EM Tablet 30's","composition":"Emtricitabine+Tenofovir","manufacturer":"Hetero Healthcare Ltd","price":"Rs.1,540.00"}
+{"_id":{"$oid":"5b59c9f9d51d297571b94cea"},"name":"TENOF 300mg Tablet 10's","composition":"Tenofovir 300mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.440.00"}
+{"_id":{"$oid":"5b59c9fcd51d297571b94ceb"},"name":"TENOHEP Tablet 10's","composition":"Tenofovir 300mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.472.94"}
+{"_id":{"$oid":"5b59c9ffd51d297571b94cec"},"name":"TENOLAM 0.25mg Tablet 10's","composition":"Lamivudine 150mg+Tenofovir 0.25mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.10.25"}
+{"_id":{"$oid":"5b59ca01d51d297571b94ced"},"name":"TENOLAM 0.5mg Tablet 10's","composition":"Lamivudine 150mg+Tenofovir 0.5mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.14.06"}
+{"_id":{"$oid":"5b59ca05d51d297571b94cee"},"name":"TENOLAM E Tablet 30's","composition":"Efavirenz 600mg+Lamivudine 300mg+Tenofovir 300mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.2,936.75"}
+{"_id":{"$oid":"5b59ca07d51d297571b94cef"},"name":"TENTIDE 300mg Tablet 30's","composition":"TENOFOVIR 300MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.1,379.80"}
+{"_id":{"$oid":"5b59ca0bd51d297571b94cf0"},"name":"TENTIDE EM Tablet 10's","composition":"Emtricitabine+Tenofovir","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.2,000.00"}
+{"_id":{"$oid":"5b59ca0dd51d297571b94cf1"},"name":"TENVIR Tablet 30's","composition":"Tenofovir 300mg","manufacturer":"Cipla Ltd","price":"Rs.1,438.75"}
+{"_id":{"$oid":"5b59ca0ed51d297571b94cf2"},"name":"TENVIR EM Tablet 30's","composition":"EMTRICITABINE 200MG+TENOFOVIR 300MG","manufacturer":"Cipla Ltd","price":"Rs.2,420.00"}
+{"_id":{"$oid":"5b59ca10d51d297571b94cf3"},"name":"TENVIR L 300mg/300mg Tablet 10's","composition":"Lamivudine 300mg+Tenofovir 300mg","manufacturer":"Cipla Ltd","price":"Rs.1,476.18"}
+{"_id":{"$oid":"5b59ca12d51d297571b94cf4"},"name":"TENVIR L Tablet 30's","composition":"LAMIVUDINE 300MG+TENOFOVIR 300MG","manufacturer":"Cipla Ltd","price":"Rs.1,282.92"}
+{"_id":{"$oid":"5b59ca14d51d297571b94cf5"},"name":"TERAVIR 300mg Tablet 30's","composition":"Tenofovir 300mg","manufacturer":"Natco Pharma Ltd","price":"Rs.1,310.00"}
+{"_id":{"$oid":"5b59ca16d51d297571b94cf6"},"name":"TITAFERON 80MCG INJECTION 1'S","composition":"PEG INTERFERON ALFA 2B 80MCG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.8,862.47"}
+{"_id":{"$oid":"5b59ca18d51d297571b94cf7"},"name":"TITAFERON 120MCG INJECTION 1'S","composition":"PEG INTERFERON ALFA 2B 120MCG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.13,033.04"}
+{"_id":{"$oid":"5b59ca1bd51d297571b94cf8"},"name":"TITAFERON 50MCG INJECTION 1'S","composition":"PEG INTERFERON ALFA 2B 50MCG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.5,800.00"}
+{"_id":{"$oid":"5b59ca1dd51d297571b94cf9"},"name":"TITAFERON 100MCG INJECTION 1'S","composition":"PEG INTERFERON ALFA 2B 100MCG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.10,947.75"}
+{"_id":{"$oid":"5b59ca1fd51d297571b94cfa"},"name":"TOFODAY 200/300/600mg Tablet 30's","composition":"Emtricitabine 200mg+Tenofovir 300mg+Efavirenz 600mg ","manufacturer":"Alkem Laboratories Ltd","price":"Rs.4,330.67"}
+{"_id":{"$oid":"5b59ca21d51d297571b94cfb"},"name":"TRIKASE 400mg Tablet 10's","composition":"Acyclovir 400mg","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.125.10"}
+{"_id":{"$oid":"5b59ca23d51d297571b94cfc"},"name":"TRIKASE 5% Cream 10gm","composition":"Acyclovir 5%","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b59ca27d51d297571b94cfd"},"name":"TRIKASE 800mg Tablet 10's","composition":"Acyclovir 800mg","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.265.00"}
+{"_id":{"$oid":"5b59ca29d51d297571b94cfe"},"name":"TRIKASE 200mg Tablets 10's","composition":"Acyclovir 200mg","manufacturer":"East India Pharmaceutical Works Ltd","price":"Rs.67.31"}
+{"_id":{"$oid":"5b59ca2dd51d297571b94cff"},"name":"TRIOMUNE 150/30/200mg Tablet 10's","composition":"Lamivudine 150mg+Stavudine 30mg+Nevirapine 200mg","manufacturer":"Cipla Ltd","price":"Rs.391.17"}
+{"_id":{"$oid":"5b59ca30d51d297571b94d00"},"name":"TRIOMUNE 40mg Tablet 30's","composition":"Lamivudine 150mg+Nevirapine 200mg+Stavudine 40mg","manufacturer":"Cipla Ltd","price":"Rs.683.73"}
+{"_id":{"$oid":"5b59ca32d51d297571b94d01"},"name":"TRIOMUNE 30mg Tablet 30's","composition":"Lamivudine 150mg+Nevirapine 200mg+Stavudine 30mg","manufacturer":"Cipla Ltd","price":"Rs.464.79"}
+{"_id":{"$oid":"5b59ca34d51d297571b94d02"},"name":"TRIOMUNE DT 60/12/100mg Tablet 60's","composition":"Lamivudine 60mg+Stavudine 12mg+Nevirapine 100mg","manufacturer":"Cipla Ltd","price":"Rs.713.32"}
+{"_id":{"$oid":"5b59ca36d51d297571b94d03"},"name":"TRIOMUNE DT 30/6/50mg Tablet 60's","composition":"Lamivudine 30mg+Stavudine 6mg+Nevirapine 50mg","manufacturer":"Cipla Ltd","price":"Rs.392.32"}
+{"_id":{"$oid":"5b59ca38d51d297571b94d04"},"name":"TRUVADA Tablet 30's","composition":"Tenofovir 300mg+Emtricitabine 200mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.3,250.00"}
+{"_id":{"$oid":"5b59ca3ad51d297571b94d05"},"name":"VAGACYTE 450mg Tablet 2's","composition":"Valganciclovir 450mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.947.00"}
+{"_id":{"$oid":"5b59ca3cd51d297571b94d06"},"name":"VALAMAC 500mg Tablet 3's","composition":"Valacyclovir","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b59ca3ed51d297571b94d07"},"name":"VALANIX 500mg Tablet 3's","composition":"Valaciclovir 500mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b59ca3fd51d297571b94d08"},"name":"VALANIX 1000mg Tablet 3's","composition":"Valaciclovir 1000mg","manufacturer":"Canixa Life Sciences Pvt Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b59ca41d51d297571b94d09"},"name":"VALAVIR 500mg Tablet 3's","composition":"Valaciclovir 500mg","manufacturer":"Cipla Ltd","price":"Rs.136.00"}
+{"_id":{"$oid":"5b59ca44d51d297571b94d0a"},"name":"VALAVIR 1000mg Tablet 3's","composition":"Valaciclovir 1000mg","manufacturer":"Cipla Ltd","price":"Rs.220.50"}
+{"_id":{"$oid":"5b59ca46d51d297571b94d0b"},"name":"VALCEPT 450mg Tablet 4's","composition":"Valganciclovir 450mg","manufacturer":"Cipla Ltd","price":"Rs.942.31"}
+{"_id":{"$oid":"5b59ca48d51d297571b94d0c"},"name":"VALCHEK 450mg Tablet 2's","composition":"VALGANCICLOVIR 450MG","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.980.00"}
+{"_id":{"$oid":"5b59ca4ad51d297571b94d0d"},"name":"VALCIP 450mg Tablet 10's","composition":"Valganciclovir 450mg","manufacturer":"Cipla Ltd","price":"Rs.3,260.00"}
+{"_id":{"$oid":"5b59ca4dd51d297571b94d0e"},"name":"VALCIVIR 500mg Tablet 3's","composition":"Valaciclovir 500mg","manufacturer":"Cipla Ltd","price":"Rs.136.00"}
+{"_id":{"$oid":"5b59ca4fd51d297571b94d0f"},"name":"VALCIVIR 1gm Tablet 3's","composition":"Valaciclovir 1gm","manufacturer":"Cipla Ltd","price":"Rs.220.50"}
+{"_id":{"$oid":"5b59ca51d51d297571b94d10"},"name":"VALCYTE 450mg Tablet 60's","composition":"Valganciclovir","manufacturer":"Roche Products (India) Pvt Ltd","price":"Rs.40,000.00"}
+{"_id":{"$oid":"5b59ca53d51d297571b94d11"},"name":"VALGAN 450mg Tablet 4's","composition":"Valganciclovir 450mg","manufacturer":"Cipla Ltd","price":"Rs.1,304.00"}
+{"_id":{"$oid":"5b59ca55d51d297571b94d12"},"name":"VALTEN 300mg Tablet 30's","composition":"Tenofovir 300mg","manufacturer":"Wockhardt Ltd","price":"Rs.1,406.50"}
+{"_id":{"$oid":"5b59ca59d51d297571b94d13"},"name":"VALTOVAL 1gm Tablet 3's","composition":"Valaciclovir 1gm","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b59ca59d51d297571b94d14"},"name":"VALTOVAL 500mg Tablet 3's","composition":"Valaciclovir 500mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.124.00"}
+{"_id":{"$oid":"5b59ca5bd51d297571b94d15"},"name":"VELASOF Tablet 28's","composition":"Sofosbuvir 400mg+Velpatasvir 100mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.17,500.00"}
+{"_id":{"$oid":"5b59ca5dd51d297571b94d16"},"name":"VELPACLEAR 400/100MG TABLET 28'S","composition":"SOFUSBUVIR 400MG+VELPATASVIR 100MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.17,500.00"}
+{"_id":{"$oid":"5b59ca5fd51d297571b94d17"},"name":"VIRADAY Tablet 30's","composition":"Efavirenz+Emtricitabine+Tenofovir","manufacturer":"Cipla Ltd","price":"Rs.3,900.00"}
+{"_id":{"$oid":"5b59ca61d51d297571b94d18"},"name":"VIRANZ 600mg Tablet 30's","composition":"Efavirenz 600mg","manufacturer":"Aurobindo Pharmaceutical Ltd","price":"Rs.1,922.00"}
+{"_id":{"$oid":"5b59ca64d51d297571b94d19"},"name":"VIRATAZ 300mg Capsule 30's","composition":"Atazanavir 300mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.2,100.00"}
+{"_id":{"$oid":"5b59ca66d51d297571b94d1a"},"name":"VIREAD 300mg Tablet 30's","composition":"Tenofovir 300mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.1,379.00"}
+{"_id":{"$oid":"5b59ca68d51d297571b94d1b"},"name":"VIRENZA Rotacaps 20's","composition":"Zanamivir 5mg","manufacturer":"Cipla Ltd","price":"Rs.258.00"}
+{"_id":{"$oid":"5b59ca6bd51d297571b94d1c"},"name":"VIRENZA(WITH REVOLIZER) 5mg Rotacap 30's","composition":"Zanamivir 5mg","manufacturer":"Cipla Ltd","price":"Rs.767.25"}
+{"_id":{"$oid":"5b59ca6dd51d297571b94d1d"},"name":"VIROCLEAR 400mg Tablet 28's","composition":"Sofosbuvir 400mg","manufacturer":"Abbott India Ltd","price":"Rs.21,000.00"}
+{"_id":{"$oid":"5b59ca6fd51d297571b94d1e"},"name":"VIROCOMB N Tablet 60's","composition":"Lamivudine+Nevirapine+Zidovudine","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.1,286.34"}
+{"_id":{"$oid":"5b59ca71d51d297571b94d1f"},"name":"VIROLIS 150/40mg Tablet 10's","composition":"Lamivudine 150mg+Stavudine 40mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.688.00"}
+{"_id":{"$oid":"5b59ca73d51d297571b94d20"},"name":"VIROLIS 150/30mg Tablet 10's","composition":"Lamivudine 150mg+Stavudine 30mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b59ca75d51d297571b94d21"},"name":"VIROLIS 150/40mg Tablet 60's","composition":"Lamivudine 150mg+Stavudine 40mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.661.51"}
+{"_id":{"$oid":"5b59ca76d51d297571b94d22"},"name":"VIROLIS 150/30mg Tablet 60's","composition":"Lamivudine 150mg+Stavudine 30mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.626.75"}
+{"_id":{"$oid":"5b59ca78d51d297571b94d23"},"name":"VIROVIR 250mg Tablet 6's","composition":"Famciclovir 250mg","manufacturer":"Fdc Ltd","price":"Rs.281.25"}
+{"_id":{"$oid":"5b59ca7bd51d297571b94d24"},"name":"VIROVIR 500mg Tablet 3's","composition":"Famciclovir 500mg","manufacturer":"Fdc Ltd","price":"Rs.275.00"}
+{"_id":{"$oid":"5b59ca7dd51d297571b94d25"},"name":"VIRSON Gel 5gm","composition":"Ganciclovir","manufacturer":"Ajanta Pharma Ltd","price":"Rs.101.50"}
+{"_id":{"$oid":"5b59ca7fd51d297571b94d26"},"name":"VONADAY Tablet 30's","composition":"Efavirenz 600mg+Lamivudine 300mg+Tenofovir 300mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.3,245.00"}
+{"_id":{"$oid":"5b59ca81d51d297571b94d27"},"name":"VORIOR 4.5mg Injection 1's","composition":"Piperacillin 4000mg+Tazobactam 500mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.349.60"}
+{"_id":{"$oid":"5b59ca83d51d297571b94d28"},"name":"VORIOR 2.25mg Injection 1's","composition":"Piperacillin 2000mg+Tazobactam 250mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.98.21"}
+{"_id":{"$oid":"5b59ca85d51d297571b94d29"},"name":"WINDOSE Tablet 10's","composition":"Kalmegh Dry Extract 100mg","manufacturer":"Biomiicron Pharma India Pvt Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b59ca86d51d297571b94d2a"},"name":"WINDOSE Syrup 60ml","composition":"Kalmegh Dry Extract 50mg","manufacturer":"Biomiicron Pharma India Pvt Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b59ca89d51d297571b94d2b"},"name":"ZENCLOVIR 400mg Tablet 5's","composition":"Acyclovir 400mg","manufacturer":"Zen Pharma Pvt Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b59ca8bd51d297571b94d2c"},"name":"ZIDINE 300mg Tablet 60's","composition":"Zidovudine 300mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.932.71"}
+{"_id":{"$oid":"5b59ca8dd51d297571b94d2d"},"name":"ZIDOLAM 150/300mg Tablet 30's","composition":"Lamivudine 150mg+Zidovudine 300mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.604.76"}
+{"_id":{"$oid":"5b59ca8fd51d297571b94d2e"},"name":"ZIDOLAM 150/300mg Tablet 10's","composition":"Lamivudine 150mg+Zidovudine 300mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.202.55"}
+{"_id":{"$oid":"5b59ca91d51d297571b94d2f"},"name":"ZIDOLAM N 150/300/200mg Tablet 60's","composition":"Lamivudine 150mg+Stavudine 30mg+Nevirapine 200mg","manufacturer":"Hetero Healthcare Ltd","price":"Rs.690.00"}
+{"_id":{"$oid":"5b59ca93d51d297571b94d30"},"name":"ZIDOVIR 300mg Tablet 10's","composition":"Zidovudine 300mg","manufacturer":"Cipla Ltd","price":"Rs.135.87"}
+{"_id":{"$oid":"5b59ca96d51d297571b94d31"},"name":"ZIDOVIR 100mg Capsule 100's","composition":"Zidovudine 100mg","manufacturer":"Cipla Ltd","price":"Rs.59.10"}
+{"_id":{"$oid":"5b59ca98d51d297571b94d32"},"name":"ZIDOVIR 50mg Solution 100ml","composition":"Zidovudine 50mg","manufacturer":"Cipla Ltd","price":"Rs.72.61"}
+{"_id":{"$oid":"5b59ca9ad51d297571b94d33"},"name":"ZIDOVIR 100mg CAPSULE 10's","composition":"Zidovudine 100mg","manufacturer":"Cipla Ltd","price":"Rs.62.06"}
+{"_id":{"$oid":"5b59ca9cd51d297571b94d34"},"name":"ZIDOVIR 250mg Capsule 100's","composition":"Zidovudine 250mg","manufacturer":"Cipla Ltd","price":"Rs.109.76"}
+{"_id":{"$oid":"5b59ca9fd51d297571b94d35"},"name":"ZIDOVIR 300mg Capsule 60's","composition":"Zidovudine 300mg","manufacturer":"Cipla Ltd","price":"Rs.149.70"}
+{"_id":{"$oid":"5b59caa2d51d297571b94d36"},"name":"ZIDOVUDINE 300mg Tablet 10's","composition":"Zidovudine 300mg","manufacturer":"Cipla Ltd","price":"Rs.187.50"}
+{"_id":{"$oid":"5b59caa5d51d297571b94d37"},"name":"ZIMIVIR 500mg Tablet 3's","composition":"Valaciclovir 500mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.124.30"}
+{"_id":{"$oid":"5b59caa7d51d297571b94d38"},"name":"ZIMIVIR 1000mg Tablet 3's","composition":"Valaciclovir 1000mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.199.20"}
+{"_id":{"$oid":"5b59caa9d51d297571b94d39"},"name":"ZOSOVIR 400mg Tablet 28's","composition":"Sofosbuvir 400mg","manufacturer":"Zuventus Healthcare Ltd","price":"Rs.2,034.90"}
+{"_id":{"$oid":"5b59caacd51d297571b94d3a"},"name":"ZOSTER 5% Cream 5gm","composition":"Acyclovir 5%","manufacturer":"Leeford Healthcare Ltd","price":"Rs.50.03"}
+{"_id":{"$oid":"5b59caaed51d297571b94d3b"},"name":"ZOVILAM Tablet 60's","composition":"Lamivudine 150mg+Zidovudine 300mg","manufacturer":"Mylan Pharmaceuticals Pvt Ltd","price":"Rs.678.80"}
+{"_id":{"$oid":"5b59cab0d51d297571b94d3c"},"name":"ZOVIR Cream 15gm","composition":"Acyclovir","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.66.65"}
+{"_id":{"$oid":"5b59cab3d51d297571b94d3d"},"name":"ZOVIR 400mg Tablet 10's","composition":"Acyclovir 400mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.119.91"}
+{"_id":{"$oid":"5b59cab5d51d297571b94d3e"},"name":"ZOVIR 800mg Tablet 10's","composition":"Acyclovir 800mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.253.00"}
+{"_id":{"$oid":"5b59cab7d51d297571b94d3f"},"name":"ZOVIRAX 800mg Tablet 5's","composition":"Acyclovir 800mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.151.90"}
+{"_id":{"$oid":"5b59cabad51d297571b94d40"},"name":"ZOVIRAX Syrup 100ml","composition":"Acyclovir 400mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.128.80"}
+{"_id":{"$oid":"5b59cabcd51d297571b94d41"},"name":"ZOVIRAX 400mg Tablet 10's","composition":"Acyclovir 400mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.129.36"}
+{"_id":{"$oid":"5b59cabfd51d297571b94d42"},"name":"ZOVIRAX 250mg Injection","composition":"Acyclovir 250mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.513.00"}
+{"_id":{"$oid":"5b59cac1d51d297571b94d43"},"name":"ZOVIRAX 30mg Eye Ointment 5gm","composition":"Aciclovir 30mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.37.95"}
+{"_id":{"$oid":"5b59cac3d51d297571b94d44"},"name":"ZOVIRAX 200mg Tablet 5's","composition":"Acyclovir 200mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.34.44"}
+{"_id":{"$oid":"5b59cac5d51d297571b94d45"},"name":"ZOYLEX DT 800mg Tablet 10's","composition":"Acyclovir 800mg","manufacturer":"Vhb Pharma Pvt Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b59cac8d51d297571b94d46"},"name":"ZOYLEX DT 400mg Tablet 10's","composition":"Acyclovir 400mg","manufacturer":"Vhb Pharma Pvt Ltd","price":"Rs.99.00"}

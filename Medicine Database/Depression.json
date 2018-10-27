@@ -1,0 +1,862 @@
+{"_id":{"$oid":"5b584153d51d295fc824f794"},"name":"2 DEP 30mg Tablet 10's","composition":"DULOXETINE 30MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.66.61"}
+{"_id":{"$oid":"5b584154d51d295fc824f795"},"name":"2 DEP 20mg Tablet 10's","composition":"DULOXETINE 20MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.49.92"}
+{"_id":{"$oid":"5b584157d51d295fc824f796"},"name":"AGODEP 25mg Tablet 10's","composition":"Agomelatine 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b584158d51d295fc824f797"},"name":"AGOPOSE 25mg Tablet 10's","composition":"Agomelatine","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b584159d51d295fc824f798"},"name":"AGOPREX 25mg Tablet 10's","composition":"Agomelatine 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b58415cd51d295fc824f799"},"name":"AGOTINE 25mg Tablet 10's","composition":"Agomelatine 25mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.83.50"}
+{"_id":{"$oid":"5b58415ed51d295fc824f79a"},"name":"AMICON 25mg Tablet 10's","composition":"Amitriptyline 25mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.22.50"}
+{"_id":{"$oid":"5b584160d51d295fc824f79b"},"name":"AMICON 10mg Tablet 10's","composition":"Amitriptyline 10mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.22.00"}
+{"_id":{"$oid":"5b584162d51d295fc824f79c"},"name":"AMICON 75mg Tablet 10's","composition":"Amitriptyline 75mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.57.00"}
+{"_id":{"$oid":"5b584163d51d295fc824f79d"},"name":"AMIT 25mg Tablet 10's","composition":"Amitriptyline","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.21.62"}
+{"_id":{"$oid":"5b584165d51d295fc824f79e"},"name":"AMIT 50mg Tablet 10's","composition":"Amitriptyline","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.15.85"}
+{"_id":{"$oid":"5b584167d51d295fc824f79f"},"name":"AMIT 10mg Tablet 10's","composition":"Amitriptyline","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.15.85"}
+{"_id":{"$oid":"5b58416ad51d295fc824f7a0"},"name":"AMITONE 75mg Tablet 10's","composition":"Amitriptyline 75mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.38.60"}
+{"_id":{"$oid":"5b58416cd51d295fc824f7a1"},"name":"AMITONE 10mg Tablet 10's","composition":"Amitriptyline 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.16.19"}
+{"_id":{"$oid":"5b58416ed51d295fc824f7a2"},"name":"AMITONE 25mg Tablet 10's","composition":"Amitriptyline 25mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.22.51"}
+{"_id":{"$oid":"5b584170d51d295fc824f7a3"},"name":"AMITOR 75mg Tablet 10's","composition":"Amitryptillin 75mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.28.85"}
+{"_id":{"$oid":"5b584172d51d295fc824f7a4"},"name":"AMITRIL 25mg Tablet 10's","composition":"AMITRIPTYLINE","manufacturer":" NA ","price":"Rs.16.30"}
+{"_id":{"$oid":"5b584174d51d295fc824f7a5"},"name":"AMITRIP 25mg Tablet 10's","composition":"Amitriptyline 25mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.22.05"}
+{"_id":{"$oid":"5b584176d51d295fc824f7a6"},"name":"AMITRIP 75mg Tablet 10's","composition":"Amitriptyline 75mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.84.00"}
+{"_id":{"$oid":"5b584178d51d295fc824f7a7"},"name":"AMITRIP 10mg Tablet 10's","composition":"Amitriptyline 10mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.22.36"}
+{"_id":{"$oid":"5b58417ad51d295fc824f7a8"},"name":"AMITROL 12.5/5mg Tablet 10's","composition":"Amitriptyline 12.5mg+Chlordiazepoxide 5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.7.90"}
+{"_id":{"$oid":"5b58417cd51d295fc824f7a9"},"name":"AMITRYN 10mg Tablet 10's","composition":"Amitriptyline 10mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.22.25"}
+{"_id":{"$oid":"5b58417ed51d295fc824f7aa"},"name":"AMITRYN 25mg Tablet 10's","composition":"Amitriptyline 25mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.22.00"}
+{"_id":{"$oid":"5b584180d51d295fc824f7ab"},"name":"AMITRYN 75mg Tablet 10's","composition":"Amitriptyline 75mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b584182d51d295fc824f7ac"},"name":"AMIVAL 200mg Tablet 10's","composition":"AMISULPRIDE","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.177.00"}
+{"_id":{"$oid":"5b584184d51d295fc824f7ad"},"name":"AMIXIDE H Tablet 10's","composition":"Amitriptyline 12.5mg+Chlordiazepoxide 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.34.00"}
+{"_id":{"$oid":"5b584185d51d295fc824f7ae"},"name":"AMNURITE 10mg Tablet 10's","composition":"Amitriptyline Hydrochloride 10mg+Mecobalamin (Methylcobalamin) 1500mcg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.106.12"}
+{"_id":{"$oid":"5b584188d51d295fc824f7af"},"name":"AMNURITE 25mg Tablet 10's","composition":"Amitriptyline Hydrochloride 25mg+Mecobalamin (Methylcobalamin) 1500mcg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.118.51"}
+{"_id":{"$oid":"5b58418ad51d295fc824f7b0"},"name":"AMNURITE 5mg Tablet 10's","composition":"Amitriptyline Hydrochloride 5mg+Mecobalamin (Methylcobalamin) 1500mcg","manufacturer":"Centaur Pharmaceuticals Pvt Ltd","price":"Rs.95.27"}
+{"_id":{"$oid":"5b58418cd51d295fc824f7b1"},"name":"AMOLIFE 50mg Tablet 10's","composition":"Amoxapine 50mg","manufacturer":"La Pharmaceuticals","price":"Rs.58.85"}
+{"_id":{"$oid":"5b58418ed51d295fc824f7b2"},"name":"AMTREX 10mg Tablet 10's","composition":"Amitriptyline","manufacturer":"Capital Pharma","price":"Rs.24.95"}
+{"_id":{"$oid":"5b584191d51d295fc824f7b3"},"name":"ANAFRANIL 10mg Tablet 10's","composition":"Clomipramine 10mg","manufacturer":"Novartis India Ltd","price":"Rs.16.60"}
+{"_id":{"$oid":"5b584193d51d295fc824f7b4"},"name":"ANAFRANIL 25mg Tablet 10's","composition":"CLOMIPRAMINE 25MG","manufacturer":"Novartis India Ltd","price":"Rs.49.90"}
+{"_id":{"$oid":"5b584195d51d295fc824f7b5"},"name":"ANTIDEP 75mg Tablet 10's","composition":"Imipramine 75mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.26.90"}
+{"_id":{"$oid":"5b584197d51d295fc824f7b6"},"name":"ANTIDEP 25mg Tablet 10's","composition":"Imipramine 25mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.10.00"}
+{"_id":{"$oid":"5b584199d51d295fc824f7b7"},"name":"ANXISET E 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Obsurge Biotech Ltd","price":"Rs.68.75"}
+{"_id":{"$oid":"5b58419bd51d295fc824f7b8"},"name":"ARIPITEX 5mg Tablet 10's","composition":"ARIPIPRAZOLE 5MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b58419dd51d295fc824f7b9"},"name":"ARIPITEX 10mg Tablet 10's","composition":"ARIPIPRAZOLE 10MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.105.50"}
+{"_id":{"$oid":"5b5841a0d51d295fc824f7ba"},"name":"ARIPITEX 20mg Tablet 10's","composition":"ARIPIPRAZOLE 20MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.169.72"}
+{"_id":{"$oid":"5b5841a2d51d295fc824f7bb"},"name":"ARIPITEX 15mg Tablet 10's","composition":"ARIPIPRAZOLE 15MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.137.00"}
+{"_id":{"$oid":"5b5841a4d51d295fc824f7bc"},"name":"ARKADEP TABLET 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Rkg Pharma Pvt Ltd","price":"Rs.24.96"}
+{"_id":{"$oid":"5b5841a5d51d295fc824f7bd"},"name":"ARKAVOXIN 100mg Tablet 10's","composition":"Fluvoxamine 100mg","manufacturer":"Rkg Pharma Pvt Ltd","price":"Rs.187.50"}
+{"_id":{"$oid":"5b5841a8d51d295fc824f7be"},"name":"ARKAVOXIN 50mg Tablet 10's","composition":"Fluvoxamine 50mg","manufacturer":"Rkg Pharma Pvt Ltd","price":"Rs.94.22"}
+{"_id":{"$oid":"5b5841a9d51d295fc824f7bf"},"name":"ARTICALM 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.54.40"}
+{"_id":{"$oid":"5b5841abd51d295fc824f7c0"},"name":"ASPIRE XR 6mg Tablet 10's","composition":"Paliperidone 6mg (XR)","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b5841add51d295fc824f7c1"},"name":"BAROZAC CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Baroda Pharma Pvt Ltd","price":"Rs.31.37"}
+{"_id":{"$oid":"5b5841afd51d295fc824f7c2"},"name":"BUPEP SR 150mg Tablet 10's","composition":"Bupropion 150mg","manufacturer":"Cipla Ltd","price":"Rs.137.50"}
+{"_id":{"$oid":"5b5841b1d51d295fc824f7c3"},"name":"BUPRON 300mg Tablet 10's","composition":"Bupropion 300mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.93.00"}
+{"_id":{"$oid":"5b5841b3d51d295fc824f7c4"},"name":"BUPRON XL 300mg Tablet 10's","composition":"Bupropion 300mg (XL)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.205.00"}
+{"_id":{"$oid":"5b5841b5d51d295fc824f7c5"},"name":"BUPRON 100mg Tablet 10's","composition":"Bupropion 100mg","manufacturer":"Cipla Ltd","price":"Rs.93.00"}
+{"_id":{"$oid":"5b5841b6d51d295fc824f7c6"},"name":"BUPRON SR 300mg Tablet 10's","composition":"Bupropion 300mg (SR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.170.00"}
+{"_id":{"$oid":"5b5841b8d51d295fc824f7c7"},"name":"BUPRON SR 100mg Tablet 10's","composition":"Bupropion 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.93.00"}
+{"_id":{"$oid":"5b5841bad51d295fc824f7c8"},"name":"BUPRON SR 150mg Tablet 10's","composition":"Bupropion 150mg (SR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5841bcd51d295fc824f7c9"},"name":"BUPRON XL 150mg Tablet 10's","composition":"Bupropion 150mg (XL)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5841bed51d295fc824f7ca"},"name":"C MANIA 25mg Tablet 10's","composition":"CLOMIPRAMINE 25MG","manufacturer":"Talent Health Care","price":"Rs.55.00"}
+{"_id":{"$oid":"5b5841c0d51d295fc824f7cb"},"name":"C MANIA 50mg Tablet 10's","composition":"CLOMIPRAMINE 50MG","manufacturer":"Talent Health Care","price":"Rs.66.00"}
+{"_id":{"$oid":"5b5841c2d51d295fc824f7cc"},"name":"C PRAM 10mg Tablet 10's","composition":"Citalopram 10mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.46.00"}
+{"_id":{"$oid":"5b5841c4d51d295fc824f7cd"},"name":"C PRAM 20mg Tablet 10's","composition":"Citalopram 20mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.49.00"}
+{"_id":{"$oid":"5b5841c6d51d295fc824f7ce"},"name":"C PRAM S 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Unichem Laboratories Ltd","price":"Rs.80.52"}
+{"_id":{"$oid":"5b5841c7d51d295fc824f7cf"},"name":"C PRAM S 20mg Tablet 10's","composition":"ESCITALOPRAM 20MG","manufacturer":"Unichem Laboratories Ltd","price":"Rs.127.16"}
+{"_id":{"$oid":"5b5841cad51d295fc824f7d0"},"name":"C PRAM S 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.46.48"}
+{"_id":{"$oid":"5b5841ccd51d295fc824f7d1"},"name":"CARBOLITH 300mg Tablet 10's","composition":"Lithium Carbonate 300mg","manufacturer":"Psyco Remedies Ltd","price":"Rs.14.80"}
+{"_id":{"$oid":"5b5841cdd51d295fc824f7d2"},"name":"CELICA 40mg Tablet 10's","composition":"Citalopram 40mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.103.00"}
+{"_id":{"$oid":"5b5841d0d51d295fc824f7d3"},"name":"CELICA 10mg Tablet 10's","composition":"Citalopram 10mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.48.30"}
+{"_id":{"$oid":"5b5841d1d51d295fc824f7d4"},"name":"CELICA 20mg Tablet 10's","composition":"Citalopram 20mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.83.20"}
+{"_id":{"$oid":"5b5841d3d51d295fc824f7d5"},"name":"CENDU 20mg Capsule 10's","composition":"DULOXETINE 20MG","manufacturer":"Usv Private Ltd","price":"Rs.48.00"}
+{"_id":{"$oid":"5b5841d5d51d295fc824f7d6"},"name":"CENDU 60mg Capsule 10's","composition":"DULOXETINE 60MG","manufacturer":"Usv Private Ltd","price":"Rs.126.92"}
+{"_id":{"$oid":"5b5841d7d51d295fc824f7d7"},"name":"CENDU 30mg Capsule 10's","composition":"DULOXETINE 30MG","manufacturer":"Usv Private Ltd","price":"Rs.66.67"}
+{"_id":{"$oid":"5b5841d9d51d295fc824f7d8"},"name":"CENSPRAM 5mg Tablet 10's","composition":"ESCITALOPRAM 5MG","manufacturer":"Usv Private Ltd","price":"Rs.46.48"}
+{"_id":{"$oid":"5b5841dcd51d295fc824f7d9"},"name":"CENSPRAM 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Usv Private Ltd","price":"Rs.130.03"}
+{"_id":{"$oid":"5b5841ddd51d295fc824f7da"},"name":"CENSPRAM 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Usv Private Ltd","price":"Rs.82.43"}
+{"_id":{"$oid":"5b5841dfd51d295fc824f7db"},"name":"CETADEP 10mg Tablet 10's","composition":"Citalopram 10mg","manufacturer":"Cipla Ltd","price":"Rs.25.95"}
+{"_id":{"$oid":"5b5841e2d51d295fc824f7dc"},"name":"CILENTRA 20mg Tablet 10's","composition":"ESCITALOPRAM 20MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.124.74"}
+{"_id":{"$oid":"5b5841e4d51d295fc824f7dd"},"name":"CILENTRA 10mg Tablet 10's","composition":"Escitalopram","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.78.96"}
+{"_id":{"$oid":"5b5841e6d51d295fc824f7de"},"name":"CILENTRA PLUS Tablet 10's","composition":"Escitalopram","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.87.50"}
+{"_id":{"$oid":"5b5841e8d51d295fc824f7df"},"name":"CIPRALEX 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Lundbeck India Pvt Ltd","price":"Rs.78.96"}
+{"_id":{"$oid":"5b5841ead51d295fc824f7e0"},"name":"CIPRALEX 5mg Tablet 15's","composition":"Escitalopram 5mg","manufacturer":"Lundbeck India Pvt Ltd","price":"Rs.68.20"}
+{"_id":{"$oid":"5b5841ebd51d295fc824f7e1"},"name":"CIPRALEX 10mg Tablet 15's","composition":"ESCITALOPRAM 10MG","manufacturer":"Lundbeck India Pvt Ltd","price":"Rs.123.64"}
+{"_id":{"$oid":"5b5841edd51d295fc824f7e2"},"name":"CIPRALEX 20mg Tablet 15's","composition":"ESCITALOPRAM 20MG","manufacturer":"Lundbeck India Pvt Ltd","price":"Rs.195.04"}
+{"_id":{"$oid":"5b5841efd51d295fc824f7e3"},"name":"CIPRALEX 5mg Tablet 10's","composition":"ESCITALOPRAM 5MG","manufacturer":"Lundbeck India Pvt Ltd","price":"Rs.44.63"}
+{"_id":{"$oid":"5b5841f1d51d295fc824f7e4"},"name":"CIRCALTIN 25mg Tablet 7's","composition":"Agomelatine 25mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.51.77"}
+{"_id":{"$oid":"5b5841f3d51d295fc824f7e5"},"name":"CITA 10mg Tablet 10's","composition":"Citalopram 10mg","manufacturer":"Crescent Pharmaceuticals","price":"Rs.73.15"}
+{"_id":{"$oid":"5b5841f5d51d295fc824f7e6"},"name":"CITA S 5mg Tablet 10's","composition":"ESCITALOPRAM 5MG","manufacturer":"Crescent Pharmaceuticals","price":"Rs.41.33"}
+{"_id":{"$oid":"5b5841f8d51d295fc824f7e7"},"name":"CITADEP 5mg Tablet 10's","composition":"Citalopram 5mg","manufacturer":"Cipla Ltd","price":"Rs.39.77"}
+{"_id":{"$oid":"5b5841fad51d295fc824f7e8"},"name":"CITADEP 40mg Tablet 10's","composition":"Citalopram 40mg","manufacturer":"Cipla Ltd","price":"Rs.78.25"}
+{"_id":{"$oid":"5b5841fcd51d295fc824f7e9"},"name":"CITADEP Tablet 10's","composition":"Citalopram 40mg","manufacturer":"Cipla Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b5841fed51d295fc824f7ea"},"name":"CITADEP 10mg Tablet 10's","composition":"Citalopram 10mg","manufacturer":"Cipla Ltd","price":"Rs.78.52"}
+{"_id":{"$oid":"5b584200d51d295fc824f7eb"},"name":"CITADEP 20mg Tablet 10's","composition":"Citalopram 20mg","manufacturer":"Cipla Ltd","price":"Rs.127.16"}
+{"_id":{"$oid":"5b584202d51d295fc824f7ec"},"name":"CITADEP PLUS 5mg/0.5mg Tablet 10's","composition":"Escitalopram 5mg+Clonazepam 0.5mg","manufacturer":"Cipla Ltd","price":"Rs.60.50"}
+{"_id":{"$oid":"5b584203d51d295fc824f7ed"},"name":"CITAJOY 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Wings Biotech Ltd","price":"Rs.30.47"}
+{"_id":{"$oid":"5b584205d51d295fc824f7ee"},"name":"CITAJOY 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Wings Biotech Ltd","price":"Rs.57.00"}
+{"_id":{"$oid":"5b584207d51d295fc824f7ef"},"name":"CITALIN 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.82.43"}
+{"_id":{"$oid":"5b584208d51d295fc824f7f0"},"name":"CITALIN 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.130.03"}
+{"_id":{"$oid":"5b58420cd51d295fc824f7f1"},"name":"CITALOP S 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Others","price":"Rs.92.37"}
+{"_id":{"$oid":"5b58420ed51d295fc824f7f2"},"name":"CITALOP S 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.55.23"}
+{"_id":{"$oid":"5b584210d51d295fc824f7f3"},"name":"CITALOP S 5mg Tablet 10's","composition":"ESCITALOPRAM 5MG","manufacturer":"Others","price":"Rs.34.37"}
+{"_id":{"$oid":"5b584212d51d295fc824f7f4"},"name":"CITARA 40mg Tablet 10's","composition":"Citalopram 40mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.99.00"}
+{"_id":{"$oid":"5b584214d51d295fc824f7f5"},"name":"CITOPAM 20mg Tablet 10's","composition":"Citalopram 20mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.96.00"}
+{"_id":{"$oid":"5b584216d51d295fc824f7f6"},"name":"CITOPAM 10 mg Tablet 10's","composition":"CITALOPRAM 10MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.46.25"}
+{"_id":{"$oid":"5b584219d51d295fc824f7f7"},"name":"CLO 25mg Tablet 10's","composition":"CLOMIPRAMINE","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.31.00"}
+{"_id":{"$oid":"5b58421bd51d295fc824f7f8"},"name":"CLO 50mg Tablet 10's","composition":"CLOMIPRAMINE","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.61.00"}
+{"_id":{"$oid":"5b58421cd51d295fc824f7f9"},"name":"CLOFRANIL 25mg Tablet 10's","composition":"Clomipramine 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.56.38"}
+{"_id":{"$oid":"5b58421fd51d295fc824f7fa"},"name":"CLOFRANIL 10mg Tablet 10's","composition":"Clomipramine 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.24.46"}
+{"_id":{"$oid":"5b584221d51d295fc824f7fb"},"name":"CLOFRANIL 50mg Tablet 10's","composition":"CLOMIPRAMINE 50MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.112.00"}
+{"_id":{"$oid":"5b584221d51d295fc824f7fc"},"name":"CLOFRANIL SR Tablet 10's","composition":"CLOMIPRAMINE 75","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.145.82"}
+{"_id":{"$oid":"5b584223d51d295fc824f7fd"},"name":"CLOM SR 75mg Tablet 10's","composition":"CLOMIPRAMINE 75MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.94.00"}
+{"_id":{"$oid":"5b584225d51d295fc824f7fe"},"name":"CLOMINE 50mg Tablet 10's","composition":"CLOMIPRAMINE","manufacturer":"Psychotropics India Limited","price":"Rs.60.00"}
+{"_id":{"$oid":"5b584227d51d295fc824f7ff"},"name":"CLOMIP 25mg Tablet 10's","composition":"Clomipramine 25mg","manufacturer":"Reliance Pharmaceuticals India Pvt Ltd","price":"Rs.45.89"}
+{"_id":{"$oid":"5b584229d51d295fc824f800"},"name":"CLOMIP 50mg Tablet 10's","composition":"CLOMIPRAMINE","manufacturer":" NA ","price":"Rs.66.00"}
+{"_id":{"$oid":"5b58422bd51d295fc824f801"},"name":"CLOMIP 10mg Tablet 10's","composition":"Clomipramine 10mg","manufacturer":"Reliance Pharmaceuticals India Pvt Ltd","price":"Rs.21.00"}
+{"_id":{"$oid":"5b58422cd51d295fc824f802"},"name":"CLOMIVON 25mg Tablet 10's","composition":"CLOMIPRAMINE","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.33.62"}
+{"_id":{"$oid":"5b58422ed51d295fc824f803"},"name":"CLOMIVON 10mg Tablet 10's","composition":"CLOMIPRAMINE","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.25.23"}
+{"_id":{"$oid":"5b584230d51d295fc824f804"},"name":"CLOMIZIL 25mg Capsule 15's","composition":"CLOMIPRAMINE","manufacturer":"Gufic Biosciences Ltd","price":"Rs.35.25"}
+{"_id":{"$oid":"5b584232d51d295fc824f805"},"name":"CLONIL 50mg Tablet 10's","composition":"CLOMIPRAMINE 50MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.109.00"}
+{"_id":{"$oid":"5b584234d51d295fc824f806"},"name":"CLONIL 10MG TABLET 10'S","composition":"CLOMIPRAMINE 10MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.25.54"}
+{"_id":{"$oid":"5b584236d51d295fc824f807"},"name":"CLONIL 25MG TABLET 10'S","composition":"CLOMIPRAMINE 25MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.55.13"}
+{"_id":{"$oid":"5b584238d51d295fc824f808"},"name":"CLONIL SR 75MG TABLET 10'S","composition":"CLOMIPRAMINE 75MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.172.00"}
+{"_id":{"$oid":"5b584238d51d295fc824f809"},"name":"CLONOTRIL P 25/0.25mg Capsule 10's","composition":"Paroxetine 25mg+Clonazepam 0.25mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.131.25"}
+{"_id":{"$oid":"5b58423ad51d295fc824f80a"},"name":"CLONOTRIL P 12.5/0.25mg Capsule 10's","composition":"Paroxetine 12.5mg+Clonazepam 0.25mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.107.83"}
+{"_id":{"$oid":"5b58423cd51d295fc824f80b"},"name":"CONIL 25mg Tablet 10's","composition":"Clomipramine 25mg","manufacturer":"Psyco Remedies Ltd","price":"Rs.43.25"}
+{"_id":{"$oid":"5b58423ed51d295fc824f80c"},"name":"CONIL 50mg Tablet 10's","composition":"CLOMIPRAMINE","manufacturer":"Psyco Remedies Ltd","price":"Rs.65.85"}
+{"_id":{"$oid":"5b584240d51d295fc824f80d"},"name":"CONIL 75mg Tablet 10's","composition":"CLOMIPRAMINE","manufacturer":"Psyco Remedies Ltd","price":"Rs.93.55"}
+{"_id":{"$oid":"5b584242d51d295fc824f80e"},"name":"COXITO S 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Kivi Labs Ltd","price":"Rs.80.54"}
+{"_id":{"$oid":"5b584244d51d295fc824f80f"},"name":"COXITO S 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Kivi Labs Ltd","price":"Rs.46.48"}
+{"_id":{"$oid":"5b584246d51d295fc824f810"},"name":"COXITO S 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Kivi Labs Ltd","price":"Rs.127.16"}
+{"_id":{"$oid":"5b584248d51d295fc824f811"},"name":"CYTOP 20mg Tablet 10's","composition":"Citalopram 20mg","manufacturer":"Wockhardt Ltd","price":"Rs.44.19"}
+{"_id":{"$oid":"5b58424ad51d295fc824f812"},"name":"D D PRAMINE 50MG TABLET 10'S","composition":"CLOMIPRAMINE 50MG","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b58424cd51d295fc824f813"},"name":"D D PRAMINE 10MG TABLET 10'S","composition":"CLOMIPRAMINE 10MG","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.25.53"}
+{"_id":{"$oid":"5b58424ed51d295fc824f814"},"name":"D D PRAMINE 75MG TABLET 10'S","composition":"CLOMIPRAMINE 75MG","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.142.60"}
+{"_id":{"$oid":"5b58424fd51d295fc824f815"},"name":"D D PRAMINE 25MG TABLET 10'S","composition":"CLOMIPRAMINE 25MG","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.56.20"}
+{"_id":{"$oid":"5b584251d51d295fc824f816"},"name":"D VENIZ 100mg Tablet 10's","composition":"Desvenlafaxine 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.210.00"}
+{"_id":{"$oid":"5b584253d51d295fc824f817"},"name":"D VENIZ 50mg Tablet 10's","composition":"Desvenlafaxine 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.121.00"}
+{"_id":{"$oid":"5b584257d51d295fc824f818"},"name":"D VENIZEP 100mg Tablet 10's","composition":"CLONAZEPAM 0.5MG+DESVENLAFAXINE 100MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.205.00"}
+{"_id":{"$oid":"5b58425bd51d295fc824f819"},"name":"D VENLOR 100mg Tablet 10's","composition":"Desvenlafaxine 100mg","manufacturer":"Cipla Ltd","price":"Rs.162.00"}
+{"_id":{"$oid":"5b58425dd51d295fc824f81a"},"name":"D VENTIN 50mg Tablet 10's","composition":"DESVENLAFAXINE 50MG","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.78.00"}
+{"_id":{"$oid":"5b58425fd51d295fc824f81b"},"name":"DAWNEX CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Micro Labs Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b584261d51d295fc824f81c"},"name":"DAXID 50mg Tablet 10's","composition":"SERTRALINE 50MG","manufacturer":"Pfizer Limited","price":"Rs.108.77"}
+{"_id":{"$oid":"5b584263d51d295fc824f81d"},"name":"DAXID 50mg Tablet 20's","composition":"Sertraline 50mg","manufacturer":"Pfizer Limited","price":"Rs.66.00"}
+{"_id":{"$oid":"5b584265d51d295fc824f81e"},"name":"DAXID 100mg Tablet 10's","composition":"SERTRALINE 100MG","manufacturer":"Pfizer Limited","price":"Rs.201.06"}
+{"_id":{"$oid":"5b584267d51d295fc824f81f"},"name":"DAXID 25mg Tablet 15's","composition":"Sertraline 25mg","manufacturer":"Pfizer Limited","price":"Rs.58.00"}
+{"_id":{"$oid":"5b584269d51d295fc824f820"},"name":"DAXID 100mg Tablet 15's","composition":"Sertraline 100mg","manufacturer":"Pfizer Limited","price":"Rs.243.28"}
+{"_id":{"$oid":"5b58426bd51d295fc824f821"},"name":"DAXID 25mg Tablet 10's","composition":"SERTRALINE 25MG","manufacturer":"Pfizer Limited","price":"Rs.48.00"}
+{"_id":{"$oid":"5b58426dd51d295fc824f822"},"name":"DAXID 50mg Tablet 15's","composition":"Sertraline 50mg","manufacturer":"Pfizer Limited","price":"Rs.144.77"}
+{"_id":{"$oid":"5b58426fd51d295fc824f823"},"name":"DEFAXIN 50mg Tablet 10's","composition":"DESVENLAFAXINE 50MG","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.83.81"}
+{"_id":{"$oid":"5b584271d51d295fc824f824"},"name":"DELOK 60mg Capsule 10's","composition":"DULOXETINE 60MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.152.98"}
+{"_id":{"$oid":"5b584273d51d295fc824f825"},"name":"DELOK 40mg Capsule 10's","composition":"DULOXETINE","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.30.80"}
+{"_id":{"$oid":"5b584275d51d295fc824f826"},"name":"DELOK 20mg Capsule 10's","composition":"Duloxetine 20mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b584277d51d295fc824f827"},"name":"DENEURON 20mg Capsule 10's","composition":"Duloxetine 20mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.43.30"}
+{"_id":{"$oid":"5b58427ad51d295fc824f828"},"name":"DENEURON 60mg Capsule 10's","composition":"Duloxetine 60mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b58427cd51d295fc824f829"},"name":"DENEURON 30mg Capsule 10's","composition":"Duloxetine 30mg","manufacturer":"Aristo Pharmaceuticals Pvt Ltd","price":"Rs.59.86"}
+{"_id":{"$oid":"5b58427ed51d295fc824f82a"},"name":"DENLAFAX 100mg Tablet 10's","composition":"Desvenlafaxine 100mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.156.05"}
+{"_id":{"$oid":"5b584282d51d295fc824f82b"},"name":"DENLAFAX 50mg Tablet 10's","composition":"Desvenlafaxine 50mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.96.75"}
+{"_id":{"$oid":"5b584284d51d295fc824f82c"},"name":"DEPAXIL CR 37.5mg Tablet 10's","composition":"Paroxetine 37.5mg (CR)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.238.50"}
+{"_id":{"$oid":"5b584286d51d295fc824f82d"},"name":"DEPAXIL CR 12.5mg Tablet 10's","composition":"Paroxetine 12.5mg (CR)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.137.50"}
+{"_id":{"$oid":"5b584288d51d295fc824f82e"},"name":"DEPAXIL CR 25mg Tablet 10's","composition":"Paroxetine 25mg (CR)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.177.00"}
+{"_id":{"$oid":"5b584289d51d295fc824f82f"},"name":"DEPEXTINE CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Paras Pharmaceuticals Ltd","price":"Rs.21.81"}
+{"_id":{"$oid":"5b58428bd51d295fc824f830"},"name":"DEPIK FORTE Tablet 10's","composition":"DIAZEPAM +IMIPRAMINE ","manufacturer":"Aarpik Pharmaceuticals Pvt Ltd","price":"Rs.12.05"}
+{"_id":{"$oid":"5b58428dd51d295fc824f831"},"name":"DEPLAM S 10MG TABLET 10'S","composition":"ESCITALOPRAM 10MG","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.78.96"}
+{"_id":{"$oid":"5b58428fd51d295fc824f832"},"name":"DEPLAM S 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.69.90"}
+{"_id":{"$oid":"5b584291d51d295fc824f833"},"name":"DEPNIL 75MG TABLET 10'S","composition":"FLUOXETINE 75MG","manufacturer":"Tasmed India (P) Limited","price":"Rs.23.06"}
+{"_id":{"$oid":"5b584293d51d295fc824f834"},"name":"DEPNIL 25mg Tablet 10's","composition":"CLOMIPRAMINE","manufacturer":"Cipla Ltd","price":"Rs.13.96"}
+{"_id":{"$oid":"5b584295d51d295fc824f835"},"name":"DEPNOC 75mg Tablet 10's","composition":"Dosulepin(Dothiepin) 75mg","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.69.90"}
+{"_id":{"$oid":"5b584297d51d295fc824f836"},"name":"DEPNOC 50mg Tablet 10's","composition":"Dosulepin(Dothiepin) 50mg","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.65.90"}
+{"_id":{"$oid":"5b584299d51d295fc824f837"},"name":"DEPNON 10mg Tablet 10's","composition":"Mianserin 10mg","manufacturer":"Organon India Ltd","price":"Rs.35.50"}
+{"_id":{"$oid":"5b58429bd51d295fc824f838"},"name":"DEPNON 30mg Tablet 10's","composition":"MIANSERIN","manufacturer":"Organon India Ltd","price":"Rs.65.50"}
+{"_id":{"$oid":"5b58429cd51d295fc824f839"},"name":"DEPNON 20mg Tablet 10's","composition":"MIANSERIN","manufacturer":"Organon India Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b58429ed51d295fc824f83a"},"name":"DEPRAN 5/0.5mg Tablet 10's","composition":"Escitalopram 5mg+Clonazepam 0.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.73.50"}
+{"_id":{"$oid":"5b5842a0d51d295fc824f83b"},"name":"DEPRAN 10/0.5mg Tablet 10's","composition":"Escitalopram 10mg+Clonazepam 0.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.116.00"}
+{"_id":{"$oid":"5b5842a2d51d295fc824f83c"},"name":"DEPRANEX 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.124.74"}
+{"_id":{"$oid":"5b5842a4d51d295fc824f83d"},"name":"DEPRANEX 15MG TABLET 10'S","composition":"ESCITALOPRAM 15MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b5842a6d51d295fc824f83e"},"name":"DEPRANEX 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.82.43"}
+{"_id":{"$oid":"5b5842a9d51d295fc824f83f"},"name":"DEPRANEX 5MG TABLET 10'S","composition":"ESCITALOPRAM 5MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.46.48"}
+{"_id":{"$oid":"5b5842abd51d295fc824f840"},"name":"DEPRID FORTE Tablet 10's","composition":"Diazepam+Imipramine","manufacturer":"Others","price":"Rs.17.70"}
+{"_id":{"$oid":"5b5842add51d295fc824f841"},"name":"DEPRID PLUS Tablet 10's","composition":"Diazepam+Imipramine","manufacturer":"Others","price":"Rs.12.81"}
+{"_id":{"$oid":"5b5842afd51d295fc824f842"},"name":"DEPSERT 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"Others","price":"Rs.32.00"}
+{"_id":{"$oid":"5b5842b1d51d295fc824f843"},"name":"DEPSERT 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Others","price":"Rs.85.00"}
+{"_id":{"$oid":"5b5842b3d51d295fc824f844"},"name":"DEPSOL 75mg Tablet 10's","composition":"Imipramine 75mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.22.55"}
+{"_id":{"$oid":"5b5842b5d51d295fc824f845"},"name":"DEPSOL 25mg Tablet 10's","composition":"Imipramine 25mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.9.00"}
+{"_id":{"$oid":"5b5842b7d51d295fc824f846"},"name":"DEPSONIL 25mg Tablet 10's","composition":"Imipramine 25mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.9.89"}
+{"_id":{"$oid":"5b5842b9d51d295fc824f847"},"name":"DEPSONIL PM 75mg Capsule 10's","composition":"Imipramine","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b5842bad51d295fc824f848"},"name":"DEPTUNE 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Baroda Pharma Pvt Ltd","price":"Rs.53.61"}
+{"_id":{"$oid":"5b5842bcd51d295fc824f849"},"name":"DEPZAC 20mg Capsule 10's","composition":"Fluoxetine 20mg","manufacturer":"Cipla Ltd","price":"Rs.28.00"}
+{"_id":{"$oid":"5b5842bed51d295fc824f84a"},"name":"DESDEP OD 50mg Tablet 10's","composition":"Desvenlafaxine","manufacturer":"Unichem Laboratories Ltd","price":"Rs.87.00"}
+{"_id":{"$oid":"5b5842c1d51d295fc824f84b"},"name":"DESDEP OD 100mg Tablet 10's","composition":"Desvenlafaxine 100mg (OD)","manufacturer":"Eisai Pharmaceuticals India Pvt Ltd","price":"Rs.162.00"}
+{"_id":{"$oid":"5b5842c3d51d295fc824f84c"},"name":"DESFAX ER 50mg Tablet 10's","composition":"Desvenlafaxine 50mg (ER)","manufacturer":"ICON LIFE SCIENCES","price":"Rs.95.70"}
+{"_id":{"$oid":"5b5842c7d51d295fc824f84d"},"name":"DESFAX ER 100mg Tablet 10's","composition":"Desvenlafaxine 100mg (ER)","manufacturer":"ICON LIFE SCIENCES","price":"Rs.175.00"}
+{"_id":{"$oid":"5b5842c9d51d295fc824f84e"},"name":"DESILAM 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.142.00"}
+{"_id":{"$oid":"5b5842cbd51d295fc824f84f"},"name":"DESILAM 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Msn Laboratories Pvt Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b5842cdd51d295fc824f850"},"name":"DESLAFAX 100mg Tablet 10's","composition":"DESVENLAFAXINE 100MG","manufacturer":"Molekule India Pvt Ltd","price":"Rs.158.10"}
+{"_id":{"$oid":"5b5842cfd51d295fc824f851"},"name":"DESLAFAX 50mg Tablet 10's","composition":"DESVENLAFAXINE 50MG","manufacturer":"Molekule India Pvt Ltd","price":"Rs.83.81"}
+{"_id":{"$oid":"5b5842d1d51d295fc824f852"},"name":"DESNILA 50mg Tablet 10's","composition":"DESVENLAFAXINE 50MG","manufacturer":"Lupin Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b5842d3d51d295fc824f853"},"name":"DESNILA 100mg Tablet 10's","composition":"DESVENLAFAXINE 100MG","manufacturer":"Lupin Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b5842d5d51d295fc824f854"},"name":"DESRINA 50mg Tablet 10's","composition":"DESVENLAFAXINE 50MG","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5842d7d51d295fc824f855"},"name":"DESRINA 100mg Tablet 10's","composition":"DESVENLAFAXINE 100MG","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b5842d9d51d295fc824f856"},"name":"DESSTAR XR 50mg Tablet 10's","composition":"Desvenlafaxine 50mg (XR)","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.104.90"}
+{"_id":{"$oid":"5b5842dbd51d295fc824f857"},"name":"DESSTAR XR 100MG TABLET 10'S","composition":"DESVENLAFAXINE 100MG","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.216.90"}
+{"_id":{"$oid":"5b5842ddd51d295fc824f858"},"name":"DESVELAF ER 50mg Tablet 10's","composition":"DESVENLAFAXINE 50MG","manufacturer":"Crescent Pharmaceuticals","price":"Rs.81.00"}
+{"_id":{"$oid":"5b5842dfd51d295fc824f859"},"name":"DESVELAF ER 100mg Tablet 10's","composition":"DESVENLAFAXINE 100MG","manufacturer":"Crescent Formulations Pvt Ltd","price":"Rs.137.13"}
+{"_id":{"$oid":"5b5842e1d51d295fc824f85a"},"name":"DESVENCAD 100mg Tablet 10's","composition":"DESVENLAFAXINE 100MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b5842e3d51d295fc824f85b"},"name":"DESVENCAD 50mg Tablet 10's","composition":"Desvenlafaxine 50mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b5842e5d51d295fc824f85c"},"name":"DESVEREN 50mg Tablet 10's","composition":"Desvenlafaxine 50mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b5842e7d51d295fc824f85d"},"name":"DESVIN ER 50MG TABLET 10'S","composition":"DESVENLAFAXINE 50MG","manufacturer":"Psychotropics India Limited","price":"Rs.84.32"}
+{"_id":{"$oid":"5b5842e9d51d295fc824f85e"},"name":"DEVEN LA 50mg Tablet 10's","composition":"DESVENLAFAXINE 50MG","manufacturer":"Kivi Labs Ltd","price":"Rs.103.55"}
+{"_id":{"$oid":"5b5842ebd51d295fc824f85f"},"name":"DEVEN LA 100mg Tablet 10's","composition":"DESVENLAFAXINE 100MG","manufacturer":"Kivi Labs Ltd","price":"Rs.198.38"}
+{"_id":{"$oid":"5b5842edd51d295fc824f860"},"name":"DEXIT Tablet 10's","composition":"Flupenthixol+Melitracen","manufacturer":"Daksh Pharmaceuticals Pvt Ltd","price":"Rs.20.50"}
+{"_id":{"$oid":"5b5842efd51d295fc824f861"},"name":"DO RE ME 75mg Tablet 10's","composition":"Dosulepin(Dothiepin) 75mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b5842f1d51d295fc824f862"},"name":"DOTH 25mg Tablet 10's","composition":"Dosulepin(Dothiepin) 25mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.34.05"}
+{"_id":{"$oid":"5b5842f3d51d295fc824f863"},"name":"DOTH 50mg Tablet 10's","composition":"Dosulepin(Dothiepin)","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.56.25"}
+{"_id":{"$oid":"5b5842f5d51d295fc824f864"},"name":"DOTH 75mg Tablet 10's","composition":"Dosulepin(Dothiepin)","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.65.90"}
+{"_id":{"$oid":"5b5842f7d51d295fc824f865"},"name":"DOTHIP 50mg Tablet 10's","composition":"Dosulepin(Dothiepin) 50mg","manufacturer":"Micro Labs Ltd","price":"Rs.67.00"}
+{"_id":{"$oid":"5b5842f9d51d295fc824f866"},"name":"DOTHIP 25mg Tablet 10's","composition":"Dosulepin(Dothiepin) 25mg","manufacturer":"Micro Labs Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b5842fad51d295fc824f867"},"name":"DOTHIP 75mg Tablet 10's","composition":"Dosulepin(Dothiepin) 75mg","manufacturer":"Micro Labs Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5842fcd51d295fc824f868"},"name":"DOXIN 25mg Capsule 10's","composition":"Doxepin 25mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b5842fed51d295fc824f869"},"name":"DROMIS 80mg Tablet 10's","composition":"DULOXETINE 80MG","manufacturer":"Tasmed India (P) Limited","price":"Rs.55.00"}
+{"_id":{"$oid":"5b584300d51d295fc824f86a"},"name":"DUBIZ Tablet 10's","composition":"Duloxetine","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b584302d51d295fc824f86b"},"name":"DUHAP Tablet 10's","composition":"Flupenthixol+Melitracen","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.47.00"}
+{"_id":{"$oid":"5b584304d51d295fc824f86c"},"name":"DULANE 30mg Capsule 10's","composition":"Duloxetine 30mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b584306d51d295fc824f86d"},"name":"DULANE 20mg Capsule 10's","composition":"Duloxetine 20mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.81.00"}
+{"_id":{"$oid":"5b584308d51d295fc824f86e"},"name":"DULETIN 20mg Capsule 10's","composition":"Duloxetine 20mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b58430ad51d295fc824f86f"},"name":"DULETIN 40mg Capsule 10's","composition":"Duloxetine 40mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.79.50"}
+{"_id":{"$oid":"5b58430cd51d295fc824f870"},"name":"DULIFE 20mg Capsule 10's","composition":"DULOXETINE 20MG","manufacturer":"Fdc Ltd","price":"Rs.38.50"}
+{"_id":{"$oid":"5b58430ed51d295fc824f871"},"name":"DULIFE 30mg Capsule 10's","composition":"DULOXETINE 30MG","manufacturer":"Fdc Ltd","price":"Rs.52.87"}
+{"_id":{"$oid":"5b584310d51d295fc824f872"},"name":"DULOJOY 30mg Tablet 10's","composition":"Duloxetine 30mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.62.18"}
+{"_id":{"$oid":"5b584312d51d295fc824f873"},"name":"DULOJOY 20mg Tablet 10's","composition":"Duloxetine 20mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.42.72"}
+{"_id":{"$oid":"5b584315d51d295fc824f874"},"name":"DULOREN 40mg Tablet 10's","composition":"Duloxetine","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584317d51d295fc824f875"},"name":"DULOREN 20mg Tablet 10's","composition":"Duloxetine","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b58431ad51d295fc824f876"},"name":"DULOREN 30mg Tablet 10's","composition":"Duloxetine","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b58431cd51d295fc824f877"},"name":"DULOT 20mg Capsule 10's","composition":"Duloxetine 20mg","manufacturer":"Lupin Ltd","price":"Rs.91.25"}
+{"_id":{"$oid":"5b58431ed51d295fc824f878"},"name":"DULOT 40MG CAPSULE 10'S","composition":"DULOXETINE 40MG","manufacturer":"Lupin Ltd","price":"Rs.39.59"}
+{"_id":{"$oid":"5b584320d51d295fc824f879"},"name":"DULOT 30mg Capsule 10's","composition":"Duloxetine 30mg","manufacturer":"Lupin Ltd","price":"Rs.135.50"}
+{"_id":{"$oid":"5b584322d51d295fc824f87a"},"name":"DULOTIN 60mg Tablet 10's","composition":"Duloxetine 60mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.174.00"}
+{"_id":{"$oid":"5b584324d51d295fc824f87b"},"name":"DULOTIN 30mg Tablet 10's","composition":"Duloxetine 30mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.104.00"}
+{"_id":{"$oid":"5b584326d51d295fc824f87c"},"name":"DULOTIN 20mg Tablet 10's","composition":"Duloxetine 20mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.79.20"}
+{"_id":{"$oid":"5b584328d51d295fc824f87d"},"name":"DULOTIN 10mg Tablet 10's","composition":"Duloxetine 10mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.52.50"}
+{"_id":{"$oid":"5b58432ad51d295fc824f87e"},"name":"DULOXEE 40mg Tablet 10's","composition":"DULOXETINE 40MG","manufacturer":"Talent India","price":"Rs.103.00"}
+{"_id":{"$oid":"5b58432cd51d295fc824f87f"},"name":"DULOXEE 30MG TABLET 10'S","composition":"DULOXETINE 30MG","manufacturer":"Talent Health Care","price":"Rs.84.70"}
+{"_id":{"$oid":"5b58432ed51d295fc824f880"},"name":"DULOXEE 60mg Tablet 10's","composition":"DULOXETINE 60MG","manufacturer":"Talent India","price":"Rs.155.00"}
+{"_id":{"$oid":"5b584330d51d295fc824f881"},"name":"DULOXEE 20mg Tablet 10's","composition":"DULOXETINE 20MG","manufacturer":"Talent India","price":"Rs.59.40"}
+{"_id":{"$oid":"5b584332d51d295fc824f882"},"name":"DULOXYL 20mg Capsule 10's","composition":"Duloxetine 20mg","manufacturer":"Cipla Ltd","price":"Rs.50.73"}
+{"_id":{"$oid":"5b584334d51d295fc824f883"},"name":"DULOXYL 40mg Capsule 10's","composition":"Duloxetine 40mg","manufacturer":"Cipla Ltd","price":"Rs.80.93"}
+{"_id":{"$oid":"5b584336d51d295fc824f884"},"name":"DUMORE 20mg Capsule 10's","composition":"DULOXETINE 20MG","manufacturer":"Lupin Ltd","price":"Rs.50.15"}
+{"_id":{"$oid":"5b584338d51d295fc824f885"},"name":"DUTIN 40mg Capsule 10's","composition":"DULOXETINE 40MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.84.32"}
+{"_id":{"$oid":"5b58433bd51d295fc824f886"},"name":"DUTIN 30mg Capsule 10's","composition":"DULOXETINE 30MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.65.23"}
+{"_id":{"$oid":"5b58433dd51d295fc824f887"},"name":"DUTIN 60mg Capsule 10's","composition":"DULOXETINE 60MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.116.66"}
+{"_id":{"$oid":"5b58433fd51d295fc824f888"},"name":"DUTIN 20mg Capsule 10's","composition":"DULOXETINE 20MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.51.40"}
+{"_id":{"$oid":"5b584341d51d295fc824f889"},"name":"DUVANTA 30mg Tablet 10's","composition":"Duloxetine 30mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b584344d51d295fc824f88a"},"name":"DUVANTA 40mg Tablet 10's","composition":"Duloxetine 40mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b584346d51d295fc824f88b"},"name":"DUVANTA 20mg Tablet 10's","composition":"Duloxetine 20mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b584348d51d295fc824f88c"},"name":"DUVANTA 60mg Tablet 10's","composition":"Duloxetine 60mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.196.00"}
+{"_id":{"$oid":"5b58434ad51d295fc824f88d"},"name":"DUXET 30mg Capsule 10's","composition":"Duloxetine 30mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b58434bd51d295fc824f88e"},"name":"DUXET 20MG TABLET 10'S","composition":"Duloxetine+Mecobalamin (Methylcobalamin)","manufacturer":"Unichem Laboratories Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b58434ed51d295fc824f88f"},"name":"DUXET 40mg Capsule 10's","composition":"Duloxetine 40mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.79.50"}
+{"_id":{"$oid":"5b584350d51d295fc824f890"},"name":"DUXET 20mg Capsule 10's","composition":"Duloxetine 20mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b584352d51d295fc824f891"},"name":"DUZAC 20mg Capsule 10's","composition":"Duloxetine 20mg","manufacturer":"Cipla Ltd","price":"Rs.50.88"}
+{"_id":{"$oid":"5b584354d51d295fc824f892"},"name":"DUZAC 30mg Capsule 10's","composition":"Duloxetine 30mg","manufacturer":"Cipla Ltd","price":"Rs.71.73"}
+{"_id":{"$oid":"5b584356d51d295fc824f893"},"name":"DUZAC 40mg Capsule 10's","composition":"Duloxetine 40mg","manufacturer":"Cipla Ltd","price":"Rs.80.93"}
+{"_id":{"$oid":"5b584358d51d295fc824f894"},"name":"DUZELA 30mg Capsule 10's","composition":"Duloxetine 30mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.115.00"}
+{"_id":{"$oid":"5b58435ad51d295fc824f895"},"name":"DUZELA 60mg Capsule 10's","composition":"Duloxetine 60mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.182.00"}
+{"_id":{"$oid":"5b58435cd51d295fc824f896"},"name":"DUZELA 20mg Capsule 10's","composition":"Duloxetine Hydrochloride 20mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.81.00"}
+{"_id":{"$oid":"5b58435ed51d295fc824f897"},"name":"DUZELA 40mg Capsule 10's","composition":"Duloxetine 40mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b584360d51d295fc824f898"},"name":"DUZELA M 40mg Tablet 10's","composition":"Duloxetine 40mg+Methylcobalamin 1.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.89.47"}
+{"_id":{"$oid":"5b584362d51d295fc824f899"},"name":"DUZELA M 60mg Tablet 10's","composition":"Duloxetine 60mg+Methylcobalamin 1.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.66.70"}
+{"_id":{"$oid":"5b584364d51d295fc824f89a"},"name":"DUZONO 30mg Tablet 10's","composition":"DULOXETINE 30MG","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b584366d51d295fc824f89b"},"name":"DVENIZ 50mg Tablet 10","composition":"DESVENLAFAXINE 50MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.113.00"}
+{"_id":{"$oid":"5b584368d51d295fc824f89c"},"name":"DVENIZ 50mg Tablet 10's","composition":"DESVENLAFAXINE 50MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b58436cd51d295fc824f89d"},"name":"DVENIZ 100mg Tablet 10","composition":"DESVENLAFAXINE ","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.195.00"}
+{"_id":{"$oid":"5b58436ed51d295fc824f89e"},"name":"DVENIZ 100mg Tablet 10's","composition":"DESVENLAFAXINE 100MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.270.00"}
+{"_id":{"$oid":"5b58436fd51d295fc824f89f"},"name":"DXT 30MG TABLET 10'S","composition":"DULOXETINE 30MG","manufacturer":" NA ","price":"Rs.66.00"}
+{"_id":{"$oid":"5b584371d51d295fc824f8a0"},"name":"DXT 60mg Tablet 10's","composition":"DULOXETINE 60MG","manufacturer":"Others","price":"Rs.102.86"}
+{"_id":{"$oid":"5b584374d51d295fc824f8a1"},"name":"DXT 20mg Tablet 10's","composition":"DULOXETINE 20MG","manufacturer":"Others","price":"Rs.47.00"}
+{"_id":{"$oid":"5b584376d51d295fc824f8a2"},"name":"DXT 40mg Tablet 10's","composition":"DULOXETINE 40MG","manufacturer":"Others","price":"Rs.89.00"}
+{"_id":{"$oid":"5b584378d51d295fc824f8a3"},"name":"ECIT 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Talent Health Care","price":"Rs.49.00"}
+{"_id":{"$oid":"5b58437ad51d295fc824f8a4"},"name":"ECITALOP 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.103.71"}
+{"_id":{"$oid":"5b58437bd51d295fc824f8a5"},"name":"ECITALOP 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.33.86"}
+{"_id":{"$oid":"5b58437fd51d295fc824f8a6"},"name":"ECITEL 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584381d51d295fc824f8a7"},"name":"ECITEL 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.78.96"}
+{"_id":{"$oid":"5b584383d51d295fc824f8a8"},"name":"ECITEL 5MG TABLET 10'S","composition":"ESCITALOPRAM 5MG","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.37.50"}
+{"_id":{"$oid":"5b584385d51d295fc824f8a9"},"name":"ELATE 50mg Tablet 10's","composition":"Dosulepin(Dothiepin) 50mg","manufacturer":"Crescent Pharmaceuticals","price":"Rs.42.60"}
+{"_id":{"$oid":"5b584387d51d295fc824f8aa"},"name":"ELESERT 12.5mg Tablet 10's","composition":"Sertraline 12.5mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.30.00"}
+{"_id":{"$oid":"5b584389d51d295fc824f8ab"},"name":"ELESERT 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.70.00"}
+{"_id":{"$oid":"5b58438bd51d295fc824f8ac"},"name":"ELESERT 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.105.00"}
+{"_id":{"$oid":"5b58438dd51d295fc824f8ad"},"name":"ELESERT 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.42.00"}
+{"_id":{"$oid":"5b58438fd51d295fc824f8ae"},"name":"ELIWEL 50mg Tablet 10's","composition":"Amitriptyline 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.21.05"}
+{"_id":{"$oid":"5b584391d51d295fc824f8af"},"name":"ELIWEL 10mg Tablet 10's","composition":"Amitriptyline 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.23.29"}
+{"_id":{"$oid":"5b584393d51d295fc824f8b0"},"name":"ELIWEL 75mg Tablet 10's","composition":"Amitriptyline 75mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.54.70"}
+{"_id":{"$oid":"5b584395d51d295fc824f8b1"},"name":"ELIWEL 25mg Tablet 10's","composition":"Amitriptyline 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.22.96"}
+{"_id":{"$oid":"5b584397d51d295fc824f8b2"},"name":"ELOPRAX 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Sanofi India Ltd","price":"Rs.36.18"}
+{"_id":{"$oid":"5b584399d51d295fc824f8b3"},"name":"ELOPRAX 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Sanofi India Ltd","price":"Rs.63.81"}
+{"_id":{"$oid":"5b58439bd51d295fc824f8b4"},"name":"ELOPRAX 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Sanofi India Ltd","price":"Rs.121.90"}
+{"_id":{"$oid":"5b58439dd51d295fc824f8b5"},"name":"ELORPAX 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Sanofi India Ltd","price":"Rs.67.00"}
+{"_id":{"$oid":"5b58439fd51d295fc824f8b6"},"name":"ELORPAX 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Sanofi India Ltd","price":"Rs.121.90"}
+{"_id":{"$oid":"5b5843a1d51d295fc824f8b7"},"name":"ELORPAX 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Sanofi India Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b5843a3d51d295fc824f8b8"},"name":"ENZYCARE 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Others","price":"Rs.60.00"}
+{"_id":{"$oid":"5b5843a5d51d295fc824f8b9"},"name":"ENZYCARE 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Others","price":"Rs.38.50"}
+{"_id":{"$oid":"5b5843a7d51d295fc824f8ba"},"name":"ES OK 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Eisai Pharmaceuticals India Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5843a9d51d295fc824f8bb"},"name":"ESCIGRESS CZ 0.25mg Tablet 10's","composition":"Clonazepam 10mg+Escitalopram 0.25mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b5843abd51d295fc824f8bc"},"name":"ESCIGRESS 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.124.00"}
+{"_id":{"$oid":"5b5843add51d295fc824f8bd"},"name":"ESCIGRESS CZ 0.5mg Tablet 10's","composition":"Clonazepam 0.5mg+Escitalopram 10mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b5843afd51d295fc824f8be"},"name":"ESCIGRESS 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.74.00"}
+{"_id":{"$oid":"5b5843b0d51d295fc824f8bf"},"name":"ESCIGRESS 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.41.00"}
+{"_id":{"$oid":"5b5843b2d51d295fc824f8c0"},"name":"ESCIPRA 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"ICON LIFE SCIENCES","price":"Rs.82.00"}
+{"_id":{"$oid":"5b5843b4d51d295fc824f8c1"},"name":"ESCIPRA 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.43.60"}
+{"_id":{"$oid":"5b5843b6d51d295fc824f8c2"},"name":"ESCIPRA 20mg Tablet 10's","composition":"ESCITALOPRAM 20MG","manufacturer":"ICON LIFE SCIENCES","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5843b8d51d295fc824f8c3"},"name":"ESCIPTAL 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Medopharm Pvt Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b5843bad51d295fc824f8c4"},"name":"ESCITAFOL 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.98.75"}
+{"_id":{"$oid":"5b5843bcd51d295fc824f8c5"},"name":"ESCITALENT 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Talent India","price":"Rs.78.96"}
+{"_id":{"$oid":"5b5843bed51d295fc824f8c6"},"name":"ESCITALENT 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Talent India","price":"Rs.44.00"}
+{"_id":{"$oid":"5b5843c0d51d295fc824f8c7"},"name":"ESCITALENT 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Talent India","price":"Rs.124.74"}
+{"_id":{"$oid":"5b5843c2d51d295fc824f8c8"},"name":"ESCITAPAX 5mg Tablet 10's","composition":"ESCITALOPRAM 5MG","manufacturer":"Others","price":"Rs.38.40"}
+{"_id":{"$oid":"5b5843c4d51d295fc824f8c9"},"name":"ESCITAPAX 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Others","price":"Rs.118.00"}
+{"_id":{"$oid":"5b5843c6d51d295fc824f8ca"},"name":"ESCITAPAX 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Others","price":"Rs.64.00"}
+{"_id":{"$oid":"5b5843c8d51d295fc824f8cb"},"name":"ESCITLOCAD 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.124.74"}
+{"_id":{"$oid":"5b5843cad51d295fc824f8cc"},"name":"ESCITLOCAD 10MG TABLET 10'S","composition":"ESCITALOPRAM 10MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.74.07"}
+{"_id":{"$oid":"5b5843cbd51d295fc824f8cd"},"name":"ESCITLOCAD 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.35.98"}
+{"_id":{"$oid":"5b5843cdd51d295fc824f8ce"},"name":"ESDEP 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.61.21"}
+{"_id":{"$oid":"5b5843cfd51d295fc824f8cf"},"name":"ESITOR 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"La Pharmaceuticals","price":"Rs.130.03"}
+{"_id":{"$oid":"5b5843d1d51d295fc824f8d0"},"name":"ESITOR 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"La Pharmaceuticals","price":"Rs.80.30"}
+{"_id":{"$oid":"5b5843d3d51d295fc824f8d1"},"name":"ESITOR 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"La Pharmaceuticals","price":"Rs.45.47"}
+{"_id":{"$oid":"5b5843d5d51d295fc824f8d2"},"name":"ESNA 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.89.98"}
+{"_id":{"$oid":"5b5843d7d51d295fc824f8d3"},"name":"ESOPAM 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.129.30"}
+{"_id":{"$oid":"5b5843d9d51d295fc824f8d4"},"name":"ESOPAM 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.38.87"}
+{"_id":{"$oid":"5b5843dbd51d295fc824f8d5"},"name":"ESOPAM 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"J.B.Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.69.85"}
+{"_id":{"$oid":"5b5843ddd51d295fc824f8d6"},"name":"ESPAM 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.75.96"}
+{"_id":{"$oid":"5b5843dfd51d295fc824f8d7"},"name":"ESTA 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.82.10"}
+{"_id":{"$oid":"5b5843e1d51d295fc824f8d8"},"name":"ESTA 5MG TABLET 10'S","composition":"ESCITALOPRAM 5MG","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.46.30"}
+{"_id":{"$oid":"5b5843e3d51d295fc824f8d9"},"name":"ESTA 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.127.00"}
+{"_id":{"$oid":"5b5843e5d51d295fc824f8da"},"name":"ESTAJOY 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.78.90"}
+{"_id":{"$oid":"5b5843e7d51d295fc824f8db"},"name":"ESTAJOY 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b5843ead51d295fc824f8dc"},"name":"ESTAJOY 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.127.62"}
+{"_id":{"$oid":"5b5843ecd51d295fc824f8dd"},"name":"ESYZA Tablet 10's","composition":"Escitalopram 10mg+Clonazepam 0.5mg","manufacturer":"Wockhardt Ltd","price":"Rs.108.00"}
+{"_id":{"$oid":"5b5843eed51d295fc824f8de"},"name":"ESYZA PLUS Tablet 10's","composition":"Escitalopram 5mg+Clonazepam 0.5mg","manufacturer":"Wockhardt Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b5843f0d51d295fc824f8df"},"name":"ETILOPRAM 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.31.42"}
+{"_id":{"$oid":"5b5843f1d51d295fc824f8e0"},"name":"ETILOPRAM 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.62.86"}
+{"_id":{"$oid":"5b5843f3d51d295fc824f8e1"},"name":"ETIZOLA P 25mg Capsule 10's","composition":"Paroxetine 25mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5843f5d51d295fc824f8e2"},"name":"ETIZOLA P 12.5mg Capsule 10's","composition":"Paroxetine 12.5mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5843f9d51d295fc824f8e3"},"name":"ETIZOLA PLUS 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG+ETIZOLAM 0.5MG","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b5843fbd51d295fc824f8e4"},"name":"EXIDEP 20mg Tablet 10's","composition":"DULOXETINE 20MG","manufacturer":"Others","price":"Rs.68.70"}
+{"_id":{"$oid":"5b5843fdd51d295fc824f8e5"},"name":"EXZILOR Tablet 10's","composition":"Flupenthixol+Melitracen","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b5843ffd51d295fc824f8e6"},"name":"EZEEPAM 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Others","price":"Rs.74.57"}
+{"_id":{"$oid":"5b584401d51d295fc824f8e7"},"name":"EZEEPAM 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Others","price":"Rs.41.30"}
+{"_id":{"$oid":"5b584402d51d295fc824f8e8"},"name":"FADEP CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Winsome Laboratories Ltd","price":"Rs.30.70"}
+{"_id":{"$oid":"5b584404d51d295fc824f8e9"},"name":"FELIZ 20mg Tablet 10's","composition":"Citalopram 20mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.73.90"}
+{"_id":{"$oid":"5b584406d51d295fc824f8ea"},"name":"FELIZ 10MG TABLET 10'S","composition":"CITALOPRAM 10MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.73.90"}
+{"_id":{"$oid":"5b584409d51d295fc824f8eb"},"name":"FELIZ S 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.81.35"}
+{"_id":{"$oid":"5b58440bd51d295fc824f8ec"},"name":"FELIZ S 20mg Tablet 10's","composition":"ESCITALOPRAM 20MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.127.15"}
+{"_id":{"$oid":"5b58440dd51d295fc824f8ed"},"name":"FELIZ S 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.46.48"}
+{"_id":{"$oid":"5b58440fd51d295fc824f8ee"},"name":"FIRSITO 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Others","price":"Rs.130.03"}
+{"_id":{"$oid":"5b584412d51d295fc824f8ef"},"name":"FIRSITO 5mg Tablet 2's","composition":"Escitalopram 5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.40.80"}
+{"_id":{"$oid":"5b584414d51d295fc824f8f0"},"name":"FIRSITO 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.82.43"}
+{"_id":{"$oid":"5b584418d51d295fc824f8f1"},"name":"FIRSITO LMF Tablet 7's","composition":"Escitalopram 10mg+L Methylfolate 7.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.126.30"}
+{"_id":{"$oid":"5b58441ad51d295fc824f8f2"},"name":"FLAVIX 75mg Tablet 10's","composition":"Venlafaxine 75mg","manufacturer":"Wockhardt Ltd","price":"Rs.80.16"}
+{"_id":{"$oid":"5b58441bd51d295fc824f8f3"},"name":"FLAVIX Capsule 10's","composition":"Venlafaxine 75mg","manufacturer":"Wockhardt Ltd","price":"Rs.199.00"}
+{"_id":{"$oid":"5b58441dd51d295fc824f8f4"},"name":"FLAVIX XR 75mg Tablet 10's","composition":"Venlafaxine 75mg","manufacturer":"Wockhardt Ltd","price":"Rs.38.20"}
+{"_id":{"$oid":"5b58441fd51d295fc824f8f5"},"name":"FLOATIN 10mg Tablet 10's","composition":"Fluoxetine 10mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.25.70"}
+{"_id":{"$oid":"5b584421d51d295fc824f8f6"},"name":"FLOATIN 40MG TABLET 10'S","composition":"FLUOXETINE 40MG","manufacturer":"ICON LIFE SCIENCES","price":"Rs.52.80"}
+{"_id":{"$oid":"5b584423d51d295fc824f8f7"},"name":"FLOATIN 20mg Tablet 10's","composition":"Fluoxetine 20mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.41.10"}
+{"_id":{"$oid":"5b584425d51d295fc824f8f8"},"name":"FLOATIN 60MG TABLET 10'S","composition":"FLUOXETINE 60MG","manufacturer":"ICON LIFE SCIENCES","price":"Rs.75.00"}
+{"_id":{"$oid":"5b584427d51d295fc824f8f9"},"name":"FLOOD 20mg Capsule 10's","composition":"Fluoxetine 20mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.36.80"}
+{"_id":{"$oid":"5b584429d51d295fc824f8fa"},"name":"FLOOD 10mg Capsule 10's","composition":"Fluoxetine 10mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.27.00"}
+{"_id":{"$oid":"5b58442bd51d295fc824f8fb"},"name":"FLOXIN 60MG TABLET 10'S","composition":"FLUOXETINE 60MG","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.75.15"}
+{"_id":{"$oid":"5b58442dd51d295fc824f8fc"},"name":"FLOXIN TABLET 10'S","composition":"FLUOXETINE 20MG","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.40.32"}
+{"_id":{"$oid":"5b58442fd51d295fc824f8fd"},"name":"FLUCAP CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.29.00"}
+{"_id":{"$oid":"5b584431d51d295fc824f8fe"},"name":"FLUCON 20mg Capsule 10's","composition":"Fluoxetine 20mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.25.67"}
+{"_id":{"$oid":"5b584433d51d295fc824f8ff"},"name":"FLUDAC 20mg Capsule 15's","composition":"Fluoxetine 20mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.57.46"}
+{"_id":{"$oid":"5b584435d51d295fc824f900"},"name":"FLUDAC 10mg Capsule 10's","composition":"Fluoxetine 10mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.30.24"}
+{"_id":{"$oid":"5b584439d51d295fc824f901"},"name":"FLUDAC 60mg Capsule 10's","composition":"Fluoxetine 60mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.99.46"}
+{"_id":{"$oid":"5b58443bd51d295fc824f902"},"name":"FLUDAWN CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Micro Labs Ltd","price":"Rs.39.28"}
+{"_id":{"$oid":"5b58443dd51d295fc824f903"},"name":"FLUDEP 20mg Capsule 10's","composition":"Fluoxetine 20mg","manufacturer":"Cipla Ltd","price":"Rs.21.25"}
+{"_id":{"$oid":"5b58443fd51d295fc824f904"},"name":"FLUGEN 60MG TABLET 10'S","composition":"FLUOXETINE 60MG","manufacturer":"La Pharmaceuticals","price":"Rs.91.76"}
+{"_id":{"$oid":"5b584441d51d295fc824f905"},"name":"FLUGEN CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"La Pharmaceuticals","price":"Rs.36.96"}
+{"_id":{"$oid":"5b584443d51d295fc824f906"},"name":"FLUMOD 10MG CAPSULE 10'S","composition":"FLUOXETINE 10MG","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.29.15"}
+{"_id":{"$oid":"5b584445d51d295fc824f907"},"name":"FLUMOD CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.36.10"}
+{"_id":{"$oid":"5b584447d51d295fc824f908"},"name":"FLUNIL 60mg Capsule 10's","composition":"Fluoxetine 60mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.102.93"}
+{"_id":{"$oid":"5b584449d51d295fc824f909"},"name":"FLUNIL Suspension 60ml","composition":"Fluoxetine 20mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b58444bd51d295fc824f90a"},"name":"FLUNIL 20mg Capsule 10's","composition":"Fluoxetine 20mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.38.30"}
+{"_id":{"$oid":"5b58444dd51d295fc824f90b"},"name":"FLUNIL 40mg Capsule 10's","composition":"Fluoxetine 40mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.56.34"}
+{"_id":{"$oid":"5b58444fd51d295fc824f90c"},"name":"FLUNIL 10mg Capsule 10's","composition":"Fluoxetine 10mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.30.25"}
+{"_id":{"$oid":"5b584451d51d295fc824f90d"},"name":"FLUOX CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Biochem Pharmaceutical Industries Ltd","price":"Rs.6.25"}
+{"_id":{"$oid":"5b584453d51d295fc824f90e"},"name":"FLUOXET 40MG TABLET 10'S","composition":"FLUOXETINE 40MG","manufacturer":" NA ","price":"Rs.54.00"}
+{"_id":{"$oid":"5b584455d51d295fc824f90f"},"name":"FLUOXET CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":" NA ","price":"Rs.29.20"}
+{"_id":{"$oid":"5b584457d51d295fc824f910"},"name":"FLUOXET 60MG TABLET 10'S","composition":"FLUOXETINE 60MG","manufacturer":" NA ","price":"Rs.60.98"}
+{"_id":{"$oid":"5b584459d51d295fc824f911"},"name":"FLUOXET 10MG TABLET 10'S","composition":"FLUOXETINE 10MG","manufacturer":" NA ","price":"Rs.16.97"}
+{"_id":{"$oid":"5b58445bd51d295fc824f912"},"name":"FLUOXETINE Capsule 10's","composition":"Fluoxetine ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.23.50"}
+{"_id":{"$oid":"5b58445dd51d295fc824f913"},"name":"FLURON TABLET 10'S","composition":"FLUOXETINE 20MG","manufacturer":" NA ","price":"Rs.48.12"}
+{"_id":{"$oid":"5b58445fd51d295fc824f914"},"name":"FLUTEE 60MG CAPSULE 10'S","composition":"FLUOXETINE 60MG","manufacturer":"Talent India","price":"Rs.97.11"}
+{"_id":{"$oid":"5b584461d51d295fc824f915"},"name":"FLUTEE 40MG CAPSULE 10'S","composition":"FLUOXETINE 40MG","manufacturer":"Talent India","price":"Rs.55.21"}
+{"_id":{"$oid":"5b584463d51d295fc824f916"},"name":"FLUTEE CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Talent India","price":"Rs.35.49"}
+{"_id":{"$oid":"5b584465d51d295fc824f917"},"name":"FLUTIN CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Helios Pharmaceuticals Pvt Ltd","price":"Rs.35.49"}
+{"_id":{"$oid":"5b584466d51d295fc824f918"},"name":"FLUVARIS 100mg Tablet 10's","composition":"FLUVOXAMINE 100MG","manufacturer":"Crescent Formulations Pvt Ltd","price":"Rs.235.48"}
+{"_id":{"$oid":"5b58446ad51d295fc824f919"},"name":"FLUVATOR 100mg Tablet 10's","composition":"Fluvoxamine 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.242.00"}
+{"_id":{"$oid":"5b58446cd51d295fc824f91a"},"name":"FLUVATOR 50mg Tablet 10's","composition":"Fluvoxamine 50mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.142.80"}
+{"_id":{"$oid":"5b58446ed51d295fc824f91b"},"name":"FLUVO 100mg Tablet 10's","composition":"Fluvoxamine 100mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b584470d51d295fc824f91c"},"name":"FLUVOXIN 50mg Tablet 10's","composition":"Fluvoxamine 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b584472d51d295fc824f91d"},"name":"FLUVOXIN 150mg Tablet 10's","composition":"Fluvoxamine 150mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b584474d51d295fc824f91e"},"name":"FLUVOXIN 100mg Tablet 10's","composition":"Fluvoxamine 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.225.00"}
+{"_id":{"$oid":"5b584476d51d295fc824f91f"},"name":"FLUVOXIN 25mg Tablet 10's","composition":"Fluvoxamine 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b584478d51d295fc824f920"},"name":"FLUVOXIN CR 100mg Tablet 10's","composition":"Fluvoxamine 100mg (CR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.245.00"}
+{"_id":{"$oid":"5b58447ad51d295fc824f921"},"name":"FLUVOXIN CR 50mg Tablet 10's","composition":"Fluvoxamine 50mg (CR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.155.00"}
+{"_id":{"$oid":"5b58447dd51d295fc824f922"},"name":"FM 10.5mg Tablet 10's","composition":"Flupenthixol 0.5mg+Melitracen 10.5mg","manufacturer":"Caplet Pharmaceuticals","price":"Rs.136.50"}
+{"_id":{"$oid":"5b58447fd51d295fc824f923"},"name":"FORCALM Tablet 10's","composition":"Flupenthixol+Melitracen","manufacturer":"Unichem Laboratories Ltd","price":"Rs.45.00"}
+{"_id":{"$oid":"5b584481d51d295fc824f924"},"name":"FORDEP 25mg Tablet 10's","composition":"Paroxetine 25mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.139.00"}
+{"_id":{"$oid":"5b584484d51d295fc824f925"},"name":"FORDEP 12.5mg Tablet 10's","composition":"Paroxetine 12.5mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.84.00"}
+{"_id":{"$oid":"5b584486d51d295fc824f926"},"name":"FREXT 100mg Tablet 10's","composition":"Fluvoxamine 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.244.00"}
+{"_id":{"$oid":"5b584487d51d295fc824f927"},"name":"FREXT CR 100mg Tablet 10's","composition":"Fluvoxamine 100mg (CR)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.269.00"}
+{"_id":{"$oid":"5b584489d51d295fc824f928"},"name":"FREXT 50mg Tablet 10's","composition":"Fluvoxamine 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b58448bd51d295fc824f929"},"name":"GALOP 20mg Tablet 10's","composition":"ESCITALOPRAM 20MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.124.70"}
+{"_id":{"$oid":"5b58448dd51d295fc824f92a"},"name":"GALOP 5mg Tablet 10's","composition":"ESCITALOPRAM 5MG","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.42.00"}
+{"_id":{"$oid":"5b58448fd51d295fc824f92b"},"name":"GALOP 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.77.18"}
+{"_id":{"$oid":"5b584491d51d295fc824f92c"},"name":"GOESTRESS Capsule 15's","composition":"Lactium 150mg","manufacturer":"Koye Pharmaceuticals Pvt Ltd","price":"Rs.300.00"}
+{"_id":{"$oid":"5b584493d51d295fc824f92d"},"name":"INOSERT 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.52.00"}
+{"_id":{"$oid":"5b584497d51d295fc824f92e"},"name":"INOSERT 100MG TABLET 10'S","composition":"Sertraline 100mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.114.90"}
+{"_id":{"$oid":"5b584499d51d295fc824f92f"},"name":"INOSERT 50MG TABLET 10'S","composition":"SERTRALINE 50MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.71.50"}
+{"_id":{"$oid":"5b58449bd51d295fc824f930"},"name":"INTALITH 300mg Tablet 10's","composition":"Lithium Carbonate 300mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.14.49"}
+{"_id":{"$oid":"5b58449dd51d295fc824f931"},"name":"INTALITH 150mg Tablet 10's","composition":"Lithium 150mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.18.22"}
+{"_id":{"$oid":"5b58449fd51d295fc824f932"},"name":"INTALITH CR 450mg Tablet 10's","composition":"Lithium Carbonate 450mg (CR)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.26.00"}
+{"_id":{"$oid":"5b5844a1d51d295fc824f933"},"name":"JOLIVEL 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.60.50"}
+{"_id":{"$oid":"5b5844a3d51d295fc824f934"},"name":"JOLIVEL 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.105.62"}
+{"_id":{"$oid":"5b5844a5d51d295fc824f935"},"name":"JOLIVEL 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b5844a7d51d295fc824f936"},"name":"JOLYDEP 20mg Tablet 10's","composition":"Duloxetine 20mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.49.05"}
+{"_id":{"$oid":"5b5844a8d51d295fc824f937"},"name":"JOPRAM 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.108.10"}
+{"_id":{"$oid":"5b5844aad51d295fc824f938"},"name":"JOPRAM 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.56.65"}
+{"_id":{"$oid":"5b5844acd51d295fc824f939"},"name":"JOYCOM 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Saffron Therapeutics Pvt Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b5844aed51d295fc824f93a"},"name":"JOYCOM 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Saffron Therapeutics Pvt Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b5844b0d51d295fc824f93b"},"name":"JOYCOM PLUS 5mg Tablet 10's","composition":"Escitalopram 5mg+Clonazepam 0.5mg","manufacturer":"Others","price":"Rs.68.00"}
+{"_id":{"$oid":"5b5844b2d51d295fc824f93c"},"name":"KETRIPLIN Cream 15gm","composition":"Amitriptyline+Ketamine","manufacturer":"Ajanta Pharma Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5844b4d51d295fc824f93d"},"name":"LEXADEP 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.29.47"}
+{"_id":{"$oid":"5b5844b5d51d295fc824f93e"},"name":"LIBRIUM 25mg Tablet 10's","composition":"Chlordiazepoxide 25mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.81.50"}
+{"_id":{"$oid":"5b5844b6d51d295fc824f93f"},"name":"LICAB 300mg Tablet 10's","composition":"Lithium Carbonate 300mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.14.77"}
+{"_id":{"$oid":"5b5844b8d51d295fc824f940"},"name":"LICAB XL 400mg Tablet 10's","composition":"Lithium Carbonate 400mg (XL)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.40.60"}
+{"_id":{"$oid":"5b5844b9d51d295fc824f941"},"name":"LIMBIVAL FORTE Tablet 10's","composition":"Amitriptyline Hydrochloride 25mg+Chlordiazepoxide 10mg","manufacturer":"Micro Labs Ltd","price":"Rs.44.50"}
+{"_id":{"$oid":"5b5844bbd51d295fc824f942"},"name":"LINDEP 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.46.90"}
+{"_id":{"$oid":"5b5844bed51d295fc824f943"},"name":"LINDEP 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.72.60"}
+{"_id":{"$oid":"5b5844c1d51d295fc824f944"},"name":"LITHOCAP 300mg Capsule 10's","composition":"Lithium 300mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.7.18"}
+{"_id":{"$oid":"5b5844c2d51d295fc824f945"},"name":"LITHOSUN 300mg Tablet 10's","composition":"Lithium Carbonate 300mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.14.77"}
+{"_id":{"$oid":"5b5844c4d51d295fc824f946"},"name":"LITHOSUN SR Tablet 10's","composition":"Lithium Carbonate 400mg (SR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.42.00"}
+{"_id":{"$oid":"5b5844c6d51d295fc824f947"},"name":"LOPRAM 10mg Tablet 10's","composition":"Citalopram 10mg","manufacturer":"Ind Swift Ltd","price":"Rs.20.75"}
+{"_id":{"$oid":"5b5844c8d51d295fc824f948"},"name":"LOXET 40mg Tablet 10's","composition":"DULOXETINE 40MG","manufacturer":"Kivi Labs Ltd","price":"Rs.106.00"}
+{"_id":{"$oid":"5b5844cad51d295fc824f949"},"name":"LOXET 30mg Tablet 10's","composition":"DULOXETINE 30MG","manufacturer":"Kivi Labs Ltd","price":"Rs.83.00"}
+{"_id":{"$oid":"5b5844ccd51d295fc824f94a"},"name":"LOXET 60mg Tablet 10's","composition":"DULOXETINE 60MG","manufacturer":"Kivi Labs Ltd","price":"Rs.140.51"}
+{"_id":{"$oid":"5b5844ced51d295fc824f94b"},"name":"LUPIBLISS Tablet 10's","composition":"Agomelatine 25mg","manufacturer":"Lupin Ltd","price":"Rs.80.00"}
+{"_id":{"$oid":"5b5844d0d51d295fc824f94c"},"name":"LUPISPARK OD 50mg Tablet 10's","composition":"Desvenlafaxine 50mg (OD)","manufacturer":"Lupin Ltd","price":"Rs.87.00"}
+{"_id":{"$oid":"5b5844d2d51d295fc824f94d"},"name":"LUPISPARK OD 100mg Tablet 10's","composition":"Desvenlafaxine 100mg (OD)","manufacturer":"Lupin Ltd","price":"Rs.144.00"}
+{"_id":{"$oid":"5b5844d4d51d295fc824f94e"},"name":"M ZAP 7.5MG TABLET 10'S","composition":"MIRTAZAPINE 7.5MG","manufacturer":" NA ","price":"Rs.42.00"}
+{"_id":{"$oid":"5b5844d6d51d295fc824f94f"},"name":"MADAM 20mg Tablet 10's","composition":"Citalopram 20mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.42.40"}
+{"_id":{"$oid":"5b5844d8d51d295fc824f950"},"name":"MDD XR 50mg Tablet 10's","composition":"Desvenlafaxine 50mg (XR)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.117.50"}
+{"_id":{"$oid":"5b5844dad51d295fc824f951"},"name":"MDD XR 100mg Tablet 10's","composition":"Desvenlafaxine 100mg (XR)","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.216.50"}
+{"_id":{"$oid":"5b5844dcd51d295fc824f952"},"name":"MELANCO 50mg Tablet 10's","composition":"Dosulepin(Dothiepin) 50mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b5844ded51d295fc824f953"},"name":"MELANCO 25mg Tablet 10's","composition":"Dosulepin(Dothiepin) 25mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b5844e0d51d295fc824f954"},"name":"MELANCO 75mg Tablet 10's","composition":"Dosulepin(Dothiepin) 75mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b5844e2d51d295fc824f955"},"name":"MERILINE 500mg Injection 1's","composition":"Amitriptyline 500mg","manufacturer":"Wockhardt Ltd","price":"Rs.49.08"}
+{"_id":{"$oid":"5b5844e3d51d295fc824f956"},"name":"MEVA C Capsule 10's","composition":"Chlordiazepoxide 5mg+Mebeverine 135mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.121.60"}
+{"_id":{"$oid":"5b5844e5d51d295fc824f957"},"name":"MIDZOL 5mg Injection 5ml","composition":"Midazolam","manufacturer":" NA ","price":"Rs.1.00"}
+{"_id":{"$oid":"5b5844e7d51d295fc824f958"},"name":"MILBORN 100mg CAPSULE 10's","composition":"Milnacipran 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b5844e9d51d295fc824f959"},"name":"MILBORN 25mg Capsule 10's","composition":"Milnacipran 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.35.50"}
+{"_id":{"$oid":"5b5844ebd51d295fc824f95a"},"name":"MILNACE 25mg Tablet 10's","composition":"Milnacipran 25mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.57.00"}
+{"_id":{"$oid":"5b5844edd51d295fc824f95b"},"name":"MILNACE 50mg Tablet 10's","composition":"Milnacipran 50mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.98.00"}
+{"_id":{"$oid":"5b5844efd51d295fc824f95c"},"name":"MILPRAN 50mg Tablet 10's","composition":"Milnacipran 50mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.66.41"}
+{"_id":{"$oid":"5b5844f1d51d295fc824f95d"},"name":"MILPRAN 25mg Tablet 10's","composition":"Milnacipran 25mg","manufacturer":"Ajanta Pharma Ltd","price":"Rs.37.76"}
+{"_id":{"$oid":"5b5844f2d51d295fc824f95e"},"name":"MIRAZEP 30mg Tablet 10's","composition":"Mirtazapine 30mg","manufacturer":"Micro Labs Ltd","price":"Rs.158.00"}
+{"_id":{"$oid":"5b5844f4d51d295fc824f95f"},"name":"MIRNITE 15mg Tablet 10's","composition":"Mirtazapine 15mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.93.00"}
+{"_id":{"$oid":"5b5844f7d51d295fc824f960"},"name":"MIRNITE MEL 30mg Tablet 10's","composition":"Mirtazapine 30mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.172.00"}
+{"_id":{"$oid":"5b5844f9d51d295fc824f961"},"name":"MIRNITE 7.5mg Tablet 10's","composition":"Mirtazapine 7.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b5844fbd51d295fc824f962"},"name":"MIRNITE 30mg Tablet 10's","composition":"Mirtazapine 30mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.195.00"}
+{"_id":{"$oid":"5b5844fdd51d295fc824f963"},"name":"MIRNITE MELTAB 30mg Tablet 10's","composition":"Mirtazapine 30mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.187.00"}
+{"_id":{"$oid":"5b5844ffd51d295fc824f964"},"name":"MIRNITE MELTAB 7.5mg Tablet 10's","composition":"Mirtazapine 7.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b584501d51d295fc824f965"},"name":"MIRNITE MELTAB 15mg Tablet 10's","composition":"Mirtazapine 15mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b584503d51d295fc824f966"},"name":"MIRSOL 15mg Tablet 10's","composition":"Mirtazapine 15mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.93.00"}
+{"_id":{"$oid":"5b584505d51d295fc824f967"},"name":"MIRT 15mg Tablet 10's","composition":"Mirtazapine 15mg","manufacturer":"Panacea Biotec Ltd","price":"Rs.58.00"}
+{"_id":{"$oid":"5b584507d51d295fc824f968"},"name":"MIRTADEP 15mg Tablet 10's","composition":"Mirtazapine 15mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.99.35"}
+{"_id":{"$oid":"5b584509d51d295fc824f969"},"name":"MIRTADEP 7.5mg Tablet 10's","composition":"Mirtazapine 7.5mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.56.50"}
+{"_id":{"$oid":"5b58450cd51d295fc824f96a"},"name":"MIRTAKEM 7.5mg Tablet 10's","composition":"Mirtazapine 7.5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b58450ed51d295fc824f96b"},"name":"MIRTAKEM 30mg Tablet 10's","composition":"Mirtazapine 30mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.163.00"}
+{"_id":{"$oid":"5b584510d51d295fc824f96c"},"name":"MIRTAKEM 15mg Tablet 10's","composition":"Mirtazapine 15mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.99.50"}
+{"_id":{"$oid":"5b584512d51d295fc824f96d"},"name":"MIRTAZ MD 7.5mg Tablet 10's","composition":"Mirtazapine 7.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b584514d51d295fc824f96e"},"name":"MIRTAZ MD 30mg Tablet 10's","composition":"Mirtazapine 30mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.152.00"}
+{"_id":{"$oid":"5b584516d51d295fc824f96f"},"name":"MIRTAZ 7.5mg Tablet 10's","composition":"Mirtazapine 7.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.67.00"}
+{"_id":{"$oid":"5b584518d51d295fc824f970"},"name":"MIRTAZ MD 15mg Tablet 10's","composition":"Mirtazapine 15mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b58451bd51d295fc824f971"},"name":"MIRTAZ 30mg Tablet 10's","composition":"Mirtazapine 30mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.168.00"}
+{"_id":{"$oid":"5b58451bd51d295fc824f972"},"name":"MIRTAZ 15mg Tablet 10's","composition":"Mirtazapine 15mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.92.00"}
+{"_id":{"$oid":"5b58451dd51d295fc824f973"},"name":"MIRTAZAC 7.5MG TABLET 10'S","composition":"MIRTAZAPINE 7.5MG","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b584521d51d295fc824f974"},"name":"MIRTAZAC 15MG TABLET 10'S","composition":"MIRTAZAPINE 15MG","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.92.00"}
+{"_id":{"$oid":"5b584523d51d295fc824f975"},"name":"MIRZAT 15mg Tablet 10's","composition":"Mirtazapine 15mg","manufacturer":"Knoll Pharmaceuticals Ltd","price":"Rs.154.50"}
+{"_id":{"$oid":"5b584525d51d295fc824f976"},"name":"MIRZEST 7.5mg Tablet 10's","composition":"Mirtazapine 7.5mg","manufacturer":"La Pharmaceuticals","price":"Rs.45.00"}
+{"_id":{"$oid":"5b584527d51d295fc824f977"},"name":"MISOL 200mg Tablet 4's","composition":"Sertraline 200mg","manufacturer":"Cipla Ltd","price":"Rs.21.90"}
+{"_id":{"$oid":"5b584529d51d295fc824f978"},"name":"MIZHRA Tablet 10's","composition":"Mirtazepine 15mg","manufacturer":"Usv Private Ltd","price":"Rs.61.75"}
+{"_id":{"$oid":"5b58452bd51d295fc824f979"},"name":"MOPART SR 12.5MG TABLET 10'S","composition":"Paroxetine 12.5mg","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.149.90"}
+{"_id":{"$oid":"5b58452dd51d295fc824f97a"},"name":"NEUROZAC CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.21.43"}
+{"_id":{"$oid":"5b58452fd51d295fc824f97b"},"name":"NEUVILAZ 40mg Tablet 10's","composition":"Vilazodone 40mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.324.00"}
+{"_id":{"$oid":"5b584531d51d295fc824f97c"},"name":"NEUVILAZ 20mg Tablet 10's","composition":"Vilazodone 20mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b584533d51d295fc824f97d"},"name":"NEWCITA 5mg Tablet 10's","composition":"ESCITALOPRAM 5MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.46.48"}
+{"_id":{"$oid":"5b584535d51d295fc824f97e"},"name":"NEWCITA 20mg Tablet 10's","composition":"ESCITALOPRAM 20MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.130.03"}
+{"_id":{"$oid":"5b584537d51d295fc824f97f"},"name":"NEWCITA 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Alkem Laboratories Ltd","price":"Rs.82.36"}
+{"_id":{"$oid":"5b584539d51d295fc824f980"},"name":"NEWVEN OD 50mg Tablet 10's","composition":"Desvenlafaxine 50mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.109.90"}
+{"_id":{"$oid":"5b58453bd51d295fc824f981"},"name":"NEWVEN OD 100mg Tablet 10's","composition":"Desvenlafaxine 100mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.197.80"}
+{"_id":{"$oid":"5b58453dd51d295fc824f982"},"name":"NEXITO 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.82.36"}
+{"_id":{"$oid":"5b58453ed51d295fc824f983"},"name":"NEXITO 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.46.48"}
+{"_id":{"$oid":"5b584540d51d295fc824f984"},"name":"NEXVENLA OD 100mg Tablet 10's","composition":"Desvenlafaxine 100mg (OD)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.192.50"}
+{"_id":{"$oid":"5b584543d51d295fc824f985"},"name":"NEXVENLA OD 50mg Tablet 10's","composition":"Desvenlafaxine 50mg (OD)","manufacturer":"Alkem Laboratories Ltd","price":"Rs.118.50"}
+{"_id":{"$oid":"5b584545d51d295fc824f986"},"name":"NOC 10MG CAPSULE 10'S","composition":"FLUOXETINE 10MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.14.75"}
+{"_id":{"$oid":"5b584547d51d295fc824f987"},"name":"NORMADEP 25mg Tablet 10's","composition":"Imipramine 25mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.9.22"}
+{"_id":{"$oid":"5b584548d51d295fc824f988"},"name":"NORMALINE 75mg Tablet 10's","composition":"Amitriptyline 75mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.43.50"}
+{"_id":{"$oid":"5b58454bd51d295fc824f989"},"name":"NORMALINE 10mg Tablet 10's","composition":"Amitriptyline 10mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.12.37"}
+{"_id":{"$oid":"5b58454cd51d295fc824f98a"},"name":"NORMALINE 25mg Tablet 10's","composition":"Amitriptyline 25mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.22.36"}
+{"_id":{"$oid":"5b58454ed51d295fc824f98b"},"name":"NORMASET 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b584550d51d295fc824f98c"},"name":"NORMASET 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.29.90"}
+{"_id":{"$oid":"5b584553d51d295fc824f98d"},"name":"NORMATINE 20mg Capsule 10's","composition":"Fluoxetine 20mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.37.50"}
+{"_id":{"$oid":"5b584555d51d295fc824f98e"},"name":"NORTIN Tablet 10's","composition":"Nortriptyline 25mg","manufacturer":"La Pharmaceuticals","price":"Rs.19.80"}
+{"_id":{"$oid":"5b584556d51d295fc824f98f"},"name":"NORTRYPTOMER P Tablet 10's","composition":"Nortriptyline 10mg+Pregabalin 75mg","manufacturer":"Wockhardt Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b584559d51d295fc824f990"},"name":"NORTRYPTOMER P SR 75mg Tablet 10's","composition":"NORTRIPTYLINE 10MG+PREGABALIN 75MG","manufacturer":"Wockhardt Ltd","price":"Rs.180.00"}
+{"_id":{"$oid":"5b58455bd51d295fc824f991"},"name":"NOVELTIN Tablet 10's","composition":"Agomelatine 25mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.102.00"}
+{"_id":{"$oid":"5b58455cd51d295fc824f992"},"name":"NUROSTAR DX Capsule 10's","composition":"Duloxetine 30mg+Methylcobalamin 1.5mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b58455ed51d295fc824f993"},"name":"NUTAZ 30mg Tablet 10's","composition":"Mirtazepine 30mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.132.60"}
+{"_id":{"$oid":"5b584560d51d295fc824f994"},"name":"NUZAC 20mg Capsule 10's","composition":"Fluoxetine 20mg","manufacturer":"Cipla Ltd","price":"Rs.20.72"}
+{"_id":{"$oid":"5b584562d51d295fc824f995"},"name":"NUZAC 10mg Capsule 10's","composition":"Fluoxetine 10mg","manufacturer":"Cipla Ltd","price":"Rs.12.47"}
+{"_id":{"$oid":"5b584564d51d295fc824f996"},"name":"OLANEX PLUS 5mg Tablet 10's","composition":"Fluoxetine+Olanzapine","manufacturer":"Strides Shasun Ltd","price":"Rs.89.00"}
+{"_id":{"$oid":"5b584566d51d295fc824f997"},"name":"OPIPRIME 100mg Tablet 10's","composition":"Opipramol 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.106.00"}
+{"_id":{"$oid":"5b584568d51d295fc824f998"},"name":"OPIPROL 50mg Tablet 10's","composition":"Opipramol 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b58456ad51d295fc824f999"},"name":"OPIPROL 100mg Tablet 10's","composition":"Opipramol 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b58456cd51d295fc824f99a"},"name":"PALIRIS 1.5mg Tablet 14's","composition":"Paliperidone 1.5mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b58456ed51d295fc824f99b"},"name":"PALIRIS 9mg Tablet 14's","composition":"Paliperidone 9mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.129.75"}
+{"_id":{"$oid":"5b584570d51d295fc824f99c"},"name":"PALIRIS 9mg Tablet 7's","composition":"Paliperidone 9mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.111.63"}
+{"_id":{"$oid":"5b584572d51d295fc824f99d"},"name":"PALIVEGA 3mg Tablet 10's","composition":"Paliperidone 3mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.34.52"}
+{"_id":{"$oid":"5b584574d51d295fc824f99e"},"name":"PALIVEGA 6mg Tablet 10's","composition":"Paliperidone 6mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.66.81"}
+{"_id":{"$oid":"5b584576d51d295fc824f99f"},"name":"PANEX 20mg Tablet 10's","composition":"PAROXETINE 20MG","manufacturer":"Micro Labs Ltd","price":"Rs.173.00"}
+{"_id":{"$oid":"5b584578d51d295fc824f9a0"},"name":"PANEX 10mg Tablet 10's","composition":"Paroxetine 10mg","manufacturer":"Micro Labs Ltd","price":"Rs.109.00"}
+{"_id":{"$oid":"5b58457ad51d295fc824f9a1"},"name":"PANEX CR 25mg Tablet 10's","composition":"Paroxetine 25mg (CR)","manufacturer":"Micro Labs Ltd","price":"Rs.180.50"}
+{"_id":{"$oid":"5b58457cd51d295fc824f9a2"},"name":"PARADISE XR 25mg Tablet 10's","composition":"Paroxetine 25mg (XR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.168.60"}
+{"_id":{"$oid":"5b58457ed51d295fc824f9a3"},"name":"PARADISE XR 37.5mg Tablet 10's","composition":"Paroxetine 37.5mg (XR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.220.00"}
+{"_id":{"$oid":"5b584580d51d295fc824f9a4"},"name":"PARADISE XR 12.5mg Tablet 10's","composition":"Paroxetine 12.5mg (XR)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.120.90"}
+{"_id":{"$oid":"5b584582d51d295fc824f9a5"},"name":"PARI 20mg Tablet 10's","composition":"Paroxetine 20mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.175.45"}
+{"_id":{"$oid":"5b584584d51d295fc824f9a6"},"name":"PARI CR 37.5mg Tablet 10's","composition":"Paroxetine 37.5mg (CR)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.233.20"}
+{"_id":{"$oid":"5b584585d51d295fc824f9a7"},"name":"PARI 10mg Tablet 10's","composition":"Paroxetine 10mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.123.20"}
+{"_id":{"$oid":"5b584587d51d295fc824f9a8"},"name":"PARI 30mg Tablet 10's","composition":"Paroxetine 30mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.205.00"}
+{"_id":{"$oid":"5b584589d51d295fc824f9a9"},"name":"PARI CR 25mg Tablet 10's","composition":"Paroxetine 25mg (CR)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.170.50"}
+{"_id":{"$oid":"5b58458bd51d295fc824f9aa"},"name":"PARI CR 12.5mg Tablet 10's","composition":"Paroxetine 12.5mg (CR)","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.129.52"}
+{"_id":{"$oid":"5b58458ed51d295fc824f9ab"},"name":"PAROCEN 25mg Tablet 10's","composition":"Paroxetine 25mg","manufacturer":"Usv Private Ltd","price":"Rs.139.00"}
+{"_id":{"$oid":"5b584590d51d295fc824f9ac"},"name":"PAROCEN 12.5mg Tablet 10's","composition":"Paroxetine 12.5mg","manufacturer":"Usv Private Ltd","price":"Rs.113.00"}
+{"_id":{"$oid":"5b584592d51d295fc824f9ad"},"name":"PAROCEN CR 12.5mg Tablet 10's","composition":"PAROXETINE 12.5MG","manufacturer":"Usv Private Ltd","price":"Rs.113.00"}
+{"_id":{"$oid":"5b584594d51d295fc824f9ae"},"name":"PAROCEN CR 25mg Tablet 10's","composition":"Paroxetine 25mg (CR)","manufacturer":"Usv Private Ltd","price":"Rs.152.50"}
+{"_id":{"$oid":"5b584596d51d295fc824f9af"},"name":"PARONET CR 25MG TABLET 10'S","composition":"PAROXETINE 25MG","manufacturer":"Medopharm Pvt Ltd","price":"Rs.127.96"}
+{"_id":{"$oid":"5b584598d51d295fc824f9b0"},"name":"PAROTIN 10mg Tablet 10's","composition":"Paroxetine 10mg","manufacturer":"Cipla Ltd","price":"Rs.70.03"}
+{"_id":{"$oid":"5b58459bd51d295fc824f9b1"},"name":"PAROTIN 37.5mg Tablet 10's","composition":"Paroxetine 37.5mg","manufacturer":"Cipla Ltd","price":"Rs.160.72"}
+{"_id":{"$oid":"5b58459dd51d295fc824f9b2"},"name":"PAROTIN 20mg Tablet 10's","composition":"Paroxetine 20mg","manufacturer":"Cipla Ltd","price":"Rs.106.20"}
+{"_id":{"$oid":"5b58459fd51d295fc824f9b3"},"name":"PAROTIN 30mg Tablet 10's","composition":"Paroxetine 30mg","manufacturer":"Cipla Ltd","price":"Rs.139.00"}
+{"_id":{"$oid":"5b5845a1d51d295fc824f9b4"},"name":"PAROTIN 12.5mg Tablet 10's","composition":"Paroxetine 12.5mg","manufacturer":"Cipla Ltd","price":"Rs.89.86"}
+{"_id":{"$oid":"5b5845a3d51d295fc824f9b5"},"name":"PAROTIN 40mg Tablet 10's","composition":"Paroxetine 40mg","manufacturer":"Cipla Ltd","price":"Rs.175.00"}
+{"_id":{"$oid":"5b5845a7d51d295fc824f9b6"},"name":"PAROTIN 25mg Tablet 10's","composition":"Paroxetine 25mg","manufacturer":"Cipla Ltd","price":"Rs.123.43"}
+{"_id":{"$oid":"5b5845a8d51d295fc824f9b7"},"name":"PAROXECAD CR 12.5mg Tablet 10's","composition":"Paroxetine 12.5mg (CR)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.118.80"}
+{"_id":{"$oid":"5b5845aad51d295fc824f9b8"},"name":"PAROXECAD CR 25mg Tablet 10's","composition":"Paroxetine 25mg (CR)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.141.70"}
+{"_id":{"$oid":"5b5845add51d295fc824f9b9"},"name":"PAROXET 25mg Tablet 10's","composition":"Paroxetine 25mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.159.50"}
+{"_id":{"$oid":"5b5845afd51d295fc824f9ba"},"name":"PAROXET 12.5mg Tablet 10's","composition":"Paroxetine 12.5mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.86.00"}
+{"_id":{"$oid":"5b5845b1d51d295fc824f9bb"},"name":"PAROXET 10mg Tablet 10's","composition":"Paroxetine 10mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.57.62"}
+{"_id":{"$oid":"5b5845b2d51d295fc824f9bc"},"name":"PAROXTA 25mg Tablet 10's","composition":"PAROXETINE 25MG","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.148.50"}
+{"_id":{"$oid":"5b5845b4d51d295fc824f9bd"},"name":"PAROXTA 12.5mg Tablet 10's","composition":"PAROXETINE 12.5MG","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.118.00"}
+{"_id":{"$oid":"5b5845b7d51d295fc824f9be"},"name":"PAROXTA 37.5mg Tablet 10's","composition":"Paroxetine 37.5mg","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.185.71"}
+{"_id":{"$oid":"5b5845b9d51d295fc824f9bf"},"name":"PATINEX 25mg Tablet 10's","composition":"Paroxetine 25mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b5845bcd51d295fc824f9c0"},"name":"PATINEX 12.5mg Tablet 10's","composition":"Paroxetine 12.5mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5845bed51d295fc824f9c1"},"name":"PATINEX 37.5mg Tablet 10's","composition":"Paroxetine 37.5mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.210.00"}
+{"_id":{"$oid":"5b5845bfd51d295fc824f9c2"},"name":"PATINEX LS Tablet 10's","composition":"Clonazepam 0.5mg +Paroxetine 12.5mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b5845c1d51d295fc824f9c3"},"name":"PATINEX PLUS Tablet 10's","composition":"Clonazepam 0.5mg+Paroxetine 25mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.152.00"}
+{"_id":{"$oid":"5b5845c3d51d295fc824f9c4"},"name":"PAXGEM XR 12.5mg Tablet 10's","composition":"Paroxetine 12.5mg","manufacturer":"La Pharmaceuticals","price":"Rs.95.00"}
+{"_id":{"$oid":"5b5845c5d51d295fc824f9c5"},"name":"PAXGEM XR 25mg Tablet 10's","composition":"Paroxetine 25mg","manufacturer":"La Pharmaceuticals","price":"Rs.127.00"}
+{"_id":{"$oid":"5b5845c7d51d295fc824f9c6"},"name":"PAXIDEP CR 37.5mg Tablet 10's","composition":"Paroxetine 37.5mg (CR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.230.00"}
+{"_id":{"$oid":"5b5845c9d51d295fc824f9c7"},"name":"PAXIDEP CR 25mg Tablet 10's","composition":"Paroxetine 25mg (CR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.160.00"}
+{"_id":{"$oid":"5b5845cbd51d295fc824f9c8"},"name":"PAXIT 20mg Tablet 10's","composition":"PAROXETINE 20MG","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.120.90"}
+{"_id":{"$oid":"5b5845cdd51d295fc824f9c9"},"name":"PAXIT 10mg Tablet 10's","composition":"Paroxetine 10mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.79.00"}
+{"_id":{"$oid":"5b5845d0d51d295fc824f9ca"},"name":"PAXOTUS 25mg Tablet 10's","composition":"Paroxetine 25mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.175.80"}
+{"_id":{"$oid":"5b5845d2d51d295fc824f9cb"},"name":"PAXOTUS 12.5mg Tablet 10's","composition":"Paroxetine 12.5mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.129.65"}
+{"_id":{"$oid":"5b5845d3d51d295fc824f9cc"},"name":"PAXOTUS 37.5mg Tablet 10's","composition":"Paroxetine 37.5mg","manufacturer":"Emcure Pharmaceuticals Pvt Ltd","price":"Rs.252.75"}
+{"_id":{"$oid":"5b5845d5d51d295fc824f9cd"},"name":"PENFLU 40mg Injection 2ml","composition":"Fluphenazine 40mg","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.319.00"}
+{"_id":{"$oid":"5b5845d7d51d295fc824f9ce"},"name":"PENFLU M Tablet 10's","composition":"Flupenthixol+Melitracen","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.69.90"}
+{"_id":{"$oid":"5b5845d9d51d295fc824f9cf"},"name":"PERSONA CAPSULE 6'S","composition":"FLUOXETINE 20MG","manufacturer":"Yash Pharma Laboratories Pvt Ltd","price":"Rs.10.08"}
+{"_id":{"$oid":"5b5845dbd51d295fc824f9d0"},"name":"PEXEP CR 25mg Tablet 10's","composition":"Paroxetine 25mg (CR)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.190.00"}
+{"_id":{"$oid":"5b5845dcd51d295fc824f9d1"},"name":"PEXEP 10mg Tablet 10's","composition":"Paroxetine","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.132.00"}
+{"_id":{"$oid":"5b5845ded51d295fc824f9d2"},"name":"PEXEP CR 12.5mg Tablet 10's","composition":"Paroxetine 12.5mg (CR)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.141.00"}
+{"_id":{"$oid":"5b5845e1d51d295fc824f9d3"},"name":"PLACIDA Tablet 10's","composition":"Flupenthixol 0.5mg+Melitracen 10mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.56.00"}
+{"_id":{"$oid":"5b5845e2d51d295fc824f9d4"},"name":"PLATIN 20MG INJECTION 10ML","composition":"FLUOXETINE 20MG","manufacturer":"Wockhardt Ltd","price":"Rs.417.74"}
+{"_id":{"$oid":"5b5845e4d51d295fc824f9d5"},"name":"PLATIN 10mg Injection 20ml","composition":"Fluoxetine 10mg","manufacturer":"Wockhardt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b5845e6d51d295fc824f9d6"},"name":"PLATIN 10mg Capsule 14's","composition":"Fluoxetine 10mg","manufacturer":"Wockhardt Ltd","price":"Rs.30.00"}
+{"_id":{"$oid":"5b5845e8d51d295fc824f9d7"},"name":"PLATIN 20mg Capsule 14's","composition":"FLUOXETINE 20MG","manufacturer":"Wockhardt Ltd","price":"Rs.50.60"}
+{"_id":{"$oid":"5b5845ead51d295fc824f9d8"},"name":"PRACIDEP PLUS Tablet 10","composition":"CLONAZEPAM 0.5MG+ESCITALOPRAM 10MG","manufacturer":"Aarpik Pharmaceuticals Pvt Ltd","price":"Rs.74.00"}
+{"_id":{"$oid":"5b5845ecd51d295fc824f9d9"},"name":"PRANIL PLUS Tablet 10's","composition":"Diazepam 2mg+Imipramine 25mg","manufacturer":"Lincoln Pharmaceuticals Ltd","price":"Rs.14.90"}
+{"_id":{"$oid":"5b5845eed51d295fc824f9da"},"name":"PRASILEX 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.105.86"}
+{"_id":{"$oid":"5b5845f0d51d295fc824f9db"},"name":"PRASILEX 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.122.86"}
+{"_id":{"$oid":"5b5845f2d51d295fc824f9dc"},"name":"PRASILEX 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Molekule India Pvt Ltd","price":"Rs.66.00"}
+{"_id":{"$oid":"5b5845f5d51d295fc824f9dd"},"name":"PRASILIFE 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.63.81"}
+{"_id":{"$oid":"5b5845f7d51d295fc824f9de"},"name":"PRASILIFE 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Emenox Healthcare Pvt Ltd","price":"Rs.38.10"}
+{"_id":{"$oid":"5b5845f9d51d295fc824f9df"},"name":"PRAXO 20mg Tablet 10's","composition":"PAROXETINE 20MG","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.95.38"}
+{"_id":{"$oid":"5b5845fad51d295fc824f9e0"},"name":"PRAXO 10mg Tablet 10's","composition":"Paroxetine 10mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.82.05"}
+{"_id":{"$oid":"5b5845fcd51d295fc824f9e1"},"name":"PREGALIFT NT Tablet 10's","composition":"Nortriptyline+Pregabalin","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b5845fed51d295fc824f9e2"},"name":"PRESTIQ 50mg Tablet 10's","composition":"Desvenlafaxine 50mg","manufacturer":"Pfizer Limited","price":"Rs.145.07"}
+{"_id":{"$oid":"5b584600d51d295fc824f9e3"},"name":"PRESTIQ 100mg Tablet 10's","composition":"Desvenlafaxine 100mg","manufacturer":"Pfizer Limited","price":"Rs.262.70"}
+{"_id":{"$oid":"5b584602d51d295fc824f9e4"},"name":"PRIDEP S 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.82.40"}
+{"_id":{"$oid":"5b584604d51d295fc824f9e5"},"name":"PRIDEP S 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.130.00"}
+{"_id":{"$oid":"5b584606d51d295fc824f9e6"},"name":"PRIDEPS 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Mova Pharmaceuticals Pvt Ltd","price":"Rs.38.36"}
+{"_id":{"$oid":"5b584608d51d295fc824f9e7"},"name":"PRIMOX Tablet 10's","composition":"Nortriptyline 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.28.00"}
+{"_id":{"$oid":"5b58460ad51d295fc824f9e8"},"name":"PRODEP 60mg Capsule 10's","composition":"Fluoxetine 60mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.99.44"}
+{"_id":{"$oid":"5b58460cd51d295fc824f9e9"},"name":"PRODEP 40mg Capsule 10's","composition":"Fluoxetine 40mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.35.49"}
+{"_id":{"$oid":"5b58460ed51d295fc824f9ea"},"name":"PRODEP 20mg Capsule 10's","composition":"Fluoxetine 20mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.37.00"}
+{"_id":{"$oid":"5b584610d51d295fc824f9eb"},"name":"PRODEP 10mg Capsule 10's","composition":"Fluoxetine 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.29.08"}
+{"_id":{"$oid":"5b584612d51d295fc824f9ec"},"name":"PRODEP LA 90mg Tablet 10's","composition":"Fluoxetine 90mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.107.00"}
+{"_id":{"$oid":"5b584614d51d295fc824f9ed"},"name":"PRONIL CAPSULE 6'S","composition":"FLUOXETINE 20MG","manufacturer":" NA ","price":"Rs.2.96"}
+{"_id":{"$oid":"5b584616d51d295fc824f9ee"},"name":"PROTHIADEN 75mg Tablet 15's","composition":"Dosulepin(Dothiepin) 75mg","manufacturer":"Abbott India Ltd","price":"Rs.190.50"}
+{"_id":{"$oid":"5b584618d51d295fc824f9ef"},"name":"PROTHIADEN 75mg Tablet 10's","composition":"DOSULEPIN(DOTHIEPIN) 75MG","manufacturer":"Abbott India Ltd","price":"Rs.127.00"}
+{"_id":{"$oid":"5b58461ad51d295fc824f9f0"},"name":"PROTHIADEN 50MG TABLET 30'S","composition":"DOSULEPIN(DOTHIEPIN) 50MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.217.50"}
+{"_id":{"$oid":"5b58461cd51d295fc824f9f1"},"name":"PROTHIADEN M Tablet 10's","composition":"Dosulepin(Dothiepin)+Mecobalamin (Methylcobalamin)","manufacturer":"Abbott India Ltd","price":"Rs.240.79"}
+{"_id":{"$oid":"5b58461ed51d295fc824f9f2"},"name":"PROTHIADEN 25mg Tablet 10's","composition":"Dosulepin(Dothiepin) 25mg","manufacturer":"Abbott India Ltd","price":"Rs.61.00"}
+{"_id":{"$oid":"5b584620d51d295fc824f9f3"},"name":"PROTHIADEN 50mg Tablet 10's","composition":"DOSULEPIN(DOTHIEPIN) 50MG","manufacturer":"Abbott India Ltd","price":"Rs.120.00"}
+{"_id":{"$oid":"5b584622d51d295fc824f9f4"},"name":"PROTHIADEN 25mg Tablet 15's","composition":"Dosulepin(Dothiepin)","manufacturer":"Abbott India Ltd","price":"Rs.100.50"}
+{"_id":{"$oid":"5b584624d51d295fc824f9f5"},"name":"PROTHIADEN M 50mg/1500mcg Tablet 15's","composition":"Dosulepin(Dothiepin)+Mecobalamin (Methylcobalamin)","manufacturer":"Abbott India Ltd","price":"Rs.162.75"}
+{"_id":{"$oid":"5b584626d51d295fc824f9f6"},"name":"PROTHIADEN M 75mg/1500mcg Tablet 15's","composition":"Dosulepin(Dothiepin) 75mg+Mecobalamin (Methylcobalamin) 1500mcg","manufacturer":"Abbott India Ltd","price":"Rs.240.79"}
+{"_id":{"$oid":"5b584628d51d295fc824f9f7"},"name":"PSYVOXIN ER 100mg Tablet 10's","composition":"Fluvoxamine 100mg (ER)","manufacturer":"Psyco Remedies Ltd","price":"Rs.183.60"}
+{"_id":{"$oid":"5b58462ad51d295fc824f9f8"},"name":"PXN SR 12.5mg Tablet 20's","composition":"Paroxetine 12.5mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.175.23"}
+{"_id":{"$oid":"5b58462cd51d295fc824f9f9"},"name":"PXN SR 12.5mg Tablet 10's","composition":"Paroxetine 12.5mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.87.62"}
+{"_id":{"$oid":"5b58462ed51d295fc824f9fa"},"name":"PXN SR 25mg Tablet 10's","composition":"Paroxetine 25mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.132.42"}
+{"_id":{"$oid":"5b584630d51d295fc824f9fb"},"name":"PXT 20mg Tablet 10's","composition":"Paroxetine 20mg","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.110.78"}
+{"_id":{"$oid":"5b584632d51d295fc824f9fc"},"name":"PXT 10mg Tablet 10's","composition":"PAROXETINE 10MG","manufacturer":"Dr Johns Laboratories Pvt Ltd","price":"Rs.72.98"}
+{"_id":{"$oid":"5b584634d51d295fc824f9fd"},"name":"RAXIT 10mg Tablet 10's","composition":"Paroxetine 10mg","manufacturer":"Ranbaxy Laboratories Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b584635d51d295fc824f9fe"},"name":"RECITA 5mg Tablet 10's","composition":"ESCITALOPRAM 5MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.46.47"}
+{"_id":{"$oid":"5b584637d51d295fc824f9ff"},"name":"RECITA 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.82.42"}
+{"_id":{"$oid":"5b584639d51d295fc824fa00"},"name":"RECITA 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.134.49"}
+{"_id":{"$oid":"5b58463bd51d295fc824fa01"},"name":"RECITA PLUS Tablet 10's","composition":"Escitalopram 10mg+Clonazepam 0.25mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.37.91"}
+{"_id":{"$oid":"5b58463dd51d295fc824fa02"},"name":"RESTOVEL D Tablet 10's","composition":"CLONAZEPAM 0.5MG+ESCITALOPRAM 10MG","manufacturer":"Kinedex Healthcare Pvt Ltd","price":"Rs.90.94"}
+{"_id":{"$oid":"5b58463fd51d295fc824fa03"},"name":"RETALIN 50mg Tablet 10's","composition":"SERTRALINE 50MG","manufacturer":"Psychotropics India Limited","price":"Rs.42.00"}
+{"_id":{"$oid":"5b584641d51d295fc824fa04"},"name":"RETALIN 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Psychotropics India Limited","price":"Rs.57.73"}
+{"_id":{"$oid":"5b584643d51d295fc824fa05"},"name":"REVILIFE 100mg Tablet 10's","composition":"Fluvoxamine 100mg","manufacturer":"Abbott India Ltd","price":"Rs.191.50"}
+{"_id":{"$oid":"5b584647d51d295fc824fa06"},"name":"REVILIFE 50mg Tablet 10's","composition":"Fluvoxamine 50mg","manufacturer":"Abbott India Ltd","price":"Rs.112.50"}
+{"_id":{"$oid":"5b584649d51d295fc824fa07"},"name":"REXIPRA 20mg Tablet 10's","composition":"ESCITALOPRAM 20MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.130.03"}
+{"_id":{"$oid":"5b58464bd51d295fc824fa08"},"name":"REXIPRA 15mg Tablet 10's","composition":"ESCITALOPRAM 15MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.119.00"}
+{"_id":{"$oid":"5b58464dd51d295fc824fa09"},"name":"REXIPRA 5mg Tablet 10's","composition":"ESCITALOPRAM 5MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.46.48"}
+{"_id":{"$oid":"5b58464fd51d295fc824fa0a"},"name":"REXIPRA 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.82.43"}
+{"_id":{"$oid":"5b584651d51d295fc824fa0b"},"name":"REXIPRA FORTE Tablet 10's","composition":"Escitalopram 10mg+Clonazepam 0.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.106.00"}
+{"_id":{"$oid":"5b584653d51d295fc824fa0c"},"name":"REXIPRA FX 10mg Tablet 10's","composition":"ESCITALOPRAM 5MG+FLUPENTHIXOL 0.5MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.104.00"}
+{"_id":{"$oid":"5b584653d51d295fc824fa0d"},"name":"REXIPRA FX 5 Tablet 10's","composition":"Escitalopram 5mg+Flupenthixol 0.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b584655d51d295fc824fa0e"},"name":"REXIPRA PLUS Tablet 10's","composition":"CLONAZEPAM 0.5MG+ESCITALOPRAM 5MG","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.73.50"}
+{"_id":{"$oid":"5b584657d51d295fc824fa0f"},"name":"S CELEPRA 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Micro Labs Ltd","price":"Rs.80.78"}
+{"_id":{"$oid":"5b58465ad51d295fc824fa10"},"name":"S CELEPRA 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Micro Labs Ltd","price":"Rs.122.00"}
+{"_id":{"$oid":"5b58465cd51d295fc824fa11"},"name":"S CELEPRA 5mg Tablet 10's","composition":"ESCITALOPRAM 5MG","manufacturer":"Micro Labs Ltd","price":"Rs.39.90"}
+{"_id":{"$oid":"5b58465dd51d295fc824fa12"},"name":"S CITADEP 5mg Tablet 10's","composition":"ESCITALOPRAM 5MG","manufacturer":"Cipla Ltd","price":"Rs.39.77"}
+{"_id":{"$oid":"5b58465fd51d295fc824fa13"},"name":"S CITADEP 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Cipla Ltd","price":"Rs.77.00"}
+{"_id":{"$oid":"5b584661d51d295fc824fa14"},"name":"S CITADEP 20mg Tablet 10's","composition":"ESCITALOPRAM 20MG","manufacturer":"Cipla Ltd","price":"Rs.124.74"}
+{"_id":{"$oid":"5b584662d51d295fc824fa15"},"name":"S R T 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.90.70"}
+{"_id":{"$oid":"5b584665d51d295fc824fa16"},"name":"S R T 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.66.50"}
+{"_id":{"$oid":"5b584666d51d295fc824fa17"},"name":"S R T 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.42.30"}
+{"_id":{"$oid":"5b584667d51d295fc824fa18"},"name":"S VOCITA 5mg Tablet 10's","composition":"ESCITALOPRAM 5MG","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.40.75"}
+{"_id":{"$oid":"5b584669d51d295fc824fa19"},"name":"S VOCITA 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.127.15"}
+{"_id":{"$oid":"5b58466bd51d295fc824fa1a"},"name":"S VOCITA 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Shine Pharmaceuticals Ltd","price":"Rs.73.40"}
+{"_id":{"$oid":"5b58466dd51d295fc824fa1b"},"name":"SALIDEP 40MG TABLET 10'S","composition":"FLUOXETINE 40MG","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.47.13"}
+{"_id":{"$oid":"5b58466fd51d295fc824fa1c"},"name":"SANTA 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Medinova Labs","price":"Rs.52.12"}
+{"_id":{"$oid":"5b584671d51d295fc824fa1d"},"name":"SAROTENA 25mg Tablet 10's","composition":"Amitriptyline 25mg","manufacturer":"Lundbeck India Pvt Ltd","price":"Rs.22.96"}
+{"_id":{"$oid":"5b584673d51d295fc824fa1e"},"name":"SAROTENA 10mg Tablet 10's","composition":"Amitriptyline 10mg","manufacturer":"Lundbeck India Pvt Ltd","price":"Rs.23.30"}
+{"_id":{"$oid":"5b584675d51d295fc824fa1f"},"name":"SAROTENA 50mg Tablet 10's","composition":"Amitriptyline 50mg","manufacturer":"Lundbeck India Pvt Ltd","price":"Rs.50.60"}
+{"_id":{"$oid":"5b584677d51d295fc824fa20"},"name":"SC TALO 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.28.00"}
+{"_id":{"$oid":"5b584678d51d295fc824fa21"},"name":"SC TALO 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.114.00"}
+{"_id":{"$oid":"5b58467bd51d295fc824fa22"},"name":"SC TALO 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.52.00"}
+{"_id":{"$oid":"5b58467dd51d295fc824fa23"},"name":"SENSIVAL 25mg Tablet 10's","composition":"Nortriptyline 25mg","manufacturer":"Wallace Pharmaceuticals Ltd","price":"Rs.31.20"}
+{"_id":{"$oid":"5b58467fd51d295fc824fa24"},"name":"SENTA 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.44.50"}
+{"_id":{"$oid":"5b584681d51d295fc824fa25"},"name":"SENTA 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.87.13"}
+{"_id":{"$oid":"5b584683d51d295fc824fa26"},"name":"SENTA 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.67.85"}
+{"_id":{"$oid":"5b584685d51d295fc824fa27"},"name":"SENTOSA 75mg Tablet 10's","composition":"Venlafaxine 75mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.100.93"}
+{"_id":{"$oid":"5b584687d51d295fc824fa28"},"name":"SENTOSA 37.5mg Tablet 10's","composition":"Venlafaxine 37.5mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.17.80"}
+{"_id":{"$oid":"5b584689d51d295fc824fa29"},"name":"SERBEST 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Others","price":"Rs.83.60"}
+{"_id":{"$oid":"5b58468bd51d295fc824fa2a"},"name":"SERBEST 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"Others","price":"Rs.34.50"}
+{"_id":{"$oid":"5b58468dd51d295fc824fa2b"},"name":"SERDEP 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Cipla Ltd","price":"Rs.27.23"}
+{"_id":{"$oid":"5b58468ed51d295fc824fa2c"},"name":"SERDEP 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Cipla Ltd","price":"Rs.46.16"}
+{"_id":{"$oid":"5b584690d51d295fc824fa2d"},"name":"SERDEP 200mg Tablet 10's","composition":"Sertraline 200mg","manufacturer":"Cipla Ltd","price":"Rs.31.60"}
+{"_id":{"$oid":"5b584692d51d295fc824fa2e"},"name":"SERENA 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Kenn Pharmaceuticals Pvt Ltd","price":"Rs.61.57"}
+{"_id":{"$oid":"5b584694d51d295fc824fa2f"},"name":"SERENATA 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.70.00"}
+{"_id":{"$oid":"5b584696d51d295fc824fa30"},"name":"SERENATA 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.125.20"}
+{"_id":{"$oid":"5b584698d51d295fc824fa31"},"name":"SERENE 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Rkg Pharma Pvt Ltd","price":"Rs.57.68"}
+{"_id":{"$oid":"5b58469ad51d295fc824fa32"},"name":"SERENE 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"Rkg Pharma Pvt Ltd","price":"Rs.22.55"}
+{"_id":{"$oid":"5b58469dd51d295fc824fa33"},"name":"SERENE 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Apex Laboratories Pvt Ltd","price":"Rs.37.97"}
+{"_id":{"$oid":"5b58469fd51d295fc824fa34"},"name":"SERIN 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Anthus Pharmaceuticals Pvt Ltd","price":"Rs.40.00"}
+{"_id":{"$oid":"5b5846a1d51d295fc824fa35"},"name":"SERJET 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.63.50"}
+{"_id":{"$oid":"5b5846a3d51d295fc824fa36"},"name":"SERJET 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.19.61"}
+{"_id":{"$oid":"5b5846a5d51d295fc824fa37"},"name":"SERJET 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"East West Pharmaceuticals Pvt Ltd","price":"Rs.56.53"}
+{"_id":{"$oid":"5b5846a7d51d295fc824fa38"},"name":"SERLIFT 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.71.50"}
+{"_id":{"$oid":"5b5846aad51d295fc824fa39"},"name":"SERLIFT 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.52.50"}
+{"_id":{"$oid":"5b5846acd51d295fc824fa3a"},"name":"SERLIFT 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.109.00"}
+{"_id":{"$oid":"5b5846aed51d295fc824fa3b"},"name":"SERLIN 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.99.50"}
+{"_id":{"$oid":"5b5846b0d51d295fc824fa3c"},"name":"SERLIN 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.24.00"}
+{"_id":{"$oid":"5b5846b2d51d295fc824fa3d"},"name":"SERMIND 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.39.50"}
+{"_id":{"$oid":"5b5846b4d51d295fc824fa3e"},"name":"SERMIND 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b5846b6d51d295fc824fa3f"},"name":"SERMIND 100MG TABLET 10'S","composition":"Sertralin 100mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.83.00"}
+{"_id":{"$oid":"5b5846b7d51d295fc824fa40"},"name":"SEROFLEX 200mg Tablet 10's","composition":"Sertraline 200mg","manufacturer":"Others","price":"Rs.29.33"}
+{"_id":{"$oid":"5b5846b9d51d295fc824fa41"},"name":"SEROFLEX 50MG TABLET 10'S","composition":"SERTRALINE 50MG","manufacturer":" NA ","price":"Rs.18.00"}
+{"_id":{"$oid":"5b5846bbd51d295fc824fa42"},"name":"SEROFLEX 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Others","price":"Rs.23.10"}
+{"_id":{"$oid":"5b5846bdd51d295fc824fa43"},"name":"SEROFLEX 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"Others","price":"Rs.13.00"}
+{"_id":{"$oid":"5b5846bfd51d295fc824fa44"},"name":"SEROZAC 50mg Tablet 10's","composition":"SERTRALINE 50MG","manufacturer":"Pulse Pharmaceuticals Pvt Ltd","price":"Rs.30.95"}
+{"_id":{"$oid":"5b5846c1d51d295fc824fa45"},"name":"SERTA 100mg Tablet 15's","composition":"Sertraline","manufacturer":"Unichem Laboratories Ltd","price":"Rs.214.31"}
+{"_id":{"$oid":"5b5846c3d51d295fc824fa46"},"name":"SERTA 50mg Tablet 15's","composition":"Sertraline 50mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.126.39"}
+{"_id":{"$oid":"5b5846c5d51d295fc824fa47"},"name":"SERTA 25mg Tablet 15's","composition":"Sertraline 25mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.68.69"}
+{"_id":{"$oid":"5b5846c7d51d295fc824fa48"},"name":"SERTACAD 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.54.50"}
+{"_id":{"$oid":"5b5846c9d51d295fc824fa49"},"name":"SERTACAD 100MG TABLET 10'S","composition":"SERTRALINE 100MG","manufacturer":"Cadila Pharmaceuticals Ltd","price":"Rs.92.65"}
+{"_id":{"$oid":"5b5846cbd51d295fc824fa4a"},"name":"SERTAGRESS 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b5846cdd51d295fc824fa4b"},"name":"SERTAGRESS 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"La Renon Healthcare Pvt Ltd","price":"Rs.101.00"}
+{"_id":{"$oid":"5b5846cfd51d295fc824fa4c"},"name":"SERTAKEM 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Synokem Pharmaceuticals Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b5846d1d51d295fc824fa4d"},"name":"SERTANOL 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Knoll Pharmaceuticals Ltd","price":"Rs.50.00"}
+{"_id":{"$oid":"5b5846d3d51d295fc824fa4e"},"name":"SERTEE 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Talent India","price":"Rs.97.50"}
+{"_id":{"$oid":"5b5846d5d51d295fc824fa4f"},"name":"SERTEE 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Talent India","price":"Rs.68.00"}
+{"_id":{"$oid":"5b5846d7d51d295fc824fa50"},"name":"SERTEE 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"Talent India","price":"Rs.44.00"}
+{"_id":{"$oid":"5b5846d9d51d295fc824fa51"},"name":"SERTIL 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.35.00"}
+{"_id":{"$oid":"5b5846dbd51d295fc824fa52"},"name":"SERTIL 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.48.77"}
+{"_id":{"$oid":"5b5846ddd51d295fc824fa53"},"name":"SERTIMA 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.39.50"}
+{"_id":{"$oid":"5b5846e0d51d295fc824fa54"},"name":"SERTIMA 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b5846e1d51d295fc824fa55"},"name":"SERTIMA 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.74.00"}
+{"_id":{"$oid":"5b5846e3d51d295fc824fa56"},"name":"SERTIN 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.83.00"}
+{"_id":{"$oid":"5b5846e5d51d295fc824fa57"},"name":"SERTIN 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Tasmed India (P) Limited","price":"Rs.57.50"}
+{"_id":{"$oid":"5b5846ead51d295fc824fa58"},"name":"SETALIN 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"La Pharmaceuticals","price":"Rs.80.00"}
+{"_id":{"$oid":"5b5846ecd51d295fc824fa59"},"name":"SETALIN 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"La Pharmaceuticals","price":"Rs.56.50"}
+{"_id":{"$oid":"5b5846eed51d295fc824fa5a"},"name":"SETALIN 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"La Pharmaceuticals","price":"Rs.27.00"}
+{"_id":{"$oid":"5b5846f0d51d295fc824fa5b"},"name":"SETRA 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Alchemist Lifesciences Ltd","price":"Rs.1.86"}
+{"_id":{"$oid":"5b5846f3d51d295fc824fa5c"},"name":"SETRAL 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.23.00"}
+{"_id":{"$oid":"5b5846f5d51d295fc824fa5d"},"name":"SETRAL 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"D D Pharmaceuticals Pvt Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b5846f7d51d295fc824fa5e"},"name":"SETRALINE 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.36.29"}
+{"_id":{"$oid":"5b5846f8d51d295fc824fa5f"},"name":"SIMELATIN 25mg Tablet 10's","composition":"Agomelatine 25mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.76.02"}
+{"_id":{"$oid":"5b5846fbd51d295fc824fa60"},"name":"SITARAM 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Apostle Remedies","price":"Rs.28.00"}
+{"_id":{"$oid":"5b5846fcd51d295fc824fa61"},"name":"SITARAM 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Apostle Remedies","price":"Rs.52.00"}
+{"_id":{"$oid":"5b5846fed51d295fc824fa62"},"name":"SOMARON 3mg Tablet 10's","composition":"Doxepine 3mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.8.57"}
+{"_id":{"$oid":"5b584700d51d295fc824fa63"},"name":"SOREST 100mg Tablet 10's","composition":"Fluvoxamine 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.271.00"}
+{"_id":{"$oid":"5b584702d51d295fc824fa64"},"name":"SOREST 50mg Tablet 10's","composition":"Fluvoxamine 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.161.00"}
+{"_id":{"$oid":"5b584704d51d295fc824fa65"},"name":"SPECTRA 25mg Capsule 10's","composition":"Doxepin 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.88.00"}
+{"_id":{"$oid":"5b584707d51d295fc824fa66"},"name":"SPECTRA 75mg Capsule 10's","composition":"Doxepin 75mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.127.00"}
+{"_id":{"$oid":"5b584709d51d295fc824fa67"},"name":"SPECTRA 10mg Capsule 10's","composition":"Doxepin 10mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.54.00"}
+{"_id":{"$oid":"5b58470bd51d295fc824fa68"},"name":"SRI 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Others","price":"Rs.30.00"}
+{"_id":{"$oid":"5b58470dd51d295fc824fa69"},"name":"SRI 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Others","price":"Rs.99.21"}
+{"_id":{"$oid":"5b58470fd51d295fc824fa6a"},"name":"SRI 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Others","price":"Rs.65.00"}
+{"_id":{"$oid":"5b584711d51d295fc824fa6b"},"name":"STABLON Tablet 10's","composition":"Tianeptine 12.5mg","manufacturer":"Serdia Pharmaceuticals India Pvt Ltd","price":"Rs.100.00"}
+{"_id":{"$oid":"5b584713d51d295fc824fa6c"},"name":"STALOPAM 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Lupin Ltd","price":"Rs.81.88"}
+{"_id":{"$oid":"5b584714d51d295fc824fa6d"},"name":"STALOPAM 40mg Tablet 10's","composition":"Escitalopram 40mg","manufacturer":"Lupin Ltd","price":"Rs.78.95"}
+{"_id":{"$oid":"5b584716d51d295fc824fa6e"},"name":"STALOPAM 20mg Tablet 10's","composition":"ESCITALOPRAM 20MG","manufacturer":"Lupin Ltd","price":"Rs.129.86"}
+{"_id":{"$oid":"5b584718d51d295fc824fa6f"},"name":"STALOPAM 5mg Tablet 10's","composition":"ESCITALOPRAM 5MG","manufacturer":"Lupin Ltd","price":"Rs.46.41"}
+{"_id":{"$oid":"5b58471ad51d295fc824fa70"},"name":"STAMNA P 20mg Capsule 10's","composition":"Paroxetine 20mg","manufacturer":"Indo French Laboratories Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b58471cd51d295fc824fa71"},"name":"SWENTA 20mg Tablet 10's","composition":"DULOXETINE 20MG","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.76.26"}
+{"_id":{"$oid":"5b58471ed51d295fc824fa72"},"name":"SYMBAL 40mg Tablet 10's","composition":"Duloxetine 40mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.156.90"}
+{"_id":{"$oid":"5b584720d51d295fc824fa73"},"name":"SYMBAL 500mg Tablet 10's","composition":"Duloxetine 500mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.98.43"}
+{"_id":{"$oid":"5b584722d51d295fc824fa74"},"name":"SYMBAL 30mg Tablet 10's","composition":"Duloxetine 30mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.124.30"}
+{"_id":{"$oid":"5b584724d51d295fc824fa75"},"name":"SYMBAL 60mg Tablet 10's","composition":"Duloxetine 60mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.215.40"}
+{"_id":{"$oid":"5b584726d51d295fc824fa76"},"name":"SYMBAL 1500mg Tablet 10's","composition":"Duloxetine 1500mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.54.24"}
+{"_id":{"$oid":"5b584728d51d295fc824fa77"},"name":"SYMBAL 20mg Tablet 10's","composition":"Duloxetine 20mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.81.30"}
+{"_id":{"$oid":"5b58472ad51d295fc824fa78"},"name":"SYMPTA 60mg Tablet 10's","composition":"Duloxetine 60mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.119.50"}
+{"_id":{"$oid":"5b58472cd51d295fc824fa79"},"name":"SYMPTA 20mg Tablet 10's","composition":"Duloxetine 20mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.73.80"}
+{"_id":{"$oid":"5b58472ed51d295fc824fa7a"},"name":"SYMPTA 40mg Tablet 10's","composition":"Duloxetine 40mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.92.75"}
+{"_id":{"$oid":"5b584730d51d295fc824fa7b"},"name":"SYMPTA 30mg Tablet 10's","composition":"Duloxetine 30mg","manufacturer":"Ipca Laboratories Ltd","price":"Rs.108.90"}
+{"_id":{"$oid":"5b584732d51d295fc824fa7c"},"name":"SZETALO 10mg Tablet 10's","composition":"ESCITALOPRAM 10MG","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.82.32"}
+{"_id":{"$oid":"5b584734d51d295fc824fa7d"},"name":"SZETALO 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.130.01"}
+{"_id":{"$oid":"5b584736d51d295fc824fa7e"},"name":"TADAMIT 75mg Tablet 10's","composition":"Amitriptyline 75mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b584738d51d295fc824fa7f"},"name":"TADAMIT 20mg Tablet 4's","composition":"Amitriptyline 20mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.240.00"}
+{"_id":{"$oid":"5b58473ad51d295fc824fa80"},"name":"TADAMIT 10mg Tablet 10's","composition":"Amitriptyline 10mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.10.00"}
+{"_id":{"$oid":"5b58473cd51d295fc824fa81"},"name":"TADAMIT 25mg Tablet 10's","composition":"Amitriptyline 25mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.16.50"}
+{"_id":{"$oid":"5b58473dd51d295fc824fa82"},"name":"TALO S 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Others","price":"Rs.124.70"}
+{"_id":{"$oid":"5b58473fd51d295fc824fa83"},"name":"TALO S 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Others","price":"Rs.78.00"}
+{"_id":{"$oid":"5b584741d51d295fc824fa84"},"name":"TALO S 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"Others","price":"Rs.43.70"}
+{"_id":{"$oid":"5b584743d51d295fc824fa85"},"name":"TALOPREX 5mg Tablet 10's","composition":"ESCITALOPRAM 5MG","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.46.48"}
+{"_id":{"$oid":"5b584745d51d295fc824fa86"},"name":"TALOZ 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Primus Remedies Pvt Ltd","price":"Rs.65.00"}
+{"_id":{"$oid":"5b584747d51d295fc824fa87"},"name":"TALOZ 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Primus Remedies Pvt Ltd","price":"Rs.123.50"}
+{"_id":{"$oid":"5b584749d51d295fc824fa88"},"name":"THEOXETIN 40MG TABLET 10'S","composition":"FLUOXETINE 40MG","manufacturer":" NA ","price":"Rs.53.00"}
+{"_id":{"$oid":"5b58474bd51d295fc824fa89"},"name":"THEOXETIN TABLET 10'S","composition":"FLUOXETINE 20MG","manufacturer":" NA ","price":"Rs.40.00"}
+{"_id":{"$oid":"5b58474dd51d295fc824fa8a"},"name":"TOPDEP S 20mg Tablet 10's","composition":"Escitalopram 20mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.110.00"}
+{"_id":{"$oid":"5b58474fd51d295fc824fa8b"},"name":"TOPDEP S 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"Orchid Chemicals \u0026 Pharmaceuticals Ltd","price":"Rs.69.77"}
+{"_id":{"$oid":"5b584751d51d295fc824fa8c"},"name":"TRALIN 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.121.00"}
+{"_id":{"$oid":"5b584752d51d295fc824fa8d"},"name":"TRALIN 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.83.00"}
+{"_id":{"$oid":"5b584754d51d295fc824fa8e"},"name":"TRALIN 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.33.68"}
+{"_id":{"$oid":"5b584756d51d295fc824fa8f"},"name":"TRILITH SR 450mg Tablet 10's","composition":"Lithium Carbonate 450mg (SR)","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.53.90"}
+{"_id":{"$oid":"5b584758d51d295fc824fa90"},"name":"TRIMA 300mg Tablet 10's","composition":"Moclobemide 300mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.77.94"}
+{"_id":{"$oid":"5b58475ad51d295fc824fa91"},"name":"TRIPTAZ 75mg Tablet 10's","composition":"Amitriptyline 75mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.57.01"}
+{"_id":{"$oid":"5b58475cd51d295fc824fa92"},"name":"TRIPTAZ 25mg Tablet 10's","composition":"Amitriptyline 25mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.22.96"}
+{"_id":{"$oid":"5b58475ed51d295fc824fa93"},"name":"TRIPTAZ 10mg Tablet 10's","composition":"Amitriptyline 10mg","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.23.30"}
+{"_id":{"$oid":"5b584760d51d295fc824fa94"},"name":"TRIZAC CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.68.01"}
+{"_id":{"$oid":"5b584762d51d295fc824fa95"},"name":"TRUZAP 10/0.25mg Tablet 10's","composition":"Escitalopram 10mg+Clonazepam 0.25mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b584763d51d295fc824fa96"},"name":"TRUZAP 5/0.25mg Tablet 10's","composition":"Escitalopram 5mg+Clonazepam 0.25mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.43.35"}
+{"_id":{"$oid":"5b584766d51d295fc824fa97"},"name":"TRYPTOMER 75mg Tablet 10's","composition":"Amitriptyline 75mg","manufacturer":"Wockhardt Ltd","price":"Rs.57.01"}
+{"_id":{"$oid":"5b584768d51d295fc824fa98"},"name":"TRYPTOMER 10mg Tablet 30's","composition":"Amitriptyline 10mg","manufacturer":"Wockhardt Ltd","price":"Rs.69.89"}
+{"_id":{"$oid":"5b584769d51d295fc824fa99"},"name":"TRYPTOMER G 100mg Tablet 10's","composition":"Amitriptyline Hydrochloride 10mg+Gabapentin 100mg","manufacturer":"Wockhardt Ltd","price":"Rs.90.00"}
+{"_id":{"$oid":"5b58476bd51d295fc824fa9a"},"name":"TRYPTOMER 50mg Tablet 15's","composition":"Amitriptyline 50mg","manufacturer":"Wockhardt Ltd","price":"Rs.88.54"}
+{"_id":{"$oid":"5b58476dd51d295fc824fa9b"},"name":"TRYPTOMER 10MG TABLET 15'S","composition":"AMITRIPTYLINE 10MG","manufacturer":"Wockhardt Ltd","price":"Rs.33.55"}
+{"_id":{"$oid":"5b58476fd51d295fc824fa9c"},"name":"TRYPTOMER 25mg Tablet 30's","composition":"Amitriptyline 25mg","manufacturer":"Wockhardt Ltd","price":"Rs.68.88"}
+{"_id":{"$oid":"5b584771d51d295fc824fa9d"},"name":"TRYPTOMER G 300mg Tablet 10's","composition":"Amitriptyline Hydrochloride 10mg+Gabapentin 300mg","manufacturer":"Wockhardt Ltd","price":"Rs.204.50"}
+{"_id":{"$oid":"5b584773d51d295fc824fa9e"},"name":"TRYPTOMER 25mg Tablet 10's","composition":"Amitriptyline 25mg","manufacturer":"Wockhardt Ltd","price":"Rs.22.26"}
+{"_id":{"$oid":"5b584775d51d295fc824fa9f"},"name":"TRYPTOMER 25MG TABLET 15'S","composition":"AMITRIPTYLINE 25MG","manufacturer":"Wockhardt Ltd","price":"Rs.35.91"}
+{"_id":{"$oid":"5b584777d51d295fc824faa0"},"name":"TYNEPT Tablet 10's","composition":"Tianeptine 12.5mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.87.00"}
+{"_id":{"$oid":"5b584779d51d295fc824faa1"},"name":"TYNEPT OD Tablet 10's","composition":"Tianeptine 37.5mg (OD)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.258.00"}
+{"_id":{"$oid":"5b58477bd51d295fc824faa2"},"name":"UNIDEX 50mg Tablet 10's","composition":"Desvenlafaxine 50mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.101.00"}
+{"_id":{"$oid":"5b58477dd51d295fc824faa3"},"name":"UNIDEX 100mg Tablet 10's","composition":"Desvenlafaxine 100mg","manufacturer":"Unichem Laboratories Ltd","price":"Rs.140.00"}
+{"_id":{"$oid":"5b584780d51d295fc824faa4"},"name":"USER 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.37.00"}
+{"_id":{"$oid":"5b584782d51d295fc824faa5"},"name":"USER 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"Triton Health Care Pvt Ltd","price":"Rs.41.78"}
+{"_id":{"$oid":"5b584784d51d295fc824faa6"},"name":"UVOX 100mg Tablet 10's","composition":"Fluvoxamine 100mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.310.00"}
+{"_id":{"$oid":"5b584785d51d295fc824faa7"},"name":"UVOX 50mg Tablet 10's","composition":"Fluvoxamine 50mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.195.62"}
+{"_id":{"$oid":"5b584786d51d295fc824faa8"},"name":"UVOX CR 100MG TABLET 10'S","composition":"FLUVOXAMINE 100MG","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.310.00"}
+{"_id":{"$oid":"5b584788d51d295fc824faa9"},"name":"VENDEP D 100mg Tablet 10's","composition":"DESVENLAFAXINE 100MG","manufacturer":"Others","price":"Rs.155.00"}
+{"_id":{"$oid":"5b58478ad51d295fc824faaa"},"name":"VENIZ XR 37.5mg Capsule 10's","composition":"Venlafaxine 37.5mg (XR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.46.00"}
+{"_id":{"$oid":"5b58478cd51d295fc824faab"},"name":"VENIZ XR 75mg Capsule 10's","composition":"Venlafaxine 75mg (XR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.81.00"}
+{"_id":{"$oid":"5b58478ed51d295fc824faac"},"name":"VENIZ XR 150mg Capsule 10's","composition":"Venlafaxine 150mg (XR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.135.00"}
+{"_id":{"$oid":"5b58478fd51d295fc824faad"},"name":"VENLA XR 37.5mg Capsule 10's","composition":"Venlafaxine 37.5mg (XR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.36.00"}
+{"_id":{"$oid":"5b584791d51d295fc824faae"},"name":"VENLA XR 150mg Capsule 10's","composition":"Venlafaxine 150mg (XR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.128.50"}
+{"_id":{"$oid":"5b584793d51d295fc824faaf"},"name":"VENLA XR 75mg Capsule 10's","composition":"Venlafaxine 75mg (XR)","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.72.00"}
+{"_id":{"$oid":"5b584796d51d295fc824fab0"},"name":"VENLIFT OD 150mg Capsule 10's","composition":"Venlafaxine 150mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.147.20"}
+{"_id":{"$oid":"5b584797d51d295fc824fab1"},"name":"VENLIFT OD 37.5mg Capsule 10's","composition":"Venlafaxine 37.5mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.38.00"}
+{"_id":{"$oid":"5b584799d51d295fc824fab2"},"name":"VENLIFT OD 75mg Capsule 10's","composition":"Venlafaxine 75mg (OD)","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.75.00"}
+{"_id":{"$oid":"5b58479bd51d295fc824fab3"},"name":"VENLITE OD 100mg Tablet 10's","composition":"Desvenlafaxine 100mg (OD)","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.186.00"}
+{"_id":{"$oid":"5b58479dd51d295fc824fab4"},"name":"VENLITE OD 50mg Tablet 10's","composition":"Desvenlafaxine 50mg (OD)","manufacturer":"Linux Laboratories Pvt Ltd","price":"Rs.92.00"}
+{"_id":{"$oid":"5b58479fd51d295fc824fab5"},"name":"VENLOR XR 150mg Capsule 10's","composition":"Venlafaxine 150mg (XR)","manufacturer":"Cipla Ltd","price":"Rs.164.45"}
+{"_id":{"$oid":"5b5847a3d51d295fc824fab6"},"name":"VENLOR 150mg Capsule 10's","composition":"Venlafaxine 150mg","manufacturer":"Cipla Ltd","price":"Rs.149.50"}
+{"_id":{"$oid":"5b5847a5d51d295fc824fab7"},"name":"VENLOR 25mg Tablet 10's","composition":"Venlafaxine 25mg","manufacturer":"Cipla Ltd","price":"Rs.12.82"}
+{"_id":{"$oid":"5b5847a7d51d295fc824fab8"},"name":"D VENLOR 50mg Tablet 10's","composition":"Desvenlafaxine 50mg","manufacturer":"Cipla Ltd","price":"Rs.84.00"}
+{"_id":{"$oid":"5b5847a9d51d295fc824fab9"},"name":"VENLOR XR 75mg Capsule 10's","composition":"Venlafaxine 75mg (XR)","manufacturer":"Cipla Ltd","price":"Rs.76.00"}
+{"_id":{"$oid":"5b5847abd51d295fc824faba"},"name":"VENLOR XR 37.5mg Capsule 10's","composition":"Venlafaxine 37.5mg (XR)","manufacturer":"Cipla Ltd","price":"Rs.41.00"}
+{"_id":{"$oid":"5b5847add51d295fc824fabb"},"name":"VENPOWER 200mg Tablet 10's","composition":"Desvenlafaxine 200mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.81.18"}
+{"_id":{"$oid":"5b5847afd51d295fc824fabc"},"name":"VENPOWER 100MG TABLET 10'S","composition":"DESVENLAFAXINE 100MG","manufacturer":"Ipca Laboratories Ltd","price":"Rs.165.00"}
+{"_id":{"$oid":"5b5847b1d51d295fc824fabd"},"name":"VENPOWER 50mg Tablet 10's","composition":"Desvenlafaxine 50mg","manufacturer":"IPCA LABORATORIES LTD","price":"Rs.111.00"}
+{"_id":{"$oid":"5b5847b3d51d295fc824fabe"},"name":"VENTAB XL 37.5mg Tablet 10's","composition":"Venlafaxine 37.5mg (XL)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.46.00"}
+{"_id":{"$oid":"5b5847b5d51d295fc824fabf"},"name":"VENTAB DXT 50mg Tablet 10's","composition":"Desvenlafaxine 50mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.121.00"}
+{"_id":{"$oid":"5b5847b7d51d295fc824fac0"},"name":"VENTAB XL 75mg Tablet 10's","composition":"Venlafaxine 75mg (XL)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.83.00"}
+{"_id":{"$oid":"5b5847b8d51d295fc824fac1"},"name":"VENTAB DXT 25mg Tablet 10's","composition":"Desvenlafaxine 25mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.62.00"}
+{"_id":{"$oid":"5b5847bcd51d295fc824fac2"},"name":"VENTAB DXT 100mg Tablet 10's","composition":"Desvenlafaxine 100mg","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.228.00"}
+{"_id":{"$oid":"5b5847bed51d295fc824fac3"},"name":"VENTAB XL 150mg Tablet 10's","composition":"Venlafaxine 150mg (XL)","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.142.00"}
+{"_id":{"$oid":"5b5847c0d51d295fc824fac4"},"name":"VENZ OD 100mg Tablet 10's","composition":"Desvenlafaxine 100mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.129.00"}
+{"_id":{"$oid":"5b5847c3d51d295fc824fac5"},"name":"VENZ OD 50mg Tablet 10's","composition":"Desvenlafaxine 50mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.79.00"}
+{"_id":{"$oid":"5b5847c4d51d295fc824fac6"},"name":"VERSIDEP NF Tablet 10's","composition":"ESCITALOPRAM +FLUPENTHIXOL ","manufacturer":"Micro Labs Ltd","price":"Rs.82.00"}
+{"_id":{"$oid":"5b5847c7d51d295fc824fac7"},"name":"VETODEP 40MG CAPSULE 10'S","composition":"FLUOXETINE 40MG","manufacturer":"Kivi Labs Ltd","price":"Rs.55.02"}
+{"_id":{"$oid":"5b5847c8d51d295fc824fac8"},"name":"VETODEP CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Kivi Labs Ltd","price":"Rs.37.07"}
+{"_id":{"$oid":"5b5847cbd51d295fc824fac9"},"name":"VETODEP 60MG CAPSULE 10'S","composition":"FLUOXETINE 60MG","manufacturer":"Kivi Labs Ltd","price":"Rs.75.03"}
+{"_id":{"$oid":"5b5847cdd51d295fc824faca"},"name":"VISERT 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"Kivi Labs Ltd","price":"Rs.32.50"}
+{"_id":{"$oid":"5b5847cfd51d295fc824facb"},"name":"VISERT 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Kivi Labs Ltd","price":"Rs.51.50"}
+{"_id":{"$oid":"5b5847d3d51d295fc824facc"},"name":"VOXADAY 100MG TABLET 10'S","composition":"FLUVOXAMINE 100MG","manufacturer":" NA ","price":"Rs.186.66"}
+{"_id":{"$oid":"5b5847d5d51d295fc824facd"},"name":"VOXADAY 50mg Tablet 10's","composition":"Fluvoxamine 50mg","manufacturer":"Others","price":"Rs.107.61"}
+{"_id":{"$oid":"5b5847d7d51d295fc824face"},"name":"VOXAMIN 50mg Tablet 10's","composition":"Fluvoxamine 50mg","manufacturer":"Micro Labs Ltd","price":"Rs.150.00"}
+{"_id":{"$oid":"5b5847d9d51d295fc824facf"},"name":"VOXIDEP 25mg Tablet 10's","composition":"Fluvoxamine 25mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.84.00"}
+{"_id":{"$oid":"5b5847dbd51d295fc824fad0"},"name":"VOXIDEP 100mg Tablet 10's","composition":"Fluvoxamine 100mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.240.00"}
+{"_id":{"$oid":"5b5847ded51d295fc824fad1"},"name":"VOXIDEP 50mg Tablet 10's","composition":"Fluvoxamine 50mg","manufacturer":"ICON LIFE SCIENCES","price":"Rs.147.00"}
+{"_id":{"$oid":"5b5847dfd51d295fc824fad2"},"name":"VOXINIX 100mg Tablet 10's","composition":"Fluvoxamine 100mg","manufacturer":"Arinna Lifesciences Pvt Ltd","price":"Rs.224.00"}
+{"_id":{"$oid":"5b5847e2d51d295fc824fad3"},"name":"XELDIN 20mg Tablet 10's","composition":"DULOXETINE 20MG","manufacturer":"Primus Remedies Pvt Ltd","price":"Rs.60.00"}
+{"_id":{"$oid":"5b5847e4d51d295fc824fad4"},"name":"XET 10mg Tablet 10's","composition":"Paroxetine 10mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.134.40"}
+{"_id":{"$oid":"5b5847e6d51d295fc824fad5"},"name":"XET CR 25mg Tablet 10's","composition":"Paroxetine 25mg (CR)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.203.10"}
+{"_id":{"$oid":"5b5847e8d51d295fc824fad6"},"name":"XET 20mg Tablet 10's","composition":"Paroxetine 20mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.174.00"}
+{"_id":{"$oid":"5b5847ead51d295fc824fad7"},"name":"XET Tablet 10's","composition":"Paroxetine ","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.253.45"}
+{"_id":{"$oid":"5b5847ecd51d295fc824fad8"},"name":"XET 40mg Tablet 10's","composition":"Paroxetine 40mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.295.00"}
+{"_id":{"$oid":"5b5847eed51d295fc824fad9"},"name":"XET 30mg Tablet 10's","composition":"Paroxetine 30mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.176.57"}
+{"_id":{"$oid":"5b5847f0d51d295fc824fada"},"name":"XET CR 37.5mg Tablet 10's","composition":"Paroxetine 37.5mg (CR)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.257.40"}
+{"_id":{"$oid":"5b5847f2d51d295fc824fadb"},"name":"XET CR 12.5mg Tablet 10's","composition":"Paroxetine 12.5mg (CR)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.150.60"}
+{"_id":{"$oid":"5b5847f4d51d295fc824fadc"},"name":"XET CR PLUS 12.5mg Capsule 10's","composition":"Paroxetine 12.5+Clonazepam 0.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.144.50"}
+{"_id":{"$oid":"5b5847f6d51d295fc824fadd"},"name":"YELLOWPAM 5mg Tablet 10's","composition":"Escitalopram 5mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.46.30"}
+{"_id":{"$oid":"5b5847f8d51d295fc824fade"},"name":"YELLOWPAM 10mg Tablet 10's","composition":"Escitalopram 10mg","manufacturer":"K C Laboratories Pvt Ltd","price":"Rs.85.00"}
+{"_id":{"$oid":"5b5847fcd51d295fc824fadf"},"name":"ZEDEP CAPSULE 10'S","composition":"FLUOXETINE 20MG","manufacturer":"Tasmed India (P) Limited","price":"Rs.36.00"}
+{"_id":{"$oid":"5b5847fed51d295fc824fae0"},"name":"ZERT OD 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.69.00"}
+{"_id":{"$oid":"5b584800d51d295fc824fae1"},"name":"ZERT OD 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Rpg Life Science Ltd","price":"Rs.46.55"}
+{"_id":{"$oid":"5b584804d51d295fc824fae2"},"name":"ZETALO 40mg Tablet 10's","composition":"Citalopram 40mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b584806d51d295fc824fae3"},"name":"ZETALO 10mg Tablet 10's","composition":"Citalopram 10mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.64.76"}
+{"_id":{"$oid":"5b584808d51d295fc824fae4"},"name":"ZETALO 20mg Tablet 10's","composition":"Citalopram 20mg","manufacturer":"Abbott Health Care Pvt Ltd","price":"Rs.55.00"}
+{"_id":{"$oid":"5b58480ad51d295fc824fae5"},"name":"ZOLINE 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Optho Remedies Pvt Ltd","price":"Rs.54.20"}
+{"_id":{"$oid":"5b58480dd51d295fc824fae6"},"name":"ZONADEP 50mg Tablet 10's","composition":"Clomipramine 50mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.59.00"}
+{"_id":{"$oid":"5b58480ed51d295fc824fae7"},"name":"ZONADEP 75mg Tablet 10's","composition":"Clomipramine 75mg","manufacturer":"Mankind Pharma Pvt Ltd","price":"Rs.95.00"}
+{"_id":{"$oid":"5b584810d51d295fc824fae8"},"name":"ZOSERT 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.125.00"}
+{"_id":{"$oid":"5b584813d51d295fc824fae9"},"name":"ZOSERT 25mg Tablet 10's","composition":"Sertraline 25mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.53.00"}
+{"_id":{"$oid":"5b584815d51d295fc824faea"},"name":"ZOSERT 50mg Tablet 10's","composition":"Sertraline 50mg","manufacturer":"Sun Pharmaceutical Industries Ltd","price":"Rs.87.00"}
+{"_id":{"$oid":"5b584817d51d295fc824faeb"},"name":"ZOTRAL 100mg Tablet 10's","composition":"Sertraline 100mg","manufacturer":"Micro Labs Ltd","price":"Rs.105.00"}
+{"_id":{"$oid":"5b58481ad51d295fc824faec"},"name":"ZOTRAL 25MG TABLET 10'S","composition":"SERTRALINE 25MG","manufacturer":"Micro Labs Ltd","price":"Rs.15.00"}
+{"_id":{"$oid":"5b58481cd51d295fc824faed"},"name":"ZUPION SR Tablet 10's","composition":"Bupropion","manufacturer":"Intas Pharmaceuticals Ltd","price":"Rs.97.00"}
+{"_id":{"$oid":"5b58481ed51d295fc824faee"},"name":"ZYBAN 150mg Tablet 10's","composition":"Bupropion 150mg","manufacturer":"Glaxosmithkline Pharmaceuticals Ltd","price":"Rs.400.00"}
+{"_id":{"$oid":"5b58481fd51d295fc824faef"},"name":"ZYVEN 25mg Tablet 10's","composition":"Desvenlafaxine 25mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.42.00"}
+{"_id":{"$oid":"5b584822d51d295fc824faf0"},"name":"ZYVEN OD 100mg Tablet 10's","composition":"Desvenlafaxine 100mg (OD)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.220.50"}
+{"_id":{"$oid":"5b584824d51d295fc824faf1"},"name":"ZYVEN OD 50mg Tablet 10's","composition":"Desvenlafaxine 50mg (OD)","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.105.40"}

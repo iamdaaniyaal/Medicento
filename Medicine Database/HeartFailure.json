@@ -1,0 +1,16 @@
+{"_id":{"$oid":"5b584b55d51d29613ad6e69c"},"name":"AUTOHALER Inhaler 200mdI","composition":"Isoprenaline 400mcg","manufacturer":"Cipla Ltd","price":"Rs.762.62"}
+{"_id":{"$oid":"5b584b57d51d29613ad6e69d"},"name":"CARDIFORCE 250mg Injection","composition":"Dobutamine 250mg","manufacturer":"Torrent Pharmaceuticals Ltd","price":"Rs.392.70"}
+{"_id":{"$oid":"5b584b5bd51d29613ad6e69e"},"name":"DOBUSOL 250mg Injection","composition":"Dobutamine 250mg","manufacturer":"United Biotech Pvt Ltd","price":"Rs.313.60"}
+{"_id":{"$oid":"5b584b5dd51d29613ad6e69f"},"name":"DOBUTREX 250mg Injection","composition":"Dobutamine 250mg","manufacturer":"Abbott Health Care Solutions Pvt Ltd","price":"Rs.368.73"}
+{"_id":{"$oid":"5b584b5fd51d29613ad6e6a0"},"name":"DOMIN 40mg Injection 5ml","composition":"Dopamine 40mg","manufacturer":"Neon Laboratories Ltd","price":"Rs.26.80"}
+{"_id":{"$oid":"5b584b61d51d29613ad6e6a1"},"name":"DOPAMINE (TTK) Injection 2x5x5ml","composition":"Dopamine 200mg","manufacturer":"Ttk Healthcare Ltd","price":"Rs.268.70"}
+{"_id":{"$oid":"5b584b63d51d29613ad6e6a2"},"name":"DOPAR 200mg Injection 5ml","composition":"Dopamine 200mg","manufacturer":"Samarth Pharma Pvt Ltd","price":"Rs.26.35"}
+{"_id":{"$oid":"5b584b65d51d29613ad6e6a3"},"name":"DOPRESS 200mg Injection 5ml","composition":"DOPAMINE 200MG","manufacturer":"United Biotech Pvt Ltd","price":"Rs.149.75"}
+{"_id":{"$oid":"5b584b67d51d29613ad6e6a4"},"name":"DOTAMIN 50mg Injection 5ml","composition":"DOBUTAMINE","manufacturer":"Neon Laboratories Ltd","price":"Rs.287.00"}
+{"_id":{"$oid":"5b584b69d51d29613ad6e6a5"},"name":"HYPONAT 20mg Injection 4ml","composition":"Conivaptan 20mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.1,500.00"}
+{"_id":{"$oid":"5b584b6bd51d29613ad6e6a6"},"name":"IBTOL 15mg Tablet 10's","composition":"TOLVAPTAN 15MG","manufacturer":"INDIABULLS PHARMACEUTICALS LTD","price":"Rs.382.00"}
+{"_id":{"$oid":"5b584b6dd51d29613ad6e6a7"},"name":"LIMANDAN 12.5mg Injection 1ml","composition":"Levosimendan 12.5mg","manufacturer":"Cadila Healthcare Ltd (Zydus)","price":"Rs.399.00"}
+{"_id":{"$oid":"5b584b6fd51d29613ad6e6a8"},"name":"SHIOKEM 15mg Tablet 4'S","composition":"Tolvaptan 15mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.440.00"}
+{"_id":{"$oid":"5b584b71d51d29613ad6e6a9"},"name":"SHIOKEM 30mg Tablet 4'S","composition":"Tolvaptan 30mg","manufacturer":"Alkem Laboratories Ltd","price":"Rs.769.70"}
+{"_id":{"$oid":"5b584b73d51d29613ad6e6aa"},"name":"SIMENDA 12.5mg Injection","composition":"Levosimendan 12.5mg","manufacturer":"Lupin Ltd","price":"Rs.515.60"}
+{"_id":{"$oid":"5b584b75d51d29613ad6e6ab"},"name":"TOLVAMAC 30mg Tablet 4'S","composition":"Tolvaptan 30mg","manufacturer":"Macleods Pharmaceuticals Pvt Ltd","price":"Rs.756.00"}
